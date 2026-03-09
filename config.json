@@ -1,8 +1,8 @@
 {
   "themes": ["themes/community-calendar.json"],
   "appGlobals": {
-    "supabaseUrl": "https://dzpdualvwspgqghrysyz.supabase.co",
-    "supabasePublishableKey": "sb_publishable_NnzobdoFNU39fjs84UNq8Q_X45oiMG5",
+    "supabaseUrl": "https://zbhabqppwkdilvwvfmam.supabase.co",
+    "supabasePublishableKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpiaGFicXBwd2tkaWx2d3ZmbWFtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzMwOTY2MTcsImV4cCI6MjA4ODY3MjYxN30.U_BK8sSK_z_x7wa8km0hZDx0lNjVadGG4z_WXkJHTMU",
     "xsVerbose": true,
     "xsVerboseLogMax": 200
   },
