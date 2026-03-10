@@ -1,0 +1,2466 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Community Calendar//Combined Feed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lancaster Community Calendar
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/village-homes-a-radical-plan/2026-03-09/"}
+X-SOURCE-ID:thedirt
+X-SOURCE:The Dirt
+DTSTART;TZID=America/Los_Angeles:20260309T120000
+DTEND;TZID=America/Los_Angeles:20260309T160000
+DTSTAMP:20260309T170006
+CREATED:20251210T225628Z
+LAST-MODIFIED:20251210T225628Z
+UID:10069366-1773057600-1773072000@thedirt.online
+SUMMARY:Village Homes: A Radical Plan
+DESCRIPTION:“Village Homes: A Radical Plan” celebrates the 50th anniversary of an innovative west Davis neighborhood community. Curated by Professor Timothy McNeil and guest curator Adrienne McGraw\, the installation showcases the vision\, concepts\, and development behind the project and its goals. This ground-breaking exhibition will feature original objects\, archival photographs\, plans and drawings\, a part-built section of a typical 1970s house in Village Homes recreating a living space and demonstrating the passive solar features\, and an interactive three-dimensional site plan of the neighborhood’s unique landscape. Other highlights include a 30-minute documentary film about the community.
+URL:https://thedirt.online/event/village-homes-a-radical-plan/2026-03-09/
+LOCATION:UC Davis Design Museum\, Cruess Hall\, #124\, Davis\, 95616\, United States
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2025/12/Aerial-view-of-Village-Homes-late-1970s-phot-from-Judy-Corbett-Archive-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/align-flow-yoga/2026-03-09/"}
+X-SOURCE-ID:thedirt
+X-SOURCE:The Dirt
+DTSTART;TZID=America/Los_Angeles:20260309T173000
+DTEND;TZID=America/Los_Angeles:20260309T190000
+DTSTAMP:20260309T170006
+CREATED:20240826T195848Z
+LAST-MODIFIED:20260104T181804Z
+UID:10071324-1773077400-1773082800@thedirt.online
+SUMMARY:Align & Flow Yoga
+DESCRIPTION:All classes begin with a meditation and invite mindful movement through attention to breath and physical alignment. In a vinyasa class\, we link postures together and move with the breath on the inhale\, or the exhale. A typical class involves strength and stability work balanced by flexibility and relaxation. Each class finishes with a reclining rest. \n  \ndavisyogacollective.com
+URL:https://thedirt.online/event/align-flow-yoga/2026-03-09/
+LOCATION:Davis Shambhala Meditation Center\, 133 D Street\, Suite H\, upstairs\, Davis\, CA\, 95616\, United States
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/313060111/"}
+X-SOURCE-ID:meetup_mindful_embodied_spirituality
+X-SOURCE:Meetup Mindful Embodied Spirituality
+UID:event_313060111@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000004Z
+DTSTART;TZID=America/Los_Angeles:20260309T180000
+DTEND;TZID=America/Los_Angeles:20260309T200000
+SUMMARY:Conscious Conversations & Embodied Listening  
+DESCRIPTION:Iama Embodied Community\nThis is a spiritual community that ho
+ nors the body’s wisdom and lived experience. Whether you’re healing fr
+ om religious trauma\, deconstructing beliefs\, exploring spirituality\, or
+  just want to be with other conscious persons\, this space is for you.\n\n
+ Expect conscious conversations\, meditation\, breathwork\, sound healing\,
+  and other somatic practices to help reconnect with ourselves and each oth
+ er.\n\nwe share a potluck dinner every last Monday of the month.\n\n📅 *
+ *Date & Time**: Mondays 6-8 PM\n📍 **Location**: 727 T St. Sacramento\, 
+ Ca\, 95811\n💜 **All our events are free\, donations supported.**\n✨ *
+ *No prior experience or spiritual beliefs necessary.**\n📩 **RSVP/ Quest
+ ions? Reach out at** embody.iama@gmail.com\n🔗 **Follow us on Instagram:
+ ** [@embody.iama](https://www.instagram.com/embody.iama)\n\nPS: we meet in
+  the social hall of Parkview Presbyterian Church. Please find us through t
+ he back entrance\, the brown gate on Solons alley. You may park in the bac
+ k\, move the orange post to park and please return it when you leave.
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ 313060111/
+STATUS:CONFIRMED
+CREATED:20260126T055141Z
+LAST-MODIFIED:20260126T055141Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/studio-ensembles-2/"}
+X-SOURCE-ID:thedirt
+X-SOURCE:The Dirt
+DTSTART;TZID=America/Los_Angeles:20260309T180000
+DTEND;TZID=America/Los_Angeles:20260309T184500
+DTSTAMP:20260309T170006
+CREATED:20260117T195158Z
+LAST-MODIFIED:20260224T235826Z
+UID:10072138-1773079200-1773081900@thedirt.online
+SUMMARY:Studio Ensembles
+DESCRIPTION:Program \nPercussion Ensemble\nHarp Ensemble\nFlute Ensemble\nSaxophone Ensemble
+URL:https://thedirt.online/event/studio-ensembles-2/
+LOCATION:Recital Hall\, Ann E. Pitzer Center\, Hutchison Dr. & Cushing Way\, Davis\, CA\, 95616\, United States
+CATEGORIES:Music
+GEO:38.539914;-121.7465126
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Recital Hall Ann E. Pitzer Center Hutchison Dr. & Cushing Way Davis CA 95616 United States;X-APPLE-RADIUS=500;X-TITLE=Hutchison Dr. & Cushing Way:geo:-121.7465126,38.539914
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/davis-makerspace-clothing-repair-cafe-6-2-2-2-2-2/2026-03-09/"}
+X-SOURCE-ID:thedirt
+X-SOURCE:The Dirt
+DTSTART;TZID=America/Los_Angeles:20260309T180000
+DTEND;TZID=America/Los_Angeles:20260309T200000
+DTSTAMP:20260309T170006
+CREATED:20260125T025946Z
+LAST-MODIFIED:20260125T025947Z
+UID:10049464-1773079200-1773086400@thedirt.online
+SUMMARY:Davis Makerspace & Clothing Repair Cafe
+DESCRIPTION:Davis Makerspace is a community workspace for makers and builders\, designers and inventors. A small assortment of tools will be available for use and staff or volunteers will be on hand to provide some assistance. Supervised children are welcome. Participants must provide a signed liability waiver (available on site). Mondays & Tuesdays\, 6p—8p; Thursdays\, 9:30a—11:30a; Fridays\, 3p—5p.
+URL:https://thedirt.online/event/davis-makerspace-clothing-repair-cafe-6-2-2-2-2-2/2026-03-09/
+LOCATION:Mary L. Stephens Davis Branch Library\, 315 East 14th Street\, Davis\, CA\, 95616\, United States
+GEO:40.7321931;-73.9841278
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Mary L. Stephens Davis Branch Library 315 East 14th Street Davis CA 95616 United States;X-APPLE-RADIUS=500;X-TITLE=315 East 14th Street:geo:-73.9841278,40.7321931
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-ID:gcal_davisbikeclubwww
+X-SOURCE:Gcal Davisbikeclubwww
+DTSTART:20260310T020000Z
+DTEND:20260310T033000Z
+DTSTAMP:20260310T000011Z
+UID:3bd2punv6m79t4cpv91t7te6hl@google.com
+CREATED:20260308T023354Z
+LAST-MODIFIED:20260308T023354Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CANCELLED: DBC Member Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-ID:gcal_davisbikeclubwww
+X-SOURCE:Gcal Davisbikeclubwww
+DTSTART;TZID=America/Los_Angeles:20260310T110000
+DTEND;TZID=America/Los_Angeles:20260310T140000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20260527T065959Z;BYDAY=TU
+DTSTAMP:20260310T000011Z
+UID:0jsciuhmgtr2gsj77mm6i2pilo@google.com
+CREATED:20260303T230220Z
+DESCRIPTION:Meet in front of the Davis  Vets center on 14th st at 11:00am o
+ n Tuesdays.\nWe will decide where to go for lunch based on the input from r
+ iders.   \nWoodland\, Winters and Dixon are the usual destinations.   The p
+ ace is pretty relaxed\, usually 14-15 mph\, with  occasional regroups. \n\n
+ \nThanks\, David Joshel\nPhone 530-400-3288
+LAST-MODIFIED:20260303T230350Z
+LOCATION:City of Davis: Veterans Memorial Center\, 203 E 14th St\, Davis\, 
+ CA 95616\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Taco Tuesday Ride
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/313439628/"}
+X-SOURCE-ID:meetup_yolo_county_board_game_gathering
+X-SOURCE:Meetup Yolo County Board Game Gathering
+UID:event_313439628@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000003Z
+DTSTART;TZID=America/Los_Angeles:20260311T170000
+DTEND;TZID=America/Los_Angeles:20260311T210000
+SUMMARY:Weekly Game Night at Blue Note
+DESCRIPTION:Yolo County Board Game Gathering\nUpdate 8/14/25:\n**We're sti
+ ll active**\, but we primarily use Discord to chat and plan events. (See g
+ roup description for invite link.)\n\nWe still meet every Wednesday for bo
+ ard games at Blue Note Brewing Company. We'll have a handful of tables res
+ erved near the back\; just look for the pile of board games.\n\nPeople usu
+ ally start arriving around 5pm\, and games start whenever people are ready
+ . Blue Note closes at 9pm\, and although we have a 5-10 minute grace perio
+ d there\, you should be in the process of final scoring by 9\, or else pac
+ k it up and play again another day.\n\nGame night is open to all ages! Blu
+ e Note is a brewery\, not a bar\, so there's no restriction against minors
+ . In addition to their crafted-in-house beer selection\, water and sodas a
+ re available.\n\nYou're not required to buy anything in order to join us\,
+  but we do encourage you to support local businesses. Blue Note's chef tea
+ m makes a mean pizza\, and there are other nearby downtown restaurants and
+  businesses.
+URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
+ ts/313439628/
+STATUS:CONFIRMED
+CREATED:20260220T021418Z
+LAST-MODIFIED:20260220T021418Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/suicide-prevention-in-the-workplace-trainings/2026-03-12/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20260312T090000
+DTEND;TZID=UTC:20260312T110000
+DTSTAMP:20260310T000010
+CREATED:20260227T194449Z
+LAST-MODIFIED:20260227T194449Z
+UID:10000312-1773306000-1773313200@hatefreetogether.org
+SUMMARY:Suicide Prevention in the Workplace Trainings
+DESCRIPTION:This free training is open to Yolo County staff\, provider staff and the community. Suicide Prevention in the Workplace is a 2 hour long training that includes videos\, group discussions/exercises and roleplays to create a better understanding of your role in suicide prevention.  \n  \nTo register for this free training\, e-mail your contact information to: MHSA-MHTrainings@yolocounty.org. Questions? Call 530-666-8710. \n  \nMore details on: https://www.yolocounty.gov/government/general-government-departments/health-human-services/mental-health/mental-health-services/prevention-early-intervention-trainings-mhsa
+URL:https://hatefreetogether.org/event/suicide-prevention-in-the-workplace-trainings/2026-03-12/
+LOCATION:CA
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Hero-Suicide-Prevention-e1772221173757.png
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/312794007/"}
+X-SOURCE-ID:meetup_mindful_embodied_spirituality
+X-SOURCE:Meetup Mindful Embodied Spirituality
+UID:event_312794007@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000004Z
+DTSTART;TZID=America/Los_Angeles:20260312T180000
+DTEND;TZID=America/Los_Angeles:20260312T191000
+SUMMARY:Free Yoga Practice
+DESCRIPTION:Iama Embodied Community\n🌀 **Move with intention. Connect w
+ ith your body. Celebrate community.**\n\nJoin us every **Thursday at 6 PM*
+ * for an embodied yoga practice designed to help you release tension\, gro
+ und yourself\, and cultivate presence. This is a trauma-informed\, all-lev
+ els class\, no prior yoga experience needed. Expect a Hatha-Vinyasa flow\,
+  breathwork\, and a space to listen to your body’s wisdom.\n\n🌿 **Eve
+ ry last Thursday of the month\, stay after class for a community potluck d
+ inner!**\n\n📍 **Location**: 727 T St. Sacramento CA 95811\n✨ **All ou
+ r events are free. Donations are welcome.**\n📩 **Questions? Reach out a
+ t** embody.iama@gmail.com\n🔗 **Follow us on Instagram:** [@embody.iama]
+ (https://www.instagram.com/embody.iama)
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ 312794007/
+STATUS:CONFIRMED
+CREATED:20260109T003508Z
+LAST-MODIFIED:20260109T003508Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Pence Adult Art Programs": "https://www.meetup.com/pence-adult-art-programs/events/313069204/"}
+X-SOURCE-ID:meetup_pence_adult_art_programs
+X-SOURCE:Meetup Pence Adult Art Programs
+UID:event_313069204@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000003Z
+DTSTART;TZID=America/Los_Angeles:20260313T100000
+DTEND;TZID=America/Los_Angeles:20260313T114500
+SUMMARY:Healing Arts 6-Session Workshop
+DESCRIPTION:Pence Adult Art Programs\nThe Pence’s 6-session Healing Arts
+  workshop uses art as a healing language for those experiencing grief from
+  the loss of a loved one. Through the process of art making\, participants
+  will have opportunities for discussion\, education\, and connecting with 
+ peers in a safe and supportive space in the Pence Learning Center under th
+ e guidance of facilitators Amy Vidra and Lyndsey Rocca.\n\nREGISTRATION ON
+ LINE IS REQUIRED IN ADVANCE through the Pence Gallery's website\, and spac
+ e is limited to the first 8 participants who register. Participants must b
+ e 18 or older\, and no art experience is necessary. This program is genero
+ usly sponsored by Bob & Joanne Andresen.\n\nHealing Arts 6-Session Worksho
+ p\nFridays\\\, 10\\-11:45 AM \\| Mar\\. 13\\\, 20\\\, 27 & Apr\\. 3\\\, 10
+ \\\, 17\n$25 Members\, $35 Non-Members (all materials included)\n\n**Remin
+ der - an RSVP on Meetup does NOT count as registration. Registration is re
+ quired in advance through the [Pence’s website](https://pencegallery.org
+ /education/programs/workshops-and-classes/).**\n\nPlease note that when re
+ gistering for this program\, you are signing up for all 6 sessions. If you
+  are unable to attend one or more of the sessions\, please let us know in 
+ advance.\n\nAny questions? Email pencegallery@gmail.com
+URL;VALUE=URI:https://www.meetup.com/pence-adult-art-programs/events/31306
+ 9204/
+STATUS:CONFIRMED
+CREATED:20260126T200432Z
+LAST-MODIFIED:20260126T200432Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-03-13/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260313T110000
+DTEND;TZID=America/Los_Angeles:20260313T180000
+DTSTAMP:20260309T170009
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013222-1773399600-1773424800@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-03-13/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/art-in-bloom/", "Visityolo Event": "https://visityolo.com/event/art-in-bloom/2026-03-13/"}
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/art-in-bloom/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis, Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260313T180000
+DTEND;TZID=America/Los_Angeles:20260313T210000
+DTSTAMP:20260309T170007
+CREATED:20260224T004247Z
+LAST-MODIFIED:20260309T234216Z
+UID:10002811-1773424800-1773435600@visitdavis.org
+SUMMARY:Art in Bloom
+DESCRIPTION:Art in Bloom \n  \nDates/times: March 13\, 6-9 PM\, March 14-15\, 11:30 AM – 5 PM  \nLocation: Pence Gallery\, 212 D Street\, Davis\, CA 95616 \nAdmission: Admission to the Pence is free; we welcome donations from visitors\, as they help us cover basic costs associated with running a nonprofit art gallery. \n  \nArt in Bloom is the first collaboration with members of the Davis Flower Arrangers and the Pence Gallery\, in which creative floral arrangements are paired with specific artworks on view at the Pence from March 13-15. On Friday\, March 13\, from 6-9 PM\, enjoy meeting many of the participating floral designers and see the arrangements as they are at their freshest\, as part of the city’s 2nd Friday ArtAbout reception. Visitors are welcome to enjoy a variety of arrangements that include traditional and unusual materials\, and a variety of beautiful containers. The connection between the artwork and floral design can include using similar colors\, themes\, textures\, or overall composition.  \n  \nParticipating floral designers include Janet Goehring\, Joyce Hamaguchi\, Elly Fairclough\, MJ Kelly\, Rhody Vallejo\, Elisabetta Vivoda\, Mike MacDonald\, Stephanie DeGraff-Hunt\, and Julie Haney. Each artist has chosen an artwork for inspiration\, and will create a vibrant interpretation of pieces by exhibiting artists Manuel Fernando Rios\, Barbara Prodaniuk\, and artists from Assorted Flavors\, our annual exhibit of artworks created by forty Pence members.  \n  \nFounded in 1958\, the Davis Flower Arrangers is a long-standing organization in Davis\, dedicated to studying and instructing floral design techniques\, including Ikebana. The group\, celebrating its 67th season in 2025-26\, promotes the public appreciation of floral art through workshops\, demonstrations\, and community events. For more information on the Davis Flower Arrangers\, contact President Stephanie DeGraff-Hunt at sdegraffhunt@gmail.com.  \n  \nImage: Davis Flower Arrangement (past event)
+URL:https://visitdavis.org/event/art-in-bloom/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Art-in-Bloom-copy-gNSDRa.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/2nd-friday-artabout-at-the-pence-gallery-12/", "Visityolo Event": "https://visityolo.com/event/2nd-friday-artabout-at-the-pence-gallery-14/"}
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/2nd-friday-artabout-at-the-pence-gallery-12/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis, Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260313T180000
+DTEND;TZID=America/Los_Angeles:20260313T210000
+DTSTAMP:20260309T170007
+CREATED:20260224T004249Z
+LAST-MODIFIED:20260309T234216Z
+UID:10002812-1773424800-1773435600@visitdavis.org
+SUMMARY:2nd Friday ArtAbout at the Pence Gallery
+DESCRIPTION:Join us at the Pence Gallery for our 2nd Friday ArtAbout reception on March 13\, 6-9 PM in Davis. Enjoy browsing multiple art exhibits\, complimentary wine by Matchbook Wines\, and an art-themed scavenger hunt. Also\, view special floral arrangements within the exhibits by the Davis Flower Arrangers. Free admission! \n  \nManuel Fernando Rios: When They Reminisce Over You | Feb. 7 – Mar. 29 \nThe artist’s work explores his Chicano heritage\, as well as his family’s history and experiences. Blurring the line between naturalism and abstraction\, he embraces the use of complex design patterns and photography to make a powerful statement.  \n  \nAssorted Flavors: Pence Member Exhibit | Mar. 13 – Apr. 16 \nOur 2nd annual non-juried exhibit celebrates the creativity and talent of our organization’s supporters\, showcasing work in different media by 40 Pence Members. \n  \nBarbara Prodaniuk: Myths in Mud | Mar. 13 – Apr. 26 \nThe ceramic artist’s work is inspired by the forest\, meadows\, and waterways surrounding the Truckee area. She explores the stories carried by the creatures and artifacts found in these environments through layered surfaces\, organic textures\, and sculpted imagery. \n  \nLoraine Watson-Fox: Small Wonders | Mar. 6 – Mar. 29 \nThe artist employs mixed-media including collage\, text\, thread and textural elements to enhance her use of more traditional paint media. Her work is on display along the stairway. \n  \nDavis Flower Arrangers: Art in Bloom | Mar. 13 – Mar. 15 \nIn a special collaboration\, the Davis Flower Arrangers have put together creative floral arrangements to be paired with specific artworks on view at the Pence. \n  \nScavenger Hunt: Join us for a fun\, art-themed scavenger hunt at the Pence during the 2nd Friday ArtAbout. Complete all of the clues by exploring our exhibits for the chance to win a special prize. \n  \n— \n  \nVisit the Pence and other venues in Downtown Davis for the 2nd Friday ArtAbout artwalk. We will have printed ArtAbout guides available that week. Follow the ArtAbout’s Facebook page for more information: https://www.facebook.com/davisartabout. \n  \nImages: \nManuel Fernando Rios\, “Jose as Huitzilopochtli” \nBarbara Prodaniuk\, “Raven Vase” \nLoraine Watson-Fox\, “156” \nDavis Flower Arrangement (past event)
+URL:https://visitdavis.org/event/2nd-friday-artabout-at-the-pence-gallery-12/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/png:https://visitdavis.org/wp-content/uploads/Pence-Reception-Banners-copy-5-WClPAE.png
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-86/", "Visityolo Event": "https://visityolo.com/event/davis-farmers-market-2/2026-03-14/"}
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-86/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis, Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260314T080000
+DTEND;TZID=America/Los_Angeles:20260314T130000
+DTSTAMP:20260309T170007
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260103T234411Z
+UID:10002772-1773475200-1773493200@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-86/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-ID:gcal_davisbikeclubwww
+X-SOURCE:Gcal Davisbikeclubwww
+DTSTART;TZID=America/Los_Angeles:20260314T090000
+DTEND;TZID=America/Los_Angeles:20260314T130000
+DTSTAMP:20260310T000011Z
+UID:um3f9rrqc3e43vqnc0mj7nopip@google.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20260314T090000
+CREATED:20251104T152227Z
+DESCRIPTION:Here’s a link to the March second Saturday ride: https://ridewi
+ thgps.com/routes/54187228\n\nThe plan is to go from Davis to Hedgerow Farms
+  to see if any of the flower fields are blooming\, ride to the scenic west 
+ end of Road 29\, stop in Winters for a snack or lunch at Upper Crust\, and 
+ then head back to Davis.\n\nMore details below. Please let me know if you n
+ eed additional information.\nThanks\,\n-Anne\, (916) 206-2922\n\nDate: Seco
+ nd Saturday – March 14\, 2026\nStart time: 9:00 a.m.\nStart location: Davis
+ : Westlake Shopping Center\, 1260 Lake Blvd.\nDistance: 45 miles\nContact: 
+ Anne Huber\; anneh@dcn.org\; 916-206-2922\nServices (Food\, water\, bathroo
+ ms): in Winters at mile 32\, so you might want to bring a snack\nNo need to
+  RSVP\nRain cancellation or postponement: communicated via the listserv.\nP
+ ace: 14 - 17 mph with regroups. The speed is meant to be an indicator of sp
+ eed on flat terrain with no wind. People can go faster if they want as long
+  as they are willing to regroup. There might be some stopping for scenery.\
+ nRoute: https://ridewithgps.com/routes/54187228\n\nFor general information 
+ about the second Saturday ride and bicycling with the Davis Bike Club\, ple
+ ase see: https://davisbikeclub.org/2nd-sat-explorer-ride/\n\nIt includes th
+ e following: “Cycling has inherent risks. Any cyclist taking part in a DBC 
+ ride releases DBC from any liability. Guests are welcome to ride with DBC f
+ or one ride\; for subsequent rides\, you must be a member of the Club. By r
+ iding with a DBC group ride you acknowledge that you have read and understa
+ nd this. Helmets are required on all rides"
+LAST-MODIFIED:20260308T231507Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Second Saturday Explorer Ride
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/arc-guitar-festival-2026/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260314T100000
+DTEND;TZID=America/Los_Angeles:20260314T160000
+DTSTAMP:20260309T170009
+CREATED:20260127T181551Z
+LAST-MODIFIED:20260127T181551Z
+UID:10013520-1773482400-1773504000@visityolo.com
+SUMMARY:ARC Guitar Festival 2026
+DESCRIPTION:The ARC Guitar Festival is returning to Winters on Saturday\, March 14 from 10am to 4pm at the Grand Ballroom at Hotel Winters! This event will feature handcrafted guitars built exclusively by the students of the ARC Guitar Building School. There will be guitar building demonstrations\, mini performances and lots of guitars to see and play. The best part is that it’s FREE – NO ADMISSION CHARGE! All ages are welcome! Experience functional art at its highest level.
+URL:https://visityolo.com/event/arc-guitar-festival-2026/
+LOCATION:Hotel Winters\, 12 Abbey Street\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/png:https://visityolo.com/wp-content/uploads/Screenshot-2026-01-27-101446.png
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-03-14/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260314T110000
+DTEND;TZID=America/Los_Angeles:20260314T180000
+DTSTAMP:20260309T170009
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013223-1773486000-1773511200@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-03-14/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/art-in-bloom/2026-03-14/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260314T113000
+DTEND;TZID=America/Los_Angeles:20260314T170000
+DTSTAMP:20260309T170010
+CREATED:20260223T233247Z
+LAST-MODIFIED:20260223T233247Z
+UID:10013558-1773487800-1773507600@visityolo.com
+SUMMARY:Art in Bloom
+DESCRIPTION:Art in Bloom \n  \nDates/times: March 13\, 6-9 PM\, March 14-15\, 11:30 AM – 5 PM  \nLocation: Pence Gallery\, 212 D Street\, Davis\, CA 95616 \nAdmission: Admission to the Pence is free; we welcome donations from visitors\, as they help us cover basic costs associated with running a nonprofit art gallery. \n  \nArt in Bloom is the first collaboration with members of the Davis Flower Arrangers and the Pence Gallery\, in which creative floral arrangements are paired with specific artworks on view at the Pence from March 13-15. On Friday\, March 13\, from 6-9 PM\, enjoy meeting many of the participating floral designers and see the arrangements as they are at their freshest\, as part of the city’s 2nd Friday ArtAbout reception. Visitors are welcome to enjoy a variety of arrangements that include traditional and unusual materials\, and a variety of beautiful containers. The connection between the artwork and floral design can include using similar colors\, themes\, textures\, or overall composition.  \n  \nParticipating floral designers include Janet Goehring\, Joyce Hamaguchi\, Elly Fairclough\, MJ Kelly\, Rhody Vallejo\, Elisabetta Vivoda\, Mike MacDonald\, Stephanie DeGraff-Hunt\, and Julie Haney. Each artist has chosen an artwork for inspiration\, and will create a vibrant interpretation of pieces by exhibiting artists Manuel Fernando Rios\, Barbara Prodaniuk\, and artists from Assorted Flavors\, our annual exhibit of artworks created by forty Pence members.  \n  \nFounded in 1958\, the Davis Flower Arrangers is a long-standing organization in Davis\, dedicated to studying and instructing floral design techniques\, including Ikebana. The group\, celebrating its 67th season in 2025-26\, promotes the public appreciation of floral art through workshops\, demonstrations\, and community events. For more information on the Davis Flower Arrangers\, contact President Stephanie DeGraff-Hunt at sdegraffhunt@gmail.com.  \n  \nImage: Davis Flower Arrangement (past event)
+URL:https://visityolo.com/event/art-in-bloom/2026-03-14/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Art-in-Bloom-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/beetlejuice-jr/2026-03-14/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260314T140000
+DTEND;TZID=America/Los_Angeles:20260314T160000
+DTSTAMP:20260309T170010
+CREATED:20250724T211913Z
+LAST-MODIFIED:20250724T211913Z
+UID:10010782-1773496800-1773504000@visityolo.com
+SUMMARY:Beetlejuice Jr
+DESCRIPTION:Beetlejuice Jr – March 14 through April 5\, 2026\nSchool Matinees: March 31\, 2026; 9:15am and noon \n  \nIt’s our show now\, kid. The ghost-with-the-most comes to the stage in Beetlejuice JR.\, the frightfully funny musical based on the beloved motion picture turned Broadway phenomenon. Lydia Deetz is a strange and unusual teenager\, still grieving the loss of her mother and obsessed with the whole “being dead thing.” Lucky for Lydia\, she and her father move to a new house haunted by a recently deceased couple and Beetlejuice\, a delightful demon with a real zest for life. When Lydia calls on Beetlejuice to scare away anyone with a pulse\, this double-crossing specter shows his true stripes\, unleashing a (Nether)world of pandemonium. \nRecommended for ages 10 & up \n  \nDirected by Tea Pusey\nChoreographed by Logan Sexton\nMusical direction by Montana Monce
+URL:https://visityolo.com/event/beetlejuice-jr/2026-03-14/
+LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Beetlejuice-Jr.jpg
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/312570962/"}
+X-SOURCE-ID:meetup_mosaics
+X-SOURCE:Meetup: Mosaics
+UID:event_312570962@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000002Z
+DTSTART;TZID=America/Los_Angeles:20260314T160000
+DTEND;TZID=America/Los_Angeles:20260314T170000
+SUMMARY:Mosaics Beginning Spanish on Zoom
+DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics This W
+ inter 2025–2026!**\n\nJoin us for a vibrant and uplifting season of virt
+ ual learning and community from **December 20\, 2025 to March 28\, 2026**
+ —all from the comfort of your home on Zoom!\n\n**Zoom Link:** [https://z
+ oom.us/j/589676463](https://zoom.us/j/589676463)\n\n**Bi-Weekly Friday Zoo
+ m Sessions** *(Every 2nd and 4th Friday)*\n• **4:00 PM** – Advanced Ko
+ rean with Stephen\n• **5:00 PM** – Intermediate Conversational Chinese
+  with Sam\n• **6:00 PM** – Bible Study & Meditation Group with Stephen
+ \n• **7:00 PM** – Beginning Chinese with Jane\n\n**Weekly Saturday Zoo
+ m Sessions** (total of 12 sessions)\n• **4:00 PM** – Beginning Spanish
+  with Viviana\n• **5:00 PM** – Beginning to Intermediate Korean with S
+ tephen\n• **6:00 PM** – Beginning to Intermediate Japanese with Norio\
+ n• **7:00 PM** – English Learners Group with Linda & Chad\n\n**Importa
+ nt Notes:**\n\n1. **No Zoom sessions** on **January 2–3\, 2026** (New Ye
+ ar) and **April 3–4\, 2026** (Easter).\n2. **Special Gatherings (Tentati
+ ve):**\n**• February 14\, 2026:** Valentine’s Day & pre–Lunar New Ye
+ ar celebration in person at Phoenix Hall\, 2nd Floor\, Davis Community Chu
+ rch.\n**• March 14\, 2026:** Additional in-person gathering (tentative).
+ \n\n**Return to In-Person Meetings:**\nWe will resume our **regular in-per
+ son gatherings on April 11\, 2026** at the **2nd floor rooms of Phoenix Ha
+ ll\, Davis Community Church**.\n\nFor more information about Intercultural
+  Mosaics classes and activities\, visit **[www.nextg.org](http://www.nextg
+ .org)** or contact **Dr. Stephen Moon** at **916-217-5470** or **catalyst@
+ nextg.org**.
+URL;VALUE=URI:https://www.meetup.com/mosaics/events/312570962/
+STATUS:CONFIRMED
+CREATED:20251225T093230Z
+LAST-MODIFIED:20251225T093230Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/313484073/"}
+X-SOURCE-ID:meetup_mosaics
+X-SOURCE:Meetup: Mosaics
+UID:event_313484073@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000002Z
+DTSTART;TZID=America/Los_Angeles:20260314T170000
+DTEND;TZID=America/Los_Angeles:20260314T180000
+SUMMARY:Mosaics Beginning Korean on Zoom
+DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics This W
+ inter 2025–2026!**\n\nJoin us for a vibrant and uplifting season of virt
+ ual learning and community from **December 20\, 2025 to March 28\, 2026**
+ —all from the comfort of your home on Zoom!\n\n**Zoom Link:** [https://z
+ oom.us/j/589676463](https://zoom.us/j/589676463)\n\n**Bi-Weekly Friday Zoo
+ m Sessions** *(Every 2nd and 4th Friday)*\n• **4:00 PM** – Advanced Ko
+ rean with Stephen\n• **5:00 PM** – Intermediate Conversational Chinese
+  with Sam\n• **6:00 PM** – Bible Study & Meditation Group with Stephen
+ \n• **7:00 PM** – Beginning Chinese with Jane\n\n**Weekly Saturday Zoo
+ m Sessions** (total of 12 sessions)\n• **4:00 PM** – Beginning Spanish
+  with Viviana\n• **5:00 PM** – Beginning to Intermediate Korean with S
+ tephen\n• **6:00 PM** – Beginning to Intermediate Japanese with Norio\
+ n• **7:00 PM** – English Learners Group with Linda & Chad\n\n**Importa
+ nt Notes:**\n\n1. **No Zoom sessions** on **January 2–3\, 2026** (New Ye
+ ar) and **April 3–4\, 2026** (Easter).\n2. **Special Gatherings (Tentati
+ ve):**\n**• February 14\, 2026:** Valentine’s Day & pre–Lunar New Ye
+ ar celebration in person at Phoenix Hall\, 2nd Floor\, Davis Community Chu
+ rch.\n**• March 14\, 2026:** Additional in-person gathering (tentative).
+ \n\n**Return to In-Person Meetings:**\nWe will resume our **regular in-per
+ son gatherings on April 11\, 2026** at the **2nd floor rooms of Phoenix Ha
+ ll\, Davis Community Church**.\n\nFor more information about Intercultural
+  Mosaics classes and activities\, visit **[www.nextg.org](http://www.nextg
+ .org)** or contact **Dr. Stephen Moon** at **916-217-5470** or **catalyst@
+ nextg.org**.
+URL;VALUE=URI:https://www.meetup.com/mosaics/events/313484073/
+STATUS:CONFIRMED
+CREATED:20260223T014637Z
+LAST-MODIFIED:20260223T014637Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/313484768/"}
+X-SOURCE-ID:meetup_mosaics
+X-SOURCE:Meetup: Mosaics
+UID:event_313484768@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000002Z
+DTSTART;TZID=America/Los_Angeles:20260314T180000
+DTEND;TZID=America/Los_Angeles:20260314T190000
+SUMMARY:Mosaics Beginning Japanese on Zoom
+DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics This W
+ inter 2025–2026!**\n\nJoin us for a vibrant and uplifting season of virt
+ ual learning and community from **December 20\, 2025 to March 28\, 2026**
+ —all from the comfort of your home on Zoom!\n\n**Zoom Link:** [https://z
+ oom.us/j/589676463](https://zoom.us/j/589676463)\n\n**Bi-Weekly Friday Zoo
+ m Sessions** *(Every 2nd and 4th Friday)*\n• **4:00 PM** – Advanced Ko
+ rean with Stephen\n• **5:00 PM** – Intermediate Conversational Chinese
+  with Sam\n• **6:00 PM** – Bible Study & Meditation Group with Stephen
+ \n• **7:00 PM** – Beginning Chinese with Jane\n\n**Weekly Saturday Zoo
+ m Sessions** (total of 12 sessions)\n• **4:00 PM** – Beginning Spanish
+  with Viviana\n• **5:00 PM** – Beginning to Intermediate Korean with S
+ tephen\n• **6:00 PM** – Beginning to Intermediate Japanese with Norio\
+ n• **7:00 PM** – English Learners Group with Linda & Chad\n\n**Importa
+ nt Notes:**\n\n1. **No Zoom sessions** on **January 2–3\, 2026** (New Ye
+ ar) and **April 3–4\, 2026** (Easter).\n2. **Special Gatherings (Tentati
+ ve):**\n**• February 14\, 2026:** Valentine’s Day & pre–Lunar New Ye
+ ar celebration in person at Phoenix Hall\, 2nd Floor\, Davis Community Chu
+ rch.\n**• March 14\, 2026:** Additional in-person gathering (tentative).
+ \n\n**Return to In-Person Meetings:**\nWe will resume our **regular in-per
+ son gatherings on April 11\, 2026** at the **2nd floor rooms of Phoenix Ha
+ ll\, Davis Community Church**.\n\nFor more information about Intercultural
+  Mosaics classes and activities\, visit **[www.nextg.org](http://www.nextg
+ .org)** or contact **Dr. Stephen Moon** at **916-217-5470** or **catalyst@
+ nextg.org**.
+URL;VALUE=URI:https://www.meetup.com/mosaics/events/313484768/
+STATUS:CONFIRMED
+CREATED:20260223T024501Z
+LAST-MODIFIED:20260223T024501Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/313485523/"}
+X-SOURCE-ID:meetup_mosaics
+X-SOURCE:Meetup: Mosaics
+UID:event_313485523@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000002Z
+DTSTART;TZID=America/Los_Angeles:20260314T190000
+DTEND;TZID=America/Los_Angeles:20260314T200000
+SUMMARY:Mosaics English Learners Group on Zoom
+DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics This W
+ inter 2025–2026!**\n\nJoin us for a vibrant and uplifting season of virt
+ ual learning and community from **December 20\, 2025 to March 28\, 2026**
+ —all from the comfort of your home on Zoom!\n\n**Registration is require
+ d\, and the Zoom link will be provided exclusively to those who sign up.**
+ \n\n**Bi-Weekly Friday Zoom Sessions** *(Every 2nd and 4th Friday)*\n• *
+ *4:00 PM** – Advanced Korean with Stephen\n• **5:00 PM** – Intermedi
+ ate Conversational Chinese with Sam\n• **6:00 PM** – Bible Study & Med
+ itation Group with Stephen\n• **7:00 PM** – Beginning Chinese with Jan
+ e\n\n**Weekly Saturday Zoom Sessions** (total of 12 sessions)\n• **4:00 
+ PM** – Beginning Spanish with Viviana\n• **5:00 PM** – Beginning to 
+ Intermediate Korean with Stephen\n• **6:00 PM** – Beginning to Interme
+ diate Japanese with Norio\n• **7:00 PM** – English Learners Group with
+  Linda & Chad\n\n**Important Notes:**\n\n1. **No Zoom sessions** on **Janu
+ ary 2–3\, 2026** (New Year) and **April 3–4\, 2026** (Easter).\n2. **S
+ pecial Gatherings (Tentative):**\n**• February 14\, 2026:** Valentine’
+ s Day & pre–Lunar New Year celebration in person at Phoenix Hall\, 2nd F
+ loor\, Davis Community Church.\n**• March 14\, 2026:** Additional in-per
+ son gathering (tentative).\n\n**Return to In-Person Meetings:**\nWe will r
+ esume our **regular in-person gatherings on April 11\, 2026** at the **2nd
+  floor rooms of Phoenix Hall\, Davis Community Church**.\n\nFor more infor
+ mation about Intercultural Mosaics classes and activities\, visit **[www.n
+ extg.org](http://www.nextg.org)** or contact **Dr. Stephen Moon** at **916
+ -217-5470** or **catalyst@nextg.org**.
+URL;VALUE=URI:https://www.meetup.com/mosaics/events/313485523/
+STATUS:CONFIRMED
+CREATED:20260223T034254Z
+LAST-MODIFIED:20260223T034254Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/renegade-orchestra-at-veterans-memorial-theater-in-davis/", "Visityolo Event": "https://visityolo.com/event/renegade-orchestra-at-veterans-memorial-theater-in-davis/"}
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/renegade-orchestra-at-veterans-memorial-theater-in-davis/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis, Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260314T190000
+DTEND;TZID=America/Los_Angeles:20260314T210000
+DTSTAMP:20260309T170007
+CREATED:20260224T004250Z
+LAST-MODIFIED:20260309T234216Z
+UID:10002813-1773514800-1773522000@visitdavis.org
+SUMMARY:Renegade Orchestra at Veterans Memorial Theater in Davis
+DESCRIPTION:Renegade Orchestra is the bay area’s rock and roll orchestra! \n“The Beauty of a Symphony\, the Soul of a Rock Band” \nClap your hands\, tap your feet\, and yell all you want – the Renegade Orchestra embraces the virtuosic skills of top bay area musicians and turns them loose on songs orchestras have never or maybe shouldn’t do.  \n“Classical Rebels.” The Bohemian \n“The Renegade Orchestra would rather tackle Hendrix than Handel.” Mercury News \nFor this concert\, the Renegade Orchestra will be performing a set of music called “Sounds of San Francisco” – all fun classic songs from Jefferson Airplane’s Somebody to Love\, It’s a Beautiful Day’s White Bird\, and even some orchestral punk by the Dead Kennedys. 
+URL:https://visitdavis.org/event/renegade-orchestra-at-veterans-memorial-theater-in-davis/
+LOCATION:Davis Veterans Memorial Theater\, 277 E. 14th Street\, Davis CA\, Davis\, 95616\, United States
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-03-15/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260315T110000
+DTEND;TZID=America/Los_Angeles:20260315T180000
+DTSTAMP:20260309T170010
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013224-1773572400-1773597600@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-03-15/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/art-in-bloom/2026-03-15/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260315T113000
+DTEND;TZID=America/Los_Angeles:20260315T170000
+DTSTAMP:20260309T170010
+CREATED:20260223T233247Z
+LAST-MODIFIED:20260223T233247Z
+UID:10013559-1773574200-1773594000@visityolo.com
+SUMMARY:Art in Bloom
+DESCRIPTION:Art in Bloom \n  \nDates/times: March 13\, 6-9 PM\, March 14-15\, 11:30 AM – 5 PM  \nLocation: Pence Gallery\, 212 D Street\, Davis\, CA 95616 \nAdmission: Admission to the Pence is free; we welcome donations from visitors\, as they help us cover basic costs associated with running a nonprofit art gallery. \n  \nArt in Bloom is the first collaboration with members of the Davis Flower Arrangers and the Pence Gallery\, in which creative floral arrangements are paired with specific artworks on view at the Pence from March 13-15. On Friday\, March 13\, from 6-9 PM\, enjoy meeting many of the participating floral designers and see the arrangements as they are at their freshest\, as part of the city’s 2nd Friday ArtAbout reception. Visitors are welcome to enjoy a variety of arrangements that include traditional and unusual materials\, and a variety of beautiful containers. The connection between the artwork and floral design can include using similar colors\, themes\, textures\, or overall composition.  \n  \nParticipating floral designers include Janet Goehring\, Joyce Hamaguchi\, Elly Fairclough\, MJ Kelly\, Rhody Vallejo\, Elisabetta Vivoda\, Mike MacDonald\, Stephanie DeGraff-Hunt\, and Julie Haney. Each artist has chosen an artwork for inspiration\, and will create a vibrant interpretation of pieces by exhibiting artists Manuel Fernando Rios\, Barbara Prodaniuk\, and artists from Assorted Flavors\, our annual exhibit of artworks created by forty Pence members.  \n  \nFounded in 1958\, the Davis Flower Arrangers is a long-standing organization in Davis\, dedicated to studying and instructing floral design techniques\, including Ikebana. The group\, celebrating its 67th season in 2025-26\, promotes the public appreciation of floral art through workshops\, demonstrations\, and community events. For more information on the Davis Flower Arrangers\, contact President Stephanie DeGraff-Hunt at sdegraffhunt@gmail.com.  \n  \nImage: Davis Flower Arrangement (past event)
+URL:https://visityolo.com/event/art-in-bloom/2026-03-15/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Art-in-Bloom-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/313060112/"}
+X-SOURCE-ID:meetup_mindful_embodied_spirituality
+X-SOURCE:Meetup Mindful Embodied Spirituality
+UID:event_313060112@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000004Z
+DTSTART;TZID=America/Los_Angeles:20260316T180000
+DTEND;TZID=America/Los_Angeles:20260316T200000
+SUMMARY:Conscious Conversations & Embodied Listening  
+DESCRIPTION:Iama Embodied Community\nThis is a spiritual community that ho
+ nors the body’s wisdom and lived experience. Whether you’re healing fr
+ om religious trauma\, deconstructing beliefs\, exploring spirituality\, or
+  just want to be with other conscious persons\, this space is for you.\n\n
+ Expect conscious conversations\, meditation\, breathwork\, sound healing\,
+  and other somatic practices to help reconnect with ourselves and each oth
+ er.\n\nwe share a potluck dinner every last Monday of the month.\n\n📅 *
+ *Date & Time**: Mondays 6-8 PM\n📍 **Location**: 727 T St. Sacramento\, 
+ Ca\, 95811\n💜 **All our events are free\, donations supported.**\n✨ *
+ *No prior experience or spiritual beliefs necessary.**\n📩 **RSVP/ Quest
+ ions? Reach out at** embody.iama@gmail.com\n🔗 **Follow us on Instagram:
+ ** [@embody.iama](https://www.instagram.com/embody.iama)\n\nPS: we meet in
+  the social hall of Parkview Presbyterian Church. Please find us through t
+ he back entrance\, the brown gate on Solons alley. You may park in the bac
+ k\, move the orange post to park and please return it when you leave.
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ 313060112/
+STATUS:CONFIRMED
+CREATED:20260126T055145Z
+LAST-MODIFIED:20260126T055145Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/suicide-prevention-in-the-workplace-trainings/2026-03-17/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20260317T090000
+DTEND;TZID=UTC:20260317T110000
+DTSTAMP:20260310T000010
+CREATED:20260227T194449Z
+LAST-MODIFIED:20260227T194449Z
+UID:10000313-1773738000-1773745200@hatefreetogether.org
+SUMMARY:Suicide Prevention in the Workplace Trainings
+DESCRIPTION:This free training is open to Yolo County staff\, provider staff and the community. Suicide Prevention in the Workplace is a 2 hour long training that includes videos\, group discussions/exercises and roleplays to create a better understanding of your role in suicide prevention.  \n  \nTo register for this free training\, e-mail your contact information to: MHSA-MHTrainings@yolocounty.org. Questions? Call 530-666-8710. \n  \nMore details on: https://www.yolocounty.gov/government/general-government-departments/health-human-services/mental-health/mental-health-services/prevention-early-intervention-trainings-mhsa
+URL:https://hatefreetogether.org/event/suicide-prevention-in-the-workplace-trainings/2026-03-17/
+LOCATION:CA
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Hero-Suicide-Prevention-e1772221173757.png
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Winters Shut Up And Write Meetup Group": "https://www.meetup.com/winters-shut-up-and-write-meetup-group/events/313243813/"}
+X-SOURCE-ID:meetup_winters_shut_up_and_write_meetup_group
+X-SOURCE:Meetup Winters Shut Up And Write Meetup Group
+UID:event_313243813@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000004Z
+DTSTART;TZID=America/Los_Angeles:20260318T170000
+DTEND;TZID=America/Los_Angeles:20260318T180000
+SUMMARY:Winters Chapter Shut Up and Write
+DESCRIPTION:Winters Shut Up and Write Meetup Group\nCome to the Winters Co
+ mmunity Library on March 18\, 2026 at 5 pm and help us launch the Winters 
+ chapter of Shut Up and Write. This is an inclusive group - all genres\, al
+ l levels of experience.\n\nAgenda:\n1.Arrive\, settle in\nBrief introducti
+ ons: name and\, if you like\, what you're working on\nSet a small\, achiev
+ able writing goal for yourself for the session\n2 Writing. No talking\, no
+  critiques. Just writing.\n3\\. Wrap up and Celebration\nBrief check-in. S
+ hare what was accomplished or how the session went - it's about personal p
+ rogress\, not perfection!
+URL;VALUE=URI:https://www.meetup.com/winters-shut-up-and-write-meetup-grou
+ p/events/313243813/
+STATUS:CONFIRMED
+CREATED:20260206T231524Z
+LAST-MODIFIED:20260206T231524Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/313550725/"}
+X-SOURCE-ID:meetup_yolo_county_board_game_gathering
+X-SOURCE:Meetup Yolo County Board Game Gathering
+UID:event_313550725@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000003Z
+DTSTART;TZID=America/Los_Angeles:20260318T170000
+DTEND;TZID=America/Los_Angeles:20260318T210000
+SUMMARY:Weekly Game Night at Blue Note
+DESCRIPTION:Yolo County Board Game Gathering\nUpdate 8/14/25:\n**We're sti
+ ll active**\, but we primarily use Discord to chat and plan events. (See g
+ roup description for invite link.)\n\nWe still meet every Wednesday for bo
+ ard games at Blue Note Brewing Company. We'll have a handful of tables res
+ erved near the back\; just look for the pile of board games.\n\nPeople usu
+ ally start arriving around 5pm\, and games start whenever people are ready
+ . Blue Note closes at 9pm\, and although we have a 5-10 minute grace perio
+ d there\, you should be in the process of final scoring by 9\, or else pac
+ k it up and play again another day.\n\nGame night is open to all ages! Blu
+ e Note is a brewery\, not a bar\, so there's no restriction against minors
+ . In addition to their crafted-in-house beer selection\, water and sodas a
+ re available.\n\nYou're not required to buy anything in order to join us\,
+  but we do encourage you to support local businesses. Blue Note's chef tea
+ m makes a mean pizza\, and there are other nearby downtown restaurants and
+  businesses.
+URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
+ ts/313550725/
+STATUS:CONFIRMED
+CREATED:20260227T021400Z
+LAST-MODIFIED:20260227T021400Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults-virtual/2026-03-18/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20260318T190000
+DTEND;TZID=UTC:20260318T200000
+DTSTAMP:20260310T000010
+CREATED:20250609T205453Z
+LAST-MODIFIED:20250609T205453Z
+UID:10000270-1773860400-1773864000@hatefreetogether.org
+SUMMARY:NAMI Connection Support Group for Young Adults - Virtual
+DESCRIPTION:NAMI Connection Support Group for Young Adults is a free\, peer-led support group for anyone between the ages 18 and 26 who has experienced symptoms of a mental health condition. Mental health conditions include anxiety disorder\, depression\, bipolar disorder\, obsessive-compulsive disorder\, post-traumatic stress disorder\, schizophrenia\, or any condition that affects a person’s ability to lead a fulfilling life. You do not need a formal diagnosis to attend this support group; any young person concerned with their mental health and seeking support may attend. NAMI Connection for Young Adults provides resources to help young people build a support network and access help. Participants will learn together how to establish and maintain wellness. \nYou do not need a formal diagnosis to attend. Anyone who is seeking mental health support may attend. \nWhat You’ll Gain\nBy sharing your experiences in a safe and confidential setting\, you will experience connection\, receive information about resources\, and learn coping strategies. The group encourages empathy\, productive discussion and a sense of community. You’ll benefit from other’s experiences\, discover your inner strength\, and receive support by sharing your own experiences in a non-judgmental space. \n  \nNAMI Connection Support Group for Young Adults meets on the first Wednesday of the month (in person) and on the third Wednesday of the month  (via Zoom) from 7pm-8pm.  \nTo register for in-person or virtual meetings\, please visit: https://namiyolo.org/support-and-education/nami-yolo-county-support-groups/young-adult-connection-support-group/. \nIf you have any questions\, please email: friends@namiyolo.org.
+URL:https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults-virtual/2026-03-18/
+LOCATION:CA
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/mental-health-first-aid/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20260319T083000
+DTEND;TZID=UTC:20260319T153000
+DTSTAMP:20260310T000010
+CREATED:20260227T200627Z
+LAST-MODIFIED:20260227T200859Z
+UID:10000314-1773909000-1773934200@hatefreetogether.org
+SUMMARY:Mental Health First Aid Training
+DESCRIPTION:This free training is open to Yolo County staff\, provider staff and the community. Mental Health First Aid teaches you how to identify\, understand and respond to signs of mental health and substance use challenges. The training will also cover how to interact with a person in crisis and connect the person with help. \n  \nAttendees must complete a two-hour virtual training prior to the class and are expected to attend the live training for the full duration. After successfully passing the prework\, attendees will receive a three-year professional certification on Mental Health First Aid. \n  \nTo register for this free training\, e-mail your contact information to: MHSA-MHTrainings@yolocounty.org. Questions? Call 530-666-8710
+URL:https://hatefreetogether.org/event/mental-health-first-aid/
+LOCATION:Yolo Couty Health and Human Services\, 25 N Cottonwood St\, Woodland\, CA\, 95695\, United States
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/istockphoto-1513072392-612x612-1.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/honey-cheese-pairing-workshop-3/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260319T173000
+DTEND;TZID=America/Los_Angeles:20260319T190000
+DTSTAMP:20260309T170010
+CREATED:20251222T220748Z
+LAST-MODIFIED:20251222T220757Z
+UID:10013426-1773941400-1773946800@visityolo.com
+SUMMARY:Honey and Cheese Pairing Workshop
+DESCRIPTION:Cheesemonger extraordinaire Roxanne O’Brien teams up with varietal honey expert\, Amina Harris\, for an immersive and interactive workshop. Indulge your senses as you experiment with an array of cheeses\, varietal honeys\, and honey fruit spreads alongside an abundant charcuterie spread\, and celebratory mead and honey themed beverages.
+URL:https://visityolo.com/event/honey-cheese-pairing-workshop-3/
+LOCATION:The HIVE / Z Specialty Food\, The HIVE Tasting Room and Kitchen
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HoneyCheese-032124-32_Small.jpg
+ORGANIZER;CN="The HIVE / Z Specialty Food":MAILTO:events@zspecialtyfood.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/313060113/"}
+X-SOURCE-ID:meetup_mindful_embodied_spirituality
+X-SOURCE:Meetup Mindful Embodied Spirituality
+UID:event_313060113@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000004Z
+DTSTART;TZID=America/Los_Angeles:20260319T180000
+DTEND;TZID=America/Los_Angeles:20260319T191000
+SUMMARY:Free Yoga Practice
+DESCRIPTION:Iama Embodied Community\n🌀 **Move with intention. Connect w
+ ith your body. Celebrate community.**\n\nJoin us every **Thursday at 6 PM*
+ * for an embodied yoga practice designed to help you release tension\, gro
+ und yourself\, and cultivate presence. This is a trauma-informed\, all-lev
+ els class\, no prior yoga experience needed. Expect a Hatha-Vinyasa flow\,
+  breathwork\, and a space to listen to your body’s wisdom.\n\n🌿 **Eve
+ ry last Thursday of the month\, stay after class for a community potluck d
+ inner!**\n\n📍 **Location**: 727 T St. Sacramento CA 95811\n✨ **All ou
+ r events are free. Donations are welcome.**\n📩 **Questions? Reach out a
+ t** embody.iama@gmail.com\n🔗 **Follow us on Instagram:** [@embody.iama]
+ (https://www.instagram.com/embody.iama)
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ 313060113/
+STATUS:CONFIRMED
+CREATED:20260126T055149Z
+LAST-MODIFIED:20260126T055149Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-03-20/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260320T110000
+DTEND;TZID=America/Los_Angeles:20260320T180000
+DTSTAMP:20260309T170010
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013225-1774004400-1774029600@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-03-20/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/winters-theatre-company-presents-murder-on-the-nile-2/2026-03-20/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260320T193000
+DTEND;TZID=America/Los_Angeles:20260320T213000
+DTSTAMP:20260309T170010
+CREATED:20250724T212132Z
+LAST-MODIFIED:20250724T212132Z
+UID:10010705-1774035000-1774042200@visityolo.com
+SUMMARY:Winters Theatre Company Presents Murder on the Nile
+DESCRIPTION:Get ready to take a trip down the Nile this summer as the Winters Theatre Company presents Agatha Christie’s Murder on the Nile!
+URL:https://visityolo.com/event/winters-theatre-company-presents-murder-on-the-nile-2/2026-03-20/
+LOCATION:Winters Opera House Ballroom\, 13 Main St\, Winters\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Murder-flyer-plain-copy.jpg
+ORGANIZER;CN="Winters Theatre Copany":MAILTO:winterstheatre@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-87/", "Visityolo Event": "https://visityolo.com/event/davis-farmers-market-2/2026-03-21/"}
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-87/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis, Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260321T080000
+DTEND;TZID=America/Los_Angeles:20260321T130000
+DTSTAMP:20260309T170007
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260103T234411Z
+UID:10002773-1774080000-1774098000@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-87/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Pence Adult Art Programs": "https://www.meetup.com/pence-adult-art-programs/events/313287945/"}
+X-SOURCE-ID:meetup_pence_adult_art_programs
+X-SOURCE:Meetup Pence Adult Art Programs
+UID:event_313287945@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000003Z
+DTSTART;TZID=America/Los_Angeles:20260321T093000
+DTEND;TZID=America/Los_Angeles:20260321T160000
+SUMMARY:Gel Printing Workshop with Sara Post
+DESCRIPTION:Pence Adult Art Programs\nUnder the guidance of artist Sara Po
+ st\, students will explore the ins and out of gel printing. Participants w
+ ill experiment with layering\, masks\, stencils\, and other gel printing t
+ echniques\, as well as work with a variety of papers. Gel prints\, beautif
+ ul in themselves\, are also a wonderful way to make handmade papers for co
+ llage or under layers for painting. Students will leave this class with a 
+ portfolio of prints to display on their own or to use in making other artw
+ orks.\n\nGel Printing Workshop with Sara Post\nSaturday\, March 21\, 9:30 
+ AM - 4 PM\n$170 Members\, $190 Non-Members (Materials not included)\n\n**R
+ egistration is required in advance through the Pence's website ([CLICK HER
+ E](https://pencegallery.org/education/programs/workshops-and-classes/)).**
+ \n\nAny questions? Email pencegallery@gmail.com.
+URL;VALUE=URI:https://www.meetup.com/pence-adult-art-programs/events/31328
+ 7945/
+STATUS:CONFIRMED
+CREATED:20260210T003150Z
+LAST-MODIFIED:20260210T003150Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-03-21/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260321T110000
+DTEND;TZID=America/Los_Angeles:20260321T180000
+DTSTAMP:20260309T170010
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013226-1774090800-1774116000@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-03-21/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/beetlejuice-jr/2026-03-21/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260321T140000
+DTEND;TZID=America/Los_Angeles:20260321T160000
+DTSTAMP:20260309T170010
+CREATED:20250724T211913Z
+LAST-MODIFIED:20250724T211913Z
+UID:10010783-1774101600-1774108800@visityolo.com
+SUMMARY:Beetlejuice Jr
+DESCRIPTION:Beetlejuice Jr – March 14 through April 5\, 2026\nSchool Matinees: March 31\, 2026; 9:15am and noon \n  \nIt’s our show now\, kid. The ghost-with-the-most comes to the stage in Beetlejuice JR.\, the frightfully funny musical based on the beloved motion picture turned Broadway phenomenon. Lydia Deetz is a strange and unusual teenager\, still grieving the loss of her mother and obsessed with the whole “being dead thing.” Lucky for Lydia\, she and her father move to a new house haunted by a recently deceased couple and Beetlejuice\, a delightful demon with a real zest for life. When Lydia calls on Beetlejuice to scare away anyone with a pulse\, this double-crossing specter shows his true stripes\, unleashing a (Nether)world of pandemonium. \nRecommended for ages 10 & up \n  \nDirected by Tea Pusey\nChoreographed by Logan Sexton\nMusical direction by Montana Monce
+URL:https://visityolo.com/event/beetlejuice-jr/2026-03-21/
+LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Beetlejuice-Jr.jpg
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/313594928/"}
+X-SOURCE-ID:meetup_mosaics
+X-SOURCE:Meetup: Mosaics
+UID:event_313594928@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000002Z
+DTSTART;TZID=America/Los_Angeles:20260321T160000
+DTEND;TZID=America/Los_Angeles:20260321T170000
+SUMMARY:Mosaics Beginning Spanish on Zoom
+DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics This W
+ inter 2025–2026!**\n\nJoin us for a vibrant and uplifting season of virt
+ ual learning and community from **December 20\, 2025 to March 28\, 2026**
+ —all from the comfort of your home on Zoom!\n\n**Zoom Link:** [https://z
+ oom.us/j/589676463](https://zoom.us/j/589676463)\n\n**Bi-Weekly Friday Zoo
+ m Sessions** *(Every 2nd and 4th Friday)*\n• **4:00 PM** – Advanced Ko
+ rean with Stephen\n• **5:00 PM** – Intermediate Conversational Chinese
+  with Sam\n• **6:00 PM** – Bible Study & Meditation Group with Stephen
+ \n• **7:00 PM** – Beginning Chinese with Jane\n\n**Weekly Saturday Zoo
+ m Sessions** (total of 12 sessions)\n• **4:00 PM** – Beginning Spanish
+  with Viviana\n• **5:00 PM** – Beginning to Intermediate Korean with S
+ tephen\n• **6:00 PM** – Beginning to Intermediate Japanese with Norio\
+ n• **7:00 PM** – English Learners Group with Linda & Chad\n\n**Importa
+ nt Notes:**\n\n1. **No Zoom sessions** on **January 2–3\, 2026** (New Ye
+ ar) and **April 3–4\, 2026** (Easter).\n2. **Special Gatherings (Tentati
+ ve):**\n**• February 14\, 2026:** Valentine’s Day & pre–Lunar New Ye
+ ar celebration in person at Phoenix Hall\, 2nd Floor\, Davis Community Chu
+ rch.\n**• March 14\, 2026:** Additional in-person gathering (tentative).
+ \n\n**Return to In-Person Meetings:**\nWe will resume our **regular in-per
+ son gatherings on April 11\, 2026** at the **2nd floor rooms of Phoenix Ha
+ ll\, Davis Community Church**.\n\nFor more information about Intercultural
+  Mosaics classes and activities\, visit **[www.nextg.org](http://www.nextg
+ .org)** or contact **Dr. Stephen Moon** at **916-217-5470** or **catalyst@
+ nextg.org**.
+URL;VALUE=URI:https://www.meetup.com/mosaics/events/313594928/
+STATUS:CONFIRMED
+CREATED:20260302T011426Z
+LAST-MODIFIED:20260302T011426Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/313595579/"}
+X-SOURCE-ID:meetup_mosaics
+X-SOURCE:Meetup: Mosaics
+UID:event_313595579@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000002Z
+DTSTART;TZID=America/Los_Angeles:20260321T170000
+DTEND;TZID=America/Los_Angeles:20260321T180000
+SUMMARY:Mosaics Beginning Korean on Zoom
+DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics This W
+ inter 2025–2026!**\n\nJoin us for a vibrant and uplifting season of virt
+ ual learning and community from **December 20\, 2025 to March 28\, 2026**
+ —all from the comfort of your home on Zoom!\n\n**Zoom Link:** [https://z
+ oom.us/j/589676463](https://zoom.us/j/589676463)\n\n**Bi-Weekly Friday Zoo
+ m Sessions** *(Every 2nd and 4th Friday)*\n• **4:00 PM** – Advanced Ko
+ rean with Stephen\n• **5:00 PM** – Intermediate Conversational Chinese
+  with Sam\n• **6:00 PM** – Bible Study & Meditation Group with Stephen
+ \n• **7:00 PM** – Beginning Chinese with Jane\n\n**Weekly Saturday Zoo
+ m Sessions** (total of 12 sessions)\n• **4:00 PM** – Beginning Spanish
+  with Viviana\n• **5:00 PM** – Beginning to Intermediate Korean with S
+ tephen\n• **6:00 PM** – Beginning to Intermediate Japanese with Norio\
+ n• **7:00 PM** – English Learners Group with Linda & Chad\n\n**Importa
+ nt Notes:**\n\n1. **No Zoom sessions** on **January 2–3\, 2026** (New Ye
+ ar) and **April 3–4\, 2026** (Easter).\n2. **Special Gatherings (Tentati
+ ve):**\n**• February 14\, 2026:** Valentine’s Day & pre–Lunar New Ye
+ ar celebration in person at Phoenix Hall\, 2nd Floor\, Davis Community Chu
+ rch.\n**• March 14\, 2026:** Additional in-person gathering (tentative).
+ \n\n**Return to In-Person Meetings:**\nWe will resume our **regular in-per
+ son gatherings on April 11\, 2026** at the **2nd floor rooms of Phoenix Ha
+ ll\, Davis Community Church**.\n\nFor more information about Intercultural
+  Mosaics classes and activities\, visit **[www.nextg.org](http://www.nextg
+ .org)** or contact **Dr. Stephen Moon** at **916-217-5470** or **catalyst@
+ nextg.org**.
+URL;VALUE=URI:https://www.meetup.com/mosaics/events/313595579/
+STATUS:CONFIRMED
+CREATED:20260302T021431Z
+LAST-MODIFIED:20260302T021431Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/313596423/"}
+X-SOURCE-ID:meetup_mosaics
+X-SOURCE:Meetup: Mosaics
+UID:event_313596423@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000002Z
+DTSTART;TZID=America/Los_Angeles:20260321T180000
+DTEND;TZID=America/Los_Angeles:20260321T190000
+SUMMARY:Mosaics Beginning Japanese on Zoom
+DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics This W
+ inter 2025–2026!**\n\nJoin us for a vibrant and uplifting season of virt
+ ual learning and community from **December 20\, 2025 to March 28\, 2026**
+ —all from the comfort of your home on Zoom!\n\n**Zoom Link:** [https://z
+ oom.us/j/589676463](https://zoom.us/j/589676463)\n\n**Bi-Weekly Friday Zoo
+ m Sessions** *(Every 2nd and 4th Friday)*\n• **4:00 PM** – Advanced Ko
+ rean with Stephen\n• **5:00 PM** – Intermediate Conversational Chinese
+  with Sam\n• **6:00 PM** – Bible Study & Meditation Group with Stephen
+ \n• **7:00 PM** – Beginning Chinese with Jane\n\n**Weekly Saturday Zoo
+ m Sessions** (total of 12 sessions)\n• **4:00 PM** – Beginning Spanish
+  with Viviana\n• **5:00 PM** – Beginning to Intermediate Korean with S
+ tephen\n• **6:00 PM** – Beginning to Intermediate Japanese with Norio\
+ n• **7:00 PM** – English Learners Group with Linda & Chad\n\n**Importa
+ nt Notes:**\n\n1. **No Zoom sessions** on **January 2–3\, 2026** (New Ye
+ ar) and **April 3–4\, 2026** (Easter).\n2. **Special Gatherings (Tentati
+ ve):**\n**• February 14\, 2026:** Valentine’s Day & pre–Lunar New Ye
+ ar celebration in person at Phoenix Hall\, 2nd Floor\, Davis Community Chu
+ rch.\n**• March 14\, 2026:** Additional in-person gathering (tentative).
+ \n\n**Return to In-Person Meetings:**\nWe will resume our **regular in-per
+ son gatherings on April 11\, 2026** at the **2nd floor rooms of Phoenix Ha
+ ll\, Davis Community Church**.\n\nFor more information about Intercultural
+  Mosaics classes and activities\, visit **[www.nextg.org](http://www.nextg
+ .org)** or contact **Dr. Stephen Moon** at **916-217-5470** or **catalyst@
+ nextg.org**.
+URL;VALUE=URI:https://www.meetup.com/mosaics/events/313596423/
+STATUS:CONFIRMED
+CREATED:20260302T031943Z
+LAST-MODIFIED:20260302T031943Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/313581532/"}
+X-SOURCE-ID:meetup_mosaics
+X-SOURCE:Meetup: Mosaics
+UID:event_313581532@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000002Z
+DTSTART;TZID=America/Los_Angeles:20260321T190000
+DTEND;TZID=America/Los_Angeles:20260321T200000
+SUMMARY:Mosaics English Learners Group on Zoom
+DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics This W
+ inter 2025–2026!**\n\nJoin us for a vibrant and uplifting season of virt
+ ual learning and community from **December 20\, 2025 to March 28\, 2026**
+ —all from the comfort of your home on Zoom!\n\n**Registration is require
+ d\, and the Zoom link will be provided exclusively to those who sign up.**
+ \n\n**Bi-Weekly Friday Zoom Sessions** *(Every 2nd and 4th Friday)*\n• *
+ *4:00 PM** – Advanced Korean with Stephen\n• **5:00 PM** – Intermedi
+ ate Conversational Chinese with Sam\n• **6:00 PM** – Bible Study & Med
+ itation Group with Stephen\n• **7:00 PM** – Beginning Chinese with Jan
+ e\n\n**Weekly Saturday Zoom Sessions** (total of 12 sessions)\n• **4:00 
+ PM** – Beginning Spanish with Viviana\n• **5:00 PM** – Beginning to 
+ Intermediate Korean with Stephen\n• **6:00 PM** – Beginning to Interme
+ diate Japanese with Norio\n• **7:00 PM** – English Learners Group with
+  Linda & Chad\n\n**Important Notes:**\n\n1. **No Zoom sessions** on **Janu
+ ary 2–3\, 2026** (New Year) and **April 3–4\, 2026** (Easter).\n2. **S
+ pecial Gatherings (Tentative):**\n**• February 14\, 2026:** Valentine’
+ s Day & pre–Lunar New Year celebration in person at Phoenix Hall\, 2nd F
+ loor\, Davis Community Church.\n**• March 14\, 2026:** Additional in-per
+ son gathering (tentative).\n\n**Return to In-Person Meetings:**\nWe will r
+ esume our **regular in-person gatherings on April 11\, 2026** at the **2nd
+  floor rooms of Phoenix Hall\, Davis Community Church**.\n\nFor more infor
+ mation about Intercultural Mosaics classes and activities\, visit **[www.n
+ extg.org](http://www.nextg.org)** or contact **Dr. Stephen Moon** at **916
+ -217-5470** or **catalyst@nextg.org**.
+URL;VALUE=URI:https://www.meetup.com/mosaics/events/313581532/
+STATUS:CONFIRMED
+CREATED:20260301T030053Z
+LAST-MODIFIED:20260301T030053Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/winters-theatre-company-presents-murder-on-the-nile-2/2026-03-21/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260321T193000
+DTEND;TZID=America/Los_Angeles:20260321T213000
+DTSTAMP:20260309T170010
+CREATED:20250724T212132Z
+LAST-MODIFIED:20250724T212132Z
+UID:10010706-1774121400-1774128600@visityolo.com
+SUMMARY:Winters Theatre Company Presents Murder on the Nile
+DESCRIPTION:Get ready to take a trip down the Nile this summer as the Winters Theatre Company presents Agatha Christie’s Murder on the Nile!
+URL:https://visityolo.com/event/winters-theatre-company-presents-murder-on-the-nile-2/2026-03-21/
+LOCATION:Winters Opera House Ballroom\, 13 Main St\, Winters\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Murder-flyer-plain-copy.jpg
+ORGANIZER;CN="Winters Theatre Copany":MAILTO:winterstheatre@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-03-22/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260322T110000
+DTEND;TZID=America/Los_Angeles:20260322T180000
+DTSTAMP:20260309T170010
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013227-1774177200-1774202400@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-03-22/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Pence Adult Art Programs": "https://www.meetup.com/pence-adult-art-programs/events/313100924/"}
+X-SOURCE-ID:meetup_pence_adult_art_programs
+X-SOURCE:Meetup Pence Adult Art Programs
+UID:event_313100924@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000003Z
+DTSTART;TZID=America/Los_Angeles:20260323T100000
+DTEND;TZID=America/Los_Angeles:20260323T114500
+SUMMARY:Healing Arts One-Time Workshop
+DESCRIPTION:Pence Adult Art Programs\nPart of the Pence's Healing Arts Pro
+ gram and run by facilitator Amy Vidra\, this one-time workshop focuses mor
+ e broadly on themes related to depression\, anxiety\, or major life change
+ s. Through the process of art making\, participants will have opportunitie
+ s for discussion\, education\, and connecting with peers in a safe and sup
+ portive space.\n\nREGISTRATION ONLINE IS REQUIRED IN ADVANCE through the P
+ ence Gallery's website\, and space is limited to the first 8 participants 
+ who register. Participants must be 18 or older\, and no art experience is 
+ necessary. This program is generously sponsored by Bob & Joanne Andresen.\
+ n\nHealing Arts One-Time Workshop\nMonday\, March 23\, 10-11:45 AM\n$5 Mem
+ bers\, $10 Non-Members (all materials included)\n\n**Reminder - an RSVP on
+  Meetup does NOT count as registration. Registration is required in advanc
+ e through the [Pence’s website (CLICK HERE)](https://pencegallery.org/ed
+ ucation/programs/workshops-and-classes/).**\n\n\\*If you register for this
+  session and are unable to attend\, please let us know in advance.\n\nAny 
+ questions? Email pencegallery@gmail.com.
+URL;VALUE=URI:https://www.meetup.com/pence-adult-art-programs/events/31310
+ 0924/
+STATUS:CONFIRMED
+CREATED:20260128T204315Z
+LAST-MODIFIED:20260128T204315Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/313060114/"}
+X-SOURCE-ID:meetup_mindful_embodied_spirituality
+X-SOURCE:Meetup Mindful Embodied Spirituality
+UID:event_313060114@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000004Z
+DTSTART;TZID=America/Los_Angeles:20260323T180000
+DTEND;TZID=America/Los_Angeles:20260323T200000
+SUMMARY:Conscious Conversations & Embodied Listening  
+DESCRIPTION:Iama Embodied Community\nThis is a spiritual community that ho
+ nors the body’s wisdom and lived experience. Whether you’re healing fr
+ om religious trauma\, deconstructing beliefs\, exploring spirituality\, or
+  just want to be with other conscious persons\, this space is for you.\n\n
+ Expect conscious conversations\, meditation\, breathwork\, sound healing\,
+  and other somatic practices to help reconnect with ourselves and each oth
+ er.\n\nwe share a potluck dinner every last Monday of the month.\n\n📅 *
+ *Date & Time**: Mondays 6-8 PM\n📍 **Location**: 727 T St. Sacramento\, 
+ Ca\, 95811\n💜 **All our events are free\, donations supported.**\n✨ *
+ *No prior experience or spiritual beliefs necessary.**\n📩 **RSVP/ Quest
+ ions? Reach out at** embody.iama@gmail.com\n🔗 **Follow us on Instagram:
+ ** [@embody.iama](https://www.instagram.com/embody.iama)\n\nPS: we meet in
+  the social hall of Parkview Presbyterian Church. Please find us through t
+ he back entrance\, the brown gate on Solons alley. You may park in the bac
+ k\, move the orange post to park and please return it when you leave.
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ 313060114/
+STATUS:CONFIRMED
+CREATED:20260126T055150Z
+LAST-MODIFIED:20260126T055150Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Pence Adult Art Programs": "https://www.meetup.com/pence-adult-art-programs/events/313423126/"}
+X-SOURCE-ID:meetup_pence_adult_art_programs
+X-SOURCE:Meetup Pence Adult Art Programs
+UID:event_313423126@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000003Z
+DTSTART;TZID=America/Los_Angeles:20260324T100000
+DTEND;TZID=America/Los_Angeles:20260324T120000
+SUMMARY:Intermediate Watercolor Painting with Misuk Goltz (6-Sessions)
+DESCRIPTION:Pence Adult Art Programs\nIn this 6-week workshop\, students w
+ ill create watercolor paintings inspired by Misuk’s recent travels to It
+ aly\, Croatia\, Montenegro\, Greece\, and Turkey. Using these Mediterranea
+ n image references\, participants will explore landscape\, architectural\,
+  and figurative subjects rich in light\, atmosphere and color. Students wi
+ ll focus on designing harmonious compositions\, developing value studies f
+ or each subject\, and working with limited color palettes to achieve cohes
+ ive\, painterly results. For this workshop\, participants should have prio
+ r experience with watercolor techniques and color blending.\n\nIntermediat
+ e Watercolor Painting with Misuk Goltz\nTuesdays\, 10 AM - 12 PM\nMar. 24\
+ , 31 & Apr. 7\, 14\, 21 & May 5 (no class Apr. 28)\n$195 Members \\| $215 
+ Non\\-Members \\(Materials not included\\)\n\n**Registration is required i
+ n advance through the Pence's website ([CLICK HERE](https://pencegallery.o
+ rg/education/programs/workshops-and-classes/)).**\n\nAny questions? Email 
+ pencegallery@gmail.com.
+URL;VALUE=URI:https://www.meetup.com/pence-adult-art-programs/events/31342
+ 3126/
+STATUS:CONFIRMED
+CREATED:20260219T021238Z
+LAST-MODIFIED:20260219T021238Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/313659673/"}
+X-SOURCE-ID:meetup_yolo_county_board_game_gathering
+X-SOURCE:Meetup Yolo County Board Game Gathering
+UID:event_313659673@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000003Z
+DTSTART;TZID=America/Los_Angeles:20260325T170000
+DTEND;TZID=America/Los_Angeles:20260325T210000
+SUMMARY:Weekly Game Night at Blue Note
+DESCRIPTION:Yolo County Board Game Gathering\nUpdate 8/14/25:\n**We're sti
+ ll active**\, but we primarily use Discord to chat and plan events. (See g
+ roup description for invite link.)\n\nWe still meet every Wednesday for bo
+ ard games at Blue Note Brewing Company. We'll have a handful of tables res
+ erved near the back\; just look for the pile of board games.\n\nPeople usu
+ ally start arriving around 5pm\, and games start whenever people are ready
+ . Blue Note closes at 9pm\, and although we have a 5-10 minute grace perio
+ d there\, you should be in the process of final scoring by 9\, or else pac
+ k it up and play again another day.\n\nGame night is open to all ages! Blu
+ e Note is a brewery\, not a bar\, so there's no restriction against minors
+ . In addition to their crafted-in-house beer selection\, water and sodas a
+ re available.\n\nYou're not required to buy anything in order to join us\,
+  but we do encourage you to support local businesses. Blue Note's chef tea
+ m makes a mean pizza\, and there are other nearby downtown restaurants and
+  businesses.
+URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
+ ts/313659673/
+STATUS:CONFIRMED
+CREATED:20260306T014350Z
+LAST-MODIFIED:20260306T014350Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/313060115/"}
+X-SOURCE-ID:meetup_mindful_embodied_spirituality
+X-SOURCE:Meetup Mindful Embodied Spirituality
+UID:event_313060115@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000004Z
+DTSTART;TZID=America/Los_Angeles:20260326T180000
+DTEND;TZID=America/Los_Angeles:20260326T191000
+SUMMARY:Free Yoga Practice
+DESCRIPTION:Iama Embodied Community\n🌀 **Move with intention. Connect w
+ ith your body. Celebrate community.**\n\nJoin us every **Thursday at 6 PM*
+ * for an embodied yoga practice designed to help you release tension\, gro
+ und yourself\, and cultivate presence. This is a trauma-informed\, all-lev
+ els class\, no prior yoga experience needed. Expect a Hatha-Vinyasa flow\,
+  breathwork\, and a space to listen to your body’s wisdom.\n\n🌿 **Eve
+ ry last Thursday of the month\, stay after class for a community potluck d
+ inner!**\n\n📍 **Location**: 727 T St. Sacramento CA 95811\n✨ **All ou
+ r events are free. Donations are welcome.**\n📩 **Questions? Reach out a
+ t** embody.iama@gmail.com\n🔗 **Follow us on Instagram:** [@embody.iama]
+ (https://www.instagram.com/embody.iama)
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ 313060115/
+STATUS:CONFIRMED
+CREATED:20260126T055151Z
+LAST-MODIFIED:20260126T055151Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/yolofest-a-weekend-to-explore-yolo-county/", "Visityolo Event": "https://visityolo.com/event/yolofest-a-weekend-to-explore-yolo-county/"}
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/yolofest-a-weekend-to-explore-yolo-county/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis, Visityolo Event
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260330
+DTSTAMP:20260309T170007
+CREATED:20260213T222310Z
+LAST-MODIFIED:20260214T005322Z
+UID:10002808-1774569600-1774828799@visitdavis.org
+SUMMARY:YOLOFEST: A Weekend To Explore Yolo County
+DESCRIPTION:A weekend to savor\, explore\, and celebrate Yolo County\, California\nJoin us as we welcome spring during a weekend-long celebration of everything that makes Yolo County unforgettable! \nBest known for its wine country\, Yolo County is also a must-visit destination for farm to table dining\, small town charm\, and of its calming sense of escape from the nearby hustle and bustle of city life. \nExplore the area’s top destinations\, shops\, experiences\, and more during YoloFest! \nVisit the event landing page to find events happening all weekend and lodging specials.
+URL:https://visitdavis.org/event/yolofest-a-weekend-to-explore-yolo-county/
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/YoloFest_Winters.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-03-27/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260327T110000
+DTEND;TZID=America/Los_Angeles:20260327T180000
+DTSTAMP:20260309T170010
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013228-1774609200-1774634400@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-03-27/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/barrel-tasting-and-tour/", "Visityolo Event": "https://visityolo.com/event/barrel-tasting-and-tour/"}
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/barrel-tasting-and-tour/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis, Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260327T160000
+DTEND;TZID=America/Los_Angeles:20260327T170000
+DTSTAMP:20260309T170007
+CREATED:20260128T234247Z
+LAST-MODIFIED:20260309T234215Z
+UID:10002795-1774627200-1774630800@visitdavis.org
+SUMMARY:Barrel Tasting and Tour
+DESCRIPTION:🍷 Barrel Tasting & Tour at Great Bear Vineyards in Davis 🍷\nFriday\, March 27 | 4:00 PM \nEver wondered what our wines taste like before they hit the bottle? This is your chance to find out—and it’s a pretty special one. \nJoin us for an intimate Barrel Tasting & Tour\, where you’ll sip\, stroll\, and sneak behind the scenes at Great Bear Vineyards. This rare experience includes a guided flight of five wines\, with select tastes straight from the barrel—yes\, the barrel! You’ll be led by one of our owners\, winemakers\, or senior wine educators as they share stories\, secrets\, and the craft behind our award-winning\, estate-grown wines. \n✨ Your ticket includes:\n• Flight of 5 wines\n• Barrel samples (a rare treat!)\n• Vineyard walk & behind-the-scenes barrel room tour\n• Insider knowledge from the people who make the wine \nAnd because it’s Friday… we’re keeping the party going! 🎶🍕\nStick around for Friday-Fest with live jazz from the Potential Jazz Ensemble and delicious wood-fired pizza from Italian Brother’s Pizza. \nCome for the barrels\, stay for the vibes. We can’t wait to welcome you! 🍷🔥
+URL:https://visitdavis.org/event/barrel-tasting-and-tour/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/png:https://visitdavis.org/wp-content/uploads/3-27-Barrel-Tasting-Thumbnail-q0Hr3I.png
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/friday-fest/", "Visityolo Event": "https://visityolo.com/event/friday-fest/"}
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/friday-fest/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis, Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260327T170000
+DTEND;TZID=America/Los_Angeles:20260327T200000
+DTSTAMP:20260309T170007
+CREATED:20260128T234243Z
+LAST-MODIFIED:20260309T234215Z
+UID:10002793-1774630800-1774641600@visitdavis.org
+SUMMARY:Friday-Fest
+DESCRIPTION:🎷🍕 Friday-Fest at Great Bear Vineyards in Davis 🍷🎶\nFriday\, March 27 | 5–8 PM \nLive Music Friday’s are back! Join us for Friday-Fest\, featuring live jazz from the Potential Jazz Ensemble and fresh\, wood-fired pizza from Italian Brother’s Pizza. Your ticket includes a glass of wine and live music—the perfect pairing. \n🍕 Food starts at 5 PM with authentic\, made-to-order pizzas hot from the wood-fired oven.\n🎶 Live music from 6–7:30 PM\, with the Potential Jazz Ensemble bringing vibrant\, feel-good jazz that blends classic roots with modern creativity. Expect smooth grooves\, lively solos\, and great energy from this talented lineup of sax\, bass\, guitar\, piano\, and percussion. \nCome early\, grab a slice\, sip some wine\, and settle in for a relaxed\, delicious evening at the vineyard. Weekend vibes start here! 🍷✨
+URL:https://visitdavis.org/event/friday-fest/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Highway128PressTrip_GreatBearVineyards_2024_MaxWhittaker_12-Copy-scaled-OoIRnT.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-88/", "Visityolo Event": "https://visityolo.com/event/davis-farmers-market-2/2026-03-28/"}
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-88/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis, Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260328T080000
+DTEND;TZID=America/Los_Angeles:20260328T130000
+DTSTAMP:20260309T170007
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260103T234411Z
+UID:10002774-1774684800-1774702800@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/313545794/"}
+X-SOURCE-ID:meetup_mindful_embodied_spirituality
+X-SOURCE:Meetup Mindful Embodied Spirituality
+UID:event_313545794@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000004Z
+DTSTART;TZID=America/Los_Angeles:20260328T094500
+DTEND;TZID=America/Los_Angeles:20260328T131500
+SUMMARY:A Guided Nature Walk (Free event)
+DESCRIPTION:Iama Embodied Community\nJoin Michael for a guided exploration
+  into the practice of slowing down and deepening our relationship with the
+  natural world. This immersive walk invites participants to engage with th
+ e subtle intelligence of the landscape\, from Blue Oaks and seasonal wildf
+ lowers to the presence of scrub jays overhead. Together\, we will explore 
+ how to “read” trees\, interpret the wind\, and sit in quiet reflection
+  with grandmother trees. Along the way\, we will open conversation about h
+ ow nature teaches\, communicates\, and invites us into deeper awareness.\n
+ \n**Location:** Sterling Pointe Ct\, Loomis\, CA 95650\n**Distance:** 3.2 
+ miles\n**Elevation Gain:** 375 feet\n**Level:** Easy to Moderate\n**Pace:*
+ * Slow\, with frequent stops for observation and discussion\n**Meet at tra
+ ilhead:** 9:30 AM\n**Hike Begins:** 9:45 AM\n**End Time:** 1:15 PM\n\nPlea
+ se bring lunch\, water\, and appropriate footwear.\nThis experience is des
+ igned not as a workout\, but as a practice in presence.\n\n### About the g
+ uide\n\nMichael is a lifelong hiker\, backpacker\, and outdoor enthusiast.
+  He is WFR-trained and adult CPR-certified. Michael’s connection to the 
+ land has been shaped by journeys through places like Death Valley and the 
+ Grand Canyon\, though his true roots run deep in Mount Diablo. Guided by c
+ uriosity and a love of self-studying trees and plants\, he has learned the
+  languages of wind\, water\, and earth—finding meaning in slowing down a
+ nd walking with presence.\n\n**P.S.** If you wish to carpool from Sacramen
+ to\, meet at Parkview Presbyterian Church’s parking lot on 727 T st at 8
+ :30 AM. We will be leaving at 8:45 sharp.
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ 313545794/
+STATUS:CONFIRMED
+CREATED:20260226T212006Z
+LAST-MODIFIED:20260226T212006Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/cooking-class-at-great-bear-vineyards/", "Visityolo Event": "https://visityolo.com/event/cooking-class-at-great-bear-vineyards/"}
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/cooking-class-at-great-bear-vineyards/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis, Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260328T110000
+DTEND;TZID=America/Los_Angeles:20260328T133000
+DTSTAMP:20260309T170007
+CREATED:20260205T234334Z
+LAST-MODIFIED:20260309T234216Z
+UID:10002804-1774695600-1774704600@visitdavis.org
+SUMMARY:Cooking Class at Great Bear Vineyards
+DESCRIPTION:🥖🍷 Tapas Cooking Class at Great Bear Vineyards in Davis 🍷🥖\nSaturday\, March 28 | 11:00 AM–1:30 PM \n¡Vamos a España—no passport required! Join us for a fun\, hands-on Vegan Tapas Cooking Class where bold Spanish flavors meet creative plant-based cooking. Led by the amazing Chef Maggie\, founder of V-Karma\, this interactive class will have you chopping\, blending\, tasting\, and sipping wine while learning skills you’ll actually use at home. \n✨ Your ticket includes the cooking class + wine \n🍅 On the Menu:\n• Savory Spanish olive tapenade with barra de pan\n• Spanish-style tomato & butter bean dip\n• Cultured cashew cream cheese\n• Strawberry cashew cream cheese\n• Soft\, fluffy tofu ricotta \n🔪 You’ll learn:\n• Essential knife skills\n• How to confidently use blenders & kitchen tools\n• Basics of plant-based fermentation\n• How to make cultured cashew cheeses & tofu ricotta \nWhether you’re vegan\, veg-curious\, or just love Mediterranean flavors\, this is a deliciously creative way to spend your Saturday. Come hungry\, sip some wine\, and leave inspired! 🌱✨
+URL:https://visitdavis.org/event/cooking-class-at-great-bear-vineyards/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-03-28/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260328T110000
+DTEND;TZID=America/Los_Angeles:20260328T180000
+DTSTAMP:20260309T170010
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013229-1774695600-1774720800@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-03-28/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/beetlejuice-jr/2026-03-28/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260328T140000
+DTEND;TZID=America/Los_Angeles:20260328T160000
+DTSTAMP:20260309T170010
+CREATED:20250724T211913Z
+LAST-MODIFIED:20250724T211913Z
+UID:10010784-1774706400-1774713600@visityolo.com
+SUMMARY:Beetlejuice Jr
+DESCRIPTION:Beetlejuice Jr – March 14 through April 5\, 2026\nSchool Matinees: March 31\, 2026; 9:15am and noon \n  \nIt’s our show now\, kid. The ghost-with-the-most comes to the stage in Beetlejuice JR.\, the frightfully funny musical based on the beloved motion picture turned Broadway phenomenon. Lydia Deetz is a strange and unusual teenager\, still grieving the loss of her mother and obsessed with the whole “being dead thing.” Lucky for Lydia\, she and her father move to a new house haunted by a recently deceased couple and Beetlejuice\, a delightful demon with a real zest for life. When Lydia calls on Beetlejuice to scare away anyone with a pulse\, this double-crossing specter shows his true stripes\, unleashing a (Nether)world of pandemonium. \nRecommended for ages 10 & up \n  \nDirected by Tea Pusey\nChoreographed by Logan Sexton\nMusical direction by Montana Monce
+URL:https://visityolo.com/event/beetlejuice-jr/2026-03-28/
+LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Beetlejuice-Jr.jpg
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/313703660/"}
+X-SOURCE-ID:meetup_mosaics
+X-SOURCE:Meetup: Mosaics
+UID:event_313703660@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000002Z
+DTSTART;TZID=America/Los_Angeles:20260328T160000
+DTEND;TZID=America/Los_Angeles:20260328T170000
+SUMMARY:Mosaics Beginning Spanish on Zoom
+DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics This W
+ inter 2025–2026!**\n\nJoin us for a vibrant and uplifting season of virt
+ ual learning and community from **December 20\, 2025 to March 28\, 2026**
+ —all from the comfort of your home on Zoom!\n\n**Zoom Link:** [https://z
+ oom.us/j/589676463](https://zoom.us/j/589676463)\n\n**Bi-Weekly Friday Zoo
+ m Sessions** *(Every 2nd and 4th Friday)*\n• **4:00 PM** – Advanced Ko
+ rean with Stephen\n• **5:00 PM** – Intermediate Conversational Chinese
+  with Sam\n• **6:00 PM** – Bible Study & Meditation Group with Stephen
+ \n• **7:00 PM** – Beginning Chinese with Jane\n\n**Weekly Saturday Zoo
+ m Sessions** (total of 12 sessions)\n• **4:00 PM** – Beginning Spanish
+  with Viviana\n• **5:00 PM** – Beginning to Intermediate Korean with S
+ tephen\n• **6:00 PM** – Beginning to Intermediate Japanese with Norio\
+ n• **7:00 PM** – English Learners Group with Linda & Chad\n\n**Importa
+ nt Notes:**\n\n1. **No Zoom sessions** on **January 2–3\, 2026** (New Ye
+ ar) and **April 3–4\, 2026** (Easter).\n2. **Special Gatherings (Tentati
+ ve):**\n**• February 14\, 2026:** Valentine’s Day & pre–Lunar New Ye
+ ar celebration in person at Phoenix Hall\, 2nd Floor\, Davis Community Chu
+ rch.\n**• March 14\, 2026:** Additional in-person gathering (tentative).
+ \n\n**Return to In-Person Meetings:**\nWe will resume our **regular in-per
+ son gatherings on April 11\, 2026** at the **2nd floor rooms of Phoenix Ha
+ ll\, Davis Community Church**.\n\nFor more information about Intercultural
+  Mosaics classes and activities\, visit **[www.nextg.org](http://www.nextg
+ .org)** or contact **Dr. Stephen Moon** at **916-217-5470** or **catalyst@
+ nextg.org**.
+URL;VALUE=URI:https://www.meetup.com/mosaics/events/313703660/
+STATUS:CONFIRMED
+CREATED:20260308T234010Z
+LAST-MODIFIED:20260308T234010Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/313704302/"}
+X-SOURCE-ID:meetup_mosaics
+X-SOURCE:Meetup: Mosaics
+UID:event_313704302@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000002Z
+DTSTART;TZID=America/Los_Angeles:20260328T170000
+DTEND;TZID=America/Los_Angeles:20260328T180000
+SUMMARY:Mosaics Beginning Korean on Zoom
+DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics This W
+ inter 2025–2026!**\n\nJoin us for a vibrant and uplifting season of virt
+ ual learning and community from **December 20\, 2025 to March 28\, 2026**
+ —all from the comfort of your home on Zoom!\n\n**Zoom Link:** [https://z
+ oom.us/j/589676463](https://zoom.us/j/589676463)\n\n**Bi-Weekly Friday Zoo
+ m Sessions** *(Every 2nd and 4th Friday)*\n• **4:00 PM** – Advanced Ko
+ rean with Stephen\n• **5:00 PM** – Intermediate Conversational Chinese
+  with Sam\n• **6:00 PM** – Bible Study & Meditation Group with Stephen
+ \n• **7:00 PM** – Beginning Chinese with Jane\n\n**Weekly Saturday Zoo
+ m Sessions** (total of 12 sessions)\n• **4:00 PM** – Beginning Spanish
+  with Viviana\n• **5:00 PM** – Beginning to Intermediate Korean with S
+ tephen\n• **6:00 PM** – Beginning to Intermediate Japanese with Norio\
+ n• **7:00 PM** – English Learners Group with Linda & Chad\n\n**Importa
+ nt Notes:**\n\n1. **No Zoom sessions** on **January 2–3\, 2026** (New Ye
+ ar) and **April 3–4\, 2026** (Easter).\n2. **Special Gatherings (Tentati
+ ve):**\n**• February 14\, 2026:** Valentine’s Day & pre–Lunar New Ye
+ ar celebration in person at Phoenix Hall\, 2nd Floor\, Davis Community Chu
+ rch.\n**• March 14\, 2026:** Additional in-person gathering (tentative).
+ \n\n**Return to In-Person Meetings:**\nWe will resume our **regular in-per
+ son gatherings on April 11\, 2026** at the **2nd floor rooms of Phoenix Ha
+ ll\, Davis Community Church**.\n\nFor more information about Intercultural
+  Mosaics classes and activities\, visit **[www.nextg.org](http://www.nextg
+ .org)** or contact **Dr. Stephen Moon** at **916-217-5470** or **catalyst@
+ nextg.org**.
+URL;VALUE=URI:https://www.meetup.com/mosaics/events/313704302/
+STATUS:CONFIRMED
+CREATED:20260309T004156Z
+LAST-MODIFIED:20260309T004156Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/paired-to-perfection-a-six-course-wine-and-culinary-experience/", "Visityolo Event": "https://visityolo.com/event/paired-to-perfection-a-six-course-wine-and-culinary-experience/"}
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/paired-to-perfection-a-six-course-wine-and-culinary-experience/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis, Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260328T180000
+DTEND;TZID=America/Los_Angeles:20260328T203000
+DTSTAMP:20260309T170007
+CREATED:20260205T234335Z
+LAST-MODIFIED:20260309T234216Z
+UID:10002805-1774720800-1774729800@visitdavis.org
+SUMMARY:Paired to Perfection: A Six Course Wine and Culinary Experience
+DESCRIPTION:Paired to Perfection: A Six-Course Wine & Culinary Experience in Davis Saturday\, March 28 | 6:00–8:30 pm\nGet ready for an unforgettable evening where food and wine truly speak the same language.\nJoin us at Great Bear Vineyards for an elegant\, immersive dining experience featuring a six-course\, chef-crafted menu\, each dish thoughtfully paired with our estate-grown wines. This is more than dinner—it’s a journey through seasonal ingredients\, inspired techniques\, and wines designed to shine alongside every bite.\nEach course is carefully curated to highlight balance\, contrast\, and harmony between the plate and the glass—showcasing what happens when great food meets great wine \n Ticket Options:• Dinner Only: $65 + 20% gratuity = $78• Dinner + Paired Wines: $100 + 20% gratuity = $120\n Sample Menu (Inspired by Past Culinary Highlights):• Crisp Fish Tacos — paired with Albariño• Spicy Tuna Tartare — paired with Sauvignon Blanc• Slow-Braised Pork Belly — paired with Chardonnay Frizzante or Tempranillo 2021• Lamb Medallion — paired with Vintner’s Blend 2019• Steak & Mash — paired with Cabernet Sauvignon\, Grand Reserve 2020• Olive Oil Cake with Pistachio Icing — paired with our white port-style dessert wine\n Vegetarian guests welcome! A full vegetarian menu is available upon request.\nThis intimate evening is perfect for food lovers\, wine enthusiasts\, date nights\, or anyone who enjoys savoring life one course at a time. Come experience the essence of Great Bear Vineyards—where every sip and every bite tells a story of craftsmanship\, community\, and California wine country magic.\n Limited seating. Advance tickets required.
+URL:https://visitdavis.org/event/paired-to-perfection-a-six-course-wine-and-culinary-experience/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-03-29/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260329T110000
+DTEND;TZID=America/Los_Angeles:20260329T180000
+DTSTAMP:20260309T170010
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013230-1774782000-1774807200@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-03-29/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/cheese-and-wine-pairing/", "Visityolo Event": "https://visityolo.com/event/cheese-and-wine-pairing/"}
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/cheese-and-wine-pairing/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis, Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260329T120000
+DTEND;TZID=America/Los_Angeles:20260329T150000
+DTSTAMP:20260309T170007
+CREATED:20260202T192706Z
+LAST-MODIFIED:20260309T234215Z
+UID:10002801-1774785600-1774796400@visitdavis.org
+SUMMARY:Cheese and Wine Pairing
+DESCRIPTION:Wine & Cheese Pairing Experience at Great Bear Vineyards in Davis Sunday\, March 29 | 12:00–3:00 pm\nIf wine and cheese are your love language\, this one’s for you.\nJoin us at Great Bear Vineyards for an afternoon of delicious discovery featuring a curated flight of four award-winning wines\, each thoughtfully paired with a premium artisan cheese designed to bring out the very best in both. It’s indulgent\, flavorful\, and dangerously easy to fall in love with every pairing.\n Want to elevate your experience?Add an exclusive behind-the-scenes barrel room tour\, where you’ll see our winemaking process up close and sample estate-grown wines straight from the barrel—a rare and memorable treat.\nThis experience is perfect whether you’re a devoted foodie\, a curious wine lover\, or simply in the mood for something delightfully decadent. You’ll get the chance to:• Savor the unique profiles of our handcrafted wines• Discover why certain cheeses make wines shine• Pick up fun\, easy pairing tips—or just relax and enjoy every bite and sip\nBring your favorite people and let the flavors unfold. The pairing offers a hearty\, satisfying tasting with a focus on flavor harmony. Additional wine and snacks will be available for purchase if you’d like to linger a little longer.\n Tickets required. Space is limited—come sip\, snack\, and savor with us!
+URL:https://visitdavis.org/event/cheese-and-wine-pairing/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/313060116/"}
+X-SOURCE-ID:meetup_mindful_embodied_spirituality
+X-SOURCE:Meetup Mindful Embodied Spirituality
+UID:event_313060116@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000004Z
+DTSTART;TZID=America/Los_Angeles:20260330T180000
+DTEND;TZID=America/Los_Angeles:20260330T200000
+SUMMARY:Conscious Conversations & Embodied Listening  
+DESCRIPTION:Iama Embodied Community\nThis is a spiritual community that ho
+ nors the body’s wisdom and lived experience. Whether you’re healing fr
+ om religious trauma\, deconstructing beliefs\, exploring spirituality\, or
+  just want to be with other conscious persons\, this space is for you.\n\n
+ Expect conscious conversations\, meditation\, breathwork\, sound healing\,
+  and other somatic practices to help reconnect with ourselves and each oth
+ er.\n\nwe share a potluck dinner every last Monday of the month.\n\n📅 *
+ *Date & Time**: Mondays 6-8 PM\n📍 **Location**: 727 T St. Sacramento\, 
+ Ca\, 95811\n💜 **All our events are free\, donations supported.**\n✨ *
+ *No prior experience or spiritual beliefs necessary.**\n📩 **RSVP/ Quest
+ ions? Reach out at** embody.iama@gmail.com\n🔗 **Follow us on Instagram:
+ ** [@embody.iama](https://www.instagram.com/embody.iama)\n\nPS: we meet in
+  the social hall of Parkview Presbyterian Church. Please find us through t
+ he back entrance\, the brown gate on Solons alley. You may park in the bac
+ k\, move the orange post to park and please return it when you leave.
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ 313060116/
+STATUS:CONFIRMED
+CREATED:20260126T055156Z
+LAST-MODIFIED:20260126T055156Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/banff-mountain-film-festival-rocknasium/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260331T183000
+DTEND;TZID=America/Los_Angeles:20260331T220000
+DTSTAMP:20260309T170007
+CREATED:20260224T004243Z
+LAST-MODIFIED:20260309T234215Z
+UID:10002809-1774981800-1774994400@visitdavis.org
+SUMMARY:Banff Mountain Film Festival @ Rocknasium
+DESCRIPTION:Rocknasium in Davis is excited to host another year of the Banff Mountain Film Festival world tour! The evening will feature different multiple award-winning films that explore adventure\, environmental issues\, and action sports. There will also be a prize draw during intermission with prizes from Banff international sponsors & local Davis sponsors!
+URL:https://visitdavis.org/event/banff-mountain-film-festival-rocknasium/
+LOCATION:Richard Brunelle Performance Hall\, 315 W 14th Street\, DAVIS\, CA\, 95616\, United States
+ORGANIZER;CN="Rocknasium the Climbing Gym":MAILTO:info@rocknasium.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/mxnqstyjcgbcb/"}
+X-SOURCE-ID:meetup_yolo_county_board_game_gathering
+X-SOURCE:Meetup Yolo County Board Game Gathering
+UID:event_mxnqstyjcgbcb@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000003Z
+DTSTART;TZID=America/Los_Angeles:20260401T170000
+DTEND;TZID=America/Los_Angeles:20260401T210000
+SUMMARY:Blood on the Clocktower at Blue Note
+DESCRIPTION:Yolo County Board Game Gathering\nThe first Wednesday of every
+  month\, we play _Blood on the Clocktower_\, a social deduction game in th
+ e vein of Werewolf/Mafia/The Resistance\, with a few twists!\n\nWe'll have
+  a circle of chairs reserved inside Blue Note\, near the back\, with a Yol
+ o County Board Game Gathering sign on the table. Just say hello\, and we'l
+ l show you some games\, pull some players together\, and get to having fun
+ !\n\nWe also usually have a few tables of players playing other board game
+ s\, if social deduction isn't your bag!\n\nGet a feel for Blood on the Clo
+ cktower here: https://youtu.be/4sfa8_kNxsQ
+URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
+ ts/mxnqstyjcgbcb/
+STATUS:CONFIRMED
+CREATED:20250814T213807Z
+LAST-MODIFIED:20250814T213807Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults/2026-04-01/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20260401T190000
+DTEND;TZID=UTC:20260401T200000
+DTSTAMP:20260310T000010
+CREATED:20250609T205334Z
+LAST-MODIFIED:20250609T205334Z
+UID:10000246-1775070000-1775073600@hatefreetogether.org
+SUMMARY:NAMI Connection Support Group for Young Adults
+DESCRIPTION:NAMI Connection Support Group for Young Adults is a free\, peer-led support group for anyone between the ages 18 and 26 who has experienced symptoms of a mental health condition. Mental health conditions include anxiety disorder\, depression\, bipolar disorder\, obsessive-compulsive disorder\, post-traumatic stress disorder\, schizophrenia\, or any condition that affects a person’s ability to lead a fulfilling life. You do not need a formal diagnosis to attend this support group; any young person concerned with their mental health and seeking support may attend. NAMI Connection for Young Adults provides resources to help young people build a support network and access help. Participants will learn together how to establish and maintain wellness. \nYou do not need a formal diagnosis to attend. Anyone who is seeking mental health support may attend. \nWhat You’ll Gain\nBy sharing your experiences in a safe and confidential setting\, you will experience connection\, receive information about resources\, and learn coping strategies. The group encourages empathy\, productive discussion and a sense of community. You’ll benefit from other’s experiences\, discover your inner strength\, and receive support by sharing your own experiences in a non-judgmental space. \n  \nNAMI Connection Support Group for Young Adults meets on the first Wednesday of the month (in person) and on the third Wednesday of the month  (via Zoom) from 7pm-8pm.  \nTo register for in-person or virtual meetings\, please visit: https://namiyolo.org/support-and-education/nami-yolo-county-support-groups/young-adult-connection-support-group/. \nIf you have any questions\, please email: friends@namiyolo.org.
+URL:https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults/2026-04-01/
+LOCATION:CA
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/313060117/"}
+X-SOURCE-ID:meetup_mindful_embodied_spirituality
+X-SOURCE:Meetup Mindful Embodied Spirituality
+UID:event_313060117@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000004Z
+DTSTART;TZID=America/Los_Angeles:20260402T180000
+DTEND;TZID=America/Los_Angeles:20260402T191000
+SUMMARY:Free Yoga Practice
+DESCRIPTION:Iama Embodied Community\n🌀 **Move with intention. Connect w
+ ith your body. Celebrate community.**\n\nJoin us every **Thursday at 6 PM*
+ * for an embodied yoga practice designed to help you release tension\, gro
+ und yourself\, and cultivate presence. This is a trauma-informed\, all-lev
+ els class\, no prior yoga experience needed. Expect a Hatha-Vinyasa flow\,
+  breathwork\, and a space to listen to your body’s wisdom.\n\n🌿 **Eve
+ ry last Thursday of the month\, stay after class for a community potluck d
+ inner!**\n\n📍 **Location**: 727 T St. Sacramento CA 95811\n✨ **All ou
+ r events are free. Donations are welcome.**\n📩 **Questions? Reach out a
+ t** embody.iama@gmail.com\n🔗 **Follow us on Instagram:** [@embody.iama]
+ (https://www.instagram.com/embody.iama)
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ 313060117/
+STATUS:CONFIRMED
+CREATED:20260126T055157Z
+LAST-MODIFIED:20260126T055157Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/lczxttyjcgbjb/"}
+X-SOURCE-ID:meetup_mindful_embodied_spirituality
+X-SOURCE:Meetup Mindful Embodied Spirituality
+UID:event_lczxttyjcgbjb@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000004Z
+DTSTART;TZID=America/Los_Angeles:20260406T180000
+DTEND;TZID=America/Los_Angeles:20260406T200000
+SUMMARY:Conscious Conversations & Embodied Listening  
+DESCRIPTION:Iama Embodied Community\nThis is a spiritual community that ho
+ nors the body’s wisdom and lived experience. Whether you’re healing fr
+ om religious trauma\, deconstructing beliefs\, exploring spirituality\, or
+  just want to be with other conscious persons\, this space is for you.\n\n
+ Expect conscious conversations\, meditation\, breathwork\, sound healing\,
+  and other somatic practices to help reconnect with ourselves and each oth
+ er.\n\nwe share a potluck dinner every last Monday of the month.\n\n📅 *
+ *Date & Time**: Mondays 6-8 PM\n📍 **Location**: 727 T St. Sacramento\, 
+ Ca\, 95811\n💜 **All our events are free\, donations supported.**\n✨ *
+ *No prior experience or spiritual beliefs necessary.**\n📩 **RSVP/ Quest
+ ions? Reach out at** embody.iama@gmail.com\n🔗 **Follow us on Instagram:
+ ** [@embody.iama](https://www.instagram.com/embody.iama)\n\nPS: we meet in
+  the social hall of Parkview Presbyterian Church. Please find us through t
+ he back entrance\, the brown gate on Solons alley. You may park in the bac
+ k\, move the orange post to park and please return it when you leave.
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ lczxttyjcgbjb/
+STATUS:CONFIRMED
+CREATED:20251121T210501Z
+LAST-MODIFIED:20251121T210501Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/vwnqstyjcgblb/"}
+X-SOURCE-ID:meetup_yolo_county_board_game_gathering
+X-SOURCE:Meetup Yolo County Board Game Gathering
+UID:event_vwnqstyjcgblb@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000003Z
+DTSTART;TZID=America/Los_Angeles:20260408T170000
+DTEND;TZID=America/Los_Angeles:20260408T210000
+SUMMARY:Weekly Game Night at Blue Note
+DESCRIPTION:Yolo County Board Game Gathering\nUpdate 8/14/25:\n**We're sti
+ ll active**\, but we primarily use Discord to chat and plan events. (See g
+ roup description for invite link.)\n\nWe still meet every Wednesday for bo
+ ard games at Blue Note Brewing Company. We'll have a handful of tables res
+ erved near the back\; just look for the pile of board games.\n\nPeople usu
+ ally start arriving around 5pm\, and games start whenever people are ready
+ . Blue Note closes at 9pm\, and although we have a 5-10 minute grace perio
+ d there\, you should be in the process of final scoring by 9\, or else pac
+ k it up and play again another day.\n\nGame night is open to all ages! Blu
+ e Note is a brewery\, not a bar\, so there's no restriction against minors
+ . In addition to their crafted-in-house beer selection\, water and sodas a
+ re available.\n\nYou're not required to buy anything in order to join us\,
+  but we do encourage you to support local businesses. Blue Note's chef tea
+ m makes a mean pizza\, and there are other nearby downtown restaurants and
+  businesses.
+URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
+ ts/vwnqstyjcgblb/
+STATUS:CONFIRMED
+CREATED:20250814T213602Z
+LAST-MODIFIED:20250814T213602Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Pence Adult Art Programs": "https://www.meetup.com/pence-adult-art-programs/events/313610437/"}
+X-SOURCE-ID:meetup_pence_adult_art_programs
+X-SOURCE:Meetup Pence Adult Art Programs
+UID:event_313610437@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000003Z
+DTSTART;TZID=America/Los_Angeles:20260409T100000
+DTEND;TZID=America/Los_Angeles:20260409T114500
+SUMMARY:Healing Arts One-Time Workshop
+DESCRIPTION:Pence Adult Art Programs\nPart of the Pence's Healing Arts Pro
+ gram and run by facilitator Amy Vidra\, this one-time workshop focuses mor
+ e broadly on themes related to depression\, anxiety\, or major life change
+ s. Through the process of art making\, participants will have opportunitie
+ s for discussion\, education\, and connecting with peers in a safe and sup
+ portive space.\n\nREGISTRATION ONLINE IS REQUIRED IN ADVANCE through the P
+ ence Gallery's website\, and space is limited to the first 8 participants 
+ who register. Participants must be 18 or older\, and no art experience is 
+ necessary. This program is generously sponsored by Bob & Joanne Andresen.\
+ n\nHealing Arts One-Time Workshop\nThursday\, April 9\, 10-11:45 AM\n$5 Me
+ mbers\, $10 Non-Members (all materials included)\n\n**Reminder - an RSVP o
+ n Meetup does NOT count as registration. Registration is required in advan
+ ce through the [Pence’s website (CLICK HERE)](https://pencegallery.org/e
+ ducation/programs/workshops-and-classes/).**\n\n\\*If you register for thi
+ s session and are unable to attend\, please let us know in advance.\n\nAny
+  questions? Email pencegallery@gmail.com.
+URL;VALUE=URI:https://www.meetup.com/pence-adult-art-programs/events/31361
+ 0437/
+STATUS:CONFIRMED
+CREATED:20260302T233409Z
+LAST-MODIFIED:20260302T233409Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/312345824/"}
+X-SOURCE-ID:meetup_intercultural_mosaics
+X-SOURCE:Meetup Intercultural Mosaics
+UID:event_312345824@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000002Z
+DTSTART;TZID=America/Los_Angeles:20260411T160000
+DTEND;TZID=America/Los_Angeles:20260411T170000
+SUMMARY:Mosaics Acoustic Guitar & Singing Group
+DESCRIPTION:Davis Art\, Music & Outdoor Activities Meetup\n**Discover Inte
+ rcultural Mosaics This Winter 2025–2026!**\n\nJoin us for a vibrant and 
+ uplifting season of virtual learning and community from **December 20\, 20
+ 25 to March 28\, 2026**—all from the comfort of your home on Zoom!\n\n**
+ Registration is required\, and the Zoom link will be provided exclusively 
+ to those who sign up.**\n\n**Bi-Weekly Friday Zoom Sessions** *(Every 2nd 
+ and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\n• **
+ 5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6:00 PM*
+ * – Bible Study & Meditation Group with Stephen\n• **7:00 PM** – Beg
+ inning Chinese with Jane\n\n**Weekly Saturday Zoom Sessions** (total of 12
+  sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n• **5:00
+  PM** – Beginning to Intermediate Korean with Stephen\n• **6:00 PM** 
+ – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** – Eng
+ lish Learners Group with Linda & Chad\n\n**Important Notes:**\n\n1. **No Z
+ oom sessions** on **January 2–3\, 2026** (New Year) and **April 3–4\, 
+ 2026** (Easter).\n2. **Special Gatherings (Tentative):**\n**• February 1
+ 4\, 2026:** Valentine’s Day & pre–Lunar New Year celebration in person
+  at Phoenix Hall\, 2nd Floor\, Davis Community Church.\n**• March 14\, 2
+ 026:** Additional in-person gathering (tentative).\n\n**Return to In-Perso
+ n Meetings:**\nWe will resume our **regular in-person gatherings on April 
+ 11\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Community Chu
+ rch**.\n\nFor more information about Intercultural Mosaics classes and act
+ ivities\, visit **[www.nextg.org](http://www.nextg.org)** or contact **Dr.
+  Stephen Moon** at **916-217-5470** or **catalyst@nextg.org**.
+URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/31234582
+ 4/
+STATUS:CONFIRMED
+CREATED:20251208T004901Z
+LAST-MODIFIED:20251208T004901Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/312245485/"}
+X-SOURCE-ID:meetup_intercultural_mosaics
+X-SOURCE:Meetup Intercultural Mosaics
+UID:event_312245485@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000002Z
+DTSTART;TZID=America/Los_Angeles:20260411T180000
+DTEND;TZID=America/Los_Angeles:20260411T190000
+SUMMARY:Mosaics Intercultural Dinner Fellowship
+DESCRIPTION:Davis Art\, Music & Outdoor Activities Meetup\n**Discover Inte
+ rcultural Mosaics This Winter 2025–2026!**\n\nJoin us for a vibrant and 
+ uplifting season of virtual learning and community from **December 20\, 20
+ 25 to March 28\, 2026**—all from the comfort of your home on Zoom!\n\n**
+ Registration is required\, and the Zoom link will be provided exclusively 
+ to those who sign up.**\n\n**Bi-Weekly Friday Zoom Sessions** *(Every 2nd 
+ and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\n• **
+ 5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6:00 PM*
+ * – Bible Study & Meditation Group with Stephen\n• **7:00 PM** – Beg
+ inning Chinese with Jane\n\n**Weekly Saturday Zoom Sessions** (total of 12
+  sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n• **5:00
+  PM** – Beginning to Intermediate Korean with Stephen\n• **6:00 PM** 
+ – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** – Eng
+ lish Learners Group with Linda & Chad\n\n**Important Notes:**\n\n1. **No Z
+ oom sessions** on **January 2–3\, 2026** (New Year) and **April 3–4\, 
+ 2026** (Easter).\n2. **Special Gatherings (Tentative):**\n**• February 1
+ 4\, 2026:** Valentine’s Day & pre–Lunar New Year celebration in person
+  at Phoenix Hall\, 2nd Floor\, Davis Community Church.\n**• March 14\, 2
+ 026:** Additional in-person gathering (tentative).\n\n**Return to In-Perso
+ n Meetings:**\nWe will resume our **regular in-person gatherings on April 
+ 11\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Community Chu
+ rch**.\n\nFor more information about Intercultural Mosaics classes and act
+ ivities\, visit **[www.nextg.org](http://www.nextg.org)** or contact **Dr.
+  Stephen Moon** at **916-217-5470** or **catalyst@nextg.org**.
+URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/31224548
+ 5/
+STATUS:CONFIRMED
+CREATED:20251201T031005Z
+LAST-MODIFIED:20251201T031005Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/lhkgvtyjcgbpb/"}
+X-SOURCE-ID:meetup_intercultural_mosaics
+X-SOURCE:Meetup Intercultural Mosaics
+UID:event_lhkgvtyjcgbpb@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000002Z
+DTSTART;TZID=America/Los_Angeles:20260411T190000
+DTEND;TZID=America/Los_Angeles:20260411T200000
+SUMMARY:Mosaics Water & Acrylic Painting
+DESCRIPTION:Davis Art\, Music & Outdoor Activities Meetup\n**Discover Inte
+ rcultural Mosaics This Winter 2025–2026!**\n\nJoin us for a vibrant and 
+ uplifting season of virtual learning and community from **December 20\, 20
+ 25 to March 28\, 2026**—all from the comfort of your home on Zoom!\n\n**
+ Registration is required\, and the Zoom link will be provided exclusively 
+ to those who sign up.**\n\n**Bi-Weekly Friday Zoom Sessions** *(Every 2nd 
+ and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\n• **
+ 5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6:00 PM*
+ * – Bible Study & Meditation Group with Stephen\n• **7:00 PM** – Beg
+ inning Chinese with Jane\n\n**Weekly Saturday Zoom Sessions** (total of 12
+  sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n• **5:00
+  PM** – Beginning to Intermediate Korean with Stephen\n• **6:00 PM** 
+ – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** – Eng
+ lish Learners Group with Linda & Chad\n\n**Important Notes:**\n\n1. **No Z
+ oom sessions** on **January 2–3\, 2026** (New Year) and **April 3–4\, 
+ 2026** (Easter).\n2. **Special Gatherings (Tentative):**\n**• February 1
+ 4\, 2026:** Valentine’s Day & pre–Lunar New Year celebration in person
+  at Phoenix Hall\, 2nd Floor\, Davis Community Church.\n**• March 14\, 2
+ 026:** Additional in-person gathering (tentative).\n\n**Return to In-Perso
+ n Meetings:**\nWe will resume our **regular in-person gatherings on April 
+ 11\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Community Chu
+ rch**.\n\nFor more information about Intercultural Mosaics classes and act
+ ivities\, visit **[www.nextg.org](http://www.nextg.org)** or contact **Dr.
+  Stephen Moon** at **916-217-5470** or **catalyst@nextg.org**.
+URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/lhkgvtyj
+ cgbpb/
+STATUS:CONFIRMED
+CREATED:20251215T211824Z
+LAST-MODIFIED:20251215T211824Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-ID:gcal_davisbikeclubwww
+X-SOURCE:Gcal Davisbikeclubwww
+DTSTART;TZID=America/Los_Angeles:20260413T190000
+DTEND;TZID=America/Los_Angeles:20260413T203000
+RRULE:FREQ=MONTHLY;BYDAY=2MO
+DTSTAMP:20260310T000011Z
+UID:b2ivqu9ll5tod91a2in388j7sc@google.com
+CREATED:20240829T230534Z
+DESCRIPTION:<p>Come join us for a social gathering\, an interesting cycling
+  topic\, and refreshments.</p><p><br></p>
+LAST-MODIFIED:20260308T023207Z
+LOCATION:U.S. Bicycling Hall of Fame\, 303 3rd St\, Davis\, CA 95616\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:DBC Member Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/kwnqstyjcgbtb/"}
+X-SOURCE-ID:meetup_yolo_county_board_game_gathering
+X-SOURCE:Meetup Yolo County Board Game Gathering
+UID:event_kwnqstyjcgbtb@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000003Z
+DTSTART;TZID=America/Los_Angeles:20260415T170000
+DTEND;TZID=America/Los_Angeles:20260415T210000
+SUMMARY:Weekly Game Night at Blue Note
+DESCRIPTION:Yolo County Board Game Gathering\nUpdate 8/14/25:\n**We're sti
+ ll active**\, but we primarily use Discord to chat and plan events. (See g
+ roup description for invite link.)\n\nWe still meet every Wednesday for bo
+ ard games at Blue Note Brewing Company. We'll have a handful of tables res
+ erved near the back\; just look for the pile of board games.\n\nPeople usu
+ ally start arriving around 5pm\, and games start whenever people are ready
+ . Blue Note closes at 9pm\, and although we have a 5-10 minute grace perio
+ d there\, you should be in the process of final scoring by 9\, or else pac
+ k it up and play again another day.\n\nGame night is open to all ages! Blu
+ e Note is a brewery\, not a bar\, so there's no restriction against minors
+ . In addition to their crafted-in-house beer selection\, water and sodas a
+ re available.\n\nYou're not required to buy anything in order to join us\,
+  but we do encourage you to support local businesses. Blue Note's chef tea
+ m makes a mean pizza\, and there are other nearby downtown restaurants and
+  businesses.
+URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
+ ts/kwnqstyjcgbtb/
+STATUS:CONFIRMED
+CREATED:20250814T213413Z
+LAST-MODIFIED:20250814T213413Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults-virtual/2026-04-15/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20260415T190000
+DTEND;TZID=UTC:20260415T200000
+DTSTAMP:20260310T000010
+CREATED:20250609T205453Z
+LAST-MODIFIED:20250609T205453Z
+UID:10000271-1776279600-1776283200@hatefreetogether.org
+SUMMARY:NAMI Connection Support Group for Young Adults - Virtual
+DESCRIPTION:NAMI Connection Support Group for Young Adults is a free\, peer-led support group for anyone between the ages 18 and 26 who has experienced symptoms of a mental health condition. Mental health conditions include anxiety disorder\, depression\, bipolar disorder\, obsessive-compulsive disorder\, post-traumatic stress disorder\, schizophrenia\, or any condition that affects a person’s ability to lead a fulfilling life. You do not need a formal diagnosis to attend this support group; any young person concerned with their mental health and seeking support may attend. NAMI Connection for Young Adults provides resources to help young people build a support network and access help. Participants will learn together how to establish and maintain wellness. \nYou do not need a formal diagnosis to attend. Anyone who is seeking mental health support may attend. \nWhat You’ll Gain\nBy sharing your experiences in a safe and confidential setting\, you will experience connection\, receive information about resources\, and learn coping strategies. The group encourages empathy\, productive discussion and a sense of community. You’ll benefit from other’s experiences\, discover your inner strength\, and receive support by sharing your own experiences in a non-judgmental space. \n  \nNAMI Connection Support Group for Young Adults meets on the first Wednesday of the month (in person) and on the third Wednesday of the month  (via Zoom) from 7pm-8pm.  \nTo register for in-person or virtual meetings\, please visit: https://namiyolo.org/support-and-education/nami-yolo-county-support-groups/young-adult-connection-support-group/. \nIf you have any questions\, please email: friends@namiyolo.org.
+URL:https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults-virtual/2026-04-15/
+LOCATION:CA
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/xgkgvtyjcgbxb/"}
+X-SOURCE-ID:meetup_intercultural_mosaics
+X-SOURCE:Meetup Intercultural Mosaics
+UID:event_xgkgvtyjcgbxb@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000002Z
+DTSTART;TZID=America/Los_Angeles:20260418T160000
+DTEND;TZID=America/Los_Angeles:20260418T170000
+SUMMARY:Mosaics Acoustic Guitar & Singing Group
+DESCRIPTION:Davis Art\, Music & Outdoor Activities Meetup\n**Discover Inte
+ rcultural Mosaics This Winter 2025–2026!**\n\nJoin us for a vibrant and 
+ uplifting season of virtual learning and community from **December 20\, 20
+ 25 to March 28\, 2026**—all from the comfort of your home on Zoom!\n\n**
+ Registration is required\, and the Zoom link will be provided exclusively 
+ to those who sign up.**\n\n**Bi-Weekly Friday Zoom Sessions** *(Every 2nd 
+ and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\n• **
+ 5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6:00 PM*
+ * – Bible Study & Meditation Group with Stephen\n• **7:00 PM** – Beg
+ inning Chinese with Jane\n\n**Weekly Saturday Zoom Sessions** (total of 12
+  sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n• **5:00
+  PM** – Beginning to Intermediate Korean with Stephen\n• **6:00 PM** 
+ – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** – Eng
+ lish Learners Group with Linda & Chad\n\n**Important Notes:**\n\n1. **No Z
+ oom sessions** on **January 2–3\, 2026** (New Year) and **April 3–4\, 
+ 2026** (Easter).\n2. **Special Gatherings (Tentative):**\n**• February 1
+ 4\, 2026:** Valentine’s Day & pre–Lunar New Year celebration in person
+  at Phoenix Hall\, 2nd Floor\, Davis Community Church.\n**• March 14\, 2
+ 026:** Additional in-person gathering (tentative).\n\n**Return to In-Perso
+ n Meetings:**\nWe will resume our **regular in-person gatherings on April 
+ 11\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Community Chu
+ rch**.\n\nFor more information about Intercultural Mosaics classes and act
+ ivities\, visit **[www.nextg.org](http://www.nextg.org)** or contact **Dr.
+  Stephen Moon** at **916-217-5470** or **catalyst@nextg.org**.
+URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/xgkgvtyj
+ cgbxb/
+STATUS:CONFIRMED
+CREATED:20251215T211410Z
+LAST-MODIFIED:20251215T211410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/ghkgvtyjcgbxb/"}
+X-SOURCE-ID:meetup_intercultural_mosaics
+X-SOURCE:Meetup Intercultural Mosaics
+UID:event_ghkgvtyjcgbxb@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000002Z
+DTSTART;TZID=America/Los_Angeles:20260418T180000
+DTEND;TZID=America/Los_Angeles:20260418T190000
+SUMMARY:Mosaics Intercultural Dinner Fellowship
+DESCRIPTION:Davis Art\, Music & Outdoor Activities Meetup\n**Discover Inte
+ rcultural Mosaics This Winter 2025–2026!**\n\nJoin us for a vibrant and 
+ uplifting season of virtual learning and community from **December 20\, 20
+ 25 to March 28\, 2026**—all from the comfort of your home on Zoom!\n\n**
+ Registration is required\, and the Zoom link will be provided exclusively 
+ to those who sign up.**\n\n**Bi-Weekly Friday Zoom Sessions** *(Every 2nd 
+ and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\n• **
+ 5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6:00 PM*
+ * – Bible Study & Meditation Group with Stephen\n• **7:00 PM** – Beg
+ inning Chinese with Jane\n\n**Weekly Saturday Zoom Sessions** (total of 12
+  sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n• **5:00
+  PM** – Beginning to Intermediate Korean with Stephen\n• **6:00 PM** 
+ – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** – Eng
+ lish Learners Group with Linda & Chad\n\n**Important Notes:**\n\n1. **No Z
+ oom sessions** on **January 2–3\, 2026** (New Year) and **April 3–4\, 
+ 2026** (Easter).\n2. **Special Gatherings (Tentative):**\n**• February 1
+ 4\, 2026:** Valentine’s Day & pre–Lunar New Year celebration in person
+  at Phoenix Hall\, 2nd Floor\, Davis Community Church.\n**• March 14\, 2
+ 026:** Additional in-person gathering (tentative).\n\n**Return to In-Perso
+ n Meetings:**\nWe will resume our **regular in-person gatherings on April 
+ 11\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Community Chu
+ rch**.\n\nFor more information about Intercultural Mosaics classes and act
+ ivities\, visit **[www.nextg.org](http://www.nextg.org)** or contact **Dr.
+  Stephen Moon** at **916-217-5470** or **catalyst@nextg.org**.
+URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/ghkgvtyj
+ cgbxb/
+STATUS:CONFIRMED
+CREATED:20251215T211602Z
+LAST-MODIFIED:20251215T211602Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/lhkgvtyjcgbxb/"}
+X-SOURCE-ID:meetup_intercultural_mosaics
+X-SOURCE:Meetup Intercultural Mosaics
+UID:event_lhkgvtyjcgbxb@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000002Z
+DTSTART;TZID=America/Los_Angeles:20260418T190000
+DTEND;TZID=America/Los_Angeles:20260418T200000
+SUMMARY:Mosaics Water & Acrylic Painting
+DESCRIPTION:Davis Art\, Music & Outdoor Activities Meetup\n**Discover Inte
+ rcultural Mosaics This Winter 2025–2026!**\n\nJoin us for a vibrant and 
+ uplifting season of virtual learning and community from **December 20\, 20
+ 25 to March 28\, 2026**—all from the comfort of your home on Zoom!\n\n**
+ Registration is required\, and the Zoom link will be provided exclusively 
+ to those who sign up.**\n\n**Bi-Weekly Friday Zoom Sessions** *(Every 2nd 
+ and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\n• **
+ 5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6:00 PM*
+ * – Bible Study & Meditation Group with Stephen\n• **7:00 PM** – Beg
+ inning Chinese with Jane\n\n**Weekly Saturday Zoom Sessions** (total of 12
+  sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n• **5:00
+  PM** – Beginning to Intermediate Korean with Stephen\n• **6:00 PM** 
+ – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** – Eng
+ lish Learners Group with Linda & Chad\n\n**Important Notes:**\n\n1. **No Z
+ oom sessions** on **January 2–3\, 2026** (New Year) and **April 3–4\, 
+ 2026** (Easter).\n2. **Special Gatherings (Tentative):**\n**• February 1
+ 4\, 2026:** Valentine’s Day & pre–Lunar New Year celebration in person
+  at Phoenix Hall\, 2nd Floor\, Davis Community Church.\n**• March 14\, 2
+ 026:** Additional in-person gathering (tentative).\n\n**Return to In-Perso
+ n Meetings:**\nWe will resume our **regular in-person gatherings on April 
+ 11\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Community Chu
+ rch**.\n\nFor more information about Intercultural Mosaics classes and act
+ ivities\, visit **[www.nextg.org](http://www.nextg.org)** or contact **Dr.
+  Stephen Moon** at **916-217-5470** or **catalyst@nextg.org**.
+URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/lhkgvtyj
+ cgbxb/
+STATUS:CONFIRMED
+CREATED:20251215T211824Z
+LAST-MODIFIED:20251215T211824Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/xgkgvtyjcgbhc/"}
+X-SOURCE-ID:meetup_intercultural_mosaics
+X-SOURCE:Meetup Intercultural Mosaics
+UID:event_xgkgvtyjcgbhc@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000002Z
+DTSTART;TZID=America/Los_Angeles:20260425T160000
+DTEND;TZID=America/Los_Angeles:20260425T170000
+SUMMARY:Mosaics Acoustic Guitar & Singing Group
+DESCRIPTION:Davis Art\, Music & Outdoor Activities Meetup\n**Discover Inte
+ rcultural Mosaics This Winter 2025–2026!**\n\nJoin us for a vibrant and 
+ uplifting season of virtual learning and community from **December 20\, 20
+ 25 to March 28\, 2026**—all from the comfort of your home on Zoom!\n\n**
+ Registration is required\, and the Zoom link will be provided exclusively 
+ to those who sign up.**\n\n**Bi-Weekly Friday Zoom Sessions** *(Every 2nd 
+ and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\n• **
+ 5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6:00 PM*
+ * – Bible Study & Meditation Group with Stephen\n• **7:00 PM** – Beg
+ inning Chinese with Jane\n\n**Weekly Saturday Zoom Sessions** (total of 12
+  sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n• **5:00
+  PM** – Beginning to Intermediate Korean with Stephen\n• **6:00 PM** 
+ – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** – Eng
+ lish Learners Group with Linda & Chad\n\n**Important Notes:**\n\n1. **No Z
+ oom sessions** on **January 2–3\, 2026** (New Year) and **April 3–4\, 
+ 2026** (Easter).\n2. **Special Gatherings (Tentative):**\n**• February 1
+ 4\, 2026:** Valentine’s Day & pre–Lunar New Year celebration in person
+  at Phoenix Hall\, 2nd Floor\, Davis Community Church.\n**• March 14\, 2
+ 026:** Additional in-person gathering (tentative).\n\n**Return to In-Perso
+ n Meetings:**\nWe will resume our **regular in-person gatherings on April 
+ 11\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Community Chu
+ rch**.\n\nFor more information about Intercultural Mosaics classes and act
+ ivities\, visit **[www.nextg.org](http://www.nextg.org)** or contact **Dr.
+  Stephen Moon** at **916-217-5470** or **catalyst@nextg.org**.
+URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/xgkgvtyj
+ cgbhc/
+STATUS:CONFIRMED
+CREATED:20251215T211410Z
+LAST-MODIFIED:20251215T211410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/ghkgvtyjcgbhc/"}
+X-SOURCE-ID:meetup_intercultural_mosaics
+X-SOURCE:Meetup Intercultural Mosaics
+UID:event_ghkgvtyjcgbhc@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000002Z
+DTSTART;TZID=America/Los_Angeles:20260425T180000
+DTEND;TZID=America/Los_Angeles:20260425T190000
+SUMMARY:Mosaics Intercultural Dinner Fellowship
+DESCRIPTION:Davis Art\, Music & Outdoor Activities Meetup\n**Discover Inte
+ rcultural Mosaics This Winter 2025–2026!**\n\nJoin us for a vibrant and 
+ uplifting season of virtual learning and community from **December 20\, 20
+ 25 to March 28\, 2026**—all from the comfort of your home on Zoom!\n\n**
+ Registration is required\, and the Zoom link will be provided exclusively 
+ to those who sign up.**\n\n**Bi-Weekly Friday Zoom Sessions** *(Every 2nd 
+ and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\n• **
+ 5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6:00 PM*
+ * – Bible Study & Meditation Group with Stephen\n• **7:00 PM** – Beg
+ inning Chinese with Jane\n\n**Weekly Saturday Zoom Sessions** (total of 12
+  sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n• **5:00
+  PM** – Beginning to Intermediate Korean with Stephen\n• **6:00 PM** 
+ – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** – Eng
+ lish Learners Group with Linda & Chad\n\n**Important Notes:**\n\n1. **No Z
+ oom sessions** on **January 2–3\, 2026** (New Year) and **April 3–4\, 
+ 2026** (Easter).\n2. **Special Gatherings (Tentative):**\n**• February 1
+ 4\, 2026:** Valentine’s Day & pre–Lunar New Year celebration in person
+  at Phoenix Hall\, 2nd Floor\, Davis Community Church.\n**• March 14\, 2
+ 026:** Additional in-person gathering (tentative).\n\n**Return to In-Perso
+ n Meetings:**\nWe will resume our **regular in-person gatherings on April 
+ 11\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Community Chu
+ rch**.\n\nFor more information about Intercultural Mosaics classes and act
+ ivities\, visit **[www.nextg.org](http://www.nextg.org)** or contact **Dr.
+  Stephen Moon** at **916-217-5470** or **catalyst@nextg.org**.
+URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/ghkgvtyj
+ cgbhc/
+STATUS:CONFIRMED
+CREATED:20251215T211602Z
+LAST-MODIFIED:20251215T211602Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/lhkgvtyjcgbhc/"}
+X-SOURCE-ID:meetup_intercultural_mosaics
+X-SOURCE:Meetup Intercultural Mosaics
+UID:event_lhkgvtyjcgbhc@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000002Z
+DTSTART;TZID=America/Los_Angeles:20260425T190000
+DTEND;TZID=America/Los_Angeles:20260425T200000
+SUMMARY:Mosaics Water & Acrylic Painting
+DESCRIPTION:Davis Art\, Music & Outdoor Activities Meetup\n**Discover Inte
+ rcultural Mosaics This Winter 2025–2026!**\n\nJoin us for a vibrant and 
+ uplifting season of virtual learning and community from **December 20\, 20
+ 25 to March 28\, 2026**—all from the comfort of your home on Zoom!\n\n**
+ Registration is required\, and the Zoom link will be provided exclusively 
+ to those who sign up.**\n\n**Bi-Weekly Friday Zoom Sessions** *(Every 2nd 
+ and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\n• **
+ 5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6:00 PM*
+ * – Bible Study & Meditation Group with Stephen\n• **7:00 PM** – Beg
+ inning Chinese with Jane\n\n**Weekly Saturday Zoom Sessions** (total of 12
+  sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n• **5:00
+  PM** – Beginning to Intermediate Korean with Stephen\n• **6:00 PM** 
+ – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** – Eng
+ lish Learners Group with Linda & Chad\n\n**Important Notes:**\n\n1. **No Z
+ oom sessions** on **January 2–3\, 2026** (New Year) and **April 3–4\, 
+ 2026** (Easter).\n2. **Special Gatherings (Tentative):**\n**• February 1
+ 4\, 2026:** Valentine’s Day & pre–Lunar New Year celebration in person
+  at Phoenix Hall\, 2nd Floor\, Davis Community Church.\n**• March 14\, 2
+ 026:** Additional in-person gathering (tentative).\n\n**Return to In-Perso
+ n Meetings:**\nWe will resume our **regular in-person gatherings on April 
+ 11\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Community Chu
+ rch**.\n\nFor more information about Intercultural Mosaics classes and act
+ ivities\, visit **[www.nextg.org](http://www.nextg.org)** or contact **Dr.
+  Stephen Moon** at **916-217-5470** or **catalyst@nextg.org**.
+URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/lhkgvtyj
+ cgbhc/
+STATUS:CONFIRMED
+CREATED:20251215T211824Z
+LAST-MODIFIED:20251215T211824Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/rwnqstyjcgbmc/"}
+X-SOURCE-ID:meetup_yolo_county_board_game_gathering
+X-SOURCE:Meetup Yolo County Board Game Gathering
+UID:event_rwnqstyjcgbmc@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000003Z
+DTSTART;TZID=America/Los_Angeles:20260429T170000
+DTEND;TZID=America/Los_Angeles:20260429T210000
+SUMMARY:Weekly Game Night at Blue Note
+DESCRIPTION:Yolo County Board Game Gathering\nUpdate 8/14/25:\n**We're sti
+ ll active**\, but we primarily use Discord to chat and plan events. (See g
+ roup description for invite link.)\n\nWe still meet every Wednesday for bo
+ ard games at Blue Note Brewing Company. We'll have a handful of tables res
+ erved near the back\; just look for the pile of board games.\n\nPeople usu
+ ally start arriving around 5pm\, and games start whenever people are ready
+ . Blue Note closes at 9pm\, and although we have a 5-10 minute grace perio
+ d there\, you should be in the process of final scoring by 9\, or else pac
+ k it up and play again another day.\n\nGame night is open to all ages! Blu
+ e Note is a brewery\, not a bar\, so there's no restriction against minors
+ . In addition to their crafted-in-house beer selection\, water and sodas a
+ re available.\n\nYou're not required to buy anything in order to join us\,
+  but we do encourage you to support local businesses. Blue Note's chef tea
+ m makes a mean pizza\, and there are other nearby downtown restaurants and
+  businesses.
+URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
+ ts/rwnqstyjcgbmc/
+STATUS:CONFIRMED
+CREATED:20250814T213526Z
+LAST-MODIFIED:20250814T213526Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/xgkgvtyjchbdb/"}
+X-SOURCE-ID:meetup_intercultural_mosaics
+X-SOURCE:Meetup Intercultural Mosaics
+UID:event_xgkgvtyjchbdb@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000002Z
+DTSTART;TZID=America/Los_Angeles:20260502T160000
+DTEND;TZID=America/Los_Angeles:20260502T170000
+SUMMARY:Mosaics Acoustic Guitar & Singing Group
+DESCRIPTION:Davis Art\, Music & Outdoor Activities Meetup\n**Discover Inte
+ rcultural Mosaics This Winter 2025–2026!**\n\nJoin us for a vibrant and 
+ uplifting season of virtual learning and community from **December 20\, 20
+ 25 to March 28\, 2026**—all from the comfort of your home on Zoom!\n\n**
+ Registration is required\, and the Zoom link will be provided exclusively 
+ to those who sign up.**\n\n**Bi-Weekly Friday Zoom Sessions** *(Every 2nd 
+ and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\n• **
+ 5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6:00 PM*
+ * – Bible Study & Meditation Group with Stephen\n• **7:00 PM** – Beg
+ inning Chinese with Jane\n\n**Weekly Saturday Zoom Sessions** (total of 12
+  sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n• **5:00
+  PM** – Beginning to Intermediate Korean with Stephen\n• **6:00 PM** 
+ – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** – Eng
+ lish Learners Group with Linda & Chad\n\n**Important Notes:**\n\n1. **No Z
+ oom sessions** on **January 2–3\, 2026** (New Year) and **April 3–4\, 
+ 2026** (Easter).\n2. **Special Gatherings (Tentative):**\n**• February 1
+ 4\, 2026:** Valentine’s Day & pre–Lunar New Year celebration in person
+  at Phoenix Hall\, 2nd Floor\, Davis Community Church.\n**• March 14\, 2
+ 026:** Additional in-person gathering (tentative).\n\n**Return to In-Perso
+ n Meetings:**\nWe will resume our **regular in-person gatherings on April 
+ 11\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Community Chu
+ rch**.\n\nFor more information about Intercultural Mosaics classes and act
+ ivities\, visit **[www.nextg.org](http://www.nextg.org)** or contact **Dr.
+  Stephen Moon** at **916-217-5470** or **catalyst@nextg.org**.
+URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/xgkgvtyj
+ chbdb/
+STATUS:CONFIRMED
+CREATED:20251215T211410Z
+LAST-MODIFIED:20251215T211410Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/mxnqstyjchbjb/"}
+X-SOURCE-ID:meetup_yolo_county_board_game_gathering
+X-SOURCE:Meetup Yolo County Board Game Gathering
+UID:event_mxnqstyjchbjb@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000003Z
+DTSTART;TZID=America/Los_Angeles:20260506T170000
+DTEND;TZID=America/Los_Angeles:20260506T210000
+SUMMARY:Blood on the Clocktower at Blue Note
+DESCRIPTION:Yolo County Board Game Gathering\nThe first Wednesday of every
+  month\, we play _Blood on the Clocktower_\, a social deduction game in th
+ e vein of Werewolf/Mafia/The Resistance\, with a few twists!\n\nWe'll have
+  a circle of chairs reserved inside Blue Note\, near the back\, with a Yol
+ o County Board Game Gathering sign on the table. Just say hello\, and we'l
+ l show you some games\, pull some players together\, and get to having fun
+ !\n\nWe also usually have a few tables of players playing other board game
+ s\, if social deduction isn't your bag!\n\nGet a feel for Blood on the Clo
+ cktower here: https://youtu.be/4sfa8_kNxsQ
+URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
+ ts/mxnqstyjchbjb/
+STATUS:CONFIRMED
+CREATED:20250814T213807Z
+LAST-MODIFIED:20250814T213807Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults/2026-05-06/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20260506T190000
+DTEND;TZID=UTC:20260506T200000
+DTSTAMP:20260310T000010
+CREATED:20250609T205334Z
+LAST-MODIFIED:20250609T205334Z
+UID:10000247-1778094000-1778097600@hatefreetogether.org
+SUMMARY:NAMI Connection Support Group for Young Adults
+DESCRIPTION:NAMI Connection Support Group for Young Adults is a free\, peer-led support group for anyone between the ages 18 and 26 who has experienced symptoms of a mental health condition. Mental health conditions include anxiety disorder\, depression\, bipolar disorder\, obsessive-compulsive disorder\, post-traumatic stress disorder\, schizophrenia\, or any condition that affects a person’s ability to lead a fulfilling life. You do not need a formal diagnosis to attend this support group; any young person concerned with their mental health and seeking support may attend. NAMI Connection for Young Adults provides resources to help young people build a support network and access help. Participants will learn together how to establish and maintain wellness. \nYou do not need a formal diagnosis to attend. Anyone who is seeking mental health support may attend. \nWhat You’ll Gain\nBy sharing your experiences in a safe and confidential setting\, you will experience connection\, receive information about resources\, and learn coping strategies. The group encourages empathy\, productive discussion and a sense of community. You’ll benefit from other’s experiences\, discover your inner strength\, and receive support by sharing your own experiences in a non-judgmental space. \n  \nNAMI Connection Support Group for Young Adults meets on the first Wednesday of the month (in person) and on the third Wednesday of the month  (via Zoom) from 7pm-8pm.  \nTo register for in-person or virtual meetings\, please visit: https://namiyolo.org/support-and-education/nami-yolo-county-support-groups/young-adult-connection-support-group/. \nIf you have any questions\, please email: friends@namiyolo.org.
+URL:https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults/2026-05-06/
+LOCATION:CA
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/vwnqstyjchbrb/"}
+X-SOURCE-ID:meetup_yolo_county_board_game_gathering
+X-SOURCE:Meetup Yolo County Board Game Gathering
+UID:event_vwnqstyjchbrb@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000003Z
+DTSTART;TZID=America/Los_Angeles:20260513T170000
+DTEND;TZID=America/Los_Angeles:20260513T210000
+SUMMARY:Weekly Game Night at Blue Note
+DESCRIPTION:Yolo County Board Game Gathering\nUpdate 8/14/25:\n**We're sti
+ ll active**\, but we primarily use Discord to chat and plan events. (See g
+ roup description for invite link.)\n\nWe still meet every Wednesday for bo
+ ard games at Blue Note Brewing Company. We'll have a handful of tables res
+ erved near the back\; just look for the pile of board games.\n\nPeople usu
+ ally start arriving around 5pm\, and games start whenever people are ready
+ . Blue Note closes at 9pm\, and although we have a 5-10 minute grace perio
+ d there\, you should be in the process of final scoring by 9\, or else pac
+ k it up and play again another day.\n\nGame night is open to all ages! Blu
+ e Note is a brewery\, not a bar\, so there's no restriction against minors
+ . In addition to their crafted-in-house beer selection\, water and sodas a
+ re available.\n\nYou're not required to buy anything in order to join us\,
+  but we do encourage you to support local businesses. Blue Note's chef tea
+ m makes a mean pizza\, and there are other nearby downtown restaurants and
+  businesses.
+URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
+ ts/vwnqstyjchbrb/
+STATUS:CONFIRMED
+CREATED:20250814T213602Z
+LAST-MODIFIED:20250814T213602Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/kwnqstyjchbbc/"}
+X-SOURCE-ID:meetup_yolo_county_board_game_gathering
+X-SOURCE:Meetup Yolo County Board Game Gathering
+UID:event_kwnqstyjchbbc@meetup.com
+SEQUENCE:1
+DTSTAMP:20260310T000003Z
+DTSTART;TZID=America/Los_Angeles:20260520T170000
+DTEND;TZID=America/Los_Angeles:20260520T210000
+SUMMARY:Weekly Game Night at Blue Note
+DESCRIPTION:Yolo County Board Game Gathering\nUpdate 8/14/25:\n**We're sti
+ ll active**\, but we primarily use Discord to chat and plan events. (See g
+ roup description for invite link.)\n\nWe still meet every Wednesday for bo
+ ard games at Blue Note Brewing Company. We'll have a handful of tables res
+ erved near the back\; just look for the pile of board games.\n\nPeople usu
+ ally start arriving around 5pm\, and games start whenever people are ready
+ . Blue Note closes at 9pm\, and although we have a 5-10 minute grace perio
+ d there\, you should be in the process of final scoring by 9\, or else pac
+ k it up and play again another day.\n\nGame night is open to all ages! Blu
+ e Note is a brewery\, not a bar\, so there's no restriction against minors
+ . In addition to their crafted-in-house beer selection\, water and sodas a
+ re available.\n\nYou're not required to buy anything in order to join us\,
+  but we do encourage you to support local businesses. Blue Note's chef tea
+ m makes a mean pizza\, and there are other nearby downtown restaurants and
+  businesses.
+URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
+ ts/kwnqstyjchbbc/
+STATUS:CONFIRMED
+CREATED:20250814T213413Z
+LAST-MODIFIED:20250814T213413Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults-virtual/2026-05-20/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20260520T190000
+DTEND;TZID=UTC:20260520T200000
+DTSTAMP:20260310T000010
+CREATED:20250609T205453Z
+LAST-MODIFIED:20250609T205453Z
+UID:10000272-1779303600-1779307200@hatefreetogether.org
+SUMMARY:NAMI Connection Support Group for Young Adults - Virtual
+DESCRIPTION:NAMI Connection Support Group for Young Adults is a free\, peer-led support group for anyone between the ages 18 and 26 who has experienced symptoms of a mental health condition. Mental health conditions include anxiety disorder\, depression\, bipolar disorder\, obsessive-compulsive disorder\, post-traumatic stress disorder\, schizophrenia\, or any condition that affects a person’s ability to lead a fulfilling life. You do not need a formal diagnosis to attend this support group; any young person concerned with their mental health and seeking support may attend. NAMI Connection for Young Adults provides resources to help young people build a support network and access help. Participants will learn together how to establish and maintain wellness. \nYou do not need a formal diagnosis to attend. Anyone who is seeking mental health support may attend. \nWhat You’ll Gain\nBy sharing your experiences in a safe and confidential setting\, you will experience connection\, receive information about resources\, and learn coping strategies. The group encourages empathy\, productive discussion and a sense of community. You’ll benefit from other’s experiences\, discover your inner strength\, and receive support by sharing your own experiences in a non-judgmental space. \n  \nNAMI Connection Support Group for Young Adults meets on the first Wednesday of the month (in person) and on the third Wednesday of the month  (via Zoom) from 7pm-8pm.  \nTo register for in-person or virtual meetings\, please visit: https://namiyolo.org/support-and-education/nami-yolo-county-support-groups/young-adult-connection-support-group/. \nIf you have any questions\, please email: friends@namiyolo.org.
+URL:https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults-virtual/2026-05-20/
+LOCATION:CA
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/uc-davis-black-family-day/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20260523T120000
+DTEND;TZID=UTC:20260523T200000
+DTSTAMP:20260310T000010
+CREATED:20260130T185640Z
+LAST-MODIFIED:20260130T190843Z
+UID:10000308-1779537600-1779566400@hatefreetogether.org
+SUMMARY:UC Davis Black Family Day
+DESCRIPTION:The UC Davis Black Family day is an event to celebrate Black excellence\, empowerment\, and community. It is open to students\, families\, and community members. \n  \nThe event will be hosted on the UC Davis Quad on May 23rd\, from Noon to 8 PM. \n  \nAttendees will enjoy a day full of entertainers and speakers\, honoring the Black community and building conversations around achievements and contemporary issues. Local vendors will be selling delicious food\, clothes\, books\, and much more. Organizations and clubs join the festivities to share information and host engaging activities. \n  \nGet ready to enjoy a day full of music\, good food\, and celebrations of Black culture. The UC Davis Black Family Day is free for all to attend. \n  \nFor any inquiries\, contact: ucdblackfamilyday@ucdavis.edu
+URL:https://hatefreetogether.org/event/uc-davis-black-family-day/
+LOCATION:UC Davis Quad\, 1 Shields Avenue\, Davis\, CA\, 95616
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/https___cdn.evbuc_.com_images_1101161593_508470267019_1_original.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults/2026-06-03/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20260603T190000
+DTEND;TZID=UTC:20260603T200000
+DTSTAMP:20260310T000010
+CREATED:20250609T205334Z
+LAST-MODIFIED:20250609T205334Z
+UID:10000248-1780513200-1780516800@hatefreetogether.org
+SUMMARY:NAMI Connection Support Group for Young Adults
+DESCRIPTION:NAMI Connection Support Group for Young Adults is a free\, peer-led support group for anyone between the ages 18 and 26 who has experienced symptoms of a mental health condition. Mental health conditions include anxiety disorder\, depression\, bipolar disorder\, obsessive-compulsive disorder\, post-traumatic stress disorder\, schizophrenia\, or any condition that affects a person’s ability to lead a fulfilling life. You do not need a formal diagnosis to attend this support group; any young person concerned with their mental health and seeking support may attend. NAMI Connection for Young Adults provides resources to help young people build a support network and access help. Participants will learn together how to establish and maintain wellness. \nYou do not need a formal diagnosis to attend. Anyone who is seeking mental health support may attend. \nWhat You’ll Gain\nBy sharing your experiences in a safe and confidential setting\, you will experience connection\, receive information about resources\, and learn coping strategies. The group encourages empathy\, productive discussion and a sense of community. You’ll benefit from other’s experiences\, discover your inner strength\, and receive support by sharing your own experiences in a non-judgmental space. \n  \nNAMI Connection Support Group for Young Adults meets on the first Wednesday of the month (in person) and on the third Wednesday of the month  (via Zoom) from 7pm-8pm.  \nTo register for in-person or virtual meetings\, please visit: https://namiyolo.org/support-and-education/nami-yolo-county-support-groups/young-adult-connection-support-group/. \nIf you have any questions\, please email: friends@namiyolo.org.
+URL:https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults/2026-06-03/
+LOCATION:CA
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg
+END:VEVENT
+END:VCALENDAR

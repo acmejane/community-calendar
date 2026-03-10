@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-09T21:08:29.855608",
+  "generated": "2026-03-10T00:00:20.666159",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -33923,6 +33923,271 @@
         "with_image": 0,
         "by_source": []
       }
+    },
+    "lancaster": {
+      "feeds": {
+        "gcal_davisbikeclubwww": {
+          "history": [
+            {
+              "date": "2026-03-10",
+              "count": 4
+            }
+          ]
+        },
+        "hatefreetogether": {
+          "history": [
+            {
+              "date": "2026-03-10",
+              "count": 10
+            }
+          ]
+        },
+        "meetup_art_in_action": {
+          "history": [
+            {
+              "date": "2026-03-10",
+              "count": 0
+            }
+          ]
+        },
+        "meetup_intercultural_mosaics": {
+          "history": [
+            {
+              "date": "2026-03-10",
+              "count": 10
+            }
+          ]
+        },
+        "meetup_mindful_embodied_spirituality": {
+          "history": [
+            {
+              "date": "2026-03-10",
+              "count": 10
+            }
+          ]
+        },
+        "meetup_mosaics": {
+          "history": [
+            {
+              "date": "2026-03-10",
+              "count": 10
+            }
+          ]
+        },
+        "meetup_pence_adult_art_programs": {
+          "history": [
+            {
+              "date": "2026-03-10",
+              "count": 5
+            }
+          ]
+        },
+        "meetup_winters_shut_up_and_write_meetup_group": {
+          "history": [
+            {
+              "date": "2026-03-10",
+              "count": 1
+            }
+          ]
+        },
+        "meetup_yolo_county_board_game_gathering": {
+          "history": [
+            {
+              "date": "2026-03-10",
+              "count": 10
+            }
+          ]
+        },
+        "putahcreekcouncil": {
+          "history": [
+            {
+              "date": "2026-03-10",
+              "count": 0
+            }
+          ]
+        },
+        "thedirt": {
+          "history": [
+            {
+              "date": "2026-03-10",
+              "count": 4
+            }
+          ]
+        },
+        "visitdavis": {
+          "history": [
+            {
+              "date": "2026-03-10",
+              "count": 13
+            }
+          ]
+        },
+        "visityolo_event": {
+          "history": [
+            {
+              "date": "2026-03-10",
+              "count": 30
+            }
+          ]
+        }
+      },
+      "categories": [
+        {
+          "category": "Community / Social",
+          "count": 16
+        },
+        {
+          "category": "Education / Workshops",
+          "count": 16
+        },
+        {
+          "category": "Food / Drink",
+          "count": 16
+        },
+        {
+          "category": "Health / Wellness",
+          "count": 14
+        },
+        {
+          "category": "Arts / Culture",
+          "count": 8
+        },
+        {
+          "category": "Music / Concerts",
+          "count": 8
+        },
+        {
+          "category": "Religion / Spirituality",
+          "count": 5
+        },
+        {
+          "category": "Dance / Performance",
+          "count": 5
+        },
+        {
+          "category": "Sports / Fitness",
+          "count": 3
+        },
+        {
+          "category": "(uncategorized)",
+          "count": 1
+        },
+        {
+          "category": "Books / Literature / Poetry",
+          "count": 1
+        },
+        {
+          "category": "Nature / Outdoors / Recreation",
+          "count": 1
+        },
+        {
+          "category": "Film / Cinema",
+          "count": 1
+        }
+      ],
+      "images": {
+        "total": 95,
+        "with_image": 40,
+        "by_source": [
+          {
+            "source": "Visityolo Event",
+            "total": 18,
+            "with_image": 18
+          },
+          {
+            "source": "Visit Davis, Visityolo Event",
+            "total": 12,
+            "with_image": 11
+          },
+          {
+            "source": "Hate-Free Together",
+            "total": 10,
+            "with_image": 10
+          },
+          {
+            "source": "The Dirt",
+            "total": 4,
+            "with_image": 1
+          }
+        ]
+      },
+      "url_quality": {
+        "total_with_url": 91,
+        "total_events": 95,
+        "unique_urls": 91,
+        "generic_count": 0,
+        "generic_domains": [],
+        "http_count": 0,
+        "http_domains": 0,
+        "source_specificity": [
+          {
+            "source": "Visityolo Event",
+            "events": 18,
+            "unique_urls": 18,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Visit Davis, Visityolo Event",
+            "events": 12,
+            "unique_urls": 12,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Meetup Mindful Embodied Spirituality",
+            "events": 10,
+            "unique_urls": 10,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Meetup Yolo County Board Game Gathering",
+            "events": 10,
+            "unique_urls": 10,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Hate-Free Together",
+            "events": 10,
+            "unique_urls": 10,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Meetup: Mosaics",
+            "events": 10,
+            "unique_urls": 10,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Meetup Intercultural Mosaics",
+            "events": 10,
+            "unique_urls": 10,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Meetup Pence Adult Art Programs",
+            "events": 5,
+            "unique_urls": 5,
+            "specificity_pct": 100
+          },
+          {
+            "source": "The Dirt",
+            "events": 4,
+            "unique_urls": 4,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Meetup Winters Shut Up And Write Meetup Group",
+            "events": 1,
+            "unique_urls": 1,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Visit Davis",
+            "events": 1,
+            "unique_urls": 1,
+            "specificity_pct": 100
+          }
+        ]
+      }
     }
   },
   "anomalies": [
@@ -34695,21 +34960,5 @@
       "feed": "volunteer_toronto"
     }
   ],
-  "errors": [
-    {
-      "date": "2026-03-09",
-      "line": "2026-03-09 20:55:25,897 - UUDavisScraper - ERROR - Error fetching https://calendar.google.com/calendar/ical/0p5ed7hbg4p7b4atf3lgjmgic%40group.calendar.google.com/public/basic.ics: 404 Client Error: Not Found for url: https://calendar.google.com/calendar/ical/0p5ed7hbg4p7b4atf3lgjmgic%40group.calendar.google.com/public/basic.ics",
-      "source": null
-    },
-    {
-      "date": "2026-03-09",
-      "line": "2026-03-09 20:57:07,447 - UofTEventsScraper - WARNING - Trinity College: fetch error: HTTPSConnectionPool(host='www.trinity.utoronto.ca', port=443): Max retries exceeded with url: /discover/calendar/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)')))",
-      "source": null
-    },
-    {
-      "date": "2026-03-09",
-      "line": "json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-      "source": "decoder"
-    }
-  ]
+  "errors": []
 }
