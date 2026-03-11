@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-10T02:54:51.678529",
+  "generated": "2026-03-11T00:54:30.845903",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -33931,6 +33931,10 @@
             {
               "date": "2026-03-10",
               "count": 4
+            },
+            {
+              "date": "2026-03-11",
+              "count": 4
             }
           ]
         },
@@ -33938,6 +33942,10 @@
           "history": [
             {
               "date": "2026-03-10",
+              "count": 10
+            },
+            {
+              "date": "2026-03-11",
               "count": 10
             }
           ]
@@ -33947,6 +33955,10 @@
             {
               "date": "2026-03-10",
               "count": 0
+            },
+            {
+              "date": "2026-03-11",
+              "count": 0
             }
           ]
         },
@@ -33954,6 +33966,10 @@
           "history": [
             {
               "date": "2026-03-10",
+              "count": 10
+            },
+            {
+              "date": "2026-03-11",
               "count": 10
             }
           ]
@@ -33963,6 +33979,10 @@
             {
               "date": "2026-03-10",
               "count": 10
+            },
+            {
+              "date": "2026-03-11",
+              "count": 10
             }
           ]
         },
@@ -33970,6 +33990,10 @@
           "history": [
             {
               "date": "2026-03-10",
+              "count": 10
+            },
+            {
+              "date": "2026-03-11",
               "count": 10
             }
           ]
@@ -33979,6 +34003,10 @@
             {
               "date": "2026-03-10",
               "count": 5
+            },
+            {
+              "date": "2026-03-11",
+              "count": 5
             }
           ]
         },
@@ -33986,6 +34014,10 @@
           "history": [
             {
               "date": "2026-03-10",
+              "count": 1
+            },
+            {
+              "date": "2026-03-11",
               "count": 1
             }
           ]
@@ -33995,6 +34027,10 @@
             {
               "date": "2026-03-10",
               "count": 10
+            },
+            {
+              "date": "2026-03-11",
+              "count": 10
             }
           ]
         },
@@ -34002,6 +34038,10 @@
           "history": [
             {
               "date": "2026-03-10",
+              "count": 0
+            },
+            {
+              "date": "2026-03-11",
               "count": 0
             }
           ]
@@ -34011,6 +34051,10 @@
             {
               "date": "2026-03-10",
               "count": 4
+            },
+            {
+              "date": "2026-03-11",
+              "count": 11
             }
           ]
         },
@@ -34018,6 +34062,10 @@
           "history": [
             {
               "date": "2026-03-10",
+              "count": 13
+            },
+            {
+              "date": "2026-03-11",
               "count": 13
             }
           ]
@@ -34027,18 +34075,22 @@
             {
               "date": "2026-03-10",
               "count": 30
+            },
+            {
+              "date": "2026-03-11",
+              "count": 30
             }
           ]
         }
       },
       "categories": [
         {
-          "category": "Community / Social",
+          "category": "Education / Workshops",
           "count": 17
         },
         {
-          "category": "Education / Workshops",
-          "count": 16
+          "category": "Community / Social",
+          "count": 17
         },
         {
           "category": "Food / Drink",
@@ -34046,19 +34098,15 @@
         },
         {
           "category": "Health / Wellness",
-          "count": 14
+          "count": 15
         },
         {
           "category": "Arts / Culture",
-          "count": 8
+          "count": 9
         },
         {
           "category": "Music / Concerts",
           "count": 8
-        },
-        {
-          "category": "Religion / Spirituality",
-          "count": 5
         },
         {
           "category": "Dance / Performance",
@@ -34066,10 +34114,18 @@
         },
         {
           "category": "Sports / Fitness",
-          "count": 3
+          "count": 4
+        },
+        {
+          "category": "Religion / Spirituality",
+          "count": 4
         },
         {
           "category": "Books / Literature / Poetry",
+          "count": 3
+        },
+        {
+          "category": "Family / Kids",
           "count": 1
         },
         {
@@ -34082,8 +34138,8 @@
         }
       ],
       "images": {
-        "total": 95,
-        "with_image": 40,
+        "total": 101,
+        "with_image": 45,
         "by_source": [
           {
             "source": "Visityolo Event",
@@ -34102,15 +34158,15 @@
           },
           {
             "source": "The Dirt",
-            "total": 4,
-            "with_image": 1
+            "total": 11,
+            "with_image": 6
           }
         ]
       },
       "url_quality": {
-        "total_with_url": 91,
-        "total_events": 95,
-        "unique_urls": 91,
+        "total_with_url": 98,
+        "total_events": 101,
+        "unique_urls": 98,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
@@ -34129,9 +34185,9 @@
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Mindful Embodied Spirituality",
-            "events": 10,
-            "unique_urls": 10,
+            "source": "The Dirt",
+            "events": 11,
+            "unique_urls": 11,
             "specificity_pct": 100
           },
           {
@@ -34142,6 +34198,12 @@
           },
           {
             "source": "Hate-Free Together",
+            "events": 10,
+            "unique_urls": 10,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Meetup Mindful Embodied Spirituality",
             "events": 10,
             "unique_urls": 10,
             "specificity_pct": 100
@@ -34162,12 +34224,6 @@
             "source": "Meetup Pence Adult Art Programs",
             "events": 5,
             "unique_urls": 5,
-            "specificity_pct": 100
-          },
-          {
-            "source": "The Dirt",
-            "events": 4,
-            "unique_urls": 4,
             "specificity_pct": 100
           },
           {
