@@ -7,217 +7,12 @@ X-WR-CALNAME:Lancaster Community Calendar
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/davis-makerspace-clothing-repair-cafe-6-3-2/2026-03-19/"}
-X-SOURCE-ID:thedirt
-X-SOURCE:The Dirt
-DTSTART;TZID=America/Los_Angeles:20260319T093000
-DTEND;TZID=America/Los_Angeles:20260319T113000
-DTSTAMP:20260319T175811
-CREATED:20250824T214604Z
-LAST-MODIFIED:20250824T223437Z
-UID:10049599-1773912600-1773919800@thedirt.online
-SUMMARY:Davis Makerspace & Clothing Repair Cafe
-DESCRIPTION:Davis Makerspace is a community workspace for makers and builders\, designers and inventors. A small assortment of tools will be available for use and staff or volunteers will be on hand to provide some assistance. Supervised children are welcome. Participants must provide a signed liability waiver (available on site). Mondays & Tuesdays\, 6p—8p; Thursdays\, 9:30a—11:30a; Fridays\, 3p—5p.
-URL:https://thedirt.online/event/davis-makerspace-clothing-repair-cafe-6-3-2/2026-03-19/
-LOCATION:Mary L. Stephens Davis Branch Library\, 315 East 14th Street\, Davis\, CA\, 95616\, United States
-GEO:40.7321931;-73.9841278
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Mary L. Stephens Davis Branch Library 315 East 14th Street Davis CA 95616 United States;X-APPLE-RADIUS=500;X-TITLE=315 East 14th Street:geo:-73.9841278,40.7321931
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/village-homes-a-radical-plan/2026-03-19/"}
-X-SOURCE-ID:thedirt
-X-SOURCE:The Dirt
-DTSTART;TZID=America/Los_Angeles:20260319T120000
-DTEND;TZID=America/Los_Angeles:20260319T160000
-DTSTAMP:20260319T175811
-CREATED:20251210T225628Z
-LAST-MODIFIED:20251210T225628Z
-UID:10069374-1773921600-1773936000@thedirt.online
-SUMMARY:Village Homes: A Radical Plan
-DESCRIPTION:“Village Homes: A Radical Plan” celebrates the 50th anniversary of an innovative west Davis neighborhood community. Curated by Professor Timothy McNeil and guest curator Adrienne McGraw\, the installation showcases the vision\, concepts\, and development behind the project and its goals. This ground-breaking exhibition will feature original objects\, archival photographs\, plans and drawings\, a part-built section of a typical 1970s house in Village Homes recreating a living space and demonstrating the passive solar features\, and an interactive three-dimensional site plan of the neighborhood’s unique landscape. Other highlights include a 30-minute documentary film about the community.
-URL:https://thedirt.online/event/village-homes-a-radical-plan/2026-03-19/
-LOCATION:UC Davis Design Museum\, Cruess Hall\, #124\, Davis\, 95616\, United States
-CATEGORIES:Community
-ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2025/12/Aerial-view-of-Village-Homes-late-1970s-phot-from-Judy-Corbett-Archive-scaled.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/line-dance-class-at-davis-odd-fellows-4/2026-03-19/"}
-X-SOURCE-ID:thedirt
-X-SOURCE:The Dirt
-DTSTART;TZID=America/Los_Angeles:20260319T150000
-DTEND;TZID=America/Los_Angeles:20260319T163000
-DTSTAMP:20260319T175811
-CREATED:20251126T064428Z
-LAST-MODIFIED:20251202T024110Z
-UID:10069151-1773932400-1773937800@thedirt.online
-SUMMARY:Line Dance Class at Davis Odd Fellows
-DESCRIPTION:Absolute beginner to high beginner dances on Thursdays. Free & open to the public. Donations accepted.
-URL:https://thedirt.online/event/line-dance-class-at-davis-odd-fellows-4/2026-03-19/
-LOCATION:Davis Odd Fellows
-CATEGORIES:Music,Stage & Dance
-ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2025/11/Davis-ODD-FELLOWS-Line-Dance-Flyer-FALL-2025-scaled.jpg
-ORGANIZER;CN="Davis Line Dance":MAILTO:davislinedance@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/honey-cheese-pairing-workshop/"}
-X-SOURCE-ID:thedirt
-X-SOURCE:The Dirt
-DTSTART;TZID=America/Los_Angeles:20260319T173000
-DTEND;TZID=America/Los_Angeles:20260319T190000
-DTSTAMP:20260319T175811
-CREATED:20251219T233308Z
-LAST-MODIFIED:20260225T000926Z
-UID:10070782-1773941400-1773946800@thedirt.online
-SUMMARY:Honey & Cheese Pairing Workshop
-DESCRIPTION:Cheesemonger extraordinaire Roxanne O’Brien teams up with varietal honey expert\, Amina Harris\, for an immersive and interactive workshop. Indulge your senses as you experiment with an array of cheeses\, varietal honeys\, and honey fruit spreads alongside an abundant charcuterie spread\, and celebratory mead and honey themed beverages.
-URL:https://thedirt.online/event/honey-cheese-pairing-workshop/
-LOCATION:The HIVE Tasting Room and Kitchen\, 1221 Harter Ave\, Woodland\, CA\, 95776
-CATEGORIES:Food & Drink
-ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2025/12/HoneyCheese-032124-32_Small.jpg
-ORGANIZER;CN="The HIVE Tasting Room and Kitchen":MAILTO:thehive@zspecialtyfood.com
-GEO:38.6939729;-121.7640193
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=The HIVE Tasting Room and Kitchen 1221 Harter Ave Woodland CA 95776;X-APPLE-RADIUS=500;X-TITLE=1221 Harter Ave:geo:-121.7640193,38.6939729
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/honey-cheese-pairing-workshop-3/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260319T173000
-DTEND;TZID=America/Los_Angeles:20260319T190000
-DTSTAMP:20260319T175814
-CREATED:20251222T220748Z
-LAST-MODIFIED:20251222T220757Z
-UID:10013426-1773941400-1773946800@visityolo.com
-SUMMARY:Honey and Cheese Pairing Workshop
-DESCRIPTION:Cheesemonger extraordinaire Roxanne O’Brien teams up with varietal honey expert\, Amina Harris\, for an immersive and interactive workshop. Indulge your senses as you experiment with an array of cheeses\, varietal honeys\, and honey fruit spreads alongside an abundant charcuterie spread\, and celebratory mead and honey themed beverages.
-URL:https://visityolo.com/event/honey-cheese-pairing-workshop-3/
-LOCATION:The HIVE / Z Specialty Food\, The HIVE Tasting Room and Kitchen
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HoneyCheese-032124-32_Small.jpg
-ORGANIZER;CN="The HIVE / Z Specialty Food":MAILTO:events@zspecialtyfood.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/313060113/"}
-X-SOURCE-ID:meetup_mindful_embodied_spirituality
-X-SOURCE:Meetup Mindful Embodied Spirituality
-UID:event_313060113@meetup.com
-SEQUENCE:1
-DTSTAMP:20260320T005809Z
-DTSTART;TZID=America/Los_Angeles:20260319T180000
-DTEND;TZID=America/Los_Angeles:20260319T191000
-SUMMARY:Free Yoga Practice
-DESCRIPTION:Iama Embodied Community\n🌀 **Move with intention. Connect w
- ith your body. Celebrate community.**\n\nJoin us every **Thursday at 6 PM*
- * for an embodied yoga practice designed to help you release tension\, gro
- und yourself\, and cultivate presence. This is a trauma-informed\, all-lev
- els class\, no prior yoga experience needed. Expect a Hatha-Vinyasa flow\,
-  breathwork\, and a space to listen to your body’s wisdom.\n\n🌿 **Eve
- ry last Thursday of the month\, stay after class for a community potluck d
- inner!**\n\n📍 **Location**: 727 T St. Sacramento CA 95811\n✨ **All ou
- r events are free. Donations are welcome.**\n📩 **Questions? Reach out a
- t** embody.iama@gmail.com\n🔗 **Follow us on Instagram:** [@embody.iama]
- (https://www.instagram.com/embody.iama)
-URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
- 313060113/
-STATUS:CONFIRMED
-CREATED:20260126T055149Z
-LAST-MODIFIED:20260126T055149Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/self-defense-class/2026-03-19/"}
-X-SOURCE-ID:thedirt
-X-SOURCE:The Dirt
-DTSTART;TZID=America/Los_Angeles:20260319T180000
-DTEND;TZID=America/Los_Angeles:20260319T190000
-DTSTAMP:20260319T175811
-CREATED:20260219T061156Z
-LAST-MODIFIED:20260219T061156Z
-UID:10075086-1773943200-1773946800@thedirt.online
-SUMMARY:Self Defense Class
-DESCRIPTION:This is a safe\, inclusive opportunity to learn self defense from a dedicated group of martial arts practitioners at the Davis Arts Center. If you have ever felt like you would like to learn a little more about how to defend yourself and your loved ones\, and would like to get a little fitness training too\, please join us! No experience necessary\, start any time. We ask for a $10 donation per class\, but you can pay whatever you can. \n 
-URL:https://thedirt.online/event/self-defense-class/2026-03-19/
-LOCATION:Davis Arts Center\, 1919 F St\, Davis\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2026/02/karate.jpg
-ORGANIZER;CN="Community Dojo of Davis":MAILTO:tonyberger@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/author-talk-bob-schneider/"}
-X-SOURCE-ID:thedirt
-X-SOURCE:The Dirt
-DTSTART;TZID=America/Los_Angeles:20260319T183000
-DTEND;TZID=America/Los_Angeles:20260319T193000
-DTSTAMP:20260319T175811
-CREATED:20260224T031904Z
-LAST-MODIFIED:20260224T031904Z
-UID:10075481-1773945000-1773948600@thedirt.online
-SUMMARY:Author Talk: Bob Schneider
-DESCRIPTION:Join us to hear from local author Bob Schneider about the updated version of Exploring the Berryessa Snow Mountain National Monument Region. \nAbout the Author \nBob Schneider has worked with passion to protect public lands since his student volunteer days in the late 1960s to establish the Redwood National Park. He later cofounded both the California Wilderness Coalition in 1976 and Tuleyome in 2002. Bob most recently spearheaded a team of hard-working people and organizations to designate the Berryessa Snow Mountain National Monument in 2015. He has a B.S. degree in geology from UC Davis\, is married with two grown children\, and lives in Davis. \nAbout the Book \nNestled between the Central Valley and the Pacific Coast\, the Berryessa Snow Mountain region is a place where California’s wild heart still beats strong. Here\, condors once soared over oak-studded ridges\, ancient volcanoes rose from the sea\, and rivers carved their paths through folded mountains. This richly illustrated guide invites readers to explore one of the state’s least-known but most biologically and geologically diverse landscapes—a place of breathtaking beauty\, deep history\, and ongoing conservation. Blending natural history\, geology\, and human story\, the authors reveal how plate tectonics built this land\, how fire and serpentine soils shape its living communities\, and how generations of people—from Native tribes to ranchers and scientists—have come to know and care for it. Whether used as a travel companion or an armchair exploration\, this book is an invitation to see California anew\, through the lens of one remarkable region. \nInside You’ll Find \nAn introduction to the geology\, ecology\, and cultural history of the Berryessa Snow Mountain National Monument and surrounding lands \nDetailed road guides for exploring both northern and southern routes through the Monument Accessible explanations of plate tectonics\, rock formations\, and California’s dynamic landscapes \nDescriptions of rare plants\, wildlife\, and serpentine ecosystems\, and the role of fire in shaping them \nInsight into Indigenous stewardship and modern conservation efforts\, including the 2024 addition of Molok Luyuk and Tribal co-stewardship \nDozens of maps\, photos\, and diagrams to enhance field learning and appreciation \nRecommendations for recreation\, responsible exploration\, and deeper engagement with this living landscape
-URL:https://thedirt.online/event/author-talk-bob-schneider/
-LOCATION:The Avid Reader Bookstore\, 617 2nd St.\, Davis\, 95616
-CATEGORIES:Books & Talks
-ATTACH;FMTTYPE=image/png:https://thedirt.online/wp-content/uploads/2026/02/Bob-Schneider.png
-ORGANIZER;CN="The Avid Reader":MAILTO:avidreaderbooks@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/francisco-dominguez-presentation-of-photographs-of-gaza-war-protests/"}
-X-SOURCE-ID:thedirt
-X-SOURCE:The Dirt
-DTSTART;TZID=America/Los_Angeles:20260319T190000
-DTEND;TZID=America/Los_Angeles:20260319T210000
-DTSTAMP:20260319T175811
-CREATED:20260224T032721Z
-LAST-MODIFIED:20260224T032721Z
-UID:10075485-1773946800-1773954000@thedirt.online
-SUMMARY:Francisco Dominguez Presentation of  Photographs of Gaza War Protests
-DESCRIPTION:Francisco Dominguez will present a slide show of his photographs documenting the protests against Israel’s war on Gaza. Francisco Dominguez will also speak about the protest movement against the Gaza War. \nFrancisco Dominguez is a Sacramento-based documentary photographer\, artist\, and printmaker specializing in social justice\, labor movements\, protests\, civil rights\, and indigenous peoples. His work has been acquired by institutions like the UC Davis Library. He also hosts a public affairs program on KDVS radio.
-URL:https://thedirt.online/event/francisco-dominguez-presentation-of-photographs-of-gaza-war-protests/
-LOCATION:Friends Meetinghouse\, 345 L St\, Davis\, 345 L St\, Davis\, CA\, 95616
-CATEGORIES:Art
-ORGANIZER;CN="Davis Friends Meeting (Quaker)":MAILTO:info@davisfriendsmeeting.org
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/kokedama/"}
-X-SOURCE-ID:thedirt
-X-SOURCE:The Dirt
-DTSTART;TZID=America/Los_Angeles:20260319T190000
-DTEND;TZID=America/Los_Angeles:20260319T213000
-DTSTAMP:20260319T175811
-CREATED:20260313T045941Z
-LAST-MODIFIED:20260313T045941Z
-UID:10075991-1773946800-1773955800@thedirt.online
-SUMMARY:Kokedama
-DESCRIPTION:This hands-on workshop introduces the basics of kokedama\, a Japanese method of growing plants in moss-wrapped soil. We will go through how to prepare soil\, position the plant roots\, and bind each piece with natural twine (or colorful wire!) to create gorgeous living art. \nWe’ll chat\, get dirt under our finger nails\, and drink some tea. Everyone will leave with a finished kokedama (or several) and guidance for keeping it looking happy and healthy. \n7-9:30pm. Address will be sent out the week of the workshop.
-URL:https://thedirt.online/event/kokedama/
-LOCATION:Fera House\, Davis\, CA\, 95616
-CATEGORIES:Art,Community,Featured
-ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2026/03/D3E953CB-CD2C-45F7-AD14-9E8578E9AF73-1.jpeg
-ORGANIZER;CN="Fera House":MAILTO:ContactFeraHouse@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/photography-club-of-davis/"}
-X-SOURCE-ID:thedirt
-X-SOURCE:The Dirt
-DTSTART;TZID=America/Los_Angeles:20260319T191000
-DTEND;TZID=America/Los_Angeles:20260319T204500
-DTSTAMP:20260319T175811
-CREATED:20260212T212535Z
-LAST-MODIFIED:20260212T212535Z
-UID:10074269-1773947400-1773953100@thedirt.online
-SUMMARY:Photography Club of Davis
-DESCRIPTION:The Photography Club of Davis will meet on Thursday\, March 19\, at 7:10pm in the Blanchard Room of the Mary L. Stephens Library at 314 East 14th Street in Davis. The meeting will feature a photo critique of member-submitted images. Critiques tend to be positive learning experiences for both submitters and the general audience. Participants discuss “why does this image work” as well as “why does this image not work” and how the image may be improved. Attendees also learn about the techniques involved. The Photography Club of Davis meets every month on the third Thursday of the month (except July and August) and welcomes members of the public to attend. \n“This event is not sponsored by Yolo County Library and the presence of this group in the meeting room does not constitute Yolo County Library’s endorsement of the policies or beliefs of this group.”
-URL:https://thedirt.online/event/photography-club-of-davis/
-LOCATION:Mary L. Stephens Davis Branch Library Blanchard Room\, 315 E 14th St\, Davis\, CA\, 95616\, United States
-CATEGORIES:Art
-ATTACH;FMTTYPE=image/png:https://thedirt.online/wp-content/uploads/2026/02/succulents.png
-ORGANIZER;CN="Photography Club of Davis":MAILTO:photographyclubofdavis@gmail.com
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-03-20/"}
 X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260320T110000
 DTEND;TZID=America/Los_Angeles:20260320T180000
-DTSTAMP:20260319T175814
+DTSTAMP:20260320T175444
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013225-1774004400-1774029600@visityolo.com
@@ -228,12 +23,215 @@ LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/village-homes-a-radical-plan/2026-03-20/"}
+X-SOURCE-ID:thedirt
+X-SOURCE:The Dirt
+DTSTART;TZID=America/Los_Angeles:20260320T120000
+DTEND;TZID=America/Los_Angeles:20260320T160000
+DTSTAMP:20260320T175442
+CREATED:20251210T225628Z
+LAST-MODIFIED:20251210T225628Z
+UID:10069375-1774008000-1774022400@thedirt.online
+SUMMARY:Village Homes: A Radical Plan
+DESCRIPTION:“Village Homes: A Radical Plan” celebrates the 50th anniversary of an innovative west Davis neighborhood community. Curated by Professor Timothy McNeil and guest curator Adrienne McGraw\, the installation showcases the vision\, concepts\, and development behind the project and its goals. This ground-breaking exhibition will feature original objects\, archival photographs\, plans and drawings\, a part-built section of a typical 1970s house in Village Homes recreating a living space and demonstrating the passive solar features\, and an interactive three-dimensional site plan of the neighborhood’s unique landscape. Other highlights include a 30-minute documentary film about the community.
+URL:https://thedirt.online/event/village-homes-a-radical-plan/2026-03-20/
+LOCATION:UC Davis Design Museum\, Cruess Hall\, #124\, Davis\, 95616\, United States
+CATEGORIES:Community
+ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2025/12/Aerial-view-of-Village-Homes-late-1970s-phot-from-Judy-Corbett-Archive-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/line-dance-class-at-davis-community-church-4/2026-03-20/"}
+X-SOURCE-ID:thedirt
+X-SOURCE:The Dirt
+DTSTART;TZID=America/Los_Angeles:20260320T150000
+DTEND;TZID=America/Los_Angeles:20260320T163000
+DTSTAMP:20260320T175442
+CREATED:20251126T064711Z
+LAST-MODIFIED:20251202T024205Z
+UID:10069199-1774018800-1774024200@thedirt.online
+SUMMARY:Line Dance Class at Davis Community Church
+DESCRIPTION:Absolute beginner to high beginner dances on Fridays. Free & open to the public. Donations accepted.
+URL:https://thedirt.online/event/line-dance-class-at-davis-community-church-4/2026-03-20/
+LOCATION:Davis Community Church\, 412 C Street\, Davis\, ca\, 95616
+CATEGORIES:Music,Stage & Dance
+ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2025/11/Davis-Line-Dance-Flyer-Davis-Community-Church-Friday-FALL-2025-scaled.jpg
+ORGANIZER;CN="Davis Line Dance":MAILTO:davislinedance@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/tales-for-tails-2/2026-03-20/"}
+X-SOURCE-ID:thedirt
+X-SOURCE:The Dirt
+DTSTART;TZID=America/Los_Angeles:20260320T150000
+DTEND;TZID=America/Los_Angeles:20260320T163000
+DTSTAMP:20260320T175442
+CREATED:20260124T225735Z
+LAST-MODIFIED:20260124T225736Z
+UID:10030344-1774018800-1774024200@thedirt.online
+SUMMARY:Tales for Tails
+DESCRIPTION:Stephens Davis Branch Library\n315 E 14th St\nDavis\, CA 95616 \n  \nRead to a therapy dog!  Animals are ideal reading companions.  For ages 5-12\, in the Children’s Activity Room. \nFirst come\, first served.  No prior reservations. \nSign up for a 10-minute reading slot at the Children’s Desk on the afternoon of the program. \nCheck website for cancellations. \n  \nNo reservation required. Sponsored by the Friends of the Davis Public Library. You may request reasonable accommodations 5 days in advance by calling (530) 757-5593. Connect with us on Facebook at www.facebook.com/yolocountylibrary.org.
+URL:https://thedirt.online/event/tales-for-tails-2/2026-03-20/
+LOCATION:Mary L. Stephens Davis Branch Library\, 315 East 14th Street\, Davis\, CA\, 95616\, United States
+CATEGORIES:Books & Talks,Bring the Kids
+ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2023/02/image-6.jpeg
+GEO:40.7321931;-73.9841278
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Mary L. Stephens Davis Branch Library 315 East 14th Street Davis CA 95616 United States;X-APPLE-RADIUS=500;X-TITLE=315 East 14th Street:geo:-73.9841278,40.7321931
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/davis-makerspace-clothing-repair-cafe-2/2026-03-20/"}
+X-SOURCE-ID:thedirt
+X-SOURCE:The Dirt
+DTSTART;TZID=America/Los_Angeles:20260320T150000
+DTEND;TZID=America/Los_Angeles:20260320T170000
+DTSTAMP:20260320T175442
+CREATED:20251224T073754Z
+LAST-MODIFIED:20251224T073754Z
+UID:10070874-1774018800-1774026000@thedirt.online
+SUMMARY:Davis Makerspace & Clothing Repair Cafe
+DESCRIPTION:Davis Makerspace is a community workspace for makers and builders\, designers and inventors. A small assortment of tools will be available for use and staff or volunteers will be on hand to provide some assistance. Supervised children are welcome. Participants must provide a signed liability waiver (available on site). Mondays & Tuesdays\, 6p—8p; Thursdays\, 9:30a—11:30a; Fridays\, 3p—5p.
+URL:https://thedirt.online/event/davis-makerspace-clothing-repair-cafe-2/2026-03-20/
+LOCATION:Mary L. Stephens Davis Branch Library\, 315 East 14th Street\, Davis\, CA\, 95616\, United States
+CATEGORIES:Art,Community
+GEO:40.7321931;-73.9841278
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Mary L. Stephens Davis Branch Library 315 East 14th Street Davis CA 95616 United States;X-APPLE-RADIUS=500;X-TITLE=315 East 14th Street:geo:-73.9841278,40.7321931
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/friday-family-open-studio/2026-03-20/"}
+X-SOURCE-ID:thedirt
+X-SOURCE:The Dirt
+DTSTART;TZID=America/Los_Angeles:20260320T170000
+DTEND;TZID=America/Los_Angeles:20260320T190000
+DTSTAMP:20260320T175442
+CREATED:20260222T174336Z
+LAST-MODIFIED:20260222T174336Z
+UID:10075362-1774026000-1774033200@thedirt.online
+SUMMARY:Friday Family Open Studio
+DESCRIPTION:Looking for a space where you\, your family\, and even friends can have fun with art and creativity? Drop in at our Art Explorers: Family Open Studio! Explore an array of art materials\, such as paint\, oil pastels\, and recycled materials. Let your creative imagination run wild! (An adult must attend with at least one child\, and children must attend with an adult.) \nALL AGES
+URL:https://thedirt.online/event/friday-family-open-studio/2026-03-20/
+LOCATION:Davis Arts Center\, 1919 F St\, Davis\, 95616\, United States
+CATEGORIES:Art
+ATTACH;FMTTYPE=image/png:https://thedirt.online/wp-content/uploads/2026/02/Family-Open-Studio-1.png
+ORGANIZER;CN="Davis Arts Center":MAILTO:office@davisartscenter.org
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/friday-evening-at-the-winery-9/"}
+X-SOURCE-ID:thedirt
+X-SOURCE:The Dirt
+DTSTART;TZID=America/Los_Angeles:20260320T170000
+DTEND;TZID=America/Los_Angeles:20260320T200000
+DTSTAMP:20260320T175442
+CREATED:20260227T185010Z
+LAST-MODIFIED:20260227T185010Z
+UID:10075661-1774026000-1774036800@thedirt.online
+SUMMARY:Friday Evening at the Winery
+DESCRIPTION:🍷✨ Friday Evenings at Great Bear Vineyards ✨🍷\nMarch 20 | 5–8pm\nTicket Includes: First Glass of Wine \nWinter Fridays = cozy vineyard vibes. 🍷❄️ \nWhile live music takes a seasonal pause\, our tasting room is warm\, welcoming\, and ready for your perfect end-of-week unwind. Join us from 5–8pm for relaxed conversation\, delicious estate wines\, and that peaceful vineyard magic you love. \nEnjoy wine by the glass or bottle\, explore a tasting flight\, and grab snacks available for purchase. You’re also welcome to bring your own picnic or favorite takeout and settle in for an easy\, unhurried evening among the vines. \n☀️ Sunny-Day Bonus! \nIf the forecast surprises us with bright blue skies\, we’ll celebrate with a pop-up food truck and live music! Be sure to keep an eye on our social media and website for any sunshine-inspired additions. \nWhether you’re easing into the new year or simply craving a laid-back Friday night out\, winter evenings at Great Bear are all about good wine\, good company\, and a little seasonal magic. \nWe’ll save you a glass.
+URL:https://thedirt.online/event/friday-evening-at-the-winery-9/
+LOCATION:Great Bear Vineyards (Great Bear)\, 24800 County Rd 101A
+CATEGORIES:Food & Drink
+ATTACH;FMTTYPE=image/png:https://thedirt.online/wp-content/uploads/2026/02/3-20-26-Thumbnail.png
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+GEO:38.5818013;-121.7499687
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Great Bear Vineyards (Great Bear) 24800 County Rd 101A;X-APPLE-RADIUS=500;X-TITLE=24800 County Rd 101A:geo:-121.7499687,38.5818013
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/dancing-through-life-a-jazz-choir-cabaret-2/"}
+X-SOURCE-ID:thedirt
+X-SOURCE:The Dirt
+DTSTART;TZID=America/Los_Angeles:20260320T173000
+DTEND;TZID=America/Los_Angeles:20260320T213000
+DTSTAMP:20260320T175442
+CREATED:20260225T001006Z
+LAST-MODIFIED:20260225T001015Z
+UID:10073826-1774027800-1774042200@thedirt.online
+SUMMARY:Dancing Through Life\, a Jazz Choir Cabaret
+DESCRIPTION:The Davis Senior High School Jazz Choir invites the community to experience two unforgettable evenings of music\, movement\, and show-stopping performances at its annual Jazz Choir Cabaret\, taking place Friday and Saturday\, March 20 and 21\, 2026\, at the Richard Brunelle Performance Hall on the Davis Senior High School campus. \nThe cabaret-style evening offers more than just a concert—it’s a full entertainment experience. Audiences can expect a high-energy production featuring the full Jazz Choir\, standout soloists\, and small group numbers that blend jazz\, pop\, and contemporary vocal styles with polished choreography. \nTwo Viewing Options on Friday and Saturday: \nDinner & Show ($55): Enjoy an exclusive dining experience with mocktails and a catered dinner provided by Simply Satisfied Catering Co. in the Choir Room\, along with live entertainment from the Jazz Choir and Jazz Band Ensemble. After dinner\, guests will be escorted to reserved seating for the 7:00 PM performance. \nShow Only ($30) and Show Only – Student ($15): For those attending only the performance\, doors open at 6:45 PM. Guests will be treated to mocktails and the opportunity to participate in the raffle before the show starts at 7:00 PM. \nProceeds from the Jazz Choir Cabaret directly support the Davis Senior High School Jazz Choir program\, helping fund music\, choreography\, costumes\, and performance opportunities for students throughout the year.
+URL:https://thedirt.online/event/dancing-through-life-a-jazz-choir-cabaret-2/
+LOCATION:Richard Brunelle Performance Hall\, 315 W 14th Street\, Davis\, CA\, 95616\, United States
+CATEGORIES:Bring the Kids,Community,Food & Drink,Music,Stage & Dance
+ATTACH;FMTTYPE=image/png:https://thedirt.online/wp-content/uploads/2026/02/Dancing-Through-Life-SM.png
+ORGANIZER;CN="Davis Jazz Choir%2C Inc.":MAILTO:davisjazzchoir@gmail.com
+GEO:38.55717;-121.7501789
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Richard Brunelle Performance Hall 315 W 14th Street Davis CA 95616 United States;X-APPLE-RADIUS=500;X-TITLE=315 W 14th Street:geo:-121.7501789,38.55717
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/documentary-screening-the-right-to-exist/"}
+X-SOURCE-ID:thedirt
+X-SOURCE:The Dirt
+DTSTART;TZID=America/Los_Angeles:20260320T183000
+DTEND;TZID=America/Los_Angeles:20260320T210000
+DTSTAMP:20260320T175442
+CREATED:20260311T191408Z
+LAST-MODIFIED:20260311T191408Z
+UID:10075978-1774031400-1774040400@thedirt.online
+SUMMARY:Documentary Screening: "The Right to Exist"
+DESCRIPTION:The documentary\, “The Right to Exist\,” will be shown at the Davis United Methodist Church\, 1620 Anderson Rd\, on Friday\, March 20\, doors open at 6:30\, film begins at 7:00.  “The Right to Exist” explores the homelessness crisis in Sacramento through a combination of personal stories and in-depth analysis.  The film follows the city-authorized Camp Resolution\, a self-governed\, women-run homeless encampment whose struggle for continued existence garnered national attention.  A discussion with the documentary’s film maker Nick Anderson will follow the screening.  Please rsvp at bb20131100@gmail.com.
+URL:https://thedirt.online/event/documentary-screening-the-right-to-exist/
+LOCATION:Davis United Methodist Church\, 1620 Anderson Road\, Davis\, CA\, 95616\, United States
+GEO:38.5572171;-121.7582365
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Davis United Methodist Church 1620 Anderson Road Davis CA 95616 United States;X-APPLE-RADIUS=500;X-TITLE=1620 Anderson Road:geo:-121.7582365,38.5572171
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/acoustic-kiss-tell-a-tribute-to-sexy-live-at-watermelon-music/"}
+X-SOURCE-ID:thedirt
+X-SOURCE:The Dirt
+DTSTART;TZID=America/Los_Angeles:20260320T190000
+DTEND;TZID=America/Los_Angeles:20260320T213000
+DTSTAMP:20260320T175442
+CREATED:20260224T215434Z
+LAST-MODIFIED:20260224T220450Z
+UID:10075494-1774033200-1774042200@thedirt.online
+SUMMARY:Acoustic Kiss + Tell: A Tribute to Sexy — Live at Watermelon Music
+DESCRIPTION:Left of the Dial Promotions Presents:\nAcoustic Kiss + Tell: A Tribute to Sexy — Live at Watermelon Music\, March 20 \nGet ready for a sultry\, stripped down night of acoustic grooves as Yolo County’s Kiss + Tell brings their Tribute to Sexy to Watermelon Music in Davis on Friday\, March 20 at 7:00 PM. This special performance blends harmonies\, playful\, reimagined favorites with a warm\, unplugged edge—perfect for a cozy evening in the Melon Ball listening room. \nDoors: 7:00 PM\nShowtime: 7:30 PM\nTickets: $20 advance grants early entrance + preferred seating / Suggested $20 at the door\nVenue: Watermelon Music – 1970 Lake Blvd\, Davis\, CA \nBYOB + Heavy D’s Taco Tent will be on site. All Ages – All Inclusive \nSponsored in part by Friends of Watermelon Music\, Davis Live Music Collective\, Armadillo Music\, That California Sound! + KDRT
+URL:https://thedirt.online/event/acoustic-kiss-tell-a-tribute-to-sexy-live-at-watermelon-music/
+LOCATION:Melon Ball – Watermelon Music\, 1970 Lake Blvd\, Suite #1\, Davis\, California\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2026/02/images-4.jpg
+ORGANIZER;CN="Left of the Dial Promtions":MAILTO:leftofthedialpromotions@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/little-shop-of-horrors/2026-03-20/"}
+X-SOURCE-ID:thedirt
+X-SOURCE:The Dirt
+DTSTART;TZID=America/Los_Angeles:20260320T193000
+DTEND;TZID=America/Los_Angeles:20260320T223000
+DTSTAMP:20260320T175442
+CREATED:20250824T014328Z
+LAST-MODIFIED:20250824T192926Z
+UID:10063708-1774035000-1774045800@thedirt.online
+SUMMARY:Little Shop of Horrors
+DESCRIPTION:Little Shop of Horrors – March 6 through March 29\, 2026\nUnderwritten by Sharon Joyce\nThe meek floral assistant Seymour Krelborn stumbles across a new breed of plant he names “Audrey II” – after his coworker crush. This foul-mouthed\, R&B-singing carnivore promises unending fame and fortune to the down and out Krelborn as long as he keeps feeding it\, BLOOD. Over time\, though\, Seymour discovers Audrey II’s out of this world origins and intent towards global domination! \nDirected by Steve Isaacson\nChoreographed by Logan Sexton\nMusical direction by Tonya Whitson-Whennen
+URL:https://thedirt.online/event/little-shop-of-horrors/2026-03-20/
+LOCATION:Davis Musical Theatre Co. (DMTC)\, 607 Pena Dr.
+CATEGORIES:Stage & Dance
+ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2025/08/Little-Shop.jpg
+GEO:38.5504424;-121.716785
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Davis Musical Theatre Co. (DMTC) 607 Pena Dr.;X-APPLE-RADIUS=500;X-TITLE=607 Pena Dr.:geo:-121.716785,38.5504424
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"The Dirt": "https://thedirt.online/event/the-crucible-the-woodland-opera-house/2026-03-20/"}
+X-SOURCE-ID:thedirt
+X-SOURCE:The Dirt
+DTSTART;TZID=America/Los_Angeles:20260320T193000
+DTEND;TZID=America/Los_Angeles:20260404T223000
+DTSTAMP:20260320T175442
+CREATED:20260311T051036Z
+LAST-MODIFIED:20260311T051036Z
+UID:10075944-1774035000-1775341800@thedirt.online
+SUMMARY:The Crucible @ the Woodland Opera House
+DESCRIPTION:Presented by Tom and Meg Stallard\nThe Crucible by Arthur Miller\nMarch 20 – April 4\, 2026 \nSet in 1692 Salem\, Massachusetts\, The Crucible follows the eruption of mass hysteria in a close-knit town after a group of young girls is discovered dancing in the woods. To avoid punishment\, the girls begin accusing townspeople of witchcraft\, igniting a wave of fear that fractures the wider community. As the court demands confessions\, respected citizens are forced to choose between self-preservation and truth. The accusations spiral into tragedy\, revealing how lies\, power\, and fear can destroy a society from within. Written in 1953 by famed American playwright Arthur Miller\, the play is in part an allegory for the anti-communist hysteria of the McCarthy era\, exploring the dangers of false accusations and the abuse of power. \nFor information on purchasing tickets please visit www.WoodlandOperaHouse.org or call our Box Office at (530) 666-9617. \n$20-45
+URL:https://thedirt.online/event/the-crucible-the-woodland-opera-house/2026-03-20/
+LOCATION:Woodland Opera House\, 340 2nd Street\, Woodland\, California
+CATEGORIES:Art,Stage & Dance
+ATTACH;FMTTYPE=image/jpeg:https://thedirt.online/wp-content/uploads/2026/03/Crucible-Comstock-Image.jpg
+ORGANIZER;CN="Woodland Opera House":MAILTO:boxoffice@woodlandoperahouse.org
+GEO:40.5161884;-79.8458488
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS=Woodland Opera House 340 2nd Street Woodland California;X-APPLE-RADIUS=500;X-TITLE=340 2nd Street:geo:-79.8458488,40.5161884
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/winters-theatre-company-presents-murder-on-the-nile-2/2026-03-20/"}
 X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260320T193000
 DTEND;TZID=America/Los_Angeles:20260320T213000
-DTSTAMP:20260319T175814
+DTSTAMP:20260320T175444
 CREATED:20250724T212132Z
 LAST-MODIFIED:20250724T212132Z
 UID:10010705-1774035000-1774042200@visityolo.com
@@ -251,7 +249,7 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260321T080000
 DTEND;TZID=America/Los_Angeles:20260321T130000
-DTSTAMP:20260319T175812
+DTSTAMP:20260320T175443
 CREATED:20260103T234411Z
 LAST-MODIFIED:20260103T234411Z
 UID:10002773-1774080000-1774098000@visitdavis.org
@@ -267,7 +265,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_313287945@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005809Z
+DTSTAMP:20260321T005437Z
 DTSTART;TZID=America/Los_Angeles:20260321T093000
 DTEND;TZID=America/Los_Angeles:20260321T160000
 SUMMARY:Gel Printing Workshop with Sara Post
@@ -296,7 +294,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260321T110000
 DTEND;TZID=America/Los_Angeles:20260321T180000
-DTSTAMP:20260319T175814
+DTSTAMP:20260320T175444
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013226-1774090800-1774116000@visityolo.com
@@ -312,7 +310,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260321T140000
 DTEND;TZID=America/Los_Angeles:20260321T160000
-DTSTAMP:20260319T175814
+DTSTAMP:20260320T175444
 CREATED:20250724T211913Z
 LAST-MODIFIED:20250724T211913Z
 UID:10010783-1774101600-1774108800@visityolo.com
@@ -329,7 +327,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_313594928@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005807Z
+DTSTAMP:20260321T005435Z
 DTSTART;TZID=America/Los_Angeles:20260321T160000
 DTEND;TZID=America/Los_Angeles:20260321T170000
 SUMMARY:Mosaics Beginning Spanish on Zoom
@@ -369,7 +367,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_313595579@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005807Z
+DTSTAMP:20260321T005435Z
 DTSTART;TZID=America/Los_Angeles:20260321T170000
 DTEND;TZID=America/Los_Angeles:20260321T180000
 SUMMARY:Mosaics Beginning Korean on Zoom
@@ -409,7 +407,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_313596423@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005807Z
+DTSTAMP:20260321T005435Z
 DTSTART;TZID=America/Los_Angeles:20260321T180000
 DTEND;TZID=America/Los_Angeles:20260321T190000
 SUMMARY:Mosaics Beginning Japanese on Zoom
@@ -449,7 +447,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_313581532@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005807Z
+DTSTAMP:20260321T005435Z
 DTSTART;TZID=America/Los_Angeles:20260321T190000
 DTEND;TZID=America/Los_Angeles:20260321T200000
 SUMMARY:Mosaics English Learners Group on Zoom
@@ -489,7 +487,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260321T193000
 DTEND;TZID=America/Los_Angeles:20260321T213000
-DTSTAMP:20260319T175814
+DTSTAMP:20260320T175444
 CREATED:20250724T212132Z
 LAST-MODIFIED:20250724T212132Z
 UID:10010706-1774121400-1774128600@visityolo.com
@@ -506,7 +504,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260322T110000
 DTEND;TZID=America/Los_Angeles:20260322T180000
-DTSTAMP:20260319T175814
+DTSTAMP:20260320T175444
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013227-1774177200-1774202400@visityolo.com
@@ -522,7 +520,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_313100924@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005809Z
+DTSTAMP:20260321T005437Z
 DTSTART;TZID=America/Los_Angeles:20260323T100000
 DTEND;TZID=America/Los_Angeles:20260323T114500
 SUMMARY:Healing Arts One-Time Workshop
@@ -555,7 +553,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_313060114@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005809Z
+DTSTAMP:20260321T005438Z
 DTSTART;TZID=America/Los_Angeles:20260323T180000
 DTEND;TZID=America/Los_Angeles:20260323T200000
 SUMMARY:Conscious Conversations & Embodied Listening  
@@ -587,7 +585,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_313423126@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005809Z
+DTSTAMP:20260321T005437Z
 DTSTART;TZID=America/Los_Angeles:20260324T100000
 DTEND;TZID=America/Los_Angeles:20260324T120000
 SUMMARY:Intermediate Watercolor Painting with Misuk Goltz (6-Sessions)
@@ -619,7 +617,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_313659673@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005808Z
+DTSTAMP:20260321T005436Z
 DTSTART;TZID=America/Los_Angeles:20260325T170000
 DTEND;TZID=America/Los_Angeles:20260325T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -651,7 +649,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_313060115@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005809Z
+DTSTAMP:20260321T005438Z
 DTSTART;TZID=America/Los_Angeles:20260326T180000
 DTEND;TZID=America/Los_Angeles:20260326T191000
 SUMMARY:Free Yoga Practice
@@ -680,7 +678,7 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260330
-DTSTAMP:20260319T175812
+DTSTAMP:20260320T175443
 CREATED:20260213T222310Z
 LAST-MODIFIED:20260214T005322Z
 UID:10002808-1774569600-1774828799@visitdavis.org
@@ -695,7 +693,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260327T110000
 DTEND;TZID=America/Los_Angeles:20260327T180000
-DTSTAMP:20260319T175814
+DTSTAMP:20260320T175444
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013228-1774609200-1774634400@visityolo.com
@@ -712,9 +710,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260327T160000
 DTEND;TZID=America/Los_Angeles:20260327T170000
-DTSTAMP:20260319T175812
+DTSTAMP:20260320T175443
 CREATED:20260128T234247Z
-LAST-MODIFIED:20260320T001159Z
+LAST-MODIFIED:20260320T054154Z
 UID:10002795-1774627200-1774630800@visitdavis.org
 SUMMARY:Barrel Tasting and Tour
 DESCRIPTION:🍷 Barrel Tasting & Tour at Great Bear Vineyards in Davis 🍷\nFriday\, March 27 | 4:00 PM \nEver wondered what our wines taste like before they hit the bottle? This is your chance to find out—and it’s a pretty special one. \nJoin us for an intimate Barrel Tasting & Tour\, where you’ll sip\, stroll\, and sneak behind the scenes at Great Bear Vineyards. This rare experience includes a guided flight of five wines\, with select tastes straight from the barrel—yes\, the barrel! You’ll be led by one of our owners\, winemakers\, or senior wine educators as they share stories\, secrets\, and the craft behind our award-winning\, estate-grown wines. \n✨ Your ticket includes:\n• Flight of 5 wines\n• Barrel samples (a rare treat!)\n• Vineyard walk & behind-the-scenes barrel room tour\n• Insider knowledge from the people who make the wine \nAnd because it’s Friday… we’re keeping the party going! 🎶🍕\nStick around for Friday-Fest with live jazz from the Potential Jazz Ensemble and delicious wood-fired pizza from Italian Brother’s Pizza. \nCome for the barrels\, stay for the vibes. We can’t wait to welcome you! 🍷🔥
@@ -730,9 +728,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260327T170000
 DTEND;TZID=America/Los_Angeles:20260327T200000
-DTSTAMP:20260319T175812
+DTSTAMP:20260320T175443
 CREATED:20260128T234243Z
-LAST-MODIFIED:20260320T001159Z
+LAST-MODIFIED:20260320T054154Z
 UID:10002793-1774630800-1774641600@visitdavis.org
 SUMMARY:Friday-Fest
 DESCRIPTION:🎷🍕 Friday-Fest at Great Bear Vineyards in Davis 🍷🎶\nFriday\, March 27 | 5–8 PM \nLive Music Friday’s are back! Join us for Friday-Fest\, featuring live jazz from the Potential Jazz Ensemble and fresh\, wood-fired pizza from Italian Brother’s Pizza. Your ticket includes a glass of wine and live music—the perfect pairing. \n🍕 Food starts at 5 PM with authentic\, made-to-order pizzas hot from the wood-fired oven.\n🎶 Live music from 6–7:30 PM\, with the Potential Jazz Ensemble bringing vibrant\, feel-good jazz that blends classic roots with modern creativity. Expect smooth grooves\, lively solos\, and great energy from this talented lineup of sax\, bass\, guitar\, piano\, and percussion. \nCome early\, grab a slice\, sip some wine\, and settle in for a relaxed\, delicious evening at the vineyard. Weekend vibes start here! 🍷✨
@@ -748,7 +746,7 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260328T080000
 DTEND;TZID=America/Los_Angeles:20260328T130000
-DTSTAMP:20260319T175812
+DTSTAMP:20260320T175443
 CREATED:20260103T234411Z
 LAST-MODIFIED:20260103T234411Z
 UID:10002774-1774684800-1774702800@visitdavis.org
@@ -764,7 +762,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_313545794@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005809Z
+DTSTAMP:20260321T005438Z
 DTSTART;TZID=America/Los_Angeles:20260328T094500
 DTEND;TZID=America/Los_Angeles:20260328T131500
 SUMMARY:A Guided Nature Walk (Free event)
@@ -805,9 +803,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260328T110000
 DTEND;TZID=America/Los_Angeles:20260328T133000
-DTSTAMP:20260319T175812
+DTSTAMP:20260320T175443
 CREATED:20260205T234334Z
-LAST-MODIFIED:20260320T001200Z
+LAST-MODIFIED:20260320T054154Z
 UID:10002804-1774695600-1774704600@visitdavis.org
 SUMMARY:Cooking Class at Great Bear Vineyards
 DESCRIPTION:🥖🍷 Tapas Cooking Class at Great Bear Vineyards in Davis 🍷🥖\nSaturday\, March 28 | 11:00 AM–1:30 PM \n¡Vamos a España—no passport required! Join us for a fun\, hands-on Vegan Tapas Cooking Class where bold Spanish flavors meet creative plant-based cooking. Led by the amazing Chef Maggie\, founder of V-Karma\, this interactive class will have you chopping\, blending\, tasting\, and sipping wine while learning skills you’ll actually use at home. \n✨ Your ticket includes the cooking class + wine \n🍅 On the Menu:\n• Savory Spanish olive tapenade with barra de pan\n• Spanish-style tomato & butter bean dip\n• Cultured cashew cream cheese\n• Strawberry cashew cream cheese\n• Soft\, fluffy tofu ricotta \n🔪 You’ll learn:\n• Essential knife skills\n• How to confidently use blenders & kitchen tools\n• Basics of plant-based fermentation\n• How to make cultured cashew cheeses & tofu ricotta \nWhether you’re vegan\, veg-curious\, or just love Mediterranean flavors\, this is a deliciously creative way to spend your Saturday. Come hungry\, sip some wine\, and leave inspired! 🌱✨
@@ -822,7 +820,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260328T110000
 DTEND;TZID=America/Los_Angeles:20260328T180000
-DTSTAMP:20260319T175814
+DTSTAMP:20260320T175444
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013229-1774695600-1774720800@visityolo.com
@@ -838,7 +836,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260328T140000
 DTEND;TZID=America/Los_Angeles:20260328T160000
-DTSTAMP:20260319T175814
+DTSTAMP:20260320T175444
 CREATED:20250724T211913Z
 LAST-MODIFIED:20250724T211913Z
 UID:10010784-1774706400-1774713600@visityolo.com
@@ -855,7 +853,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_313703660@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005807Z
+DTSTAMP:20260321T005435Z
 DTSTART;TZID=America/Los_Angeles:20260328T160000
 DTEND;TZID=America/Los_Angeles:20260328T170000
 SUMMARY:Mosaics Beginning Spanish on Zoom
@@ -895,7 +893,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_313704302@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005807Z
+DTSTAMP:20260321T005435Z
 DTSTART;TZID=America/Los_Angeles:20260328T170000
 DTEND;TZID=America/Los_Angeles:20260328T180000
 SUMMARY:Mosaics Beginning Korean on Zoom
@@ -935,7 +933,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_313705240@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005807Z
+DTSTAMP:20260321T005435Z
 DTSTART;TZID=America/Los_Angeles:20260328T180000
 DTEND;TZID=America/Los_Angeles:20260328T190000
 SUMMARY:Mosaics Beginning Japanese on Zoom
@@ -976,9 +974,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260328T180000
 DTEND;TZID=America/Los_Angeles:20260328T203000
-DTSTAMP:20260319T175812
+DTSTAMP:20260320T175443
 CREATED:20260205T234335Z
-LAST-MODIFIED:20260320T001200Z
+LAST-MODIFIED:20260320T054154Z
 UID:10002805-1774720800-1774729800@visitdavis.org
 SUMMARY:Paired to Perfection: A Six Course Wine and Culinary Experience
 DESCRIPTION:Paired to Perfection: A Six-Course Wine & Culinary Experience in Davis Saturday\, March 28 | 6:00–8:30 pm\nGet ready for an unforgettable evening where food and wine truly speak the same language.\nJoin us at Great Bear Vineyards for an elegant\, immersive dining experience featuring a six-course\, chef-crafted menu\, each dish thoughtfully paired with our estate-grown wines. This is more than dinner—it’s a journey through seasonal ingredients\, inspired techniques\, and wines designed to shine alongside every bite.\nEach course is carefully curated to highlight balance\, contrast\, and harmony between the plate and the glass—showcasing what happens when great food meets great wine \n Ticket Options:• Dinner Only: $65 + 20% gratuity = $78• Dinner + Paired Wines: $100 + 20% gratuity = $120\n Sample Menu (Inspired by Past Culinary Highlights):• Crisp Fish Tacos — paired with Albariño• Spicy Tuna Tartare — paired with Sauvignon Blanc• Slow-Braised Pork Belly — paired with Chardonnay Frizzante or Tempranillo 2021• Lamb Medallion — paired with Vintner’s Blend 2019• Steak & Mash — paired with Cabernet Sauvignon\, Grand Reserve 2020• Olive Oil Cake with Pistachio Icing — paired with our white port-style dessert wine\n Vegetarian guests welcome! A full vegetarian menu is available upon request.\nThis intimate evening is perfect for food lovers\, wine enthusiasts\, date nights\, or anyone who enjoys savoring life one course at a time. Come experience the essence of Great Bear Vineyards—where every sip and every bite tells a story of craftsmanship\, community\, and California wine country magic.\n Limited seating. Advance tickets required.
@@ -993,7 +991,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_313581535@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005807Z
+DTSTAMP:20260321T005435Z
 DTSTART;TZID=America/Los_Angeles:20260328T190000
 DTEND;TZID=America/Los_Angeles:20260328T200000
 SUMMARY:Mosaics English Learners Group on Zoom
@@ -1033,7 +1031,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260329T110000
 DTEND;TZID=America/Los_Angeles:20260329T180000
-DTSTAMP:20260319T175814
+DTSTAMP:20260320T175444
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013230-1774782000-1774807200@visityolo.com
@@ -1050,9 +1048,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260329T120000
 DTEND;TZID=America/Los_Angeles:20260329T150000
-DTSTAMP:20260319T175812
+DTSTAMP:20260320T175443
 CREATED:20260202T192706Z
-LAST-MODIFIED:20260320T001159Z
+LAST-MODIFIED:20260320T054154Z
 UID:10002801-1774785600-1774796400@visitdavis.org
 SUMMARY:Cheese and Wine Pairing
 DESCRIPTION:Wine & Cheese Pairing Experience at Great Bear Vineyards in Davis Sunday\, March 29 | 12:00–3:00 pm\nIf wine and cheese are your love language\, this one’s for you.\nJoin us at Great Bear Vineyards for an afternoon of delicious discovery featuring a curated flight of four award-winning wines\, each thoughtfully paired with a premium artisan cheese designed to bring out the very best in both. It’s indulgent\, flavorful\, and dangerously easy to fall in love with every pairing.\n Want to elevate your experience?Add an exclusive behind-the-scenes barrel room tour\, where you’ll see our winemaking process up close and sample estate-grown wines straight from the barrel—a rare and memorable treat.\nThis experience is perfect whether you’re a devoted foodie\, a curious wine lover\, or simply in the mood for something delightfully decadent. You’ll get the chance to:• Savor the unique profiles of our handcrafted wines• Discover why certain cheeses make wines shine• Pick up fun\, easy pairing tips—or just relax and enjoy every bite and sip\nBring your favorite people and let the flavors unfold. The pairing offers a hearty\, satisfying tasting with a focus on flavor harmony. Additional wine and snacks will be available for purchase if you’d like to linger a little longer.\n Tickets required. Space is limited—come sip\, snack\, and savor with us!
@@ -1067,7 +1065,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_313060116@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005809Z
+DTSTAMP:20260321T005438Z
 DTSTART;TZID=America/Los_Angeles:20260330T180000
 DTEND;TZID=America/Los_Angeles:20260330T200000
 SUMMARY:Conscious Conversations & Embodied Listening  
@@ -1100,9 +1098,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260331T183000
 DTEND;TZID=America/Los_Angeles:20260331T220000
-DTSTAMP:20260319T175812
+DTSTAMP:20260320T175443
 CREATED:20260224T004243Z
-LAST-MODIFIED:20260320T001159Z
+LAST-MODIFIED:20260320T054154Z
 UID:10002809-1774981800-1774994400@visitdavis.org
 SUMMARY:Banff Mountain Film Festival @ Rocknasium
 DESCRIPTION:Rocknasium in Davis is excited to host another year of the Banff Mountain Film Festival world tour! The evening will feature different multiple award-winning films that explore adventure\, environmental issues\, and action sports. There will also be a prize draw during intermission with prizes from Banff international sponsors & local Davis sponsors!
@@ -1116,7 +1114,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcgbcb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005808Z
+DTSTAMP:20260321T005436Z
 DTSTART;TZID=America/Los_Angeles:20260401T170000
 DTEND;TZID=America/Los_Angeles:20260401T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1142,7 +1140,7 @@ X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
 DTSTART;TZID=UTC:20260401T190000
 DTEND;TZID=UTC:20260401T200000
-DTSTAMP:20260320T005815
+DTSTAMP:20260321T005446
 CREATED:20250609T205334Z
 LAST-MODIFIED:20250609T205334Z
 UID:10000246-1775070000-1775073600@hatefreetogether.org
@@ -1158,7 +1156,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_313060117@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005809Z
+DTSTAMP:20260321T005438Z
 DTSTART;TZID=America/Los_Angeles:20260402T180000
 DTEND;TZID=America/Los_Angeles:20260402T191000
 SUMMARY:Free Yoga Practice
@@ -1186,7 +1184,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260403T110000
 DTEND;TZID=America/Los_Angeles:20260403T180000
-DTSTAMP:20260319T175814
+DTSTAMP:20260320T175444
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013231-1775214000-1775239200@visityolo.com
@@ -1202,7 +1200,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260403T190000
 DTEND;TZID=America/Los_Angeles:20260403T210000
-DTSTAMP:20260319T175814
+DTSTAMP:20260320T175444
 CREATED:20250724T211913Z
 LAST-MODIFIED:20250724T211913Z
 UID:10010785-1775242800-1775250000@visityolo.com
@@ -1219,7 +1217,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260404T080000
 DTEND;TZID=America/Los_Angeles:20260404T130000
-DTSTAMP:20260319T175814
+DTSTAMP:20260320T175444
 CREATED:20230426T230654Z
 LAST-MODIFIED:20240624T175432Z
 UID:10004165-1775289600-1775307600@visityolo.com
@@ -1235,7 +1233,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260404T110000
 DTEND;TZID=America/Los_Angeles:20260404T180000
-DTSTAMP:20260319T175814
+DTSTAMP:20260320T175444
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013232-1775300400-1775325600@visityolo.com
@@ -1251,7 +1249,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260404T140000
 DTEND;TZID=America/Los_Angeles:20260404T160000
-DTSTAMP:20260319T175814
+DTSTAMP:20260320T175444
 CREATED:20250724T211913Z
 LAST-MODIFIED:20250724T211913Z
 UID:10010786-1775311200-1775318400@visityolo.com
@@ -1268,7 +1266,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_dpsfvtyjcgbgb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005807Z
+DTSTAMP:20260321T005435Z
 DTSTART;TZID=America/Los_Angeles:20260404T160000
 DTEND;TZID=America/Los_Angeles:20260404T170000
 SUMMARY:Mosaics Beginning Spanish on Zoom
@@ -1308,7 +1306,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_bdpwvtyjcgbgb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005807Z
+DTSTAMP:20260321T005435Z
 DTSTART;TZID=America/Los_Angeles:20260404T170000
 DTEND;TZID=America/Los_Angeles:20260404T180000
 SUMMARY:Mosaics Beginning Korean on Zoom
@@ -1348,7 +1346,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260405T110000
 DTEND;TZID=America/Los_Angeles:20260405T180000
-DTSTAMP:20260319T175814
+DTSTAMP:20260320T175444
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013233-1775386800-1775412000@visityolo.com
@@ -1364,7 +1362,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260405T140000
 DTEND;TZID=America/Los_Angeles:20260405T160000
-DTSTAMP:20260319T175814
+DTSTAMP:20260320T175444
 CREATED:20250724T211913Z
 LAST-MODIFIED:20250724T211913Z
 UID:10010787-1775397600-1775404800@visityolo.com
@@ -1381,7 +1379,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_313828021@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005809Z
+DTSTAMP:20260321T005438Z
 DTSTART;TZID=America/Los_Angeles:20260406T180000
 DTEND;TZID=America/Los_Angeles:20260406T200000
 SUMMARY:Conscious Conversations & Embodied Listening  
@@ -1413,7 +1411,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_313860557@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005808Z
+DTSTAMP:20260321T005436Z
 DTSTART;TZID=America/Los_Angeles:20260408T170000
 DTEND;TZID=America/Los_Angeles:20260408T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1445,7 +1443,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_313610437@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005809Z
+DTSTAMP:20260321T005437Z
 DTSTART;TZID=America/Los_Angeles:20260409T100000
 DTEND;TZID=America/Los_Angeles:20260409T114500
 SUMMARY:Healing Arts One-Time Workshop
@@ -1478,7 +1476,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_tzxxttyjcgbmb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005809Z
+DTSTAMP:20260321T005438Z
 DTSTART;TZID=America/Los_Angeles:20260409T180000
 DTEND;TZID=America/Los_Angeles:20260409T191000
 SUMMARY:Free Yoga Practice
@@ -1506,7 +1504,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260410T110000
 DTEND;TZID=America/Los_Angeles:20260410T180000
-DTSTAMP:20260319T175814
+DTSTAMP:20260320T175444
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013234-1775818800-1775844000@visityolo.com
@@ -1522,7 +1520,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260410T193000
 DTEND;TZID=America/Los_Angeles:20260410T213000
-DTSTAMP:20260319T175814
+DTSTAMP:20260320T175444
 CREATED:20250724T212132Z
 LAST-MODIFIED:20250724T212132Z
 UID:10010707-1775849400-1775856600@visityolo.com
@@ -1539,7 +1537,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260411T080000
 DTEND;TZID=America/Los_Angeles:20260411T130000
-DTSTAMP:20260319T175814
+DTSTAMP:20260320T175444
 CREATED:20230426T230654Z
 LAST-MODIFIED:20240624T175432Z
 UID:10004166-1775894400-1775912400@visityolo.com
@@ -1550,12 +1548,29 @@ LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Small_CapayCarrots-002.jpg
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/nature-day-at-the-hive-2/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260411T110000
+DTEND;TZID=America/Los_Angeles:20260411T170000
+DTSTAMP:20260320T175444
+CREATED:20260223T233706Z
+LAST-MODIFIED:20260223T233706Z
+UID:10013554-1775905200-1775926800@visityolo.com
+SUMMARY:Nature Day at The HIVE
+DESCRIPTION:A FREE family-friendly day discovering nature and celebrating pollinators! \nEnjoy engaging workshops and activities from local beekeepers\, entomologists\, farmers\, conservationists and horticulturalists.
+URL:https://visityolo.com/event/nature-day-at-the-hive-2/
+LOCATION:The HIVE / Z Specialty Food\, The HIVE Tasting Room and Kitchen
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/The-HIVE_Pollinator-Garden-Tour-1-Shoshana-Zeldner-1.jpg
+ORGANIZER;CN="The HIVE / Z Specialty Food":MAILTO:events@zspecialtyfood.com
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/312345824/"}
 X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_312345824@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005807Z
+DTSTAMP:20260321T005436Z
 DTSTART;TZID=America/Los_Angeles:20260411T160000
 DTEND;TZID=America/Los_Angeles:20260411T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1596,7 +1611,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_312245485@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005807Z
+DTSTAMP:20260321T005436Z
 DTSTART;TZID=America/Los_Angeles:20260411T180000
 DTEND;TZID=America/Los_Angeles:20260411T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1637,7 +1652,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_lhkgvtyjcgbpb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005807Z
+DTSTAMP:20260321T005436Z
 DTSTART;TZID=America/Los_Angeles:20260411T190000
 DTEND;TZID=America/Los_Angeles:20260411T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1678,7 +1693,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_lczxttyjcgbrb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005809Z
+DTSTAMP:20260321T005438Z
 DTSTART;TZID=America/Los_Angeles:20260413T180000
 DTEND;TZID=America/Los_Angeles:20260413T200000
 SUMMARY:Conscious Conversations & Embodied Listening  
@@ -1710,7 +1725,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20260413T190000
 DTEND;TZID=America/Los_Angeles:20260413T203000
 RRULE:FREQ=MONTHLY;BYDAY=2MO
-DTSTAMP:20260320T005815Z
+DTSTAMP:20260321T005446Z
 UID:b2ivqu9ll5tod91a2in388j7sc@google.com
 CREATED:20240829T230534Z
 DESCRIPTION:<p>Come join us for a social gathering\, an interesting cycling
@@ -1728,7 +1743,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjcgbtb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005808Z
+DTSTAMP:20260321T005436Z
 DTSTART;TZID=America/Los_Angeles:20260415T170000
 DTEND;TZID=America/Los_Angeles:20260415T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1760,7 +1775,7 @@ X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
 DTSTART;TZID=UTC:20260415T190000
 DTEND;TZID=UTC:20260415T200000
-DTSTAMP:20260320T005815
+DTSTAMP:20260321T005446
 CREATED:20250609T205453Z
 LAST-MODIFIED:20250609T205453Z
 UID:10000271-1776279600-1776283200@hatefreetogether.org
@@ -1776,7 +1791,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_tzxxttyjcgbvb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005809Z
+DTSTAMP:20260321T005438Z
 DTSTART;TZID=America/Los_Angeles:20260416T180000
 DTEND;TZID=America/Los_Angeles:20260416T191000
 SUMMARY:Free Yoga Practice
@@ -1804,7 +1819,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_xgkgvtyjcgbxb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005807Z
+DTSTAMP:20260321T005436Z
 DTSTART;TZID=America/Los_Angeles:20260418T160000
 DTEND;TZID=America/Los_Angeles:20260418T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1845,7 +1860,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_ghkgvtyjcgbxb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005807Z
+DTSTAMP:20260321T005436Z
 DTSTART;TZID=America/Los_Angeles:20260418T180000
 DTEND;TZID=America/Los_Angeles:20260418T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1886,7 +1901,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_lhkgvtyjcgbxb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005807Z
+DTSTAMP:20260321T005436Z
 DTSTART;TZID=America/Los_Angeles:20260418T190000
 DTEND;TZID=America/Los_Angeles:20260418T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1927,7 +1942,7 @@ X-SOURCE-ID:meetup_art_in_action
 X-SOURCE:Meetup: Art in Action
 UID:event_313772338@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005809Z
+DTSTAMP:20260321T005437Z
 DTSTART;TZID=America/Los_Angeles:20260419T130000
 DTEND;TZID=America/Los_Angeles:20260419T150000
 SUMMARY:Art in Action: Woven Fairy House Wall Hangings
@@ -1962,12 +1977,44 @@ LAST-MODIFIED:20260313T235714Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/lczxttyjcgbbc/"}
+X-SOURCE-ID:meetup_mindful_embodied_spirituality
+X-SOURCE:Meetup Mindful Embodied Spirituality
+UID:event_lczxttyjcgbbc@meetup.com
+SEQUENCE:1
+DTSTAMP:20260321T005438Z
+DTSTART;TZID=America/Los_Angeles:20260420T180000
+DTEND;TZID=America/Los_Angeles:20260420T200000
+SUMMARY:Conscious Conversations & Embodied Listening  
+DESCRIPTION:Iama Embodied Community\nThis is a spiritual community that ho
+ nors the body’s wisdom and lived experience. Whether you’re healing fr
+ om religious trauma\, deconstructing beliefs\, exploring spirituality\, or
+  just want to be with other conscious persons\, this space is for you.\n\n
+ Expect conscious conversations\, meditation\, breathwork\, sound healing\,
+  and other somatic practices to help reconnect with ourselves and each oth
+ er.\n\nwe share a potluck dinner every last Monday of the month.\n\n📅 *
+ *Date & Time**: Mondays 6-8 PM\n📍 **Location**: 727 T St. Sacramento\, 
+ Ca\, 95811\n💜 **All our events are free\, donations supported.**\n✨ *
+ *No prior experience or spiritual beliefs necessary.**\n📩 **RSVP/ Quest
+ ions? Reach out at** embody.iama@gmail.com\n🔗 **Follow us on Instagram:
+ ** [@embody.iama](https://www.instagram.com/embody.iama)\n\nPS: we meet in
+  the social hall of Parkview Presbyterian Church. Please find us through t
+ he back entrance\, the brown gate on Solons alley. You may park in the bac
+ k\, move the orange post to park and please return it when you leave.
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ lczxttyjcgbbc/
+STATUS:CONFIRMED
+CREATED:20251121T210501Z
+LAST-MODIFIED:20251121T210501Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/xgkgvtyjcgbhc/"}
 X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_xgkgvtyjcgbhc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005807Z
+DTSTAMP:20260321T005436Z
 DTSTART;TZID=America/Los_Angeles:20260425T160000
 DTEND;TZID=America/Los_Angeles:20260425T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -2008,7 +2055,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_ghkgvtyjcgbhc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005807Z
+DTSTAMP:20260321T005436Z
 DTSTART;TZID=America/Los_Angeles:20260425T180000
 DTEND;TZID=America/Los_Angeles:20260425T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -2049,7 +2096,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_lhkgvtyjcgbhc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005807Z
+DTSTAMP:20260321T005436Z
 DTSTART;TZID=America/Los_Angeles:20260425T190000
 DTEND;TZID=America/Los_Angeles:20260425T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -2090,7 +2137,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcgbmc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005808Z
+DTSTAMP:20260321T005436Z
 DTSTART;TZID=America/Los_Angeles:20260429T170000
 DTEND;TZID=America/Los_Angeles:20260429T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2122,7 +2169,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_xgkgvtyjchbdb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005807Z
+DTSTAMP:20260321T005436Z
 DTSTART;TZID=America/Los_Angeles:20260502T160000
 DTEND;TZID=America/Los_Angeles:20260502T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -2163,7 +2210,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjchbjb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005808Z
+DTSTAMP:20260321T005436Z
 DTSTART;TZID=America/Los_Angeles:20260506T170000
 DTEND;TZID=America/Los_Angeles:20260506T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -2189,7 +2236,7 @@ X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
 DTSTART;TZID=UTC:20260506T190000
 DTEND;TZID=UTC:20260506T200000
-DTSTAMP:20260320T005815
+DTSTAMP:20260321T005446
 CREATED:20250609T205334Z
 LAST-MODIFIED:20250609T205334Z
 UID:10000247-1778094000-1778097600@hatefreetogether.org
@@ -2205,7 +2252,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstyjchbrb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005808Z
+DTSTAMP:20260321T005436Z
 DTSTART;TZID=America/Los_Angeles:20260513T170000
 DTEND;TZID=America/Los_Angeles:20260513T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2237,7 +2284,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjchbbc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005808Z
+DTSTAMP:20260321T005436Z
 DTSTART;TZID=America/Los_Angeles:20260520T170000
 DTEND;TZID=America/Los_Angeles:20260520T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2269,7 +2316,7 @@ X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
 DTSTART;TZID=UTC:20260520T190000
 DTEND;TZID=UTC:20260520T200000
-DTSTAMP:20260320T005815
+DTSTAMP:20260321T005446
 CREATED:20250609T205453Z
 LAST-MODIFIED:20250609T205453Z
 UID:10000272-1779303600-1779307200@hatefreetogether.org
@@ -2285,7 +2332,7 @@ X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
 DTSTART;TZID=UTC:20260523T120000
 DTEND;TZID=UTC:20260523T200000
-DTSTAMP:20260320T005815
+DTSTAMP:20260321T005446
 CREATED:20260130T185640Z
 LAST-MODIFIED:20260130T190843Z
 UID:10000308-1779537600-1779566400@hatefreetogether.org
@@ -2301,7 +2348,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjchbkc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005808Z
+DTSTAMP:20260321T005436Z
 DTSTART;TZID=America/Los_Angeles:20260527T170000
 DTEND;TZID=America/Los_Angeles:20260527T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2333,7 +2380,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcjbfb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260320T005808Z
+DTSTAMP:20260321T005436Z
 DTSTART;TZID=America/Los_Angeles:20260603T170000
 DTEND;TZID=America/Los_Angeles:20260603T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -2359,7 +2406,7 @@ X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
 DTSTART;TZID=UTC:20260603T190000
 DTEND;TZID=UTC:20260603T200000
-DTSTAMP:20260320T005815
+DTSTAMP:20260321T005446
 CREATED:20250609T205334Z
 LAST-MODIFIED:20250609T205334Z
 UID:10000248-1780513200-1780516800@hatefreetogether.org
