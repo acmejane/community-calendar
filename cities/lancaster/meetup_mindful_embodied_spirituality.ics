@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:event_313060115@meetup.com
 SEQUENCE:1
-DTSTAMP:20260325T010031Z
+DTSTAMP:20260326T010552Z
 DTSTART;TZID=America/Los_Angeles:20260326T180000
 DTEND;TZID=America/Los_Angeles:20260326T191000
 SUMMARY:Free Yoga Practice
@@ -52,7 +52,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313545794@meetup.com
 SEQUENCE:1
-DTSTAMP:20260325T010031Z
+DTSTAMP:20260326T010552Z
 DTSTART;TZID=America/Los_Angeles:20260328T094500
 DTEND;TZID=America/Los_Angeles:20260328T131500
 SUMMARY:A Guided Nature Walk (Free event)
@@ -64,21 +64,21 @@ DESCRIPTION:Iama Embodied Community\nJoin Michael for a guided exploration
  how to “read” trees\, interpret the wind\, and sit in quiet reflection
   with grandmother trees. Along the way\, we will open conversation about h
  ow nature teaches\, communicates\, and invites us into deeper awareness.\n
- \n**Location:** Sterling Pointe Ct\, Loomis\, CA 95650\n**Distance:** 3.2 
- miles\n**Elevation Gain:** 375 feet\n**Level:** Easy to Moderate\n**Pace:*
- * Slow\, with frequent stops for observation and discussion\n**Meet at tra
- ilhead:** 9:30 AM\n**Hike Begins:** 9:45 AM\n**End Time:** 1:15 PM\n\nPlea
- se bring lunch\, water\, and appropriate footwear.\nThis experience is des
- igned not as a workout\, but as a practice in presence.\n\n### About the g
- uide\n\nMichael is a lifelong hiker\, backpacker\, and outdoor enthusiast.
-  He is WFR-trained and adult CPR-certified. Michael’s connection to the 
- land has been shaped by journeys through places like Death Valley and the 
- Grand Canyon\, though his true roots run deep in Mount Diablo. Guided by c
- uriosity and a love of self-studying trees and plants\, he has learned the
-  languages of wind\, water\, and earth—finding meaning in slowing down a
- nd walking with presence.\n\n**P.S.** If you wish to carpool from Sacramen
- to\, please reach out to me separately to arrange with other attendees. Em
- ail embody.iama@gmail.com
+ \n**Driving Location:** 9692 Sterling Pointe Ct\, Loomis\, CA 95650 (look 
+ for the group)\n**Distance:** 3.2 miles\n**Elevation Gain:** 375 feet\n**L
+ evel:** Easy to Moderate\n**Pace:** Slow\, with frequent stops for observa
+ tion and discussion\n**Meet at trailhead:** 9:30 AM\n**Hike Begins:** 9:45
+  AM\n**End Time:** 1:15 PM\n\nPlease bring lunch\, water\, and appropriate
+  footwear.\nThis experience is designed not as a workout\, but as a practi
+ ce in presence.\n\n### About the guide\n\nMichael is a lifelong hiker\, ba
+ ckpacker\, and outdoor enthusiast. He is WFR-trained and adult CPR-certifi
+ ed. Michael’s connection to the land has been shaped by journeys through
+  places like Death Valley and the Grand Canyon\, though his true roots run
+  deep in Mount Diablo. Guided by curiosity and a love of self-studying tre
+ es and plants\, he has learned the languages of wind\, water\, and earth
+ —finding meaning in slowing down and walking with presence.\n\n**P.S.** 
+ If you wish to carpool from Sacramento\, please reach out to me separately
+  to arrange with other attendees. Email embody.iama@gmail.com
 URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
  313545794/
 STATUS:CONFIRMED
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313060116@meetup.com
 SEQUENCE:1
-DTSTAMP:20260325T010031Z
+DTSTAMP:20260326T010552Z
 DTSTART;TZID=America/Los_Angeles:20260330T180000
 DTEND;TZID=America/Los_Angeles:20260330T200000
 SUMMARY:Conscious Conversations & Embodied Listening  
@@ -118,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313060117@meetup.com
 SEQUENCE:1
-DTSTAMP:20260325T010031Z
+DTSTAMP:20260326T010552Z
 DTSTART;TZID=America/Los_Angeles:20260402T180000
 DTEND;TZID=America/Los_Angeles:20260402T191000
 SUMMARY:Free Yoga Practice
@@ -143,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313828021@meetup.com
 SEQUENCE:1
-DTSTAMP:20260325T010031Z
+DTSTAMP:20260326T010552Z
 DTSTART;TZID=America/Los_Angeles:20260406T180000
 DTEND;TZID=America/Los_Angeles:20260406T200000
 SUMMARY:Conscious Conversations & Embodied Listening  
@@ -172,7 +172,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_313877627@meetup.com
 SEQUENCE:1
-DTSTAMP:20260325T010031Z
+DTSTAMP:20260326T010552Z
 DTSTART;TZID=America/Los_Angeles:20260409T180000
 DTEND;TZID=America/Los_Angeles:20260409T191000
 SUMMARY:Free Yoga Practice
@@ -195,9 +195,9 @@ LAST-MODIFIED:20260321T021324Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-UID:event_lczxttyjcgbrb@meetup.com
+UID:event_313936262@meetup.com
 SEQUENCE:1
-DTSTAMP:20260325T010031Z
+DTSTAMP:20260326T010552Z
 DTSTART;TZID=America/Los_Angeles:20260413T180000
 DTEND;TZID=America/Los_Angeles:20260413T200000
 SUMMARY:Conscious Conversations & Embodied Listening  
@@ -217,16 +217,16 @@ DESCRIPTION:Iama Embodied Community\nThis is a spiritual community that ho
  he back entrance\, the brown gate on Solons alley. You may park in the bac
  k\, move the orange post to park and please return it when you leave.
 URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
- lczxttyjcgbrb/
+ 313936262/
 STATUS:CONFIRMED
-CREATED:20251121T210501Z
-LAST-MODIFIED:20251121T210501Z
+CREATED:20260325T015124Z
+LAST-MODIFIED:20260325T015124Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:event_tzxxttyjcgbvb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260325T010031Z
+DTSTAMP:20260326T010552Z
 DTSTART;TZID=America/Los_Angeles:20260416T180000
 DTEND;TZID=America/Los_Angeles:20260416T191000
 SUMMARY:Free Yoga Practice
@@ -251,7 +251,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_lczxttyjcgbbc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260325T010031Z
+DTSTAMP:20260326T010552Z
 DTSTART;TZID=America/Los_Angeles:20260420T180000
 DTEND;TZID=America/Los_Angeles:20260420T200000
 SUMMARY:Conscious Conversations & Embodied Listening  
@@ -280,7 +280,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_tzxxttyjcgbfc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260325T010031Z
+DTSTAMP:20260326T010552Z
 DTSTART;TZID=America/Los_Angeles:20260423T180000
 DTEND;TZID=America/Los_Angeles:20260423T191000
 SUMMARY:Free Yoga Practice
