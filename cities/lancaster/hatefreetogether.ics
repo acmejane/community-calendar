@@ -1,99 +1,1595 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Hate-Free Together - ECPv6.15.18//NONSGML v1.0//EN
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:Hate-Free Together
-X-ORIGINAL-URL:https://hatefreetogether.org
-X-WR-CALDESC:Events for Hate-Free Together
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-Robots-Tag:noindex
-X-PUBLISHED-TTL:PT1H
-BEGIN:VTIMEZONE
-TZID:UTC
-BEGIN:STANDARD
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0000
-TZNAME:UTC
-DTSTART:20250101T000000
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20260401T190000
-DTEND;TZID=UTC:20260401T200000
-DTSTAMP:20260330T005420
-CREATED:20250609T205334Z
-LAST-MODIFIED:20250609T205334Z
-UID:10000246-1775070000-1775073600@hatefreetogether.org
-SUMMARY:NAMI Connection Support Group for Young Adults
-DESCRIPTION:NAMI Connection Support Group for Young Adults is a free\, peer-led support group for anyone between the ages 18 and 26 who has experienced symptoms of a mental health condition. Mental health conditions include anxiety disorder\, depression\, bipolar disorder\, obsessive-compulsive disorder\, post-traumatic stress disorder\, schizophrenia\, or any condition that affects a person’s ability to lead a fulfilling life. You do not need a formal diagnosis to attend this support group; any young person concerned with their mental health and seeking support may attend. NAMI Connection for Young Adults provides resources to help young people build a support network and access help. Participants will learn together how to establish and maintain wellness. \nYou do not need a formal diagnosis to attend. Anyone who is seeking mental health support may attend. \nWhat You’ll Gain\nBy sharing your experiences in a safe and confidential setting\, you will experience connection\, receive information about resources\, and learn coping strategies. The group encourages empathy\, productive discussion and a sense of community. You’ll benefit from other’s experiences\, discover your inner strength\, and receive support by sharing your own experiences in a non-judgmental space. \n  \nNAMI Connection Support Group for Young Adults meets on the first Wednesday of the month (in person) and on the third Wednesday of the month  (via Zoom) from 7pm-8pm.  \nTo register for in-person or virtual meetings\, please visit: https://namiyolo.org/support-and-education/nami-yolo-county-support-groups/young-adult-connection-support-group/. \nIf you have any questions\, please email: friends@namiyolo.org.
-URL:https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults/2026-04-01/
-LOCATION:CA
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20260415T190000
-DTEND;TZID=UTC:20260415T200000
-DTSTAMP:20260330T005420
-CREATED:20250609T205453Z
-LAST-MODIFIED:20250609T205453Z
-UID:10000271-1776279600-1776283200@hatefreetogether.org
-SUMMARY:NAMI Connection Support Group for Young Adults - Virtual
-DESCRIPTION:NAMI Connection Support Group for Young Adults is a free\, peer-led support group for anyone between the ages 18 and 26 who has experienced symptoms of a mental health condition. Mental health conditions include anxiety disorder\, depression\, bipolar disorder\, obsessive-compulsive disorder\, post-traumatic stress disorder\, schizophrenia\, or any condition that affects a person’s ability to lead a fulfilling life. You do not need a formal diagnosis to attend this support group; any young person concerned with their mental health and seeking support may attend. NAMI Connection for Young Adults provides resources to help young people build a support network and access help. Participants will learn together how to establish and maintain wellness. \nYou do not need a formal diagnosis to attend. Anyone who is seeking mental health support may attend. \nWhat You’ll Gain\nBy sharing your experiences in a safe and confidential setting\, you will experience connection\, receive information about resources\, and learn coping strategies. The group encourages empathy\, productive discussion and a sense of community. You’ll benefit from other’s experiences\, discover your inner strength\, and receive support by sharing your own experiences in a non-judgmental space. \n  \nNAMI Connection Support Group for Young Adults meets on the first Wednesday of the month (in person) and on the third Wednesday of the month  (via Zoom) from 7pm-8pm.  \nTo register for in-person or virtual meetings\, please visit: https://namiyolo.org/support-and-education/nami-yolo-county-support-groups/young-adult-connection-support-group/. \nIf you have any questions\, please email: friends@namiyolo.org.
-URL:https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults-virtual/2026-04-15/
-LOCATION:CA
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20260506T190000
-DTEND;TZID=UTC:20260506T200000
-DTSTAMP:20260330T005420
-CREATED:20250609T205334Z
-LAST-MODIFIED:20250609T205334Z
-UID:10000247-1778094000-1778097600@hatefreetogether.org
-SUMMARY:NAMI Connection Support Group for Young Adults
-DESCRIPTION:NAMI Connection Support Group for Young Adults is a free\, peer-led support group for anyone between the ages 18 and 26 who has experienced symptoms of a mental health condition. Mental health conditions include anxiety disorder\, depression\, bipolar disorder\, obsessive-compulsive disorder\, post-traumatic stress disorder\, schizophrenia\, or any condition that affects a person’s ability to lead a fulfilling life. You do not need a formal diagnosis to attend this support group; any young person concerned with their mental health and seeking support may attend. NAMI Connection for Young Adults provides resources to help young people build a support network and access help. Participants will learn together how to establish and maintain wellness. \nYou do not need a formal diagnosis to attend. Anyone who is seeking mental health support may attend. \nWhat You’ll Gain\nBy sharing your experiences in a safe and confidential setting\, you will experience connection\, receive information about resources\, and learn coping strategies. The group encourages empathy\, productive discussion and a sense of community. You’ll benefit from other’s experiences\, discover your inner strength\, and receive support by sharing your own experiences in a non-judgmental space. \n  \nNAMI Connection Support Group for Young Adults meets on the first Wednesday of the month (in person) and on the third Wednesday of the month  (via Zoom) from 7pm-8pm.  \nTo register for in-person or virtual meetings\, please visit: https://namiyolo.org/support-and-education/nami-yolo-county-support-groups/young-adult-connection-support-group/. \nIf you have any questions\, please email: friends@namiyolo.org.
-URL:https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults/2026-05-06/
-LOCATION:CA
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20260520T190000
-DTEND;TZID=UTC:20260520T200000
-DTSTAMP:20260330T005420
-CREATED:20250609T205453Z
-LAST-MODIFIED:20250609T205453Z
-UID:10000272-1779303600-1779307200@hatefreetogether.org
-SUMMARY:NAMI Connection Support Group for Young Adults - Virtual
-DESCRIPTION:NAMI Connection Support Group for Young Adults is a free\, peer-led support group for anyone between the ages 18 and 26 who has experienced symptoms of a mental health condition. Mental health conditions include anxiety disorder\, depression\, bipolar disorder\, obsessive-compulsive disorder\, post-traumatic stress disorder\, schizophrenia\, or any condition that affects a person’s ability to lead a fulfilling life. You do not need a formal diagnosis to attend this support group; any young person concerned with their mental health and seeking support may attend. NAMI Connection for Young Adults provides resources to help young people build a support network and access help. Participants will learn together how to establish and maintain wellness. \nYou do not need a formal diagnosis to attend. Anyone who is seeking mental health support may attend. \nWhat You’ll Gain\nBy sharing your experiences in a safe and confidential setting\, you will experience connection\, receive information about resources\, and learn coping strategies. The group encourages empathy\, productive discussion and a sense of community. You’ll benefit from other’s experiences\, discover your inner strength\, and receive support by sharing your own experiences in a non-judgmental space. \n  \nNAMI Connection Support Group for Young Adults meets on the first Wednesday of the month (in person) and on the third Wednesday of the month  (via Zoom) from 7pm-8pm.  \nTo register for in-person or virtual meetings\, please visit: https://namiyolo.org/support-and-education/nami-yolo-county-support-groups/young-adult-connection-support-group/. \nIf you have any questions\, please email: friends@namiyolo.org.
-URL:https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults-virtual/2026-05-20/
-LOCATION:CA
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20260523T120000
-DTEND;TZID=UTC:20260523T200000
-DTSTAMP:20260330T005420
-CREATED:20260130T185640Z
-LAST-MODIFIED:20260130T190843Z
-UID:10000308-1779537600-1779566400@hatefreetogether.org
-SUMMARY:UC Davis Black Family Day
-DESCRIPTION:The UC Davis Black Family day is an event to celebrate Black excellence\, empowerment\, and community. It is open to students\, families\, and community members. \n  \nThe event will be hosted on the UC Davis Quad on May 23rd\, from Noon to 8 PM. \n  \nAttendees will enjoy a day full of entertainers and speakers\, honoring the Black community and building conversations around achievements and contemporary issues. Local vendors will be selling delicious food\, clothes\, books\, and much more. Organizations and clubs join the festivities to share information and host engaging activities. \n  \nGet ready to enjoy a day full of music\, good food\, and celebrations of Black culture. The UC Davis Black Family Day is free for all to attend. \n  \nFor any inquiries\, contact: ucdblackfamilyday@ucdavis.edu
-URL:https://hatefreetogether.org/event/uc-davis-black-family-day/
-LOCATION:UC Davis Quad\, 1 Shields Avenue\, Davis\, CA\, 95616
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/https___cdn.evbuc_.com_images_1101161593_508470267019_1_original.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20260603T190000
-DTEND;TZID=UTC:20260603T200000
-DTSTAMP:20260330T005420
-CREATED:20250609T205334Z
-LAST-MODIFIED:20250609T205334Z
-UID:10000248-1780513200-1780516800@hatefreetogether.org
-SUMMARY:NAMI Connection Support Group for Young Adults
-DESCRIPTION:NAMI Connection Support Group for Young Adults is a free\, peer-led support group for anyone between the ages 18 and 26 who has experienced symptoms of a mental health condition. Mental health conditions include anxiety disorder\, depression\, bipolar disorder\, obsessive-compulsive disorder\, post-traumatic stress disorder\, schizophrenia\, or any condition that affects a person’s ability to lead a fulfilling life. You do not need a formal diagnosis to attend this support group; any young person concerned with their mental health and seeking support may attend. NAMI Connection for Young Adults provides resources to help young people build a support network and access help. Participants will learn together how to establish and maintain wellness. \nYou do not need a formal diagnosis to attend. Anyone who is seeking mental health support may attend. \nWhat You’ll Gain\nBy sharing your experiences in a safe and confidential setting\, you will experience connection\, receive information about resources\, and learn coping strategies. The group encourages empathy\, productive discussion and a sense of community. You’ll benefit from other’s experiences\, discover your inner strength\, and receive support by sharing your own experiences in a non-judgmental space. \n  \nNAMI Connection Support Group for Young Adults meets on the first Wednesday of the month (in person) and on the third Wednesday of the month  (via Zoom) from 7pm-8pm.  \nTo register for in-person or virtual meetings\, please visit: https://namiyolo.org/support-and-education/nami-yolo-county-support-groups/young-adult-connection-support-group/. \nIf you have any questions\, please email: friends@namiyolo.org.
-URL:https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults/2026-06-03/
-LOCATION:CA
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg
-END:VEVENT
-END:VCALENDAR
+
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel='stylesheet' id='tribe-events-views-v2-bootstrap-datepicker-styles-css' href='https://hatefreetogether.org/wp-content/plugins/the-events-calendar/vendor/bootstrap-datepicker/css/bootstrap-datepicker.standalone.min.css?ver=6.15.18' type='text/css' media='all' />
+<link rel='stylesheet' id='tec-variables-skeleton-css' href='https://hatefreetogether.org/wp-content/plugins/the-events-calendar/common/build/css/variables-skeleton.css?ver=6.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-common-skeleton-style-css' href='https://hatefreetogether.org/wp-content/plugins/the-events-calendar/common/build/css/common-skeleton.css?ver=6.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-tooltipster-css-css' href='https://hatefreetogether.org/wp-content/plugins/the-events-calendar/common/vendor/tooltipster/tooltipster.bundle.min.css?ver=6.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-views-v2-skeleton-css' href='https://hatefreetogether.org/wp-content/plugins/the-events-calendar/build/css/views-skeleton.css?ver=6.15.18' type='text/css' media='all' />
+<link rel='stylesheet' id='tec-variables-full-css' href='https://hatefreetogether.org/wp-content/plugins/the-events-calendar/common/build/css/variables-full.css?ver=6.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-common-full-style-css' href='https://hatefreetogether.org/wp-content/plugins/the-events-calendar/common/build/css/common-full.css?ver=6.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-views-v2-full-css' href='https://hatefreetogether.org/wp-content/plugins/the-events-calendar/build/css/views-full.css?ver=6.15.18' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-views-v2-print-css' href='https://hatefreetogether.org/wp-content/plugins/the-events-calendar/build/css/views-print.css?ver=6.15.18' type='text/css' media='print' />
+<link rel='stylesheet' id='tribe-events-pro-views-v2-print-css' href='https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/build/css/views-print.css?ver=7.7.14' type='text/css' media='print' />
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v27.2 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Events from October 1, 2023 &#8211; April 25, 2024 &#8211; Hate-Free Together</title>
+	<link rel="canonical" href="https://hatefreetogether.org/events/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Events Archive - Hate-Free Together" />
+	<meta property="og:url" content="https://hatefreetogether.org/events/" />
+	<meta property="og:site_name" content="Hate-Free Together" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://hatefreetogether.org/events/","url":"https://hatefreetogether.org/events/","name":"Events Archive - Hate-Free Together","isPartOf":{"@id":"https://hatefreetogether.org/#website"},"primaryImageOfPage":{"@id":"https://hatefreetogether.org/events/#primaryimage"},"image":{"@id":"https://hatefreetogether.org/events/#primaryimage"},"thumbnailUrl":"https://hatefreetogether.org/wp-content/uploads/istockphoto-1513072392-612x612-1.jpg","breadcrumb":{"@id":"https://hatefreetogether.org/events/#breadcrumb"},"inLanguage":"en-US"},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://hatefreetogether.org/events/#primaryimage","url":"https://hatefreetogether.org/wp-content/uploads/istockphoto-1513072392-612x612-1.jpg","contentUrl":"https://hatefreetogether.org/wp-content/uploads/istockphoto-1513072392-612x612-1.jpg","width":612,"height":309,"caption":"Hands holding paper head, human brain with flowers, self care and mental health concept, positive thinking, creative mind"},{"@type":"BreadcrumbList","@id":"https://hatefreetogether.org/events/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://hatefreetogether.org/"},{"@type":"ListItem","position":2,"name":"Events"}]},{"@type":"WebSite","@id":"https://hatefreetogether.org/#website","url":"https://hatefreetogether.org/","name":"Hate-Free Together","description":"","publisher":{"@id":"https://hatefreetogether.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://hatefreetogether.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://hatefreetogether.org/#organization","name":"Hate-Free Together","url":"https://hatefreetogether.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://hatefreetogether.org/#/schema/logo/image/","url":"https://hatefreetogether.org/wp-content/uploads/hate-free-together-logo.svg","contentUrl":"https://hatefreetogether.org/wp-content/uploads/hate-free-together-logo.svg","width":269,"height":96,"caption":"Hate-Free Together"},"image":{"@id":"https://hatefreetogether.org/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel="alternate" type="application/rss+xml" title="Hate-Free Together &raquo; Feed" href="https://hatefreetogether.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Hate-Free Together &raquo; Comments Feed" href="https://hatefreetogether.org/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Hate-Free Together &raquo; iCal Feed" href="https://hatefreetogether.org/events/?ical=1" />
+<link rel="alternate" type="application/rss+xml" title="Hate-Free Together &raquo; Events Feed" href="https://hatefreetogether.org/events/feed/" />
+		<style>
+			.lazyload,
+			.lazyloading {
+				max-width: 100%;
+			}
+		</style>
+		<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='dashicons-css' href='https://hatefreetogether.org/wp-includes/css/dashicons.min.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://hatefreetogether.org/wp-content/themes/uptown-studios/assets/css/bootstrap.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='uptown-studios-style-css' href='https://hatefreetogether.org/wp-content/themes/uptown-studios/assets/css/styles.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='uptown-studios-animate-css' href='https://hatefreetogether.org/wp-content/themes/uptown-studios/assets/css/animate.css?ver=3.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-virtual-skeleton-css' href='https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/build/css/events-virtual-skeleton.css?ver=7.7.14' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-virtual-full-css' href='https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/build/css/events-virtual-full.css?ver=7.7.14' type='text/css' media='all' />
+<link rel='stylesheet' id='tec-events-pro-single-css' href='https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/build/css/events-single.css?ver=7.7.14' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-pro-mini-calendar-block-styles-css' href='https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/build/css/tribe-events-pro-mini-calendar-block.css?ver=7.7.14' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://hatefreetogether.org/wp-includes/css/dist/block-library/style.min.css?ver=6.9.4' type='text/css' media='all' />
+
+<style id='wp-block-button-inline-css' type='text/css'>
+.wp-block-button__link{align-content:center;box-sizing:border-box;cursor:pointer;display:inline-block;height:100%;text-align:center;word-break:break-word}.wp-block-button__link.aligncenter{text-align:center}.wp-block-button__link.alignright{text-align:right}:where(.wp-block-button__link){border-radius:9999px;box-shadow:none;padding:calc(.667em + 2px) calc(1.333em + 2px);text-decoration:none}.wp-block-button[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons>.wp-block-button.has-custom-width{max-width:none}.wp-block-buttons>.wp-block-button.has-custom-width .wp-block-button__link{width:100%}.wp-block-buttons>.wp-block-button.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-buttons>.wp-block-button.wp-block-button__width-25{width:calc(25% - var(--wp--style--block-gap, .5em)*.75)}.wp-block-buttons>.wp-block-button.wp-block-button__width-50{width:calc(50% - var(--wp--style--block-gap, .5em)*.5)}.wp-block-buttons>.wp-block-button.wp-block-button__width-75{width:calc(75% - var(--wp--style--block-gap, .5em)*.25)}.wp-block-buttons>.wp-block-button.wp-block-button__width-100{flex-basis:100%;width:100%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-25{width:25%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-50{width:50%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-75{width:75%}.wp-block-button.is-style-squared,.wp-block-button__link.wp-block-button.is-style-squared{border-radius:0}.wp-block-button.no-border-radius,.wp-block-button__link.no-border-radius{border-radius:0!important}:root :where(.wp-block-button .wp-block-button__link.is-style-outline),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link){border:2px solid;padding:.667em 1.333em}:root :where(.wp-block-button .wp-block-button__link.is-style-outline:not(.has-text-color)),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color)){color:currentColor}:root :where(.wp-block-button .wp-block-button__link.is-style-outline:not(.has-background)),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-background)){background-color:initial;background-image:none}
+/*# sourceURL=https://hatefreetogether.org/wp-includes/blocks/button/style.min.css */
+</style>
+<style id='wp-block-image-inline-css' type='text/css'>
+.wp-block-image>a,.wp-block-image>figure>a{display:inline-block}.wp-block-image img{box-sizing:border-box;height:auto;max-width:100%;vertical-align:bottom}@media not (prefers-reduced-motion){.wp-block-image img.hide{visibility:hidden}.wp-block-image img.show{animation:show-content-image .4s}}.wp-block-image[style*=border-radius] img,.wp-block-image[style*=border-radius]>a{border-radius:inherit}.wp-block-image.has-custom-border img{box-sizing:border-box}.wp-block-image.aligncenter{text-align:center}.wp-block-image.alignfull>a,.wp-block-image.alignwide>a{width:100%}.wp-block-image.alignfull img,.wp-block-image.alignwide img{height:auto;width:100%}.wp-block-image .aligncenter,.wp-block-image .alignleft,.wp-block-image .alignright,.wp-block-image.aligncenter,.wp-block-image.alignleft,.wp-block-image.alignright{display:table}.wp-block-image .aligncenter>figcaption,.wp-block-image .alignleft>figcaption,.wp-block-image .alignright>figcaption,.wp-block-image.aligncenter>figcaption,.wp-block-image.alignleft>figcaption,.wp-block-image.alignright>figcaption{caption-side:bottom;display:table-caption}.wp-block-image .alignleft{float:left;margin:.5em 1em .5em 0}.wp-block-image .alignright{float:right;margin:.5em 0 .5em 1em}.wp-block-image .aligncenter{margin-left:auto;margin-right:auto}.wp-block-image :where(figcaption){margin-bottom:1em;margin-top:.5em}.wp-block-image.is-style-circle-mask img{border-radius:9999px}@supports ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none){.wp-block-image.is-style-circle-mask img{border-radius:0;-webkit-mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-mode:alpha;-webkit-mask-position:center;mask-position:center;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-size:contain;mask-size:contain}}:root :where(.wp-block-image.is-style-rounded img,.wp-block-image .is-style-rounded img){border-radius:9999px}.wp-block-image figure{margin:0}.wp-lightbox-container{display:flex;flex-direction:column;position:relative}.wp-lightbox-container img{cursor:zoom-in}.wp-lightbox-container img:hover+button{opacity:1}.wp-lightbox-container button{align-items:center;backdrop-filter:blur(16px) saturate(180%);background-color:#5a5a5a40;border:none;border-radius:4px;cursor:zoom-in;display:flex;height:20px;justify-content:center;opacity:0;padding:0;position:absolute;right:16px;text-align:center;top:16px;width:20px;z-index:100}@media not (prefers-reduced-motion){.wp-lightbox-container button{transition:opacity .2s ease}}.wp-lightbox-container button:focus-visible{outline:3px auto #5a5a5a40;outline:3px auto -webkit-focus-ring-color;outline-offset:3px}.wp-lightbox-container button:hover{cursor:pointer;opacity:1}.wp-lightbox-container button:focus{opacity:1}.wp-lightbox-container button:focus,.wp-lightbox-container button:hover,.wp-lightbox-container button:not(:hover):not(:active):not(.has-background){background-color:#5a5a5a40;border:none}.wp-lightbox-overlay{box-sizing:border-box;cursor:zoom-out;height:100vh;left:0;overflow:hidden;position:fixed;top:0;visibility:hidden;width:100%;z-index:100000}.wp-lightbox-overlay .close-button{align-items:center;cursor:pointer;display:flex;justify-content:center;min-height:40px;min-width:40px;padding:0;position:absolute;right:calc(env(safe-area-inset-right) + 16px);top:calc(env(safe-area-inset-top) + 16px);z-index:5000000}.wp-lightbox-overlay .close-button:focus,.wp-lightbox-overlay .close-button:hover,.wp-lightbox-overlay .close-button:not(:hover):not(:active):not(.has-background){background:none;border:none}.wp-lightbox-overlay .lightbox-image-container{height:var(--wp--lightbox-container-height);left:50%;overflow:hidden;position:absolute;top:50%;transform:translate(-50%,-50%);transform-origin:top left;width:var(--wp--lightbox-container-width);z-index:9999999999}.wp-lightbox-overlay .wp-block-image{align-items:center;box-sizing:border-box;display:flex;height:100%;justify-content:center;margin:0;position:relative;transform-origin:0 0;width:100%;z-index:3000000}.wp-lightbox-overlay .wp-block-image img{height:var(--wp--lightbox-image-height);min-height:var(--wp--lightbox-image-height);min-width:var(--wp--lightbox-image-width);width:var(--wp--lightbox-image-width)}.wp-lightbox-overlay .wp-block-image figcaption{display:none}.wp-lightbox-overlay button{background:none;border:none}.wp-lightbox-overlay .scrim{background-color:#fff;height:100%;opacity:.9;position:absolute;width:100%;z-index:2000000}.wp-lightbox-overlay.active{visibility:visible}@media not (prefers-reduced-motion){.wp-lightbox-overlay.active{animation:turn-on-visibility .25s both}.wp-lightbox-overlay.active img{animation:turn-on-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active){animation:turn-off-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active) img{animation:turn-off-visibility .25s both}.wp-lightbox-overlay.zoom.active{animation:none;opacity:1;visibility:visible}.wp-lightbox-overlay.zoom.active .lightbox-image-container{animation:lightbox-zoom-in .4s}.wp-lightbox-overlay.zoom.active .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.active .scrim{animation:turn-on-visibility .4s forwards}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active){animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container{animation:lightbox-zoom-out .4s}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .scrim{animation:turn-off-visibility .4s forwards}}@keyframes show-content-image{0%{visibility:hidden}99%{visibility:hidden}to{visibility:visible}}@keyframes turn-on-visibility{0%{opacity:0}to{opacity:1}}@keyframes turn-off-visibility{0%{opacity:1;visibility:visible}99%{opacity:0;visibility:visible}to{opacity:0;visibility:hidden}}@keyframes lightbox-zoom-in{0%{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale))}to{transform:translate(-50%,-50%) scale(1)}}@keyframes lightbox-zoom-out{0%{transform:translate(-50%,-50%) scale(1);visibility:visible}99%{visibility:visible}to{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale));visibility:hidden}}
+/*# sourceURL=https://hatefreetogether.org/wp-includes/blocks/image/style.min.css */
+</style>
+<style id='wp-block-buttons-inline-css' type='text/css'>
+.wp-block-buttons{box-sizing:border-box}.wp-block-buttons.is-vertical{flex-direction:column}.wp-block-buttons.is-vertical>.wp-block-button:last-child{margin-bottom:0}.wp-block-buttons>.wp-block-button{display:inline-block;margin:0}.wp-block-buttons.is-content-justification-left{justify-content:flex-start}.wp-block-buttons.is-content-justification-left.is-vertical{align-items:flex-start}.wp-block-buttons.is-content-justification-center{justify-content:center}.wp-block-buttons.is-content-justification-center.is-vertical{align-items:center}.wp-block-buttons.is-content-justification-right{justify-content:flex-end}.wp-block-buttons.is-content-justification-right.is-vertical{align-items:flex-end}.wp-block-buttons.is-content-justification-space-between{justify-content:space-between}.wp-block-buttons.aligncenter{text-align:center}.wp-block-buttons:not(.is-content-justification-space-between,.is-content-justification-right,.is-content-justification-left,.is-content-justification-center) .wp-block-button.aligncenter{margin-left:auto;margin-right:auto;width:100%}.wp-block-buttons[style*=text-decoration] .wp-block-button,.wp-block-buttons[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-buttons .wp-block-button__link{width:100%}.wp-block-button.aligncenter{text-align:center}
+/*# sourceURL=https://hatefreetogether.org/wp-includes/blocks/buttons/style.min.css */
+</style>
+<style id='wp-block-columns-inline-css' type='text/css'>
+.wp-block-columns{box-sizing:border-box;display:flex;flex-wrap:wrap!important}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}.wp-block-columns{align-items:normal!important}.wp-block-columns.are-vertically-aligned-top{align-items:flex-start}.wp-block-columns.are-vertically-aligned-center{align-items:center}.wp-block-columns.are-vertically-aligned-bottom{align-items:flex-end}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}.wp-block-columns.is-not-stacked-on-mobile{flex-wrap:nowrap!important}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column[style*=flex-basis]{flex-grow:0}:where(.wp-block-columns){margin-bottom:1.75em}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:break-word}.wp-block-column.is-vertically-aligned-top{align-self:flex-start}.wp-block-column.is-vertically-aligned-center{align-self:center}.wp-block-column.is-vertically-aligned-bottom{align-self:flex-end}.wp-block-column.is-vertically-aligned-stretch{align-self:stretch}.wp-block-column.is-vertically-aligned-bottom,.wp-block-column.is-vertically-aligned-center,.wp-block-column.is-vertically-aligned-top{width:100%}
+/*# sourceURL=https://hatefreetogether.org/wp-includes/blocks/columns/style.min.css */
+</style>
+<style id='wp-block-paragraph-inline-css' type='text/css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://hatefreetogether.org/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #212529;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--primary: #004975;--wp--preset--color--secondary: #C99700;--wp--preset--color--body: #4D4D4D;--wp--preset--color--light-grey: #F5F5F5;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--primary-gradient: transparent linear-gradient(127deg, #004975 0%, #4F9FD0 100%) 0% 0%;--wp--preset--font-size--small: clamp(1rem, 1rem + 0vw, 1rem);--wp--preset--font-size--medium: clamp(1.125rem, 1.075rem + 0.25vw, 1.375rem);--wp--preset--font-size--large: clamp(1.375rem, 1.3375rem + 0.1875vw, 1.5625rem);--wp--preset--font-size--x-large: clamp(2rem, 1.875rem + 0.625vw, 2.625rem);--wp--preset--font-size--x-small: clamp(0.8rem, 0.17vw + 0.76rem, 0.89rem);--wp--preset--font-size--xx-large: clamp(2.375rem, 2.225rem + 0.75vw, 3.125rem);--wp--preset--font-family--poppins: "Poppins", sans-serif;--wp--preset--spacing--20: min(1.5rem, 2vw);--wp--preset--spacing--30: min(2.5rem, 3vw);--wp--preset--spacing--40: min(4rem, 5vw);--wp--preset--spacing--50: min(6.5rem, 8vw);--wp--preset--spacing--60: min(10.5rem, 13vw);--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--spacing--10: 1rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 1440px;--wp--style--global--wide-size: 100%; }:where(body) { margin: 0; }.wp-site-blocks { padding-top: var(--wp--style--root--padding-top); padding-bottom: var(--wp--style--root--padding-bottom); }.has-global-padding { padding-right: var(--wp--style--root--padding-right); padding-left: var(--wp--style--root--padding-left); }.has-global-padding > .alignfull { margin-right: calc(var(--wp--style--root--padding-right) * -1); margin-left: calc(var(--wp--style--root--padding-left) * -1); }.has-global-padding :where(:not(.alignfull.is-layout-flow) > .has-global-padding:not(.wp-block-block, .alignfull)) { padding-right: 0; padding-left: 0; }.has-global-padding :where(:not(.alignfull.is-layout-flow) > .has-global-padding:not(.wp-block-block, .alignfull)) > .alignfull { margin-left: 0; margin-right: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 1rem; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 1rem; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 1rem;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 1rem;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 1rem;}:root :where(.is-layout-grid){gap: 1rem;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{background-color: var(--wp--preset--color--white);color: var(--wp--preset--color--body);font-family: var(--wp--preset--font-family--poppins);font-size: var(--wp--preset--font-size--small);line-height: 1.6;--wp--style--root--padding-top: var(--wp--preset--spacing--40);--wp--style--root--padding-right: var(--wp--preset--spacing--30);--wp--style--root--padding-bottom: var(--wp--preset--spacing--40);--wp--style--root--padding-left: var(--wp--preset--spacing--30);}a:where(:not(.wp-element-button)){color: var(--wp--preset--color--primary);text-decoration: none;}:root :where(a:where(:not(.wp-element-button)):hover){color: var(--wp--preset--color--secondary);text-decoration: none;}:root :where(a:where(:not(.wp-element-button)):focus){text-decoration: none;}:root :where(a:where(:not(.wp-element-button)):active){color: var(--wp--preset--color--secondary);text-decoration: none;}h1{font-family: var(--wp--preset--font-family--poppins);font-size: var(--wp--preset--font-size--xx-large);font-weight: 700;letter-spacing: .04rem;line-height: 1.2;}h2{color: var(--wp--preset--color--black);font-family: var(--wp--preset--font-family--poppins);font-size: var(--wp--preset--font-size--x-large);font-weight: 700;line-height: 1.1;margin-bottom: var(--wp--preset--spacing--20);}h3{color: var(--wp--preset--color--black);font-family: var(--wp--preset--font-family--poppins);font-size: var(--wp--preset--font-size--medium);font-weight: 700;letter-spacing: .05rem;line-height: 1.3;}h4{color: var(--wp--preset--color--black);font-family: var(--wp--preset--font-family--poppins);font-size: var(--wp--preset--font-size--small);font-weight: 600;line-height: 1.3;}h5{color: var(--wp--preset--color--black);font-family: var(--wp--preset--font-family--poppins);font-size: var(--wp--preset--font-size--x-small);font-weight: 600;line-height: 1.3;}h6{color: var(--wp--preset--color--black);font-family: var(--wp--preset--font-family--poppins);font-size: var(--wp--preset--font-size--x-small);font-style: italic;font-weight: 700;line-height: 1.3;}:root :where(.wp-element-button, .wp-block-button__link){background-color: var(--wp--preset--color--black);border-radius: 0;border-color: var(--wp--preset--color--black);border-width: 1px;border-style: solid;color: var(--wp--preset--color--white) !important;font-family: var(--wp--preset--font-family--poppins);font-size: var(--wp--preset--font-size--small);font-style: inherit;font-weight: 600;letter-spacing: .05rem;line-height: 1;padding-top: .75rem;padding-right: 1rem;padding-bottom: .75rem;padding-left: 1rem;text-decoration: none;text-transform: inherit;}:root :where(.wp-element-button:visited, .wp-block-button__link:visited){background-color: var(--wp--preset--color--black);border-radius: 0;border-color: var(--wp--preset--color--black);border-width: 1px;border-style: solid;color: var(--wp--preset--color--white);}:root :where(.wp-element-button:hover, .wp-block-button__link:hover){background-color: var(--wp--preset--color--primary);border-color: var(--wp--preset--color--primary);border-width: 1px;border-style: solid;color: var(--wp--preset--color--white);}:root :where(.wp-element-button:focus, .wp-block-button__link:focus){background-color: var(--wp--preset--color--black);border-color: var(--wp--preset--color--black);border-width: 1px;border-style: solid;color: var(--wp--preset--color--white);}:root :where(.wp-element-button:active, .wp-block-button__link:active){background-color: var(--wp--preset--color--black);border-color: var(--wp--preset--color--black);border-width: 1px;border-style: solid;color: var(--wp--preset--color--white);}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-color{color: var(--wp--preset--color--primary) !important;}.has-secondary-color{color: var(--wp--preset--color--secondary) !important;}.has-body-color{color: var(--wp--preset--color--body) !important;}.has-light-grey-color{color: var(--wp--preset--color--light-grey) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-background-color{background-color: var(--wp--preset--color--primary) !important;}.has-secondary-background-color{background-color: var(--wp--preset--color--secondary) !important;}.has-body-background-color{background-color: var(--wp--preset--color--body) !important;}.has-light-grey-background-color{background-color: var(--wp--preset--color--light-grey) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-border-color{border-color: var(--wp--preset--color--primary) !important;}.has-secondary-border-color{border-color: var(--wp--preset--color--secondary) !important;}.has-body-border-color{border-color: var(--wp--preset--color--body) !important;}.has-light-grey-border-color{border-color: var(--wp--preset--color--light-grey) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-primary-gradient-gradient-background{background: var(--wp--preset--gradient--primary-gradient) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-x-small-font-size{font-size: var(--wp--preset--font-size--x-small) !important;}.has-xx-large-font-size{font-size: var(--wp--preset--font-size--xx-large) !important;}.has-poppins-font-family{font-family: var(--wp--preset--font-family--poppins) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='uptown-studios-companion-css' href='https://hatefreetogether.org/wp-content/plugins/uptown-studios-companion/public/css/public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pojo-a11y-css' href='https://hatefreetogether.org/wp-content/plugins/pojo-accessibility/modules/legacy/assets/css/style.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='uptown-studios-child-styles-css' href='https://hatefreetogether.org/wp-content/themes/uptown-studios-child/style.css?ver=1.0.0' type='text/css' media='all' />
+<style id='kadence-blocks-global-variables-inline-css' type='text/css'>
+:root {--global-kb-font-size-sm:clamp(0.8rem, 0.73rem + 0.217vw, 0.9rem);--global-kb-font-size-md:clamp(1.1rem, 0.995rem + 0.326vw, 1.25rem);--global-kb-font-size-lg:clamp(1.75rem, 1.576rem + 0.543vw, 2rem);--global-kb-font-size-xl:clamp(2.25rem, 1.728rem + 1.63vw, 3rem);--global-kb-font-size-xxl:clamp(2.5rem, 1.456rem + 3.26vw, 4rem);--global-kb-font-size-xxxl:clamp(2.75rem, 0.489rem + 7.065vw, 6rem);}:root {--global-palette1: #3182CE;--global-palette2: #2B6CB0;--global-palette3: #1A202C;--global-palette4: #2D3748;--global-palette5: #4A5568;--global-palette6: #718096;--global-palette7: #EDF2F7;--global-palette8: #F7FAFC;--global-palette9: #ffffff;}
+/*# sourceURL=kadence-blocks-global-variables-inline-css */
+</style>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/the-events-calendar/common/build/js/tribe-common.js?ver=9c44e11f3503a33e9540" id="tribe-common-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/the-events-calendar/build/js/views/breakpoints.js?ver=4208de2df2852e0b91ec" id="tribe-events-views-v2-breakpoints-js"></script>
+
+<!-- Google tag (gtag.js) snippet added by Site Kit -->
+<!-- Google Analytics snippet added by Site Kit -->
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=GT-WKT4FVG2" id="google_gtagjs-js" async></script>
+<script type="text/javascript" id="google_gtagjs-js-after">
+/* <![CDATA[ */
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["hatefreetogether.org"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-WKT4FVG2");
+//# sourceURL=google_gtagjs-js-after
+/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://hatefreetogether.org/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://hatefreetogether.org/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9.4" />
+<meta name="generator" content="Site Kit by Google 1.175.0" /><meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://hatefreetogether.org"><link rel="alternate" href="https://hatefreetogether.org/wp-json/tribe/events/v1/" /><style type="text/css">
+#pojo-a11y-toolbar .pojo-a11y-toolbar-toggle a{ background-color: #004975;	color: #ffffff;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay, #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items.pojo-a11y-links{ border-color: #004975;}
+body.pojo-a11y-focusable a:focus{ outline-style: solid !important;	outline-width: 1px !important;	outline-color: #FF0000 !important;}
+#pojo-a11y-toolbar{ top: 150px !important;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay{ background-color: #ffffff;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items li.pojo-a11y-toolbar-item a, #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay p.pojo-a11y-toolbar-title{ color: #333333;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items li.pojo-a11y-toolbar-item a.active{ background-color: #004975;	color: #ffffff;}
+@media (max-width: 767px) { #pojo-a11y-toolbar { top: 150px !important; } }</style>		<script>
+			document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+		</script>
+				<style>
+			.no-js img.lazyload {
+				display: none;
+			}
+
+			figure.wp-block-image img.lazyloading {
+				min-width: 150px;
+			}
+
+			.lazyload,
+			.lazyloading {
+				--smush-placeholder-width: 100px;
+				--smush-placeholder-aspect-ratio: 1/1;
+				width: var(--smush-image-width, var(--smush-placeholder-width)) !important;
+				aspect-ratio: var(--smush-image-aspect-ratio, var(--smush-placeholder-aspect-ratio)) !important;
+			}
+
+						.lazyload, .lazyloading {
+				opacity: 0;
+			}
+
+			.lazyloaded {
+				opacity: 1;
+				transition: opacity 400ms;
+				transition-delay: 0ms;
+			}
+
+					</style>
+				<style type="text/css" id="uptown-studios-header-styles">
+			
+				.cta-button.second-button .wp-element-button:link, .cta-button.second-button .wp-element-button:visited {color:#FFFFFF;background:#212529;border-color:#212529}
+				.cta-button.second-button .wp-element-button:hover, .cta-button.second-button .wp-element-button:active {color:#FFFFFF;background:#004975;border-color:#004975}#footer {background:#F5F5F5}#footer {z-index:0}#footer::after {background: rgba(0,0,0,0);bottom:0;content:"";left:0;position:absolute;right:0;top:0;width:100%;z-index:1}#footer div {z-index:2}
+				#footer {color:#1C1C1C}
+				#footer .ft-copy {background:rgba(0,0,0,0)}
+				#footer, #footer .ft-copy {color:#1C1C1C}
+				#footer h4 {color:#1C1C1C}
+				#footer a:link {color:#1C1C1C}
+				#footer .social-icon svg {fill:#1C1C1C}
+				#footer a:visited {color:#1C1C1C}
+				#footer a:hover, #footer a:active {color:#004975}
+				#footer .social-icon svg:hover {fill:#004975}
+			.bg-light {background-color:rgba( 255,255,255,1 ) !important}
+			.bm-horizontal .start-header.scroll-on {background-color:#FFFFFF !important}
+			.bm-horizontal .navbar {text-transform:capitalize}
+			.bm-horizontal .nav-link {color:#212121}
+			.bm-horizontal .navbar-toggler-icon::after, .bm-horizontal .navbar-toggler-icon::before {background-color:#212121 !important}
+			.bm-horizontal .navbar .navbar-toggler-icon {border-bottom: 2px solid #212121 !important}
+			.bm-horizontal .nav-link.show, .bm-horizontal .show>.nav-link, .bm-horizontal a.dropdown-item:link {color:#212121}
+			.bm-horizontal a.dropdown-item:visited {color:#212121}
+			.bm-horizontal .menu-item::after, .bm-horizontal .nav-link:hover, .bm-horizontal .menu-item::before, .bm-horizontal a.dropdown-item:hover, .bm-horizontal .dropdown-item:focus {color:#004975}
+			.bm-horizontal .nav-link:active, .bm-horizontal a.dropdown-item:active, .bm-horizontal .active>.nav-link {color:#004975}		</style>
+
+		<style class='wp-fonts-local' type='text/css'>
+@font-face{font-family:Poppins;font-style:normal;font-weight:400;font-display:fallback;src:url('https://hatefreetogether.org/wp-content/themes/uptown-studios-child/assets/fonts/poppins/poppins-400-normal.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Poppins;font-style:normal;font-weight:500;font-display:fallback;src:url('https://hatefreetogether.org/wp-content/themes/uptown-studios-child/assets/fonts/poppins/poppins-500-normal.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Poppins;font-style:normal;font-weight:600;font-display:fallback;src:url('https://hatefreetogether.org/wp-content/themes/uptown-studios-child/assets/fonts/poppins/poppins-600-normal.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Poppins;font-style:normal;font-weight:700;font-display:fallback;src:url('https://hatefreetogether.org/wp-content/themes/uptown-studios-child/assets/fonts/poppins/poppins-700-normal.woff2') format('woff2');font-stretch:normal;}
+</style>
+<link rel="icon" href="https://hatefreetogether.org/wp-content/uploads/cropped-icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://hatefreetogether.org/wp-content/uploads/cropped-icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://hatefreetogether.org/wp-content/uploads/cropped-icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://hatefreetogether.org/wp-content/uploads/cropped-icon-270x270.png" />
+<link rel='stylesheet' id='tec-events-pro-archives-style-css' href='https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/build/css/custom-tables-v1/archives.css?ver=7.7.14' type='text/css' media='all' />
+<style id='core-block-supports-inline-css' type='text/css'>
+.wp-container-core-columns-is-layout-28f84493{flex-wrap:nowrap;}
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+
+</head>
+
+<body class="archive post-type-archive post-type-archive-tribe_events wp-custom-logo wp-embed-responsive wp-theme-uptown-studios wp-child-theme-uptown-studios-child menu-75 sticky-menu tribe-events-page-template tribe-no-js tribe-filter-live">
+	<div id="preloader">
+		<div id="loader"></div>
+	</div>
+
+	
+	<div class="site">
+		<header id="header" class="bm-horizontal">
+			<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+			
+			<div id="navbar-wrapper" class="bm-not-collapsed bg-light start-header start-style header fixed-menu">
+				
+		<nav id="site-navigation" class="navbar navbar-expand-xl dropdown-shadow" aria-label="Primary menu">
+			<div class="container">
+									<div id="logo" class="site-logo"><a href="https://hatefreetogether.org/" class="custom-logo-link" rel="home"><img width="269" height="96" data-src="https://hatefreetogether.org/wp-content/uploads/hate-free-together-logo.svg" class="custom-logo lazyload" alt="Hate Free Together" decoding="async" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 269px; --smush-placeholder-aspect-ratio: 269/96;" /></a></div>
+			
+											<button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+					<div class="hamburger-toggle">
+						<div class="hamburger">
+							<span></span>
+							<span></span>
+							<span></span>
+						</div>
+					</div>
+					</button>
+					<div class="collapse navbar-collapse" id="navbar-content">
+						<ul id="menu" class="navbar-nav mx-md-auto" itemscope itemtype="http://www.schema.org/SiteNavigationElement"><li  id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58 nav-item"><a itemprop="url" href="https://hatefreetogether.org/about/" class="nav-link"><span itemprop="name">About</span></a></li>
+<li  id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64 nav-item"><a itemprop="url" href="https://hatefreetogether.org/resources/" class="nav-link"><span itemprop="name">Resources</span></a></li>
+<li  id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61 nav-item"><a itemprop="url" href="https://hatefreetogether.org/learning-center/" class="nav-link"><span itemprop="name">Learning Center</span></a></li>
+<li  id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62 nav-item"><a itemprop="url" href="https://hatefreetogether.org/news-events/" class="nav-link"><span itemprop="name">News</span></a></li>
+<li  id="menu-item-829" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-829 nav-item"><a itemprop="url" href="https://hatefreetogether.org/events" class="nav-link"><span itemprop="name">Events</span></a></li>
+<li  id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60 nav-item"><a itemprop="url" href="https://hatefreetogether.org/get-involved/" class="nav-link"><span itemprop="name">Get Involved</span></a></li>
+</ul>							<form method="get" class="search-form" action="https://hatefreetogether.org/">
+								<div class="search-wrapper">
+									<label for="main-search" class="visually-hidden">Search</label>
+									<input id="main-search" type="search" class="search-field" placeholder="Search" name="s" title="Search" aria-label="Keyword to search" /><span class="dashicons dashicons-search magnifying-glass-icon"></span>
+									<input type="submit" class="search-submit" aria-label="Submit Search" />
+								</div>
+							</form>
+							
+
+							<div class="cta-button second-button animate__animated animate__zoomIn">
+								<a class="wp-element-button text-center" href="https://hatefreetogether.org/contact">Contact</a>
+							</div></ul>					</div>
+							</div><!-- .container -->
+		</nav>
+					</div>
+
+					</header>
+		<div
+	 class="tribe-common tribe-events tribe-events-view tribe-events-view--list alignwide" 	data-js="tribe-events-view"
+	data-view-rest-url="https://hatefreetogether.org/wp-json/tribe/views/v2/html"
+	data-view-rest-method="GET"
+	data-view-manage-url="1"
+				data-view-breakpoint-pointer="08f72c0e-75a4-485a-9c8d-f80669b66491"
+	 role="main">
+	<section class="tribe-common-l-container tribe-events-l-container">
+		<div
+	class="tribe-events-view-loader tribe-common-a11y-hidden"
+	role="alert"
+	aria-live="polite"
+>
+	<span class="tribe-events-view-loader__text tribe-common-a11y-visual-hide">
+		6 events found.	</span>
+	<div class="tribe-events-view-loader__dots tribe-common-c-loader">
+		<svg
+	 class="tribe-common-c-svgicon tribe-common-c-svgicon--dot tribe-common-c-loader__dot tribe-common-c-loader__dot--first" 	aria-hidden="true"
+	viewBox="0 0 15 15"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<circle cx="7.5" cy="7.5" r="7.5"/>
+</svg>
+		<svg
+	 class="tribe-common-c-svgicon tribe-common-c-svgicon--dot tribe-common-c-loader__dot tribe-common-c-loader__dot--second" 	aria-hidden="true"
+	viewBox="0 0 15 15"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<circle cx="7.5" cy="7.5" r="7.5"/>
+</svg>
+		<svg
+	 class="tribe-common-c-svgicon tribe-common-c-svgicon--dot tribe-common-c-loader__dot tribe-common-c-loader__dot--third" 	aria-hidden="true"
+	viewBox="0 0 15 15"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<circle cx="7.5" cy="7.5" r="7.5"/>
+</svg>
+	</div>
+</div>
+
+		<script type="application/ld+json">
+[{"@context":"http://schema.org","@type":"Event","name":"NAMI Connection Support Group for Young Adults","description":"&lt;p&gt;NAMI Connection Support Group for Young Adults\u00a0is a free, peer-led support group for anyone between the ages ...&lt;/p&gt;\\n","image":"https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg","url":"https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults/2026-04-01/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2026-04-01T19:00:00+00:00","endDate":"2026-04-01T20:00:00+00:00","performer":"Organization"},{"@context":"http://schema.org","@type":"Event","name":"NAMI Connection Support Group for Young Adults &#8211; Virtual","description":"&lt;p&gt;NAMI Connection Support Group for Young Adults\u00a0is a free, peer-led support group for anyone between the ages ...&lt;/p&gt;\\n","image":"https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg","url":"https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults-virtual/2026-04-15/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2026-04-15T19:00:00+00:00","endDate":"2026-04-15T20:00:00+00:00","performer":"Organization"},{"@context":"http://schema.org","@type":"Event","name":"NAMI Connection Support Group for Young Adults","description":"&lt;p&gt;NAMI Connection Support Group for Young Adults\u00a0is a free, peer-led support group for anyone between the ages ...&lt;/p&gt;\\n","image":"https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg","url":"https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults/2026-05-06/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2026-05-06T19:00:00+00:00","endDate":"2026-05-06T20:00:00+00:00","performer":"Organization"},{"@context":"http://schema.org","@type":"Event","name":"NAMI Connection Support Group for Young Adults &#8211; Virtual","description":"&lt;p&gt;NAMI Connection Support Group for Young Adults\u00a0is a free, peer-led support group for anyone between the ages ...&lt;/p&gt;\\n","image":"https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg","url":"https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults-virtual/2026-05-20/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2026-05-20T19:00:00+00:00","endDate":"2026-05-20T20:00:00+00:00","performer":"Organization"},{"@context":"http://schema.org","@type":"Event","name":"UC Davis Black Family Day","description":"&lt;p&gt;The UC Davis Black Family day is an event to celebrate Black excellence, empowerment, and community. It ...&lt;/p&gt;\\n","image":"https://hatefreetogether.org/wp-content/uploads/https___cdn.evbuc_.com_images_1101161593_508470267019_1_original.jpg","url":"https://hatefreetogether.org/event/uc-davis-black-family-day/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2026-05-23T12:00:00+00:00","endDate":"2026-05-23T20:00:00+00:00","location":{"@type":"Place","name":"UC Davis Quad","description":"","url":"https://hatefreetogether.org/venue/uc-davis-quad/","address":{"@type":"PostalAddress","streetAddress":"1 Shields Avenue","addressLocality":"Davis","addressRegion":"CA","postalCode":"95616"},"telephone":"","sameAs":""},"organizer":{"@type":"Person","name":"University of California, Davis","description":"","url":"https://www.ucdavis.edu/","telephone":"(530) 752-1011","email":"","sameAs":"https://www.ucdavis.edu/"},"performer":"Organization"},{"@context":"http://schema.org","@type":"Event","name":"NAMI Connection Support Group for Young Adults","description":"&lt;p&gt;NAMI Connection Support Group for Young Adults\u00a0is a free, peer-led support group for anyone between the ages ...&lt;/p&gt;\\n","image":"https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg","url":"https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults/2026-06-03/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2026-06-03T19:00:00+00:00","endDate":"2026-06-03T20:00:00+00:00","performer":"Organization"}]
+</script>
+		<script data-js="tribe-events-view-data" type="application/json">
+	{"slug":"list","prev_url":"https:\/\/hatefreetogether.org\/?ical=1&post_type=tribe_events&eventDisplay=past&paged=1","next_url":"","view_class":"Tribe\\Events\\Views\\V2\\Views\\List_View","view_slug":"list","view_label":"List","title":"Events Archive - Hate-Free Together","events":[10000246,10000271,10000247,10000272,10000308,10000248],"url":"https:\/\/hatefreetogether.org\/events\/list\/","url_event_date":false,"bar":{"keyword":"","date":""},"today":"2026-03-31 00:00:00","now":"2026-03-31 01:06:42","home_url":"https:\/\/hatefreetogether.org","rest_url":"https:\/\/hatefreetogether.org\/wp-json\/tribe\/views\/v2\/html","rest_method":"GET","rest_nonce":"","should_manage_url":true,"today_url":"https:\/\/hatefreetogether.org\/?post_type=tribe_events&eventDisplay=list&ical=1","today_title":"Click to select today's date","today_label":"Today","prev_label":"","next_label":"","date_formats":{"compact":"n\/j\/Y","month_and_year_compact":"n\/j\/Y","month_and_year":"F Y","time_range_separator":" - ","date_time_separator":" @ "},"messages":[],"start_of_week":"0","header_title":"","header_title_element":"h1","content_title":"","show_content_title":false,"breadcrumbs":[],"backlink":false,"before_events":"","after_events":"\n<!--\nThis calendar is powered by The Events Calendar.\nhttp:\/\/evnt.is\/18wn\n-->\n","display_events_bar":true,"disable_event_search":false,"live_refresh":true,"ical":{"display_link":true,"link":{"url":"https:\/\/hatefreetogether.org\/events\/list\/?ical=1","text":"Export Events","title":"Use this to share calendar data with Google Calendar, Apple iCal and other compatible apps"}},"container_classes":["tribe-common","tribe-events","tribe-events-view","tribe-events-view--list","alignwide"],"container_data":[],"is_past":false,"breakpoints":{"xsmall":500,"medium":768,"full":960},"breakpoint_pointer":"08f72c0e-75a4-485a-9c8d-f80669b66491","is_initial_load":true,"public_views":{"list":{"view_class":"Tribe\\Events\\Views\\V2\\Views\\List_View","view_url":"https:\/\/hatefreetogether.org\/events\/list\/","view_label":"List","aria_label":"Display Events in List View"},"month":{"view_class":"Tribe\\Events\\Views\\V2\\Views\\Month_View","view_url":"https:\/\/hatefreetogether.org\/events\/month\/","view_label":"Month","aria_label":"Display Events in Month View"},"day":{"view_class":"Tribe\\Events\\Views\\V2\\Views\\Day_View","view_url":"https:\/\/hatefreetogether.org\/events\/today\/","view_label":"Day","aria_label":"Display Events in Day View"}},"show_latest_past":true,"past":false,"show_now":true,"now_label":"Upcoming","now_label_mobile":"Upcoming","show_end":false,"selected_start_datetime":"2026-03-31","selected_start_date_mobile":"3\/31\/2026","selected_start_date_label":"March 31","selected_end_datetime":"2026-06-03","selected_end_date_mobile":"6\/3\/2026","selected_end_date_label":"June 3","datepicker_date":"3\/31\/2026","subscribe_links":{"gcal":{"label":"Google Calendar","single_label":"Add to Google Calendar","visible":true,"block_slug":"hasGoogleCalendar"},"ical":{"label":"iCalendar","single_label":"Add to iCalendar","visible":true,"block_slug":"hasiCal"},"outlook-365":{"label":"Outlook 365","single_label":"Outlook 365","visible":true,"block_slug":"hasOutlook365"},"outlook-live":{"label":"Outlook Live","single_label":"Outlook Live","visible":true,"block_slug":"hasOutlookLive"},"ics":{"label":"Export .ics file","single_label":"Export .ics file","visible":true,"block_slug":null},"outlook-ics":{"label":"Export Outlook .ics file","single_label":"Export Outlook .ics file","visible":true,"block_slug":null}},"display_recurring_toggle":false,"_context":{"slug":"list"},"text":"Loading...","classes":["tribe-common-c-loader__dot","tribe-common-c-loader__dot--third"]}</script>
+
+		
+		
+<header  class="tribe-events-header tribe-events-header--has-event-search" >
+	<div class="tribe-events-header__content-title">
+	<h1 class="screen-reader-text tec-a11y-title-hidden">Events</h1></div>
+
+	
+	
+	<div
+	 class="tribe-events-header__events-bar tribe-events-c-events-bar tribe-events-c-events-bar--border" 	data-js="tribe-events-events-bar"
+>
+
+	<h2 class="tribe-common-a11y-visual-hide">
+		Events Search and Views Navigation	</h2>
+
+			<button
+	class="tribe-events-c-events-bar__search-button"
+	aria-controls="tribe-events-search-container"
+	aria-expanded="false"
+	data-js="tribe-events-search-button"
+>
+	<svg
+	 class="tribe-common-c-svgicon tribe-common-c-svgicon--search tribe-events-c-events-bar__search-button-icon-svg" 	aria-hidden="true"
+	viewBox="0 0 16 16"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M11.164 10.133L16 14.97 14.969 16l-4.836-4.836a6.225 6.225 0 01-3.875 1.352 6.24 6.24 0 01-4.427-1.832A6.272 6.272 0 010 6.258 6.24 6.24 0 011.831 1.83 6.272 6.272 0 016.258 0c1.67 0 3.235.658 4.426 1.831a6.272 6.272 0 011.832 4.427c0 1.422-.48 2.773-1.352 3.875zM6.258 1.458c-1.28 0-2.49.498-3.396 1.404-1.866 1.867-1.866 4.925 0 6.791a4.774 4.774 0 003.396 1.405c1.28 0 2.489-.498 3.395-1.405 1.867-1.866 1.867-4.924 0-6.79a4.774 4.774 0 00-3.395-1.405z"/>
+</svg>
+	<span class="tribe-events-c-events-bar__search-button-text tribe-common-a11y-visual-hide">
+		Search	</span>
+</button>
+
+		<div
+			class="tribe-events-c-events-bar__search-container"
+			id="tribe-events-search-container"
+			data-js="tribe-events-search-container"
+		>
+			<div
+	class="tribe-events-c-events-bar__search"
+	id="tribe-events-events-bar-search"
+	data-js="tribe-events-events-bar-search"
+>
+	<form
+		class="tribe-events-c-search tribe-events-c-events-bar__search-form"
+		method="get"
+		data-js="tribe-events-view-form"
+		role="search"
+	>
+		<input type="hidden" name="tribe-events-views[url]" value="https://hatefreetogether.org/events/list/" />
+
+		<div class="tribe-events-c-search__input-group">
+			<div
+	class="tribe-common-form-control-text tribe-events-c-search__input-control tribe-events-c-search__input-control--keyword"
+	data-js="tribe-events-events-bar-input-control"
+>
+	<label class="tribe-common-form-control-text__label" for="tribe-events-events-bar-keyword">
+		Enter Keyword. Search for Events by Keyword.	</label>
+	<input
+		class="tribe-common-form-control-text__input tribe-events-c-search__input"
+		data-js="tribe-events-events-bar-input-control-input"
+		type="text"
+		id="tribe-events-events-bar-keyword"
+		name="tribe-events-views[tribe-bar-search]"
+		value=""
+		placeholder="Search for events"
+		aria-label="Enter Keyword. Search for events by Keyword."
+	/>
+	<svg
+	 class="tribe-common-c-svgicon tribe-common-c-svgicon--search tribe-events-c-search__input-control-icon-svg" 	aria-hidden="true"
+	viewBox="0 0 16 16"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M11.164 10.133L16 14.97 14.969 16l-4.836-4.836a6.225 6.225 0 01-3.875 1.352 6.24 6.24 0 01-4.427-1.832A6.272 6.272 0 010 6.258 6.24 6.24 0 011.831 1.83 6.272 6.272 0 016.258 0c1.67 0 3.235.658 4.426 1.831a6.272 6.272 0 011.832 4.427c0 1.422-.48 2.773-1.352 3.875zM6.258 1.458c-1.28 0-2.49.498-3.396 1.404-1.866 1.867-1.866 4.925 0 6.791a4.774 4.774 0 003.396 1.405c1.28 0 2.489-.498 3.395-1.405 1.867-1.866 1.867-4.924 0-6.79a4.774 4.774 0 00-3.395-1.405z"/>
+</svg>
+</div>
+		</div>
+
+		<button
+	class="tribe-common-c-btn tribe-events-c-search__button"
+	type="submit"
+	name="submit-bar"
+>
+	Find Events</button>
+	</form>
+</div>
+		</div>
+	
+	<div class="tribe-events-c-events-bar__views">
+	<h3 class="tribe-common-a11y-visual-hide">
+		Event Views Navigation	</h3>
+	<div  class="tribe-events-c-view-selector tribe-events-c-view-selector--labels tribe-events-c-view-selector--tabs"  data-js="tribe-events-view-selector">
+		<button
+			class="tribe-events-c-view-selector__button tribe-common-c-btn__clear"
+			data-js="tribe-events-view-selector-button"
+			aria-current="true"
+			aria-description="Select Calendar View"
+		>
+			<span class="tribe-events-c-view-selector__button-icon">
+				<svg
+	 class="tribe-common-c-svgicon tribe-common-c-svgicon--list tribe-events-c-view-selector__button-icon-svg" 	aria-hidden="true"
+	viewBox="0 0 19 19"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M.451.432V17.6c0 .238.163.432.364.432H18.12c.2 0 .364-.194.364-.432V.432c0-.239-.163-.432-.364-.432H.815c-.2 0-.364.193-.364.432zm.993.81h16.024V3.56H1.444V1.24zM17.468 3.56H1.444v13.227h16.024V3.56z" class="tribe-common-c-svgicon__svg-fill"/>
+	<g clip-path="url(#tribe-events-c-view-selector__button-icon-svg-0)" class="tribe-common-c-svgicon__svg-fill">
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M11.831 4.912v1.825c0 .504.409.913.913.913h1.825a.913.913 0 00.912-.913V4.912A.913.913 0 0014.57 4h-1.825a.912.912 0 00-.913.912z"/>
+		<path d="M8.028 7.66a.449.449 0 00.446-.448v-.364c0-.246-.2-.448-.446-.448h-4.13a.449.449 0 00-.447.448v.364c0 .246.201.448.447.448h4.13zM9.797 5.26a.449.449 0 00.447-.448v-.364c0-.246-.201-.448-.447-.448h-5.9a.449.449 0 00-.446.448v.364c0 .246.201.448.447.448h5.9z"/>
+	</g>
+	<g clip-path="url(#tribe-events-c-view-selector__button-icon-svg-1)" class="tribe-common-c-svgicon__svg-fill">
+			<path fill-rule="evenodd" clip-rule="evenodd" d="M11.831 10.912v1.825c0 .505.409.913.913.913h1.825a.913.913 0 00.912-.912v-1.825A.913.913 0 0014.57 10h-1.825a.912.912 0 00-.913.912z"/>
+		<path d="M8.028 13.66a.449.449 0 00.446-.448v-.364c0-.246-.2-.448-.446-.448h-4.13a.449.449 0 00-.447.448v.364c0 .246.201.448.447.448h4.13zM9.797 11.26a.449.449 0 00.447-.448v-.364c0-.246-.201-.448-.447-.448h-5.9a.449.449 0 00-.446.448v.364c0 .246.201.448.447.448h5.9z"/>
+	</g>
+	<defs>
+		<clipPath id="tribe-events-c-view-selector__button-icon-svg-0">
+			<path transform="translate(3.451 4)" d="M0 0h13v4H0z"/>
+		</clipPath>
+		<clipPath id="tribe-events-c-view-selector__button-icon-svg-1">
+			<path transform="translate(3.451 10)" d="M0 0h13v4H0z"/>
+		</clipPath>
+	</defs>
+</svg>
+			</span>
+			<span class="tribe-events-c-view-selector__button-text tribe-common-a11y-visual-hide">
+				List			</span>
+			<svg
+	 class="tribe-common-c-svgicon tribe-common-c-svgicon--caret-down tribe-events-c-view-selector__button-icon-caret-svg" 	aria-hidden="true"
+	viewBox="0 0 10 7"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M1.008.609L5 4.6 8.992.61l.958.958L5 6.517.05 1.566l.958-.958z" class="tribe-common-c-svgicon__svg-fill"/>
+</svg>
+		</button>
+		<div
+	class="tribe-events-c-view-selector__content"
+	id="tribe-events-view-selector-content"
+	data-js="tribe-events-view-selector-list-container"
+>
+	<ul class="tribe-events-c-view-selector__list">
+					<li
+	 class="tribe-events-c-view-selector__list-item tribe-events-c-view-selector__list-item--list tribe-events-c-view-selector__list-item--active" >
+	<a
+		href="https://hatefreetogether.org/events/list/"
+		class="tribe-events-c-view-selector__list-item-link"
+		data-js="tribe-events-view-link"
+		aria-label="Display Events in List View"
+				aria-current="true"
+			>
+		<span class="tribe-events-c-view-selector__list-item-icon">
+			<svg
+	 class="tribe-common-c-svgicon tribe-common-c-svgicon--list tribe-events-c-view-selector__list-item-icon-svg" 	aria-hidden="true"
+	viewBox="0 0 19 19"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M.451.432V17.6c0 .238.163.432.364.432H18.12c.2 0 .364-.194.364-.432V.432c0-.239-.163-.432-.364-.432H.815c-.2 0-.364.193-.364.432zm.993.81h16.024V3.56H1.444V1.24zM17.468 3.56H1.444v13.227h16.024V3.56z" class="tribe-common-c-svgicon__svg-fill"/>
+	<g clip-path="url(#tribe-events-c-view-selector__list-item-icon-svg-0)" class="tribe-common-c-svgicon__svg-fill">
+		<path fill-rule="evenodd" clip-rule="evenodd" d="M11.831 4.912v1.825c0 .504.409.913.913.913h1.825a.913.913 0 00.912-.913V4.912A.913.913 0 0014.57 4h-1.825a.912.912 0 00-.913.912z"/>
+		<path d="M8.028 7.66a.449.449 0 00.446-.448v-.364c0-.246-.2-.448-.446-.448h-4.13a.449.449 0 00-.447.448v.364c0 .246.201.448.447.448h4.13zM9.797 5.26a.449.449 0 00.447-.448v-.364c0-.246-.201-.448-.447-.448h-5.9a.449.449 0 00-.446.448v.364c0 .246.201.448.447.448h5.9z"/>
+	</g>
+	<g clip-path="url(#tribe-events-c-view-selector__list-item-icon-svg-1)" class="tribe-common-c-svgicon__svg-fill">
+			<path fill-rule="evenodd" clip-rule="evenodd" d="M11.831 10.912v1.825c0 .505.409.913.913.913h1.825a.913.913 0 00.912-.912v-1.825A.913.913 0 0014.57 10h-1.825a.912.912 0 00-.913.912z"/>
+		<path d="M8.028 13.66a.449.449 0 00.446-.448v-.364c0-.246-.2-.448-.446-.448h-4.13a.449.449 0 00-.447.448v.364c0 .246.201.448.447.448h4.13zM9.797 11.26a.449.449 0 00.447-.448v-.364c0-.246-.201-.448-.447-.448h-5.9a.449.449 0 00-.446.448v.364c0 .246.201.448.447.448h5.9z"/>
+	</g>
+	<defs>
+		<clipPath id="tribe-events-c-view-selector__list-item-icon-svg-0">
+			<path transform="translate(3.451 4)" d="M0 0h13v4H0z"/>
+		</clipPath>
+		<clipPath id="tribe-events-c-view-selector__list-item-icon-svg-1">
+			<path transform="translate(3.451 10)" d="M0 0h13v4H0z"/>
+		</clipPath>
+	</defs>
+</svg>
+		</span>
+		<span class="tribe-events-c-view-selector__list-item-text">
+			List		</span>
+	</a>
+</li>
+					<li
+	 class="tribe-events-c-view-selector__list-item tribe-events-c-view-selector__list-item--month" >
+	<a
+		href="https://hatefreetogether.org/events/month/"
+		class="tribe-events-c-view-selector__list-item-link"
+		data-js="tribe-events-view-link"
+		aria-label="Display Events in Month View"
+			>
+		<span class="tribe-events-c-view-selector__list-item-icon">
+			<svg
+	 class="tribe-common-c-svgicon tribe-common-c-svgicon--month tribe-events-c-view-selector__list-item-icon-svg" 	aria-hidden="true"
+	viewBox="0 0 18 19"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M0 .991v17.04c0 .236.162.428.361.428h17.175c.2 0 .361-.192.361-.429V.991c0-.237-.162-.428-.361-.428H.36C.161.563 0 .754 0 .99zm.985.803H16.89v2.301H.985v-2.3zM16.89 5.223H.985v12H16.89v-12zM6.31 7.366v.857c0 .237.192.429.429.429h.857a.429.429 0 00.428-.429v-.857a.429.429 0 00-.428-.429H6.74a.429.429 0 00-.429.429zm3.429.857v-.857c0-.237.191-.429.428-.429h.857c.237 0 .429.192.429.429v.857a.429.429 0 01-.429.429h-.857a.429.429 0 01-.428-.429zm3.428-.857v.857c0 .237.192.429.429.429h.857a.429.429 0 00.428-.429v-.857a.429.429 0 00-.428-.429h-.857a.429.429 0 00-.429.429zm-6.857 4.286v-.858c0-.236.192-.428.429-.428h.857c.236 0 .428.192.428.428v.858a.429.429 0 01-.428.428H6.74a.429.429 0 01-.429-.428zm3.429-.858v.858c0 .236.191.428.428.428h.857a.429.429 0 00.429-.428v-.858a.429.429 0 00-.429-.428h-.857a.428.428 0 00-.428.428zm3.428.858v-.858c0-.236.192-.428.429-.428h.857c.236 0 .428.192.428.428v.858a.429.429 0 01-.428.428h-.857a.429.429 0 01-.429-.428zm-10.286-.858v.858c0 .236.192.428.429.428h.857a.429.429 0 00.429-.428v-.858a.429.429 0 00-.429-.428h-.857a.429.429 0 00-.429.428zm0 4.286v-.857c0-.237.192-.429.429-.429h.857c.237 0 .429.192.429.429v.857a.429.429 0 01-.429.429h-.857a.429.429 0 01-.429-.429zm3.429-.857v.857c0 .237.192.429.429.429h.857a.429.429 0 00.428-.429v-.857a.429.429 0 00-.428-.429H6.74a.429.429 0 00-.429.429zm3.429.857v-.857c0-.237.191-.429.428-.429h.857c.237 0 .429.192.429.429v.857a.429.429 0 01-.429.429h-.857a.429.429 0 01-.428-.429z" class="tribe-common-c-svgicon__svg-fill"/>
+</svg>
+		</span>
+		<span class="tribe-events-c-view-selector__list-item-text">
+			Month		</span>
+	</a>
+</li>
+					<li
+	 class="tribe-events-c-view-selector__list-item tribe-events-c-view-selector__list-item--day" >
+	<a
+		href="https://hatefreetogether.org/events/today/"
+		class="tribe-events-c-view-selector__list-item-link"
+		data-js="tribe-events-view-link"
+		aria-label="Display Events in Day View"
+			>
+		<span class="tribe-events-c-view-selector__list-item-icon">
+			<svg
+	 class="tribe-common-c-svgicon tribe-common-c-svgicon--day tribe-events-c-view-selector__list-item-icon-svg" 	aria-hidden="true"
+	viewBox="0 0 19 18"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M.363 17.569V.43C.363.193.526 0 .726 0H18c.201 0 .364.193.364.431V17.57c0 .238-.163.431-.364.431H.726c-.2 0-.363-.193-.363-.431zm16.985-16.33H1.354v2.314h15.994V1.24zM1.354 4.688h15.994v12.07H1.354V4.687zm11.164 9.265v-1.498c0-.413.335-.748.748-.748h1.498c.413 0 .748.335.748.748v1.498a.749.749 0 01-.748.748h-1.498a.749.749 0 01-.748-.748z" class="tribe-common-c-svgicon__svg-fill"/>
+</svg>
+		</span>
+		<span class="tribe-events-c-view-selector__list-item-text">
+			Day		</span>
+	</a>
+</li>
+			</ul>
+</div>
+	</div>
+</div>
+
+</div>
+
+	<div class="tribe-events-c-top-bar tribe-events-header__top-bar">
+
+	<nav class="tribe-events-c-top-bar__nav tribe-common-a11y-hidden" aria-label="Top events list pagination">
+	<ul class="tribe-events-c-top-bar__nav-list">
+		<li class="tribe-events-c-top-bar__nav-list-item">
+	<a
+		href="https://hatefreetogether.org/?ical=1&#038;post_type=tribe_events&#038;eventDisplay=past&#038;paged=1"
+		class="tribe-common-c-btn-icon tribe-common-c-btn-icon--caret-left tribe-events-c-top-bar__nav-link tribe-events-c-top-bar__nav-link--prev"
+		aria-label="Previous Events"
+		title="Previous Events"
+		data-js="tribe-events-view-link"
+	>
+		<svg
+	 class="tribe-common-c-svgicon tribe-common-c-svgicon--caret-left tribe-common-c-btn-icon__icon-svg tribe-events-c-top-bar__nav-link-icon-svg" 	aria-hidden="true"
+	viewBox="0 0 10 16"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<path d="M9.7 14.4l-1.5 1.5L.3 8 8.2.1l1.5 1.5L3.3 8l6.4 6.4z"/>
+</svg>
+	</a>
+</li>
+
+		<li class="tribe-events-c-top-bar__nav-list-item">
+	<button
+		class="tribe-common-c-btn-icon tribe-common-c-btn-icon--caret-right tribe-events-c-top-bar__nav-link tribe-events-c-top-bar__nav-link--next"
+		aria-label="Next Events"
+		title="Next Events"
+		disabled
+	>
+		<svg
+	 class="tribe-common-c-svgicon tribe-common-c-svgicon--caret-right tribe-common-c-btn-icon__icon-svg tribe-events-c-top-bar__nav-link-icon-svg" 	aria-hidden="true"
+	viewBox="0 0 10 16"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<path d="M.3 1.6L1.8.1 9.7 8l-7.9 7.9-1.5-1.5L6.7 8 .3 1.6z"/>
+</svg>
+	</button>
+</li>
+	</ul>
+</nav>
+
+	<a
+	href="https://hatefreetogether.org/?post_type=tribe_events&#038;eventDisplay=list&#038;ical=1"
+	class="tribe-common-c-btn-border-small tribe-events-c-top-bar__today-button tribe-common-a11y-hidden"
+	data-js="tribe-events-view-link"
+	aria-description="Click to select today&#039;s date"
+>
+	Today</a>
+
+	<div class="tribe-events-c-top-bar__datepicker">
+	<button
+		class="tribe-common-c-btn__clear tribe-common-h3 tribe-common-h--alt tribe-events-c-top-bar__datepicker-button"
+		data-js="tribe-events-top-bar-datepicker-button"
+		type="button"
+		aria-description="Click to toggle datepicker"
+	>
+		<time
+			datetime="2026-03-31"
+			class="tribe-events-c-top-bar__datepicker-time"
+		>
+							<span class="tribe-events-c-top-bar__datepicker-mobile">
+					Upcoming				</span>
+				<span class="tribe-events-c-top-bar__datepicker-desktop tribe-common-a11y-hidden">
+					Upcoming				</span>
+					</time>
+				<svg
+	 class="tribe-common-c-svgicon tribe-common-c-svgicon--caret-down tribe-events-c-top-bar__datepicker-button-icon-svg" 	aria-hidden="true"
+	viewBox="0 0 10 7"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M1.008.609L5 4.6 8.992.61l.958.958L5 6.517.05 1.566l.958-.958z" class="tribe-common-c-svgicon__svg-fill"/>
+</svg>
+	</button>
+	<label
+		class="tribe-events-c-top-bar__datepicker-label tribe-common-a11y-visual-hide"
+		for="tribe-events-top-bar-date"
+	>
+		Select date.	</label>
+	<input
+		type="text"
+		class="tribe-events-c-top-bar__datepicker-input tribe-common-a11y-visual-hide"
+		data-js="tribe-events-top-bar-date"
+		id="tribe-events-top-bar-date"
+		name="tribe-events-views[tribe-bar-date]"
+		value="3/31/2026"
+		tabindex="-1"
+		autocomplete="off"
+		readonly="readonly"
+	/>
+	<div class="tribe-events-c-top-bar__datepicker-container" data-js="tribe-events-top-bar-datepicker-container"></div>
+	<template class="tribe-events-c-top-bar__datepicker-template-prev-icon">
+		<svg
+	 class="tribe-common-c-svgicon tribe-common-c-svgicon--caret-left tribe-events-c-top-bar__datepicker-nav-icon-svg" 	aria-hidden="true"
+	viewBox="0 0 10 16"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<path d="M9.7 14.4l-1.5 1.5L.3 8 8.2.1l1.5 1.5L3.3 8l6.4 6.4z"/>
+</svg>
+	</template>
+	<template class="tribe-events-c-top-bar__datepicker-template-next-icon">
+		<svg
+	 class="tribe-common-c-svgicon tribe-common-c-svgicon--caret-right tribe-events-c-top-bar__datepicker-nav-icon-svg" 	aria-hidden="true"
+	viewBox="0 0 10 16"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<path d="M.3 1.6L1.8.1 9.7 8l-7.9 7.9-1.5-1.5L6.7 8 .3 1.6z"/>
+</svg>
+	</template>
+</div>
+
+	
+	<div class="tribe-events-c-top-bar__actions tribe-common-a11y-hidden">
+	</div>
+
+</div>
+</header>
+
+		
+		<ul
+			class="tribe-events-calendar-list"
+			aria-label="
+			List of Events			"
+		>
+
+							
+				<li class="tribe-events-calendar-list__month-separator">
+	<h3>
+		<time
+			class="tribe-events-calendar-list__month-separator-text tribe-common-h7 tribe-common-h6--min-medium tribe-common-h--alt"
+		>
+			April 2026		</time>
+	</h3>
+</li>
+
+				<li  class="tribe-common-g-row tribe-events-calendar-list__event-row" >
+
+	<div  class="tribe-events-calendar-list__event-date-tag tribe-common-g-col post-10000246 tribe_events type-tribe_events status-publish has-post-thumbnail hentry tribe-recurring-event tribe-recurring-event-parent"  >
+	<time class="tribe-events-calendar-list__event-date-tag-datetime" datetime="2026-04-01" aria-hidden="true">
+		<span class="tribe-events-calendar-list__event-date-tag-weekday">
+			Wed		</span>
+		<span class="tribe-events-calendar-list__event-date-tag-daynum tribe-common-h5 tribe-common-h4--min-medium">
+			1		</span>
+	</time>
+</div>
+
+	<div class="tribe-events-calendar-list__event-wrapper tribe-common-g-col">
+		<article  class="tribe-events-calendar-list__event tribe-common-g-row tribe-common-g-row--gutters post-10000246 tribe_events type-tribe_events status-publish has-post-thumbnail hentry tribe-recurring-event tribe-recurring-event-parent" >
+			<div class="tribe-events-calendar-list__event-featured-image-wrapper tribe-common-g-col">
+	<img
+		class="tribe-events-calendar-list__event-featured-image lazyload"
+		data-src="https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg"
+					data-srcset="https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-300x300.jpg 300w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-150x150.jpg 150w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-50x50.jpg 50w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-500x500.jpg 500w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-400x400.jpg 400w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg 572w"
+							alt="Word hope is written artistically on a rock"
+							title="The word hope written on a rock"
+				class="tribe-events-calendar-list__event-featured-image lazyload"
+					width="572"
+			height="572"
+			 src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 572px; --smush-placeholder-aspect-ratio: 572/572;" />
+</div>
+
+			<div class="tribe-events-calendar-list__event-details tribe-common-g-col">
+
+				<header class="tribe-events-calendar-list__event-header">
+					<h4 class="tribe-events-calendar-list__event-title tribe-common-h6 tribe-common-h4--min-medium">
+	<a
+		href="https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults/2026-04-01/"
+		title="NAMI Connection Support Group for Young Adults"
+		rel="bookmark"
+		class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin"
+	>
+		NAMI Connection Support Group for Young Adults	</a>
+</h4>
+					<div class="tribe-events-calendar-list__event-datetime-wrapper tribe-common-b2">
+		<time class="tribe-events-calendar-list__event-datetime" datetime="2026-04-01">
+		<span class="tribe-event-date-start">April 1 @ 7:00 pm</span> - <span class="tribe-event-time">8:00 pm</span>	</time>
+	
+<span class="tribe-events-calendar-series-archive__container">
+	<a
+		href="https://hatefreetogether.org/series/nami-connection-support-group-for-young-adults/"
+		aria-label="Event series: NAMI Connection Support Group for Young Adults"
+		class="tribe-events-calendar-series-archive__link"
+	>
+		
+<svg  class="tribe-common-c-svgicon tribe-common-c-svgicon--series tribe-events-series-archive__icon"  width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+	<rect x="0.5" y="4.5" width="9" height="7" />
+	<path d="M2 2.5H11.5V10" />
+	<path d="M4 0.5H13.5V8" />
+</svg>
+		<span  class="tec_series_marker__title"  >NAMI Connection Support Group for Young Adults</span>
+	</a>
+</span>
+</div>
+														</header>
+
+				<div class="tribe-events-calendar-list__event-description tribe-common-b2 tribe-common-a11y-hidden">
+	<p>NAMI Connection Support Group for Young Adults is a free, peer-led support group for anyone between the ages ...</p>
+</div>
+				
+			</div>
+		</article>
+	</div>
+
+</li>
+
+							
+				
+				<li  class="tribe-common-g-row tribe-events-calendar-list__event-row" >
+
+	<div  class="tribe-events-calendar-list__event-date-tag tribe-common-g-col post-10000271 tribe_events type-tribe_events status-publish has-post-thumbnail hentry tribe-recurring-event tribe-recurring-event-parent"  >
+	<time class="tribe-events-calendar-list__event-date-tag-datetime" datetime="2026-04-15" aria-hidden="true">
+		<span class="tribe-events-calendar-list__event-date-tag-weekday">
+			Wed		</span>
+		<span class="tribe-events-calendar-list__event-date-tag-daynum tribe-common-h5 tribe-common-h4--min-medium">
+			15		</span>
+	</time>
+</div>
+
+	<div class="tribe-events-calendar-list__event-wrapper tribe-common-g-col">
+		<article  class="tribe-events-calendar-list__event tribe-common-g-row tribe-common-g-row--gutters post-10000271 tribe_events type-tribe_events status-publish has-post-thumbnail hentry tribe-recurring-event tribe-recurring-event-parent" >
+			<div class="tribe-events-calendar-list__event-featured-image-wrapper tribe-common-g-col">
+	<img
+		class="tribe-events-calendar-list__event-featured-image lazyload"
+		data-src="https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg"
+					data-srcset="https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-300x300.jpg 300w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-150x150.jpg 150w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-50x50.jpg 50w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-500x500.jpg 500w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-400x400.jpg 400w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg 572w"
+							alt="Word hope is written artistically on a rock"
+							title="The word hope written on a rock"
+				class="tribe-events-calendar-list__event-featured-image lazyload"
+					width="572"
+			height="572"
+			 src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 572px; --smush-placeholder-aspect-ratio: 572/572;" />
+</div>
+
+			<div class="tribe-events-calendar-list__event-details tribe-common-g-col">
+
+				<header class="tribe-events-calendar-list__event-header">
+					<h4 class="tribe-events-calendar-list__event-title tribe-common-h6 tribe-common-h4--min-medium">
+	<a
+		href="https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults-virtual/2026-04-15/"
+		title="NAMI Connection Support Group for Young Adults &#8211; Virtual"
+		rel="bookmark"
+		class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin"
+	>
+		NAMI Connection Support Group for Young Adults &#8211; Virtual	</a>
+</h4>
+					<div class="tribe-events-calendar-list__event-datetime-wrapper tribe-common-b2">
+		<time class="tribe-events-calendar-list__event-datetime" datetime="2026-04-15">
+		<span class="tribe-event-date-start">April 15 @ 7:00 pm</span> - <span class="tribe-event-time">8:00 pm</span>	</time>
+	
+<span class="tribe-events-calendar-series-archive__container">
+	<a
+		href="https://hatefreetogether.org/series/nami-connection-support-group-for-young-adults-virtual/"
+		aria-label="Event series: NAMI Connection Support Group for Young Adults &#8211; Virtual"
+		class="tribe-events-calendar-series-archive__link"
+	>
+		
+<svg  class="tribe-common-c-svgicon tribe-common-c-svgicon--series tribe-events-series-archive__icon"  width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+	<rect x="0.5" y="4.5" width="9" height="7" />
+	<path d="M2 2.5H11.5V10" />
+	<path d="M4 0.5H13.5V8" />
+</svg>
+		<span  class="tec_series_marker__title"  >NAMI Connection Support Group for Young Adults &#8211; Virtual</span>
+	</a>
+</span>
+</div>
+														</header>
+
+				<div class="tribe-events-calendar-list__event-description tribe-common-b2 tribe-common-a11y-hidden">
+	<p>NAMI Connection Support Group for Young Adults is a free, peer-led support group for anyone between the ages ...</p>
+</div>
+				
+			</div>
+		</article>
+	</div>
+
+</li>
+
+							
+				<li class="tribe-events-calendar-list__month-separator">
+	<h3>
+		<time
+			class="tribe-events-calendar-list__month-separator-text tribe-common-h7 tribe-common-h6--min-medium tribe-common-h--alt"
+		>
+			May 2026		</time>
+	</h3>
+</li>
+
+				<li  class="tribe-common-g-row tribe-events-calendar-list__event-row" >
+
+	<div  class="tribe-events-calendar-list__event-date-tag tribe-common-g-col post-10000247 tribe_events type-tribe_events status-publish has-post-thumbnail hentry tribe-recurring-event tribe-recurring-event-parent"  >
+	<time class="tribe-events-calendar-list__event-date-tag-datetime" datetime="2026-05-06" aria-hidden="true">
+		<span class="tribe-events-calendar-list__event-date-tag-weekday">
+			Wed		</span>
+		<span class="tribe-events-calendar-list__event-date-tag-daynum tribe-common-h5 tribe-common-h4--min-medium">
+			6		</span>
+	</time>
+</div>
+
+	<div class="tribe-events-calendar-list__event-wrapper tribe-common-g-col">
+		<article  class="tribe-events-calendar-list__event tribe-common-g-row tribe-common-g-row--gutters post-10000247 tribe_events type-tribe_events status-publish has-post-thumbnail hentry tribe-recurring-event tribe-recurring-event-parent" >
+			<div class="tribe-events-calendar-list__event-featured-image-wrapper tribe-common-g-col">
+	<img
+		class="tribe-events-calendar-list__event-featured-image lazyload"
+		data-src="https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg"
+					data-srcset="https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-300x300.jpg 300w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-150x150.jpg 150w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-50x50.jpg 50w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-500x500.jpg 500w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-400x400.jpg 400w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg 572w"
+							alt="Word hope is written artistically on a rock"
+							title="The word hope written on a rock"
+				class="tribe-events-calendar-list__event-featured-image lazyload"
+					width="572"
+			height="572"
+			 src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 572px; --smush-placeholder-aspect-ratio: 572/572;" />
+</div>
+
+			<div class="tribe-events-calendar-list__event-details tribe-common-g-col">
+
+				<header class="tribe-events-calendar-list__event-header">
+					<h4 class="tribe-events-calendar-list__event-title tribe-common-h6 tribe-common-h4--min-medium">
+	<a
+		href="https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults/2026-05-06/"
+		title="NAMI Connection Support Group for Young Adults"
+		rel="bookmark"
+		class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin"
+	>
+		NAMI Connection Support Group for Young Adults	</a>
+</h4>
+					<div class="tribe-events-calendar-list__event-datetime-wrapper tribe-common-b2">
+		<time class="tribe-events-calendar-list__event-datetime" datetime="2026-05-06">
+		<span class="tribe-event-date-start">May 6 @ 7:00 pm</span> - <span class="tribe-event-time">8:00 pm</span>	</time>
+	
+<span class="tribe-events-calendar-series-archive__container">
+	<a
+		href="https://hatefreetogether.org/series/nami-connection-support-group-for-young-adults/"
+		aria-label="Event series: NAMI Connection Support Group for Young Adults"
+		class="tribe-events-calendar-series-archive__link"
+	>
+		
+<svg  class="tribe-common-c-svgicon tribe-common-c-svgicon--series tribe-events-series-archive__icon"  width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+	<rect x="0.5" y="4.5" width="9" height="7" />
+	<path d="M2 2.5H11.5V10" />
+	<path d="M4 0.5H13.5V8" />
+</svg>
+		<span  class="tec_series_marker__title"  >NAMI Connection Support Group for Young Adults</span>
+	</a>
+</span>
+</div>
+														</header>
+
+				<div class="tribe-events-calendar-list__event-description tribe-common-b2 tribe-common-a11y-hidden">
+	<p>NAMI Connection Support Group for Young Adults is a free, peer-led support group for anyone between the ages ...</p>
+</div>
+				
+			</div>
+		</article>
+	</div>
+
+</li>
+
+							
+				
+				<li  class="tribe-common-g-row tribe-events-calendar-list__event-row" >
+
+	<div  class="tribe-events-calendar-list__event-date-tag tribe-common-g-col post-10000272 tribe_events type-tribe_events status-publish has-post-thumbnail hentry tribe-recurring-event tribe-recurring-event-parent"  >
+	<time class="tribe-events-calendar-list__event-date-tag-datetime" datetime="2026-05-20" aria-hidden="true">
+		<span class="tribe-events-calendar-list__event-date-tag-weekday">
+			Wed		</span>
+		<span class="tribe-events-calendar-list__event-date-tag-daynum tribe-common-h5 tribe-common-h4--min-medium">
+			20		</span>
+	</time>
+</div>
+
+	<div class="tribe-events-calendar-list__event-wrapper tribe-common-g-col">
+		<article  class="tribe-events-calendar-list__event tribe-common-g-row tribe-common-g-row--gutters post-10000272 tribe_events type-tribe_events status-publish has-post-thumbnail hentry tribe-recurring-event tribe-recurring-event-parent" >
+			<div class="tribe-events-calendar-list__event-featured-image-wrapper tribe-common-g-col">
+	<img
+		class="tribe-events-calendar-list__event-featured-image lazyload"
+		data-src="https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg"
+					data-srcset="https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-300x300.jpg 300w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-150x150.jpg 150w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-50x50.jpg 50w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-500x500.jpg 500w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-400x400.jpg 400w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg 572w"
+							alt="Word hope is written artistically on a rock"
+							title="The word hope written on a rock"
+				class="tribe-events-calendar-list__event-featured-image lazyload"
+					width="572"
+			height="572"
+			 src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 572px; --smush-placeholder-aspect-ratio: 572/572;" />
+</div>
+
+			<div class="tribe-events-calendar-list__event-details tribe-common-g-col">
+
+				<header class="tribe-events-calendar-list__event-header">
+					<h4 class="tribe-events-calendar-list__event-title tribe-common-h6 tribe-common-h4--min-medium">
+	<a
+		href="https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults-virtual/2026-05-20/"
+		title="NAMI Connection Support Group for Young Adults &#8211; Virtual"
+		rel="bookmark"
+		class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin"
+	>
+		NAMI Connection Support Group for Young Adults &#8211; Virtual	</a>
+</h4>
+					<div class="tribe-events-calendar-list__event-datetime-wrapper tribe-common-b2">
+		<time class="tribe-events-calendar-list__event-datetime" datetime="2026-05-20">
+		<span class="tribe-event-date-start">May 20 @ 7:00 pm</span> - <span class="tribe-event-time">8:00 pm</span>	</time>
+	
+<span class="tribe-events-calendar-series-archive__container">
+	<a
+		href="https://hatefreetogether.org/series/nami-connection-support-group-for-young-adults-virtual/"
+		aria-label="Event series: NAMI Connection Support Group for Young Adults &#8211; Virtual"
+		class="tribe-events-calendar-series-archive__link"
+	>
+		
+<svg  class="tribe-common-c-svgicon tribe-common-c-svgicon--series tribe-events-series-archive__icon"  width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+	<rect x="0.5" y="4.5" width="9" height="7" />
+	<path d="M2 2.5H11.5V10" />
+	<path d="M4 0.5H13.5V8" />
+</svg>
+		<span  class="tec_series_marker__title"  >NAMI Connection Support Group for Young Adults &#8211; Virtual</span>
+	</a>
+</span>
+</div>
+														</header>
+
+				<div class="tribe-events-calendar-list__event-description tribe-common-b2 tribe-common-a11y-hidden">
+	<p>NAMI Connection Support Group for Young Adults is a free, peer-led support group for anyone between the ages ...</p>
+</div>
+				
+			</div>
+		</article>
+	</div>
+
+</li>
+
+							
+				
+				<li  class="tribe-common-g-row tribe-events-calendar-list__event-row" >
+
+	<div  class="tribe-events-calendar-list__event-date-tag tribe-common-g-col post-10000308 tribe_events type-tribe_events status-publish has-post-thumbnail hentry"  >
+	<time class="tribe-events-calendar-list__event-date-tag-datetime" datetime="2026-05-23" aria-hidden="true">
+		<span class="tribe-events-calendar-list__event-date-tag-weekday">
+			Sat		</span>
+		<span class="tribe-events-calendar-list__event-date-tag-daynum tribe-common-h5 tribe-common-h4--min-medium">
+			23		</span>
+	</time>
+</div>
+
+	<div class="tribe-events-calendar-list__event-wrapper tribe-common-g-col">
+		<article  class="tribe-events-calendar-list__event tribe-common-g-row tribe-common-g-row--gutters post-10000308 tribe_events type-tribe_events status-publish has-post-thumbnail hentry" >
+			<div class="tribe-events-calendar-list__event-featured-image-wrapper tribe-common-g-col">
+	<img
+		class="tribe-events-calendar-list__event-featured-image lazyload"
+		data-src="https://hatefreetogether.org/wp-content/uploads/https___cdn.evbuc_.com_images_1101161593_508470267019_1_original.jpg"
+					data-srcset="https://hatefreetogether.org/wp-content/uploads/https___cdn.evbuc_.com_images_1101161593_508470267019_1_original-300x200.jpg 300w, https://hatefreetogether.org/wp-content/uploads/https___cdn.evbuc_.com_images_1101161593_508470267019_1_original.jpg 600w"
+							alt="Man and woman standing next to each other holding a board game: Black Wall Street"
+							title="https___cdn.evbuc.com_images_1101161593_508470267019_1_original"
+				class="tribe-events-calendar-list__event-featured-image lazyload"
+					width="600"
+			height="400"
+			 src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 600px; --smush-placeholder-aspect-ratio: 600/400;" />
+</div>
+
+			<div class="tribe-events-calendar-list__event-details tribe-common-g-col">
+
+				<header class="tribe-events-calendar-list__event-header">
+					<h4 class="tribe-events-calendar-list__event-title tribe-common-h6 tribe-common-h4--min-medium">
+	<a
+		href="https://hatefreetogether.org/event/uc-davis-black-family-day/"
+		title="UC Davis Black Family Day"
+		rel="bookmark"
+		class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin"
+	>
+		UC Davis Black Family Day	</a>
+</h4>
+					<div class="tribe-events-calendar-list__event-datetime-wrapper tribe-common-b2">
+		<time class="tribe-events-calendar-list__event-datetime" datetime="2026-05-23">
+		<span class="tribe-event-date-start">May 23 @ 12:00 pm</span> - <span class="tribe-event-time">8:00 pm</span>	</time>
+	</div>
+					<address class="tribe-events-calendar-list__event-venue tribe-common-b2">
+	<span class="tribe-events-calendar-list__event-venue-title tribe-common-b2--bold">
+		UC Davis Quad	</span>
+	<span class="tribe-events-calendar-list__event-venue-address">
+		1 Shields Avenue, Davis, CA	</span>
+	</address>
+									</header>
+
+				<div class="tribe-events-calendar-list__event-description tribe-common-b2 tribe-common-a11y-hidden">
+	<p>The UC Davis Black Family day is an event to celebrate Black excellence, empowerment, and community. It ...</p>
+</div>
+				
+			</div>
+		</article>
+	</div>
+
+</li>
+
+							
+				<li class="tribe-events-calendar-list__month-separator">
+	<h3>
+		<time
+			class="tribe-events-calendar-list__month-separator-text tribe-common-h7 tribe-common-h6--min-medium tribe-common-h--alt"
+		>
+			June 2026		</time>
+	</h3>
+</li>
+
+				<li  class="tribe-common-g-row tribe-events-calendar-list__event-row" >
+
+	<div  class="tribe-events-calendar-list__event-date-tag tribe-common-g-col post-10000248 tribe_events type-tribe_events status-publish has-post-thumbnail hentry tribe-recurring-event tribe-recurring-event-parent"  >
+	<time class="tribe-events-calendar-list__event-date-tag-datetime" datetime="2026-06-03" aria-hidden="true">
+		<span class="tribe-events-calendar-list__event-date-tag-weekday">
+			Wed		</span>
+		<span class="tribe-events-calendar-list__event-date-tag-daynum tribe-common-h5 tribe-common-h4--min-medium">
+			3		</span>
+	</time>
+</div>
+
+	<div class="tribe-events-calendar-list__event-wrapper tribe-common-g-col">
+		<article  class="tribe-events-calendar-list__event tribe-common-g-row tribe-common-g-row--gutters post-10000248 tribe_events type-tribe_events status-publish has-post-thumbnail hentry tribe-recurring-event tribe-recurring-event-parent" >
+			<div class="tribe-events-calendar-list__event-featured-image-wrapper tribe-common-g-col">
+	<img
+		class="tribe-events-calendar-list__event-featured-image lazyload"
+		data-src="https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg"
+					data-srcset="https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-300x300.jpg 300w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-150x150.jpg 150w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-50x50.jpg 50w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-500x500.jpg 500w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock-400x400.jpg 400w, https://hatefreetogether.org/wp-content/uploads/The-word-hope-written-on-a-rock.jpg 572w"
+							alt="Word hope is written artistically on a rock"
+							title="The word hope written on a rock"
+				class="tribe-events-calendar-list__event-featured-image lazyload"
+					width="572"
+			height="572"
+			 src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 572px; --smush-placeholder-aspect-ratio: 572/572;" />
+</div>
+
+			<div class="tribe-events-calendar-list__event-details tribe-common-g-col">
+
+				<header class="tribe-events-calendar-list__event-header">
+					<h4 class="tribe-events-calendar-list__event-title tribe-common-h6 tribe-common-h4--min-medium">
+	<a
+		href="https://hatefreetogether.org/event/nami-connection-support-group-for-young-adults/2026-06-03/"
+		title="NAMI Connection Support Group for Young Adults"
+		rel="bookmark"
+		class="tribe-events-calendar-list__event-title-link tribe-common-anchor-thin"
+	>
+		NAMI Connection Support Group for Young Adults	</a>
+</h4>
+					<div class="tribe-events-calendar-list__event-datetime-wrapper tribe-common-b2">
+		<time class="tribe-events-calendar-list__event-datetime" datetime="2026-06-03">
+		<span class="tribe-event-date-start">June 3 @ 7:00 pm</span> - <span class="tribe-event-time">8:00 pm</span>	</time>
+	
+<span class="tribe-events-calendar-series-archive__container">
+	<a
+		href="https://hatefreetogether.org/series/nami-connection-support-group-for-young-adults/"
+		aria-label="Event series: NAMI Connection Support Group for Young Adults"
+		class="tribe-events-calendar-series-archive__link"
+	>
+		
+<svg  class="tribe-common-c-svgicon tribe-common-c-svgicon--series tribe-events-series-archive__icon"  width="14" height="12" viewBox="0 0 14 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+	<rect x="0.5" y="4.5" width="9" height="7" />
+	<path d="M2 2.5H11.5V10" />
+	<path d="M4 0.5H13.5V8" />
+</svg>
+		<span  class="tec_series_marker__title"  >NAMI Connection Support Group for Young Adults</span>
+	</a>
+</span>
+</div>
+														</header>
+
+				<div class="tribe-events-calendar-list__event-description tribe-common-b2 tribe-common-a11y-hidden">
+	<p>NAMI Connection Support Group for Young Adults is a free, peer-led support group for anyone between the ages ...</p>
+</div>
+				
+			</div>
+		</article>
+	</div>
+
+</li>
+
+			
+		</ul>
+
+		<nav class="tribe-events-calendar-list-nav tribe-events-c-nav" aria-label="Bottom events list pagination">
+	<ul class="tribe-events-c-nav__list">
+		<li class="tribe-events-c-nav__list-item tribe-events-c-nav__list-item--prev">
+	<a
+		href="https://hatefreetogether.org/?ical=1&#038;post_type=tribe_events&#038;eventDisplay=past&#038;paged=1"
+		rel="prev"
+		class="tribe-events-c-nav__prev tribe-common-b2 tribe-common-b1--min-medium"
+		data-js="tribe-events-view-link"
+		aria-label="Previous Events"
+		title="Previous Events"
+	>
+		<svg
+	 class="tribe-common-c-svgicon tribe-common-c-svgicon--caret-left tribe-events-c-nav__prev-icon-svg" 	aria-hidden="true"
+	viewBox="0 0 10 16"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<path d="M9.7 14.4l-1.5 1.5L.3 8 8.2.1l1.5 1.5L3.3 8l6.4 6.4z"/>
+</svg>
+		<span class="tribe-events-c-nav__prev-label">
+			Previous <span class="tribe-events-c-nav__prev-label-plural tribe-common-a11y-visual-hide">Events</span>		</span>
+	</a>
+</li>
+
+		<li class="tribe-events-c-nav__list-item tribe-events-c-nav__list-item--today">
+	<a
+		href="https://hatefreetogether.org/?post_type=tribe_events&#038;eventDisplay=list&#038;ical=1"
+		class="tribe-events-c-nav__today tribe-common-b2"
+		data-js="tribe-events-view-link"
+		aria-label="Click to select today&#039;s date"
+		title="Click to select today&#039;s date"
+	>
+		Today	</a>
+</li>
+
+		<li class="tribe-events-c-nav__list-item tribe-events-c-nav__list-item--next">
+	<button
+		class="tribe-events-c-nav__next tribe-common-b2 tribe-common-b1--min-medium"
+		aria-label="Next Events"
+		title="Next Events"
+		disabled
+	>
+		<span class="tribe-events-c-nav__next-label">
+			Next <span class="tribe-events-c-nav__next-label-plural tribe-common-a11y-visual-hide">Events</span>		</span>
+		<svg
+	 class="tribe-common-c-svgicon tribe-common-c-svgicon--caret-right tribe-events-c-nav__next-icon-svg" 	aria-hidden="true"
+	viewBox="0 0 10 16"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<path d="M.3 1.6L1.8.1 9.7 8l-7.9 7.9-1.5-1.5L6.7 8 .3 1.6z"/>
+</svg>
+	</button>
+</li>
+	</ul>
+</nav>
+
+		<div class="tribe-events-c-subscribe-dropdown__container">
+	<div class="tribe-events-c-subscribe-dropdown">
+		<div class="tribe-common-c-btn-border tribe-events-c-subscribe-dropdown__button">
+			<button
+				class="tribe-events-c-subscribe-dropdown__button-text tribe-common-c-btn--clear"
+				aria-expanded="false"
+				aria-controls="tribe-events-subscribe-dropdown-content"
+				aria-label=""
+			>
+				Subscribe to calendar			</button>
+			<svg
+	 class="tribe-common-c-svgicon tribe-common-c-svgicon--caret-down tribe-events-c-subscribe-dropdown__button-icon" 	aria-hidden="true"
+	viewBox="0 0 10 7"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<path fill-rule="evenodd" clip-rule="evenodd" d="M1.008.609L5 4.6 8.992.61l.958.958L5 6.517.05 1.566l.958-.958z" class="tribe-common-c-svgicon__svg-fill"/>
+</svg>
+		</div>
+		<div id="tribe-events-c-subscribe-dropdown-content" class="tribe-events-c-subscribe-dropdown__content">
+			<ul class="tribe-events-c-subscribe-dropdown__list">
+									
+<li class="tribe-events-c-subscribe-dropdown__list-item tribe-events-c-subscribe-dropdown__list-item--gcal">
+	<a
+		href="https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fhatefreetogether.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+		class="tribe-events-c-subscribe-dropdown__list-item-link"
+		target="_blank"
+		rel="noopener noreferrer nofollow noindex"
+	>
+		Google Calendar	</a>
+</li>
+									
+<li class="tribe-events-c-subscribe-dropdown__list-item tribe-events-c-subscribe-dropdown__list-item--ical">
+	<a
+		href="webcal://hatefreetogether.org/?post_type=tribe_events&#038;ical=1&#038;eventDisplay=list"
+		class="tribe-events-c-subscribe-dropdown__list-item-link"
+		target="_blank"
+		rel="noopener noreferrer nofollow noindex"
+	>
+		iCalendar	</a>
+</li>
+									
+<li class="tribe-events-c-subscribe-dropdown__list-item tribe-events-c-subscribe-dropdown__list-item--outlook-365">
+	<a
+		href="https://outlook.office.com/owa?path=/calendar/action/compose&#038;rru=addsubscription&#038;url=webcal%3A%2F%2Fhatefreetogether.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&#038;name=Hate-Free+Together+Events+Archive+-+Hate-Free+Together"
+		class="tribe-events-c-subscribe-dropdown__list-item-link"
+		target="_blank"
+		rel="noopener noreferrer nofollow noindex"
+	>
+		Outlook 365	</a>
+</li>
+									
+<li class="tribe-events-c-subscribe-dropdown__list-item tribe-events-c-subscribe-dropdown__list-item--outlook-live">
+	<a
+		href="https://outlook.live.com/owa?path=/calendar/action/compose&#038;rru=addsubscription&#038;url=webcal%3A%2F%2Fhatefreetogether.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&#038;name=Hate-Free+Together+Events+Archive+-+Hate-Free+Together"
+		class="tribe-events-c-subscribe-dropdown__list-item-link"
+		target="_blank"
+		rel="noopener noreferrer nofollow noindex"
+	>
+		Outlook Live	</a>
+</li>
+									
+<li class="tribe-events-c-subscribe-dropdown__list-item tribe-events-c-subscribe-dropdown__list-item--ics">
+	<a
+		href="https://hatefreetogether.org/events/list/?ical=1"
+		class="tribe-events-c-subscribe-dropdown__list-item-link"
+		target="_blank"
+		rel="noopener noreferrer nofollow noindex"
+	>
+		Export .ics file	</a>
+</li>
+									
+<li class="tribe-events-c-subscribe-dropdown__list-item tribe-events-c-subscribe-dropdown__list-item--outlook-ics">
+	<a
+		href="https://hatefreetogether.org/events/list/?outlook-ical=1"
+		class="tribe-events-c-subscribe-dropdown__list-item-link"
+		target="_blank"
+		rel="noopener noreferrer nofollow noindex"
+	>
+		Export Outlook .ics file	</a>
+</li>
+							</ul>
+		</div>
+	</div>
+</div>
+
+		<div class="tribe-events-after-html">
+	
+<!--
+This calendar is powered by The Events Calendar.
+http://evnt.is/18wn
+-->
+</div>
+
+	</section>
+</div>
+
+<script class="tribe-events-breakpoints">
+	( function () {
+		var completed = false;
+
+		function initBreakpoints() {
+			if ( completed ) {
+				// This was fired already and completed no need to attach to the event listener.
+				document.removeEventListener( 'DOMContentLoaded', initBreakpoints );
+				return;
+			}
+
+			if ( 'undefined' === typeof window.tribe ) {
+				return;
+			}
+
+			if ( 'undefined' === typeof window.tribe.events ) {
+				return;
+			}
+
+			if ( 'undefined' === typeof window.tribe.events.views ) {
+				return;
+			}
+
+			if ( 'undefined' === typeof window.tribe.events.views.breakpoints ) {
+				return;
+			}
+
+			if ( 'function' !== typeof (window.tribe.events.views.breakpoints.setup) ) {
+				return;
+			}
+
+			var container = document.querySelectorAll( '[data-view-breakpoint-pointer="08f72c0e-75a4-485a-9c8d-f80669b66491"]' );
+			if ( ! container ) {
+				return;
+			}
+
+			window.tribe.events.views.breakpoints.setup( container );
+			completed = true;
+			// This was fired already and completed no need to attach to the event listener.
+			document.removeEventListener( 'DOMContentLoaded', initBreakpoints );
+		}
+
+		// Try to init the breakpoints right away.
+		initBreakpoints();
+		document.addEventListener( 'DOMContentLoaded', initBreakpoints );
+	})();
+</script>
+<script data-js='tribe-events-view-nonce-data' type='application/json'>{"tvn1":"7d1987d4e6","tvn2":""}</script>
+	<div id="footer" class="py-4 py-md-5">
+		<footer>
+			<div class="container">
+				<div class="row">
+											<div class="col-sm-12 col-md-3">
+							<div class="col-one fade-in mb-4">
+										<img class="footer-logo mb-4 lazyload" data-src="https://hatefreetogether.org/wp-content/uploads/hate-free-together-logo.svg" alt="Hate-Free Together" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==">
+		
+	
+	
+																</div><!-- .col-one -->
+						</div>
+					
+																		<div class="col-sm-12 col-md-3">
+								<div class="col-two mb-4">
+									<div id="nav_menu-4" class="widget widget_block widget_nav_menu"><div class="h4">Campaign</div><div class="menu-campaign-container"><ul id="menu-campaign" class="menu" itemscope itemtype="http://www.schema.org/SiteNavigationElement"><li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="https://hatefreetogether.org/about/">About Hate-Free Together</a></li>
+<li id="menu-item-67" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67"><a href="https://hatefreetogether.org/about#history">History</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68"><a href="https://hatefreetogether.org/about#founders">Founders</a></li>
+</ul></div></div>								</div><!-- .col-two -->
+							</div>
+											
+																		<div class="col-sm-12 col-md-3">
+								<div class="col-three mb-4">
+									<div id="nav_menu-3" class="widget widget_block widget_nav_menu"><div class="h4">Quick Links</div><div class="menu-quick-links-container"><ul id="menu-quick-links" class="menu" itemscope itemtype="http://www.schema.org/SiteNavigationElement"><li id="menu-item-70" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70"><a href="https://hatefreetogether.org/get-involved">Partner</a></li>
+<li id="menu-item-71" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71"><a href="https://hatefreetogether.org/resources/">Report</a></li>
+<li id="menu-item-836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-836"><a href="https://hatefreetogether.org/events">Events</a></li>
+<li id="menu-item-965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-965"><a href="https://hatefreetogether.org/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-964"><a href="https://hatefreetogether.org/terms-of-use/">Terms of Use</a></li>
+</ul></div></div>								</div><!-- .col-three -->
+							</div>
+											
+											<div class="col-sm-12 col-md-3">
+							<div class="col-four mb-4">
+																	<div id="block-2" class="widget widget_block widget_block"><style id='kadence-blocks-advancedheading-inline-css' type='text/css'>
+	.wp-block-kadence-advancedheading mark{background:transparent;border-style:solid;border-width:0}
+	.wp-block-kadence-advancedheading mark.kt-highlight{color:#f76a0c;}
+	.kb-adv-heading-icon{display: inline-flex;justify-content: center;align-items: center;}
+	.is-layout-constrained > .kb-advanced-heading-link {display: block;}.wp-block-kadence-advancedheading.has-background{padding: 0;}.kb-screen-reader-text{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);}
+/*# sourceURL=kadence-blocks-advancedheading-inline-css */
+</style>
+<style>.wp-block-kadence-advancedheading.kt-adv-heading49fd4c-35, .wp-block-kadence-advancedheading.kt-adv-heading49fd4c-35[data-kb-block="kb-adv-heading49fd4c-35"]{font-style:normal;}.wp-block-kadence-advancedheading.kt-adv-heading49fd4c-35 mark.kt-highlight, .wp-block-kadence-advancedheading.kt-adv-heading49fd4c-35[data-kb-block="kb-adv-heading49fd4c-35"] mark.kt-highlight{font-style:normal;color:#f76a0c;-webkit-box-decoration-break:clone;box-decoration-break:clone;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}.wp-block-kadence-advancedheading.kt-adv-heading49fd4c-35 img.kb-inline-image, .wp-block-kadence-advancedheading.kt-adv-heading49fd4c-35[data-kb-block="kb-adv-heading49fd4c-35"] img.kb-inline-image{width:150px;vertical-align:baseline;}</style>
+<div class="kt-adv-heading49fd4c-35 h4 wp-block-kadence-advancedheading" data-kb-block="kb-adv-heading49fd4c-35">Learn About Our Impact</div>
+</div><div id="block-3" class="widget widget_block widget_text widget_block widget_text">
+<p>City of Davis, UC Davis and Yolo County are joining forces to provide resources, support opportunities for actions that condemn hate, create safety and cultivate change.</p>
+</div><div id="block-4" class="widget widget_block widget_block">
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://hatefreetogether.org/about/">Our Impact</a></div>
+</div>
+</div>																							</div><!-- .col-four -->
+						</div>
+					
+				</div>
+
+								<div class="container ft-copy">
+					<div class="row copyright">
+													<div class="col-md-5">
+								<div>&copy; 2026 Hate-Free Together. All Rights Reserved.</div>
+								<div>Website Design and Development by <a href="https://uptownstudios.net">Uptown Studios</a></div>
+							</div>
+																			<div class="col-md">
+								<div id="block-5" class="widget widget_block">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<p class="founded-by has-small-font-size"><em><strong>Founded By:</strong></em></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<figure class="wp-block-image size-large"><img decoding="async" width="515" height="98" data-src="https://hatefreetogether.org/wp-content/uploads/city-county-campus.svg" alt="Logos for City of Davis, County of Yolo, and UCDavis" class="wp-image-24 lazyload" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 515px; --smush-placeholder-aspect-ratio: 515/98;" /></figure>
+</div>
+</div>
+</div>							</div>
+											</div>
+				</div>
+							</div>
+		</footer>
+	</div>
+
+</div><!-- #page -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/uptown-studios-child/*","/wp-content/themes/uptown-studios/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+				<style>
+			:root {
+				-webkit-user-select: none;
+				-webkit-touch-callout: none;
+				-ms-user-select: none;
+				-moz-user-select: none;
+				user-select: none;
+			}
+		</style>
+		<script type="text/javascript">
+			/*<![CDATA[*/
+			document.oncontextmenu = function(event) {
+				if (event.target.tagName != 'INPUT' && event.target.tagName != 'TEXTAREA') {
+					event.preventDefault();
+				}
+			};
+			document.ondragstart = function() {
+				if (event.target.tagName != 'INPUT' && event.target.tagName != 'TEXTAREA') {
+					event.preventDefault();
+				}
+			};
+			/*]]>*/
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><link rel='stylesheet' id='tribe-events-pro-views-v2-skeleton-css' href='https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/build/css/views-skeleton.css?ver=7.7.14' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-events-pro-views-v2-full-css' href='https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/build/css/views-full.css?ver=7.7.14' type='text/css' media='all' />
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/themes/uptown-studios/assets/js/vendor/bootstrap.js?ver=5.1.3" id="bootstrap-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/themes/uptown-studios/assets/js/scripts.js?ver=1.0.0" id="uptown-studios-scripts-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/the-events-calendar/vendor/bootstrap-datepicker/js/bootstrap-datepicker.min.js?ver=6.15.18" id="tribe-events-views-v2-bootstrap-datepicker-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/the-events-calendar/build/js/views/viewport.js?ver=3e90f3ec254086a30629" id="tribe-events-views-v2-viewport-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/the-events-calendar/build/js/views/accordion.js?ver=b0cf88d89b3e05e7d2ef" id="tribe-events-views-v2-accordion-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/the-events-calendar/build/js/views/view-selector.js?ver=a8aa8890141fbcc3162a" id="tribe-events-views-v2-view-selector-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/the-events-calendar/build/js/views/ical-links.js?ver=0dadaa0667a03645aee4" id="tribe-events-views-v2-ical-links-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/the-events-calendar/build/js/views/navigation-scroll.js?ver=eba0057e0fd877f08e9d" id="tribe-events-views-v2-navigation-scroll-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/the-events-calendar/build/js/views/multiday-events.js?ver=780fd76b5b819e3a6ece" id="tribe-events-views-v2-multiday-events-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/the-events-calendar/build/js/views/month-mobile-events.js?ver=cee03bfee0063abbd5b8" id="tribe-events-views-v2-month-mobile-events-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/the-events-calendar/build/js/views/month-grid.js?ver=b5773d96c9ff699a45dd" id="tribe-events-views-v2-month-grid-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/the-events-calendar/common/vendor/tooltipster/tooltipster.bundle.min.js?ver=6.10.3" id="tribe-tooltipster-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/the-events-calendar/build/js/views/tooltip.js?ver=82f9d4de83ed0352be8e" id="tribe-events-views-v2-tooltip-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/the-events-calendar/build/js/views/events-bar.js?ver=3825b4a45b5c6f3f04b9" id="tribe-events-views-v2-events-bar-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/the-events-calendar/build/js/views/events-bar-inputs.js?ver=e3710df171bb081761bd" id="tribe-events-views-v2-events-bar-inputs-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/the-events-calendar/build/js/views/datepicker.js?ver=9ae0925bbe975f92bef4" id="tribe-events-views-v2-datepicker-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/the-events-calendar/common/build/js/user-agent.js?ver=da75d0bdea6dde3898df" id="tec-user-agent-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3" id="jquery-ui-draggable-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/vendor/nanoscroller/jquery.nanoscroller.min.js?ver=7.7.14" id="tribe-events-pro-views-v2-nanoscroller-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/build/js/views/week-grid-scroller.js?ver=f767194b7f65f448d00e" id="tribe-events-pro-views-v2-week-grid-scroller-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/build/js/views/week-day-selector.js?ver=c8b3a03472a267de758d" id="tribe-events-pro-views-v2-week-day-selector-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/build/js/views/week-multiday-toggle.js?ver=69dd4df02cf23f824e9a" id="tribe-events-pro-views-v2-week-multiday-toggle-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/build/js/views/week-event-link.js?ver=334de69daa29ae826020" id="tribe-events-pro-views-v2-week-event-link-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/build/js/views/map-events-scroller.js?ver=23e0a112f2a065e8e1d5" id="tribe-events-pro-views-v2-map-events-scroller-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/vendor/swiper/dist/js/swiper.min.js?ver=7.7.14" id="tribe-swiper-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/build/js/views/map-no-venue-modal.js?ver=6437a60c9a943cf8f472" id="tribe-events-pro-views-v2-map-no-venue-modal-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/build/js/views/map-provider-google-maps.js?ver=ecf90f33549e461a1048" id="tribe-events-pro-views-v2-map-provider-google-maps-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/build/js/views/map-events.js?ver=12685890ea84c4d19079" id="tribe-events-pro-views-v2-map-events-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/build/js/views/tooltip-pro.js?ver=815dcb1c3f3ef0030d5f" id="tribe-events-pro-views-v2-tooltip-pro-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/build/js/views/multiday-events-pro.js?ver=e17e8468e24cffc6f312" id="tribe-events-pro-views-v2-multiday-events-pro-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/build/js/views/toggle-recurrence.js?ver=fc28903018fdbc8c4161" id="tribe-events-pro-views-v2-toggle-recurrence-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/events-calendar-pro/build/js/views/datepicker-pro.js?ver=4f8807dfbd3260f16a53" id="tribe-events-pro-views-v2-datepicker-pro-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/uptown-studios-companion/public/js/public.js?ver=1.0.0" id="uptown-studios-companion-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/uptown-studios-companion/public/js/load-more-posts.js?ver=1.0.0" id="load-more-posts-js"></script>
+<script type="text/javascript" id="pojo-a11y-js-extra">
+/* <![CDATA[ */
+var PojoA11yOptions = {"focusable":"","remove_link_target":"","add_role_links":"","enable_save":"","save_expiration":""};
+//# sourceURL=pojo-a11y-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/pojo-accessibility/modules/legacy/assets/js/app.min.js?ver=1.0.0" id="pojo-a11y-js"></script>
+<script type="text/javascript" id="smush-lazy-load-js-before">
+/* <![CDATA[ */
+var smushLazyLoadOptions = {"autoResizingEnabled":false,"autoResizeOptions":{"precision":5,"skipAutoWidth":true}};
+//# sourceURL=smush-lazy-load-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.24.0" id="smush-lazy-load-js"></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/the-events-calendar/common/build/js/utils/query-string.js?ver=694b0604b0c8eafed657" id="tribe-query-string-js"></script>
+<script src='https://hatefreetogether.org/wp-content/plugins/the-events-calendar/common/build/js/underscore-before.js'></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+<script src='https://hatefreetogether.org/wp-content/plugins/the-events-calendar/common/build/js/underscore-after.js'></script>
+<script type="text/javascript" src="https://hatefreetogether.org/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script defer type="text/javascript" src="https://hatefreetogether.org/wp-content/plugins/the-events-calendar/build/js/views/manager.js?ver=7af9c9f081f2a629c2f8" id="tribe-events-views-v2-manager-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://hatefreetogether.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://hatefreetogether.org/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+<style id='tribe-events-pro-views-v2-full-inline-css' class='tec-customizer-inline-style' type='text/css'>
+:root {
+				/* Customizer-added Global Event styles */
+				--tec-font-family-sans-serif: inherit;
+--tec-font-family-base: inherit;
+--tec-color-text-events-title: #212529;
+--tec-color-text-event-title: #212529;
+--tec-color-text-event-date: #212529;
+--tec-color-text-secondary-event-date: #212529;
+--tec-color-link-primary: #004975;
+--tec-color-link-accent: #004975;
+--tec-color-link-accent-hover: rgba(0,73,117, 0.8);
+--tec-color-accent-primary: #004975;
+--tec-color-accent-primary-hover: rgba(0,73,117,0.8);
+--tec-color-accent-primary-multiday: rgba(0,73,117,0.24);
+--tec-color-accent-primary-multiday-hover: rgba(0,73,117,0.34);
+--tec-color-accent-primary-active: rgba(0,73,117,0.9);
+--tec-color-accent-primary-background: rgba(0,73,117,0.07);
+--tec-color-background-secondary-datepicker: rgba(0,73,117,0.5);
+--tec-color-accent-primary-background-datepicker: #004975;
+--tec-color-button-primary: #004975;
+--tec-color-button-primary-hover: rgba(0,73,117,0.8);
+--tec-color-button-primary-active: rgba(0,73,117,0.9);
+--tec-color-button-primary-background: rgba(0,73,117,0.07);
+--tec-color-day-marker-current-month: #004975;
+--tec-color-day-marker-current-month-hover: rgba(0,73,117,0.8);
+--tec-color-day-marker-current-month-active: rgba(0,73,117,0.9);
+--tec-color-background-primary-multiday: rgba(0,73,117, 0.24);
+--tec-color-background-primary-multiday-hover: rgba(0,73,117, 0.34);
+--tec-color-background-primary-multiday-active: rgba(0,73,117, 0.34);
+--tec-color-background-secondary-multiday: rgba(0,73,117, 0.24);
+--tec-color-background-secondary-multiday-hover: rgba(0,73,117, 0.34);
+			}:root {
+				/* Customizer-added Events Bar styles */
+				--tec-color-text-events-bar-input: #212529;
+--tec-color-text-events-bar-input-placeholder: #212529;
+--tec-opacity-events-bar-input-placeholder: 0.6;
+--tec-color-text-view-selector-list-item: #212529;
+--tec-color-text-view-selector-list-item-hover: #212529;
+--tec-color-background-view-selector-list-item-hover: rgba(33,37,41, 0.12);
+--tec-color-background-events-bar-submit-button: #004975;
+--tec-color-background-events-bar-submit-button-hover: rgba(0,73,117, 0.8);
+--tec-color-background-events-bar-submit-button-active: rgba(0,73,117, 0.9);
+			}:root {
+				/* Customizer-added Month View styles */
+				--tec-color-border-active-month-grid-hover: #212529;
+--tec-color-day-marker-month: #212529;
+--tec-color-day-marker-past-month: #212529;
+			}
+</style>
+		<a id="pojo-a11y-skip-content" class="pojo-skip-link pojo-skip-content" tabindex="1" accesskey="s" href="#content">Skip to content</a>
+				<nav id="pojo-a11y-toolbar" class="pojo-a11y-toolbar-right pojo-a11y-" role="navigation">
+			<div class="pojo-a11y-toolbar-toggle">
+				<a class="pojo-a11y-toolbar-link pojo-a11y-toolbar-toggle-link" href="javascript:void(0);" title="Accessibility Tools" role="button">
+					<span class="pojo-sr-only sr-only">Open toolbar</span>
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="currentColor" width="1em">
+						<title>Accessibility Tools</title>
+						<path d="M50 .8c5.7 0 10.4 4.7 10.4 10.4S55.7 21.6 50 21.6s-10.4-4.7-10.4-10.4S44.3.8 50 .8zM92.2 32l-21.9 2.3c-2.6.3-4.6 2.5-4.6 5.2V94c0 2.9-2.3 5.2-5.2 5.2H60c-2.7 0-4.9-2.1-5.2-4.7l-2.2-24.7c-.1-1.5-1.4-2.5-2.8-2.4-1.3.1-2.2 1.1-2.4 2.4l-2.2 24.7c-.2 2.7-2.5 4.7-5.2 4.7h-.5c-2.9 0-5.2-2.3-5.2-5.2V39.4c0-2.7-2-4.9-4.6-5.2L7.8 32c-2.6-.3-4.6-2.5-4.6-5.2v-.5c0-2.6 2.1-4.7 4.7-4.7h.5c19.3 1.8 33.2 2.8 41.7 2.8s22.4-.9 41.7-2.8c2.6-.2 4.9 1.6 5.2 4.3v1c-.1 2.6-2.1 4.8-4.8 5.1z"/>					</svg>
+				</a>
+			</div>
+			<div class="pojo-a11y-toolbar-overlay">
+				<div class="pojo-a11y-toolbar-inner">
+					<p class="pojo-a11y-toolbar-title">Accessibility Tools</p>
+
+					<ul class="pojo-a11y-toolbar-items pojo-a11y-tools">
+																			<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-resize-font pojo-a11y-btn-resize-plus" data-action="resize-plus" data-action-group="resize" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Increase Text</title><path fill="currentColor" d="M256 200v16c0 4.25-3.75 8-8 8h-56v56c0 4.25-3.75 8-8 8h-16c-4.25 0-8-3.75-8-8v-56h-56c-4.25 0-8-3.75-8-8v-16c0-4.25 3.75-8 8-8h56v-56c0-4.25 3.75-8 8-8h16c4.25 0 8 3.75 8 8v56h56c4.25 0 8 3.75 8 8zM288 208c0-61.75-50.25-112-112-112s-112 50.25-112 112 50.25 112 112 112 112-50.25 112-112zM416 416c0 17.75-14.25 32-32 32-8.5 0-16.75-3.5-22.5-9.5l-85.75-85.5c-29.25 20.25-64.25 31-99.75 31-97.25 0-176-78.75-176-176s78.75-176 176-176 176 78.75 176 176c0 35.5-10.75 70.5-31 99.75l85.75 85.75c5.75 5.75 9.25 14 9.25 22.5z"></path></svg></span><span class="pojo-a11y-toolbar-text">Increase Text</span>								</a>
+							</li>
+
+							<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-resize-font pojo-a11y-btn-resize-minus" data-action="resize-minus" data-action-group="resize" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Decrease Text</title><path fill="currentColor" d="M256 200v16c0 4.25-3.75 8-8 8h-144c-4.25 0-8-3.75-8-8v-16c0-4.25 3.75-8 8-8h144c4.25 0 8 3.75 8 8zM288 208c0-61.75-50.25-112-112-112s-112 50.25-112 112 50.25 112 112 112 112-50.25 112-112zM416 416c0 17.75-14.25 32-32 32-8.5 0-16.75-3.5-22.5-9.5l-85.75-85.5c-29.25 20.25-64.25 31-99.75 31-97.25 0-176-78.75-176-176s78.75-176 176-176 176 78.75 176 176c0 35.5-10.75 70.5-31 99.75l85.75 85.75c5.75 5.75 9.25 14 9.25 22.5z"></path></svg></span><span class="pojo-a11y-toolbar-text">Decrease Text</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-grayscale" data-action="grayscale" data-action-group="schema" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Grayscale</title><path fill="currentColor" d="M15.75 384h-15.75v-352h15.75v352zM31.5 383.75h-8v-351.75h8v351.75zM55 383.75h-7.75v-351.75h7.75v351.75zM94.25 383.75h-7.75v-351.75h7.75v351.75zM133.5 383.75h-15.5v-351.75h15.5v351.75zM165 383.75h-7.75v-351.75h7.75v351.75zM180.75 383.75h-7.75v-351.75h7.75v351.75zM196.5 383.75h-7.75v-351.75h7.75v351.75zM235.75 383.75h-15.75v-351.75h15.75v351.75zM275 383.75h-15.75v-351.75h15.75v351.75zM306.5 383.75h-15.75v-351.75h15.75v351.75zM338 383.75h-15.75v-351.75h15.75v351.75zM361.5 383.75h-15.75v-351.75h15.75v351.75zM408.75 383.75h-23.5v-351.75h23.5v351.75zM424.5 383.75h-8v-351.75h8v351.75zM448 384h-15.75v-352h15.75v352z"></path></svg></span><span class="pojo-a11y-toolbar-text">Grayscale</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-high-contrast" data-action="high-contrast" data-action-group="schema" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>High Contrast</title><path fill="currentColor" d="M192 360v-272c-75 0-136 61-136 136s61 136 136 136zM384 224c0 106-86 192-192 192s-192-86-192-192 86-192 192-192 192 86 192 192z"></path></svg></span><span class="pojo-a11y-toolbar-text">High Contrast</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-negative-contrast" data-action="negative-contrast" data-action-group="schema" tabindex="-1" role="button">
+
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Negative Contrast</title><path fill="currentColor" d="M416 240c-23.75-36.75-56.25-68.25-95.25-88.25 10 17 15.25 36.5 15.25 56.25 0 61.75-50.25 112-112 112s-112-50.25-112-112c0-19.75 5.25-39.25 15.25-56.25-39 20-71.5 51.5-95.25 88.25 42.75 66 111.75 112 192 112s149.25-46 192-112zM236 144c0-6.5-5.5-12-12-12-41.75 0-76 34.25-76 76 0 6.5 5.5 12 12 12s12-5.5 12-12c0-28.5 23.5-52 52-52 6.5 0 12-5.5 12-12zM448 240c0 6.25-2 12-5 17.25-46 75.75-130.25 126.75-219 126.75s-173-51.25-219-126.75c-3-5.25-5-11-5-17.25s2-12 5-17.25c46-75.5 130.25-126.75 219-126.75s173 51.25 219 126.75c3 5.25 5 11 5 17.25z"></path></svg></span><span class="pojo-a11y-toolbar-text">Negative Contrast</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-light-background" data-action="light-background" data-action-group="schema" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Light Background</title><path fill="currentColor" d="M184 144c0 4.25-3.75 8-8 8s-8-3.75-8-8c0-17.25-26.75-24-40-24-4.25 0-8-3.75-8-8s3.75-8 8-8c23.25 0 56 12.25 56 40zM224 144c0-50-50.75-80-96-80s-96 30-96 80c0 16 6.5 32.75 17 45 4.75 5.5 10.25 10.75 15.25 16.5 17.75 21.25 32.75 46.25 35.25 74.5h57c2.5-28.25 17.5-53.25 35.25-74.5 5-5.75 10.5-11 15.25-16.5 10.5-12.25 17-29 17-45zM256 144c0 25.75-8.5 48-25.75 67s-40 45.75-42 72.5c7.25 4.25 11.75 12.25 11.75 20.5 0 6-2.25 11.75-6.25 16 4 4.25 6.25 10 6.25 16 0 8.25-4.25 15.75-11.25 20.25 2 3.5 3.25 7.75 3.25 11.75 0 16.25-12.75 24-27.25 24-6.5 14.5-21 24-36.75 24s-30.25-9.5-36.75-24c-14.5 0-27.25-7.75-27.25-24 0-4 1.25-8.25 3.25-11.75-7-4.5-11.25-12-11.25-20.25 0-6 2.25-11.75 6.25-16-4-4.25-6.25-10-6.25-16 0-8.25 4.5-16.25 11.75-20.5-2-26.75-24.75-53.5-42-72.5s-25.75-41.25-25.75-67c0-68 64.75-112 128-112s128 44 128 112z"></path></svg></span><span class="pojo-a11y-toolbar-text">Light Background</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-links-underline" data-action="links-underline" data-action-group="toggle" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Links Underline</title><path fill="currentColor" d="M364 304c0-6.5-2.5-12.5-7-17l-52-52c-4.5-4.5-10.75-7-17-7-7.25 0-13 2.75-18 8 8.25 8.25 18 15.25 18 28 0 13.25-10.75 24-24 24-12.75 0-19.75-9.75-28-18-5.25 5-8.25 10.75-8.25 18.25 0 6.25 2.5 12.5 7 17l51.5 51.75c4.5 4.5 10.75 6.75 17 6.75s12.5-2.25 17-6.5l36.75-36.5c4.5-4.5 7-10.5 7-16.75zM188.25 127.75c0-6.25-2.5-12.5-7-17l-51.5-51.75c-4.5-4.5-10.75-7-17-7s-12.5 2.5-17 6.75l-36.75 36.5c-4.5 4.5-7 10.5-7 16.75 0 6.5 2.5 12.5 7 17l52 52c4.5 4.5 10.75 6.75 17 6.75 7.25 0 13-2.5 18-7.75-8.25-8.25-18-15.25-18-28 0-13.25 10.75-24 24-24 12.75 0 19.75 9.75 28 18 5.25-5 8.25-10.75 8.25-18.25zM412 304c0 19-7.75 37.5-21.25 50.75l-36.75 36.5c-13.5 13.5-31.75 20.75-50.75 20.75-19.25 0-37.5-7.5-51-21.25l-51.5-51.75c-13.5-13.5-20.75-31.75-20.75-50.75 0-19.75 8-38.5 22-52.25l-22-22c-13.75 14-32.25 22-52 22-19 0-37.5-7.5-51-21l-52-52c-13.75-13.75-21-31.75-21-51 0-19 7.75-37.5 21.25-50.75l36.75-36.5c13.5-13.5 31.75-20.75 50.75-20.75 19.25 0 37.5 7.5 51 21.25l51.5 51.75c13.5 13.5 20.75 31.75 20.75 50.75 0 19.75-8 38.5-22 52.25l22 22c13.75-14 32.25-22 52-22 19 0 37.5 7.5 51 21l52 52c13.75 13.75 21 31.75 21 51z"></path></svg></span><span class="pojo-a11y-toolbar-text">Links Underline</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-readable-font" data-action="readable-font" data-action-group="toggle" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Readable Font</title><path fill="currentColor" d="M181.25 139.75l-42.5 112.5c24.75 0.25 49.5 1 74.25 1 4.75 0 9.5-0.25 14.25-0.5-13-38-28.25-76.75-46-113zM0 416l0.5-19.75c23.5-7.25 49-2.25 59.5-29.25l59.25-154 70-181h32c1 1.75 2 3.5 2.75 5.25l51.25 120c18.75 44.25 36 89 55 133 11.25 26 20 52.75 32.5 78.25 1.75 4 5.25 11.5 8.75 14.25 8.25 6.5 31.25 8 43 12.5 0.75 4.75 1.5 9.5 1.5 14.25 0 2.25-0.25 4.25-0.25 6.5-31.75 0-63.5-4-95.25-4-32.75 0-65.5 2.75-98.25 3.75 0-6.5 0.25-13 1-19.5l32.75-7c6.75-1.5 20-3.25 20-12.5 0-9-32.25-83.25-36.25-93.5l-112.5-0.5c-6.5 14.5-31.75 80-31.75 89.5 0 19.25 36.75 20 51 22 0.25 4.75 0.25 9.5 0.25 14.5 0 2.25-0.25 4.5-0.5 6.75-29 0-58.25-5-87.25-5-3.5 0-8.5 1.5-12 2-15.75 2.75-31.25 3.5-47 3.5z"></path></svg></span><span class="pojo-a11y-toolbar-text">Readable Font</span>								</a>
+							</li>
+																		<li class="pojo-a11y-toolbar-item">
+							<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-reset" data-action="reset" tabindex="-1" role="button">
+								<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Reset</title><path fill="currentColor" d="M384 224c0 105.75-86.25 192-192 192-57.25 0-111.25-25.25-147.75-69.25-2.5-3.25-2.25-8 0.5-10.75l34.25-34.5c1.75-1.5 4-2.25 6.25-2.25 2.25 0.25 4.5 1.25 5.75 3 24.5 31.75 61.25 49.75 101 49.75 70.5 0 128-57.5 128-128s-57.5-128-128-128c-32.75 0-63.75 12.5-87 34.25l34.25 34.5c4.75 4.5 6 11.5 3.5 17.25-2.5 6-8.25 10-14.75 10h-112c-8.75 0-16-7.25-16-16v-112c0-6.5 4-12.25 10-14.75 5.75-2.5 12.75-1.25 17.25 3.5l32.5 32.25c35.25-33.25 83-53 132.25-53 105.75 0 192 86.25 192 192z"></path></svg></span>
+								<span class="pojo-a11y-toolbar-text">Reset</span>
+							</a>
+						</li>
+					</ul>
+									</div>
+			</div>
+		</nav>
+		</body>
+</html>
