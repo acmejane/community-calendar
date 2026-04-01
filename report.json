@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-31T01:06:44.969925",
+  "generated": "2026-04-01T01:13:49.610131",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34015,6 +34015,10 @@
             {
               "date": "2026-03-31",
               "count": 2
+            },
+            {
+              "date": "2026-04-01",
+              "count": 2
             }
           ]
         },
@@ -34106,6 +34110,10 @@
             },
             {
               "date": "2026-03-31",
+              "count": 0
+            },
+            {
+              "date": "2026-04-01",
               "count": 0
             }
           ]
@@ -34199,6 +34207,10 @@
             {
               "date": "2026-03-31",
               "count": 1
+            },
+            {
+              "date": "2026-04-01",
+              "count": 2
             }
           ]
         },
@@ -34290,6 +34302,10 @@
             },
             {
               "date": "2026-03-31",
+              "count": 10
+            },
+            {
+              "date": "2026-04-01",
               "count": 10
             }
           ]
@@ -34383,6 +34399,10 @@
             {
               "date": "2026-03-31",
               "count": 10
+            },
+            {
+              "date": "2026-04-01",
+              "count": 10
             }
           ]
         },
@@ -34474,6 +34494,10 @@
             },
             {
               "date": "2026-03-31",
+              "count": 10
+            },
+            {
+              "date": "2026-04-01",
               "count": 10
             }
           ]
@@ -34567,6 +34591,10 @@
             {
               "date": "2026-03-31",
               "count": 2
+            },
+            {
+              "date": "2026-04-01",
+              "count": 3
             }
           ]
         },
@@ -34658,6 +34686,10 @@
             },
             {
               "date": "2026-03-31",
+              "count": 0
+            },
+            {
+              "date": "2026-04-01",
               "count": 0
             }
           ]
@@ -34751,6 +34783,10 @@
             {
               "date": "2026-03-31",
               "count": 10
+            },
+            {
+              "date": "2026-04-01",
+              "count": 10
             }
           ]
         },
@@ -34842,6 +34878,10 @@
             },
             {
               "date": "2026-03-31",
+              "count": 0
+            },
+            {
+              "date": "2026-04-01",
               "count": 0
             }
           ]
@@ -34935,6 +34975,10 @@
             {
               "date": "2026-03-31",
               "count": 0
+            },
+            {
+              "date": "2026-04-01",
+              "count": 0
             }
           ]
         },
@@ -35026,6 +35070,10 @@
             },
             {
               "date": "2026-03-31",
+              "count": 1
+            },
+            {
+              "date": "2026-04-01",
               "count": 1
             }
           ]
@@ -35119,6 +35167,10 @@
             {
               "date": "2026-03-31",
               "count": 30
+            },
+            {
+              "date": "2026-04-01",
+              "count": 30
             }
           ]
         }
@@ -35154,27 +35206,23 @@
         },
         {
           "category": "Arts / Culture",
-          "count": 3
+          "count": 4
         },
         {
           "category": "Nature / Outdoors / Recreation",
           "count": 2
         },
         {
-          "category": "Sports / Fitness",
-          "count": 1
+          "category": "Family / Kids",
+          "count": 2
         },
         {
           "category": "Film / Cinema",
           "count": 1
-        },
-        {
-          "category": "Family / Kids",
-          "count": 1
         }
       ],
       "images": {
-        "total": 73,
+        "total": 74,
         "with_image": 29,
         "by_source": [
           {
@@ -35185,9 +35233,9 @@
         ]
       },
       "url_quality": {
-        "total_with_url": 71,
-        "total_events": 73,
-        "unique_urls": 71,
+        "total_with_url": 73,
+        "total_events": 74,
+        "unique_urls": 73,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
@@ -35200,13 +35248,13 @@
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Mindful Embodied Spirituality",
+            "source": "Meetup Yolo County Board Game Gathering",
             "events": 10,
             "unique_urls": 10,
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Yolo County Board Game Gathering",
+            "source": "Meetup Mindful Embodied Spirituality",
             "events": 10,
             "unique_urls": 10,
             "specificity_pct": 100
@@ -35225,8 +35273,8 @@
           },
           {
             "source": "Meetup Pence Adult Art Programs",
-            "events": 2,
-            "unique_urls": 2,
+            "events": 3,
+            "unique_urls": 3,
             "specificity_pct": 100
           },
           {
@@ -35236,13 +35284,13 @@
             "specificity_pct": 100
           },
           {
-            "source": "Visit Davis, Visityolo Event",
-            "events": 1,
-            "unique_urls": 1,
+            "source": "Meetup: Art in Action",
+            "events": 2,
+            "unique_urls": 2,
             "specificity_pct": 100
           },
           {
-            "source": "Meetup: Art in Action",
+            "source": "Visit Davis, Visityolo Event",
             "events": 1,
             "unique_urls": 1,
             "specificity_pct": 100
