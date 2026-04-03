@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-02T01:04:15.087987",
+  "generated": "2026-04-03T01:06:30.070811",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34023,6 +34023,10 @@
             {
               "date": "2026-04-02",
               "count": 1
+            },
+            {
+              "date": "2026-04-03",
+              "count": 1
             }
           ]
         },
@@ -34122,6 +34126,10 @@
             },
             {
               "date": "2026-04-02",
+              "count": 0
+            },
+            {
+              "date": "2026-04-03",
               "count": 0
             }
           ]
@@ -34223,6 +34231,10 @@
             {
               "date": "2026-04-02",
               "count": 2
+            },
+            {
+              "date": "2026-04-03",
+              "count": 2
             }
           ]
         },
@@ -34322,6 +34334,10 @@
             },
             {
               "date": "2026-04-02",
+              "count": 10
+            },
+            {
+              "date": "2026-04-03",
               "count": 10
             }
           ]
@@ -34423,6 +34439,10 @@
             {
               "date": "2026-04-02",
               "count": 10
+            },
+            {
+              "date": "2026-04-03",
+              "count": 10
             }
           ]
         },
@@ -34522,6 +34542,10 @@
             },
             {
               "date": "2026-04-02",
+              "count": 10
+            },
+            {
+              "date": "2026-04-03",
               "count": 10
             }
           ]
@@ -34623,6 +34647,10 @@
             {
               "date": "2026-04-02",
               "count": 3
+            },
+            {
+              "date": "2026-04-03",
+              "count": 3
             }
           ]
         },
@@ -34722,6 +34750,10 @@
             },
             {
               "date": "2026-04-02",
+              "count": 0
+            },
+            {
+              "date": "2026-04-03",
               "count": 0
             }
           ]
@@ -34823,6 +34855,10 @@
             {
               "date": "2026-04-02",
               "count": 10
+            },
+            {
+              "date": "2026-04-03",
+              "count": 10
             }
           ]
         },
@@ -34922,6 +34958,10 @@
             },
             {
               "date": "2026-04-02",
+              "count": 0
+            },
+            {
+              "date": "2026-04-03",
               "count": 0
             }
           ]
@@ -35023,6 +35063,10 @@
             {
               "date": "2026-04-02",
               "count": 0
+            },
+            {
+              "date": "2026-04-03",
+              "count": 0
             }
           ]
         },
@@ -35123,6 +35167,10 @@
             {
               "date": "2026-04-02",
               "count": 4
+            },
+            {
+              "date": "2026-04-03",
+              "count": 6
             }
           ]
         },
@@ -35223,6 +35271,10 @@
             {
               "date": "2026-04-02",
               "count": 30
+            },
+            {
+              "date": "2026-04-03",
+              "count": 30
             }
           ]
         }
@@ -35275,13 +35327,13 @@
         "by_source": [
           {
             "source": "Visityolo Event",
-            "total": 27,
-            "with_image": 27
+            "total": 25,
+            "with_image": 25
           },
           {
             "source": "Visit Davis, Visityolo Event",
-            "total": 3,
-            "with_image": 3
+            "total": 5,
+            "with_image": 5
           },
           {
             "source": "Visit Davis",
@@ -35301,18 +35353,18 @@
         "source_specificity": [
           {
             "source": "Visityolo Event",
-            "events": 27,
-            "unique_urls": 27,
+            "events": 25,
+            "unique_urls": 25,
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Yolo County Board Game Gathering",
+            "source": "Meetup Mindful Embodied Spirituality",
             "events": 10,
             "unique_urls": 10,
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Mindful Embodied Spirituality",
+            "source": "Meetup Yolo County Board Game Gathering",
             "events": 10,
             "unique_urls": 10,
             "specificity_pct": 100
@@ -35330,13 +35382,13 @@
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Pence Adult Art Programs",
-            "events": 3,
-            "unique_urls": 3,
+            "source": "Visit Davis, Visityolo Event",
+            "events": 5,
+            "unique_urls": 5,
             "specificity_pct": 100
           },
           {
-            "source": "Visit Davis, Visityolo Event",
+            "source": "Meetup Pence Adult Art Programs",
             "events": 3,
             "unique_urls": 3,
             "specificity_pct": 100
