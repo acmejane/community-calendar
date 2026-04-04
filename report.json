@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-03T01:06:30.070811",
+  "generated": "2026-04-04T01:01:10.300313",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34027,6 +34027,10 @@
             {
               "date": "2026-04-03",
               "count": 1
+            },
+            {
+              "date": "2026-04-04",
+              "count": 1
             }
           ]
         },
@@ -34130,6 +34134,10 @@
             },
             {
               "date": "2026-04-03",
+              "count": 0
+            },
+            {
+              "date": "2026-04-04",
               "count": 0
             }
           ]
@@ -34235,6 +34243,10 @@
             {
               "date": "2026-04-03",
               "count": 2
+            },
+            {
+              "date": "2026-04-04",
+              "count": 2
             }
           ]
         },
@@ -34338,6 +34350,10 @@
             },
             {
               "date": "2026-04-03",
+              "count": 10
+            },
+            {
+              "date": "2026-04-04",
               "count": 10
             }
           ]
@@ -34443,6 +34459,10 @@
             {
               "date": "2026-04-03",
               "count": 10
+            },
+            {
+              "date": "2026-04-04",
+              "count": 10
             }
           ]
         },
@@ -34546,6 +34566,10 @@
             },
             {
               "date": "2026-04-03",
+              "count": 10
+            },
+            {
+              "date": "2026-04-04",
               "count": 10
             }
           ]
@@ -34651,6 +34675,10 @@
             {
               "date": "2026-04-03",
               "count": 3
+            },
+            {
+              "date": "2026-04-04",
+              "count": 3
             }
           ]
         },
@@ -34754,6 +34782,10 @@
             },
             {
               "date": "2026-04-03",
+              "count": 0
+            },
+            {
+              "date": "2026-04-04",
               "count": 0
             }
           ]
@@ -34859,6 +34891,10 @@
             {
               "date": "2026-04-03",
               "count": 10
+            },
+            {
+              "date": "2026-04-04",
+              "count": 10
             }
           ]
         },
@@ -34962,6 +34998,10 @@
             },
             {
               "date": "2026-04-03",
+              "count": 0
+            },
+            {
+              "date": "2026-04-04",
               "count": 0
             }
           ]
@@ -35067,6 +35107,10 @@
             {
               "date": "2026-04-03",
               "count": 0
+            },
+            {
+              "date": "2026-04-04",
+              "count": 0
             }
           ]
         },
@@ -35170,6 +35214,10 @@
             },
             {
               "date": "2026-04-03",
+              "count": 6
+            },
+            {
+              "date": "2026-04-04",
               "count": 6
             }
           ]
@@ -35275,6 +35323,10 @@
             {
               "date": "2026-04-03",
               "count": 30
+            },
+            {
+              "date": "2026-04-04",
+              "count": 30
             }
           ]
         }
@@ -35282,18 +35334,18 @@
       "categories": [
         {
           "category": "Food / Drink",
-          "count": 20
+          "count": 19
         },
         {
           "category": "Community / Social",
           "count": 13
         },
         {
-          "category": "Health / Wellness",
+          "category": "Education / Workshops",
           "count": 8
         },
         {
-          "category": "Education / Workshops",
+          "category": "Health / Wellness",
           "count": 8
         },
         {
@@ -35322,30 +35374,25 @@
         }
       ],
       "images": {
-        "total": 75,
-        "with_image": 31,
+        "total": 74,
+        "with_image": 30,
         "by_source": [
           {
             "source": "Visityolo Event",
-            "total": 25,
-            "with_image": 25
+            "total": 24,
+            "with_image": 24
           },
           {
             "source": "Visit Davis, Visityolo Event",
-            "total": 5,
-            "with_image": 5
-          },
-          {
-            "source": "Visit Davis",
-            "total": 1,
-            "with_image": 1
+            "total": 6,
+            "with_image": 6
           }
         ]
       },
       "url_quality": {
-        "total_with_url": 74,
-        "total_events": 75,
-        "unique_urls": 74,
+        "total_with_url": 73,
+        "total_events": 74,
+        "unique_urls": 73,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
@@ -35353,8 +35400,8 @@
         "source_specificity": [
           {
             "source": "Visityolo Event",
-            "events": 25,
-            "unique_urls": 25,
+            "events": 24,
+            "unique_urls": 24,
             "specificity_pct": 100
           },
           {
@@ -35383,8 +35430,8 @@
           },
           {
             "source": "Visit Davis, Visityolo Event",
-            "events": 5,
-            "unique_urls": 5,
+            "events": 6,
+            "unique_urls": 6,
             "specificity_pct": 100
           },
           {
@@ -35403,12 +35450,6 @@
             "source": "Meetup: Art in Action",
             "events": 2,
             "unique_urls": 2,
-            "specificity_pct": 100
-          },
-          {
-            "source": "Visit Davis",
-            "events": 1,
-            "unique_urls": 1,
             "specificity_pct": 100
           }
         ]
