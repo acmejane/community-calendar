@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-05T01:08:36.402700",
+  "generated": "2026-04-06T01:08:54.291647",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34035,6 +34035,10 @@
             {
               "date": "2026-04-05",
               "count": 1
+            },
+            {
+              "date": "2026-04-06",
+              "count": 0
             }
           ]
         },
@@ -34146,6 +34150,10 @@
             },
             {
               "date": "2026-04-05",
+              "count": 0
+            },
+            {
+              "date": "2026-04-06",
               "count": 0
             }
           ]
@@ -34259,6 +34267,10 @@
             {
               "date": "2026-04-05",
               "count": 2
+            },
+            {
+              "date": "2026-04-06",
+              "count": 2
             }
           ]
         },
@@ -34370,6 +34382,10 @@
             },
             {
               "date": "2026-04-05",
+              "count": 10
+            },
+            {
+              "date": "2026-04-06",
               "count": 10
             }
           ]
@@ -34483,6 +34499,10 @@
             {
               "date": "2026-04-05",
               "count": 10
+            },
+            {
+              "date": "2026-04-06",
+              "count": 10
             }
           ]
         },
@@ -34594,6 +34614,10 @@
             },
             {
               "date": "2026-04-05",
+              "count": 10
+            },
+            {
+              "date": "2026-04-06",
               "count": 10
             }
           ]
@@ -34707,6 +34731,10 @@
             {
               "date": "2026-04-05",
               "count": 3
+            },
+            {
+              "date": "2026-04-06",
+              "count": 3
             }
           ]
         },
@@ -34818,6 +34846,10 @@
             },
             {
               "date": "2026-04-05",
+              "count": 0
+            },
+            {
+              "date": "2026-04-06",
               "count": 0
             }
           ]
@@ -34931,6 +34963,10 @@
             {
               "date": "2026-04-05",
               "count": 10
+            },
+            {
+              "date": "2026-04-06",
+              "count": 10
             }
           ]
         },
@@ -35042,6 +35078,10 @@
             },
             {
               "date": "2026-04-05",
+              "count": 0
+            },
+            {
+              "date": "2026-04-06",
               "count": 0
             }
           ]
@@ -35155,6 +35195,10 @@
             {
               "date": "2026-04-05",
               "count": 0
+            },
+            {
+              "date": "2026-04-06",
+              "count": 0
             }
           ]
         },
@@ -35266,6 +35310,10 @@
             },
             {
               "date": "2026-04-05",
+              "count": 6
+            },
+            {
+              "date": "2026-04-06",
               "count": 6
             }
           ]
@@ -35379,6 +35427,10 @@
             {
               "date": "2026-04-05",
               "count": 30
+            },
+            {
+              "date": "2026-04-06",
+              "count": 30
             }
           ]
         }
@@ -35417,22 +35469,22 @@
           "count": 4
         },
         {
-          "category": "Nature / Outdoors / Recreation",
+          "category": "Family / Kids",
           "count": 2
         },
         {
-          "category": "Family / Kids",
-          "count": 2
+          "category": "Nature / Outdoors / Recreation",
+          "count": 1
         }
       ],
       "images": {
-        "total": 74,
-        "with_image": 29,
+        "total": 73,
+        "with_image": 28,
         "by_source": [
           {
             "source": "Visityolo Event",
             "total": 24,
-            "with_image": 23
+            "with_image": 22
           },
           {
             "source": "Visit Davis, Visityolo Event",
@@ -35443,7 +35495,7 @@
       },
       "url_quality": {
         "total_with_url": 73,
-        "total_events": 74,
+        "total_events": 73,
         "unique_urls": 73,
         "generic_count": 0,
         "generic_domains": [],
@@ -36340,6 +36392,14 @@
       "date": "2026-03-31",
       "city": "lancaster",
       "feed": "hatefreetogether"
+    },
+    {
+      "type": "zero_events",
+      "message": "Feed returned 0 events (was 1)",
+      "severity": "high",
+      "date": "2026-04-06",
+      "city": "lancaster",
+      "feed": "gcal_davisbikeclubwww"
     }
   ],
   "errors": []
