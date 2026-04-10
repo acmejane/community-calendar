@@ -8,7 +8,6 @@ used across all city feeds, identified by their PRODID header.
 | Platform | Description | Cities | Feeds |
 |----------|-------------|--------|------:|
 | **Meetup** | ICS export from meetup.com groups. | lancaster | 7 |
-| **The Events Calendar (WordPress)** | WordPress plugin (aka "Tribe Events"). PRODID includes site name + ECP version. | lancaster | 2 |
 | **Google Calendar** | Public Google Calendar ICS export. | lancaster | 1 |
 
 ## Detail
@@ -18,12 +17,6 @@ used across all city feeds, identified by their PRODID header.
 ICS export from meetup.com groups.
 
 **lancaster** (7): meetup_art_in_action, meetup_intercultural_mosaics, meetup_mindful_embodied_spirituality, meetup_mosaics, meetup_pence_adult_art_programs, meetup_winters_shut_up_and_write_meetup_group, meetup_yolo_county_board_game_gathering
-
-### The Events Calendar (WordPress) (2 feeds)
-
-WordPress plugin (aka "Tribe Events"). PRODID includes site name + ECP version.
-
-**lancaster** (2): visitdavis, visityolo_event
 
 ### Google Calendar (1 feeds)
 
