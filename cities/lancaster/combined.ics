@@ -7,29 +7,12 @@ X-WR-CALNAME:Lancaster Community Calendar
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/natural-wine-tasting/"}
-X-SOURCE-ID:visitdavis
-X-SOURCE:Visit Davis
-DTSTART;TZID=America/Los_Angeles:20260412T120000
-DTEND;TZID=America/Los_Angeles:20260412T150000
-DTSTAMP:20260412T181437
-CREATED:20260408T170042Z
-LAST-MODIFIED:20260412T173030Z
-UID:10002827-1775995200-1776006000@visitdavis.org
-SUMMARY:Natural Wine Tasting
-DESCRIPTION:Natural Wine Tasting at Great Bear Vineyards in Davis \nSunday\, April 12 | 12–3pm\nCurious about natural wine? Come explore something beautifully different. Step into the world of Black Bicycle Farm’s natural\, orange\, and uniquely expressive wines—where minimal intervention lets nature take the lead and every glass tells a story. \nThis guided tasting is a journey through purity\, creativity\, and vineyard character\, perfect for both seasoned wine lovers and the naturally curious.\n What to Expect:\nA guided tasting of five distinct natural wines\nExplore orange wines\, unfiltered whites\, and vibrant reds\nLearn about carbonic maceration and low-intervention winemaking\nDiscover the philosophy behind letting nature shine in every bottle\n Featured Wines Include:\nSquiggle 2023 — bold\, textured orange wine with bright citrus layers\nOrange Tipple 2023 — floral and aromatic with apricot\, honey & orange notes\nClash of the Titans 2022 — a harmonious Cabernet Sauvignon–Zinfandel blend\nAfter the Fire 2020 — smoky\, spicy Cabernet with a powerful story\nCarbo Cab 2019 — playful\, unfiltered Cabernet bursting with cherry and strawberry\nSet against the rustic elegance of the vineyard\, this is your chance to sip\, learn\, and experience wines that are as thoughtful as they are delicious.\n Come discover something new\, sip something unexpected\, and enjoy a Sunday afternoon full of character at Great Bear Vineyards.
-URL:https://visitdavis.org/event/natural-wine-tasting/
-LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
-ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/313936262/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_313936262@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011435Z
+DTSTAMP:20260414T011331Z
 DTSTART;TZID=America/Los_Angeles:20260413T180000
 DTEND;TZID=America/Los_Angeles:20260413T200000
 SUMMARY:Conscious Conversations & Embodied Listening  
@@ -61,7 +44,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_313971037@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011434Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260415T170000
 DTEND;TZID=America/Los_Angeles:20260415T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -93,7 +76,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_313993669@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011435Z
+DTSTAMP:20260414T011331Z
 DTSTART;TZID=America/Los_Angeles:20260416T180000
 DTEND;TZID=America/Los_Angeles:20260416T191000
 SUMMARY:Free Yoga Practice
@@ -121,7 +104,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260417T110000
 DTEND;TZID=America/Los_Angeles:20260417T180000
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181333
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013237-1776423600-1776448800@visityolo.com
@@ -138,7 +121,7 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260417T170000
 DTEND;TZID=America/Los_Angeles:20260417T200000
-DTSTAMP:20260412T181437
+DTSTAMP:20260413T181332
 CREATED:20260408T170042Z
 LAST-MODIFIED:20260412T173041Z
 UID:10002828-1776445200-1776456000@visitdavis.org
@@ -155,7 +138,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260418T080000
 DTEND;TZID=America/Los_Angeles:20260418T130000
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181333
 CREATED:20230426T230654Z
 LAST-MODIFIED:20240624T175432Z
 UID:10004167-1776499200-1776517200@visityolo.com
@@ -172,7 +155,7 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260418T090000
 DTEND;TZID=America/Los_Angeles:20260418T160000
-DTSTAMP:20260412T181437
+DTSTAMP:20260413T181332
 CREATED:20260407T163048Z
 LAST-MODIFIED:20260412T173042Z
 UID:10002824-1776502800-1776528000@visitdavis.org
@@ -188,7 +171,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260418T090000
 DTEND;TZID=America/Los_Angeles:20260418T130000
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181333
 CREATED:20260409T224549Z
 LAST-MODIFIED:20260409T224625Z
 UID:10013641-1776502800-1776517200@visityolo.com
@@ -204,7 +187,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260418T110000
 DTEND;TZID=America/Los_Angeles:20260418T180000
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181333
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013238-1776510000-1776535200@visityolo.com
@@ -221,7 +204,7 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260418T120000
 DTEND;TZID=America/Los_Angeles:20260418T170000
-DTSTAMP:20260412T181437
+DTSTAMP:20260413T181332
 CREATED:20260408T170042Z
 LAST-MODIFIED:20260412T173030Z
 UID:10002826-1776513600-1776531600@visitdavis.org
@@ -238,7 +221,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_314025022@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011326Z
 DTSTART;TZID=America/Los_Angeles:20260418T150000
 DTEND;TZID=America/Los_Angeles:20260418T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -256,7 +239,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_314025023@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011326Z
 DTSTART;TZID=America/Los_Angeles:20260418T150000
 DTEND;TZID=America/Los_Angeles:20260418T170000
 SUMMARY:Mosaics Beginning to Intermediate Korean in Person
@@ -274,7 +257,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_314026111@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260418T160000
 DTEND;TZID=America/Los_Angeles:20260418T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -315,7 +298,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_314026085@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011326Z
 DTSTART;TZID=America/Los_Angeles:20260418T160000
 DTEND;TZID=America/Los_Angeles:20260418T170000
 SUMMARY:Mosaics Beginning Spanish in Person
@@ -333,7 +316,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_314027106@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011326Z
 DTSTART;TZID=America/Los_Angeles:20260418T170000
 DTEND;TZID=America/Los_Angeles:20260418T180000
 SUMMARY:Mosaics Beginning Japanese in Person
@@ -351,7 +334,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_314027109@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011326Z
 DTSTART;TZID=America/Los_Angeles:20260418T170000
 DTEND;TZID=America/Los_Angeles:20260418T180000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -370,7 +353,7 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260418T170000
 DTEND;TZID=America/Los_Angeles:20260418T200000
-DTSTAMP:20260412T181437
+DTSTAMP:20260413T181332
 CREATED:20260202T192709Z
 LAST-MODIFIED:20260412T173042Z
 UID:10002802-1776531600-1776542400@visitdavis.org
@@ -388,7 +371,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_314029391@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260418T180000
 DTEND;TZID=America/Los_Angeles:20260418T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -430,7 +413,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_314030861@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260418T190000
 DTEND;TZID=America/Los_Angeles:20260418T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -471,7 +454,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_314030841@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011326Z
 DTSTART;TZID=America/Los_Angeles:20260418T190000
 DTEND;TZID=America/Los_Angeles:20260418T200000
 SUMMARY:Mosaics English Learners Group in Person
@@ -489,7 +472,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260419T090000
 DTEND;TZID=America/Los_Angeles:20260419T130000
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181333
 CREATED:20260409T224549Z
 LAST-MODIFIED:20260409T224625Z
 UID:10013642-1776589200-1776603600@visityolo.com
@@ -505,7 +488,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260419T110000
 DTEND;TZID=America/Los_Angeles:20260419T180000
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181333
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013239-1776596400-1776621600@visityolo.com
@@ -521,7 +504,7 @@ X-SOURCE-ID:meetup_art_in_action
 X-SOURCE:Meetup: Art in Action
 UID:event_313772338@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011434Z
+DTSTAMP:20260414T011328Z
 DTSTART;TZID=America/Los_Angeles:20260419T130000
 DTEND;TZID=America/Los_Angeles:20260419T150000
 SUMMARY:Art in Action: Woven Fairy House Wall Hangings
@@ -561,7 +544,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_314065259@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011435Z
+DTSTAMP:20260414T011331Z
 DTSTART;TZID=America/Los_Angeles:20260420T180000
 DTEND;TZID=America/Los_Angeles:20260420T200000
 SUMMARY:Conscious Conversations & Embodied Listening  
@@ -593,7 +576,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_314115320@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011435Z
+DTSTAMP:20260414T011331Z
 DTSTART;TZID=America/Los_Angeles:20260423T180000
 DTEND;TZID=America/Los_Angeles:20260423T191000
 SUMMARY:Free Yoga Practice
@@ -621,7 +604,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260424T110000
 DTEND;TZID=America/Los_Angeles:20260424T180000
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181333
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013240-1777028400-1777053600@visityolo.com
@@ -638,7 +621,7 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260424T170000
 DTEND;TZID=America/Los_Angeles:20260424T200000
-DTSTAMP:20260412T181437
+DTSTAMP:20260413T181332
 CREATED:20260408T170029Z
 LAST-MODIFIED:20260412T173041Z
 UID:10002825-1777050000-1777060800@visitdavis.org
@@ -655,7 +638,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181334
 CREATED:20260316T182503Z
 LAST-MODIFIED:20260316T201643Z
 UID:10013574-1777075200-1777161599@visityolo.com
@@ -670,7 +653,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260425T080000
 DTEND;TZID=America/Los_Angeles:20260425T130000
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181334
 CREATED:20230426T230654Z
 LAST-MODIFIED:20240624T175432Z
 UID:10004168-1777104000-1777122000@visityolo.com
@@ -686,7 +669,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260425T090000
 DTEND;TZID=America/Los_Angeles:20260425T130000
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181334
 CREATED:20260409T224549Z
 LAST-MODIFIED:20260409T224625Z
 UID:10013643-1777107600-1777122000@visityolo.com
@@ -702,7 +685,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260425T110000
 DTEND;TZID=America/Los_Angeles:20260425T180000
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181334
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013241-1777114800-1777140000@visityolo.com
@@ -718,7 +701,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260425T113000
 DTEND;TZID=America/Los_Angeles:20260425T130000
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181334
 CREATED:20260409T225148Z
 LAST-MODIFIED:20260409T225148Z
 UID:10013690-1777116600-1777122000@visityolo.com
@@ -734,7 +717,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_314139114@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011326Z
 DTSTART;TZID=America/Los_Angeles:20260425T150000
 DTEND;TZID=America/Los_Angeles:20260425T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -752,7 +735,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_314139115@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011326Z
 DTSTART;TZID=America/Los_Angeles:20260425T150000
 DTEND;TZID=America/Los_Angeles:20260425T170000
 SUMMARY:Mosaics Beginning to Intermediate Korean in Person
@@ -770,7 +753,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_314139800@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260425T160000
 DTEND;TZID=America/Los_Angeles:20260425T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -811,7 +794,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_314141050@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260425T180000
 DTEND;TZID=America/Los_Angeles:20260425T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -852,7 +835,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_314141637@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260425T190000
 DTEND;TZID=America/Los_Angeles:20260425T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -893,7 +876,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181334
 CREATED:20260316T182503Z
 LAST-MODIFIED:20260316T201643Z
 UID:10013575-1777190400-1777222800@visityolo.com
@@ -908,7 +891,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260426T090000
 DTEND;TZID=America/Los_Angeles:20260426T130000
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181334
 CREATED:20260409T224549Z
 LAST-MODIFIED:20260409T224625Z
 UID:10013644-1777194000-1777208400@visityolo.com
@@ -924,7 +907,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260426T100000
 DTEND;TZID=America/Los_Angeles:20260426T163000
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181334
 CREATED:20260312T220231Z
 LAST-MODIFIED:20260312T222426Z
 UID:10013572-1777197600-1777221000@visityolo.com
@@ -941,7 +924,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260426T110000
 DTEND;TZID=America/Los_Angeles:20260426T180000
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181334
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013242-1777201200-1777226400@visityolo.com
@@ -958,7 +941,7 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260426T173000
 DTEND;TZID=America/Los_Angeles:20260426T203000
-DTSTAMP:20260412T181437
+DTSTAMP:20260413T181332
 CREATED:20260312T172907Z
 LAST-MODIFIED:20260412T173019Z
 UID:10002815-1777224600-1777235400@visitdavis.org
@@ -975,7 +958,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_314173496@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011435Z
+DTSTAMP:20260414T011331Z
 DTSTART;TZID=America/Los_Angeles:20260427T180000
 DTEND;TZID=America/Los_Angeles:20260427T200000
 SUMMARY:Conscious Conversations & Embodied Listening  
@@ -1007,7 +990,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_314206639@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011434Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260429T170000
 DTEND;TZID=America/Los_Angeles:20260429T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1040,7 +1023,7 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260430T173000
 DTEND;TZID=America/Los_Angeles:20260430T193000
-DTSTAMP:20260412T181437
+DTSTAMP:20260413T181332
 CREATED:20260407T163025Z
 LAST-MODIFIED:20260412T173025Z
 UID:10002821-1777570200-1777577400@visitdavis.org
@@ -1056,7 +1039,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_314167725@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011435Z
+DTSTAMP:20260414T011331Z
 DTSTART;TZID=America/Los_Angeles:20260430T180000
 DTEND;TZID=America/Los_Angeles:20260430T191000
 SUMMARY:Free Yoga Practice
@@ -1084,7 +1067,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_314045269@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011434Z
+DTSTAMP:20260414T011328Z
 DTSTART;TZID=America/Los_Angeles:20260501T100000
 DTEND;TZID=America/Los_Angeles:20260501T114500
 SUMMARY:Healing Arts 6-Session Workshop
@@ -1119,7 +1102,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260501T110000
 DTEND;TZID=America/Los_Angeles:20260501T180000
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181334
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013243-1777633200-1777658400@visityolo.com
@@ -1135,7 +1118,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260501T193000
 DTEND;TZID=America/Los_Angeles:20260501T213000
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181334
 CREATED:20250724T212132Z
 LAST-MODIFIED:20250724T212132Z
 UID:10010709-1777663800-1777671000@visityolo.com
@@ -1152,7 +1135,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260502T080000
 DTEND;TZID=America/Los_Angeles:20260502T130000
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181334
 CREATED:20230426T230654Z
 LAST-MODIFIED:20240624T175432Z
 UID:10004169-1777708800-1777726800@visityolo.com
@@ -1168,7 +1151,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260502T090000
 DTEND;TZID=America/Los_Angeles:20260502T130000
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181334
 CREATED:20260409T224549Z
 LAST-MODIFIED:20260409T224625Z
 UID:10013645-1777712400-1777726800@visityolo.com
@@ -1184,7 +1167,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260502T100000
 DTEND;TZID=America/Los_Angeles:20260502T110000
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181334
 CREATED:20260223T233348Z
 LAST-MODIFIED:20260223T233348Z
 UID:10013555-1777716000-1777719600@visityolo.com
@@ -1200,7 +1183,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260502T110000
 DTEND;TZID=America/Los_Angeles:20260502T180000
-DTSTAMP:20260412T181438
+DTSTAMP:20260413T181334
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013244-1777719600-1777744800@visityolo.com
@@ -1216,7 +1199,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_314253435@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260502T160000
 DTEND;TZID=America/Los_Angeles:20260502T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1252,12 +1235,12 @@ LAST-MODIFIED:20260412T233555Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/ghkgvtyjchbdb/"}
+X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/314254777/"}
 X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
-UID:event_ghkgvtyjchbdb@meetup.com
+UID:event_314254777@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260502T180000
 DTEND;TZID=America/Los_Angeles:20260502T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1285,20 +1268,20 @@ DESCRIPTION:Davis Art\, Music & Outdoor Activities Meetup\n**Discover Inte
  rch**.\n\nFor more information about Intercultural Mosaics classes and act
  ivities\, visit **[www.nextg.org](http://www.nextg.org)** or contact **Dr.
   Stephen Moon** at **916-217-5470** or **catalyst@nextg.org**.
-URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/ghkgvtyj
- chbdb/
+URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/31425477
+ 7/
 STATUS:CONFIRMED
-CREATED:20251215T211602Z
-LAST-MODIFIED:20251215T211602Z
+CREATED:20260413T012157Z
+LAST-MODIFIED:20260413T012157Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/lhkgvtyjchbdb/"}
+X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/314255449/"}
 X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
-UID:event_lhkgvtyjchbdb@meetup.com
+UID:event_314255449@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260502T190000
 DTEND;TZID=America/Los_Angeles:20260502T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1326,11 +1309,11 @@ DESCRIPTION:Davis Art\, Music & Outdoor Activities Meetup\n**Discover Inte
  rch**.\n\nFor more information about Intercultural Mosaics classes and act
  ivities\, visit **[www.nextg.org](http://www.nextg.org)** or contact **Dr.
   Stephen Moon** at **916-217-5470** or **catalyst@nextg.org**.
-URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/lhkgvtyj
- chbdb/
+URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/31425544
+ 9/
 STATUS:CONFIRMED
-CREATED:20251215T211824Z
-LAST-MODIFIED:20251215T211824Z
+CREATED:20260413T022038Z
+LAST-MODIFIED:20260413T022038Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
@@ -1339,7 +1322,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_lczxttyjchbgb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011435Z
+DTSTAMP:20260414T011331Z
 DTSTART;TZID=America/Los_Angeles:20260504T180000
 DTEND;TZID=America/Los_Angeles:20260504T200000
 SUMMARY:Conscious Conversations & Embodied Listening  
@@ -1371,7 +1354,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjchbjb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011434Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260506T170000
 DTEND;TZID=America/Los_Angeles:20260506T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1397,7 +1380,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_314167727@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011435Z
+DTSTAMP:20260414T011331Z
 DTSTART;TZID=America/Los_Angeles:20260507T180000
 DTEND;TZID=America/Los_Angeles:20260507T191000
 SUMMARY:Free Yoga Practice
@@ -1425,7 +1408,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_314062355@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011434Z
+DTSTAMP:20260414T011328Z
 DTSTART;TZID=America/Los_Angeles:20260509T100000
 DTEND;TZID=America/Los_Angeles:20260509T160000
 SUMMARY:Urban Sketching with Pete Scully
@@ -1457,7 +1440,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_xgkgvtyjchbmb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260509T160000
 DTEND;TZID=America/Los_Angeles:20260509T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1498,7 +1481,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_lczxttyjchbpb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011435Z
+DTSTAMP:20260414T011331Z
 DTSTART;TZID=America/Los_Angeles:20260511T180000
 DTEND;TZID=America/Los_Angeles:20260511T200000
 SUMMARY:Conscious Conversations & Embodied Listening  
@@ -1530,7 +1513,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstyjchbrb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011434Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260513T170000
 DTEND;TZID=America/Los_Angeles:20260513T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1562,7 +1545,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_314167730@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011435Z
+DTSTAMP:20260414T011331Z
 DTSTART;TZID=America/Los_Angeles:20260514T180000
 DTEND;TZID=America/Los_Angeles:20260514T191000
 SUMMARY:Free Yoga Practice
@@ -1590,7 +1573,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_314155336@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011434Z
+DTSTAMP:20260414T011328Z
 DTSTART;TZID=America/Los_Angeles:20260517T130000
 DTEND;TZID=America/Los_Angeles:20260517T143000
 SUMMARY:Artist Talk & Reception with Linda Clark Johnson
@@ -1615,7 +1598,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_314155530@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011434Z
+DTSTAMP:20260414T011328Z
 DTSTART;TZID=America/Los_Angeles:20260518T100000
 DTEND;TZID=America/Los_Angeles:20260518T114500
 SUMMARY:Healing Arts One-Time Workshop
@@ -1648,7 +1631,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjchbbc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011434Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260520T170000
 DTEND;TZID=America/Los_Angeles:20260520T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1680,7 +1663,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjchbkc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011434Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260527T170000
 DTEND;TZID=America/Los_Angeles:20260527T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1712,7 +1695,7 @@ X-SOURCE-ID:meetup_art_in_action
 X-SOURCE:Meetup: Art in Action
 UID:event_314058525@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011434Z
+DTSTAMP:20260414T011328Z
 DTSTART;TZID=America/Los_Angeles:20260530T130000
 DTEND;TZID=America/Los_Angeles:20260530T150000
 SUMMARY:Art in Action: Spectacular Seed Bombs
@@ -1747,12 +1730,41 @@ LAST-MODIFIED:20260331T190727Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Pence Adult Art Programs": "https://www.meetup.com/pence-adult-art-programs/events/314271500/"}
+X-SOURCE-ID:meetup_pence_adult_art_programs
+X-SOURCE:Meetup Pence Adult Art Programs
+UID:event_314271500@meetup.com
+SEQUENCE:1
+DTSTAMP:20260414T011328Z
+DTSTART;TZID=America/Los_Angeles:20260531T100000
+DTEND;TZID=America/Los_Angeles:20260531T140000
+SUMMARY:Botanical Blueprints with Linda Clark Johnson
+DESCRIPTION:Pence Adult Art Programs\nYou don’t need to be an artist to 
+ enjoy making beautiful blue cyanotypes! In this introductory class with ar
+ tist Linda Clark Johnson\, you’ll learn all the basics of this fun and e
+ asy alternative photographic technique. Using light-sensitive chemicals\, 
+ you’ll expose prints of plants in the sun and process them in water. By 
+ the time you leave\, you’ll have 4 gorgeous 8 x 10” blueprints and the
+  know-how to create more at home.\n\nBotanical Blueprints with Linda Clark
+  Johnson\nSunday\, May 31\, 10 AM - 2 PM\n$115 Members \\| $125 Non\\-Memb
+ ers\n(All materials included except for flowers and foliage\, which partic
+ ipants should bring)\n\n**Registration is required through the [Pence's we
+ bsite (CLICK HERE)](https://pencegallery.org/education/programs/workshops-
+ and-classes/).**\n\nAny questions? Email pencegallery@gmail.com.
+URL;VALUE=URI:https://www.meetup.com/pence-adult-art-programs/events/31427
+ 1500/
+STATUS:CONFIRMED
+CREATED:20260413T233305Z
+LAST-MODIFIED:20260413T233305Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/mxnqstyjcjbfb/"}
 X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcjbfb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011434Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260603T170000
 DTEND;TZID=America/Los_Angeles:20260603T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1778,7 +1790,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstyjcjbnb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011434Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260610T170000
 DTEND;TZID=America/Los_Angeles:20260610T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1810,7 +1822,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjcjbwb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011434Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260617T170000
 DTEND;TZID=America/Los_Angeles:20260617T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1842,7 +1854,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcjbgc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011434Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260624T170000
 DTEND;TZID=America/Los_Angeles:20260624T210000
 SUMMARY:Weekly Game Night at Blue Note

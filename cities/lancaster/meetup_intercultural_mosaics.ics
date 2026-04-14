@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:event_314026111@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260418T160000
 DTEND;TZID=America/Los_Angeles:20260418T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -65,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_314029391@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260418T180000
 DTEND;TZID=America/Los_Angeles:20260418T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -103,7 +103,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_314030861@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260418T190000
 DTEND;TZID=America/Los_Angeles:20260418T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -141,7 +141,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_314139800@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260425T160000
 DTEND;TZID=America/Los_Angeles:20260425T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_314141050@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260425T180000
 DTEND;TZID=America/Los_Angeles:20260425T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -217,7 +217,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_314141637@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260425T190000
 DTEND;TZID=America/Los_Angeles:20260425T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -255,7 +255,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_314253435@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260502T160000
 DTEND;TZID=America/Los_Angeles:20260502T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -291,9 +291,9 @@ LAST-MODIFIED:20260412T233555Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-UID:event_ghkgvtyjchbdb@meetup.com
+UID:event_314254777@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260502T180000
 DTEND;TZID=America/Los_Angeles:20260502T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -321,17 +321,17 @@ DESCRIPTION:Davis Art\, Music & Outdoor Activities Meetup\n**Discover Inte
  rch**.\n\nFor more information about Intercultural Mosaics classes and act
  ivities\, visit **[www.nextg.org](http://www.nextg.org)** or contact **Dr.
   Stephen Moon** at **916-217-5470** or **catalyst@nextg.org**.
-URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/ghkgvtyj
- chbdb/
+URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/31425477
+ 7/
 STATUS:CONFIRMED
-CREATED:20251215T211602Z
-LAST-MODIFIED:20251215T211602Z
+CREATED:20260413T012157Z
+LAST-MODIFIED:20260413T012157Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-UID:event_lhkgvtyjchbdb@meetup.com
+UID:event_314255449@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260502T190000
 DTEND;TZID=America/Los_Angeles:20260502T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -359,17 +359,17 @@ DESCRIPTION:Davis Art\, Music & Outdoor Activities Meetup\n**Discover Inte
  rch**.\n\nFor more information about Intercultural Mosaics classes and act
  ivities\, visit **[www.nextg.org](http://www.nextg.org)** or contact **Dr.
   Stephen Moon** at **916-217-5470** or **catalyst@nextg.org**.
-URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/lhkgvtyj
- chbdb/
+URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/31425544
+ 9/
 STATUS:CONFIRMED
-CREATED:20251215T211824Z
-LAST-MODIFIED:20251215T211824Z
+CREATED:20260413T022038Z
+LAST-MODIFIED:20260413T022038Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 UID:event_xgkgvtyjchbmb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260413T011433Z
+DTSTAMP:20260414T011327Z
 DTSTART;TZID=America/Los_Angeles:20260509T160000
 DTEND;TZID=America/Los_Angeles:20260509T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
