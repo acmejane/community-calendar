@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-14T01:13:37.596001",
+  "generated": "2026-04-15T01:11:49.170631",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34071,6 +34071,10 @@
             {
               "date": "2026-04-14",
               "count": 0
+            },
+            {
+              "date": "2026-04-15",
+              "count": 0
             }
           ]
         },
@@ -34218,6 +34222,10 @@
             },
             {
               "date": "2026-04-14",
+              "count": 0
+            },
+            {
+              "date": "2026-04-15",
               "count": 0
             }
           ]
@@ -34367,6 +34375,10 @@
             {
               "date": "2026-04-14",
               "count": 2
+            },
+            {
+              "date": "2026-04-15",
+              "count": 2
             }
           ]
         },
@@ -34514,6 +34526,10 @@
             },
             {
               "date": "2026-04-14",
+              "count": 10
+            },
+            {
+              "date": "2026-04-15",
               "count": 10
             }
           ]
@@ -34663,6 +34679,10 @@
             {
               "date": "2026-04-14",
               "count": 10
+            },
+            {
+              "date": "2026-04-15",
+              "count": 10
             }
           ]
         },
@@ -34810,6 +34830,10 @@
             },
             {
               "date": "2026-04-14",
+              "count": 10
+            },
+            {
+              "date": "2026-04-15",
               "count": 10
             }
           ]
@@ -34959,6 +34983,10 @@
             {
               "date": "2026-04-14",
               "count": 5
+            },
+            {
+              "date": "2026-04-15",
+              "count": 6
             }
           ]
         },
@@ -35106,6 +35134,10 @@
             },
             {
               "date": "2026-04-14",
+              "count": 0
+            },
+            {
+              "date": "2026-04-15",
               "count": 0
             }
           ]
@@ -35255,6 +35287,10 @@
             {
               "date": "2026-04-14",
               "count": 10
+            },
+            {
+              "date": "2026-04-15",
+              "count": 10
             }
           ]
         },
@@ -35402,6 +35438,10 @@
             },
             {
               "date": "2026-04-14",
+              "count": 0
+            },
+            {
+              "date": "2026-04-15",
               "count": 0
             }
           ]
@@ -35551,6 +35591,10 @@
             {
               "date": "2026-04-14",
               "count": 0
+            },
+            {
+              "date": "2026-04-15",
+              "count": 0
             }
           ]
         },
@@ -35698,6 +35742,10 @@
             },
             {
               "date": "2026-04-14",
+              "count": 7
+            },
+            {
+              "date": "2026-04-15",
               "count": 7
             }
           ]
@@ -35847,6 +35895,10 @@
             {
               "date": "2026-04-14",
               "count": 29
+            },
+            {
+              "date": "2026-04-15",
+              "count": 29
             }
           ]
         }
@@ -35873,11 +35925,11 @@
           "count": 7
         },
         {
-          "category": "Music / Concerts",
-          "count": 6
+          "category": "Arts / Culture",
+          "count": 7
         },
         {
-          "category": "Arts / Culture",
+          "category": "Music / Concerts",
           "count": 6
         },
         {
@@ -35894,7 +35946,7 @@
         }
       ],
       "images": {
-        "total": 74,
+        "total": 75,
         "with_image": 28,
         "by_source": [
           {
@@ -35910,9 +35962,9 @@
         ]
       },
       "url_quality": {
-        "total_with_url": 74,
-        "total_events": 74,
-        "unique_urls": 74,
+        "total_with_url": 75,
+        "total_events": 75,
+        "unique_urls": 75,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
@@ -35925,13 +35977,13 @@
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Mindful Embodied Spirituality",
+            "source": "Meetup Yolo County Board Game Gathering",
             "events": 10,
             "unique_urls": 10,
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Yolo County Board Game Gathering",
+            "source": "Meetup Mindful Embodied Spirituality",
             "events": 10,
             "unique_urls": 10,
             "specificity_pct": 100
@@ -35956,8 +36008,8 @@
           },
           {
             "source": "Meetup Pence Adult Art Programs",
-            "events": 5,
-            "unique_urls": 5,
+            "events": 6,
+            "unique_urls": 6,
             "specificity_pct": 100
           },
           {
