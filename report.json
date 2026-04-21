@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-20T01:15:44.976628",
+  "generated": "2026-04-21T01:13:38.276107",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34095,6 +34095,10 @@
             {
               "date": "2026-04-20",
               "count": 0
+            },
+            {
+              "date": "2026-04-21",
+              "count": 1
             }
           ]
         },
@@ -34266,6 +34270,10 @@
             },
             {
               "date": "2026-04-20",
+              "count": 0
+            },
+            {
+              "date": "2026-04-21",
               "count": 0
             }
           ]
@@ -34439,6 +34447,10 @@
             {
               "date": "2026-04-20",
               "count": 1
+            },
+            {
+              "date": "2026-04-21",
+              "count": 1
             }
           ]
         },
@@ -34610,6 +34622,10 @@
             },
             {
               "date": "2026-04-20",
+              "count": 10
+            },
+            {
+              "date": "2026-04-21",
               "count": 10
             }
           ]
@@ -34783,6 +34799,10 @@
             {
               "date": "2026-04-20",
               "count": 10
+            },
+            {
+              "date": "2026-04-21",
+              "count": 10
             }
           ]
         },
@@ -34954,6 +34974,10 @@
             },
             {
               "date": "2026-04-20",
+              "count": 10
+            },
+            {
+              "date": "2026-04-21",
               "count": 10
             }
           ]
@@ -35127,6 +35151,10 @@
             {
               "date": "2026-04-20",
               "count": 6
+            },
+            {
+              "date": "2026-04-21",
+              "count": 7
             }
           ]
         },
@@ -35298,6 +35326,10 @@
             },
             {
               "date": "2026-04-20",
+              "count": 0
+            },
+            {
+              "date": "2026-04-21",
               "count": 0
             }
           ]
@@ -35471,6 +35503,10 @@
             {
               "date": "2026-04-20",
               "count": 10
+            },
+            {
+              "date": "2026-04-21",
+              "count": 10
             }
           ]
         },
@@ -35642,6 +35678,10 @@
             },
             {
               "date": "2026-04-20",
+              "count": 0
+            },
+            {
+              "date": "2026-04-21",
               "count": 0
             }
           ]
@@ -35815,6 +35855,10 @@
             {
               "date": "2026-04-20",
               "count": 0
+            },
+            {
+              "date": "2026-04-21",
+              "count": 0
             }
           ]
         },
@@ -35986,6 +36030,10 @@
             },
             {
               "date": "2026-04-20",
+              "count": 4
+            },
+            {
+              "date": "2026-04-21",
               "count": 4
             }
           ]
@@ -36159,6 +36207,10 @@
             {
               "date": "2026-04-20",
               "count": 29
+            },
+            {
+              "date": "2026-04-21",
+              "count": 29
             }
           ]
         }
@@ -36182,11 +36234,11 @@
         },
         {
           "category": "Nature / Outdoors / Recreation",
-          "count": 7
+          "count": 8
         },
         {
           "category": "Education / Workshops",
-          "count": 7
+          "count": 8
         },
         {
           "category": "Music / Concerts",
@@ -36206,7 +36258,7 @@
         }
       ],
       "images": {
-        "total": 74,
+        "total": 76,
         "with_image": 26,
         "by_source": [
           {
@@ -36222,9 +36274,9 @@
         ]
       },
       "url_quality": {
-        "total_with_url": 74,
-        "total_events": 74,
-        "unique_urls": 74,
+        "total_with_url": 75,
+        "total_events": 76,
+        "unique_urls": 75,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
@@ -36262,8 +36314,8 @@
           },
           {
             "source": "Meetup Pence Adult Art Programs",
-            "events": 6,
-            "unique_urls": 6,
+            "events": 7,
+            "unique_urls": 7,
             "specificity_pct": 100
           },
           {
