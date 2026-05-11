@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-10T01:28:53.563971",
+  "generated": "2026-05-11T01:47:21.113371",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34175,6 +34175,10 @@
             {
               "date": "2026-05-10",
               "count": 1
+            },
+            {
+              "date": "2026-05-11",
+              "count": 0
             }
           ]
         },
@@ -34426,6 +34430,10 @@
             },
             {
               "date": "2026-05-10",
+              "count": 0
+            },
+            {
+              "date": "2026-05-11",
               "count": 0
             }
           ]
@@ -34679,6 +34687,10 @@
             {
               "date": "2026-05-10",
               "count": 1
+            },
+            {
+              "date": "2026-05-11",
+              "count": 1
             }
           ]
         },
@@ -34930,6 +34942,10 @@
             },
             {
               "date": "2026-05-10",
+              "count": 10
+            },
+            {
+              "date": "2026-05-11",
               "count": 10
             }
           ]
@@ -35183,6 +35199,10 @@
             {
               "date": "2026-05-10",
               "count": 10
+            },
+            {
+              "date": "2026-05-11",
+              "count": 10
             }
           ]
         },
@@ -35434,6 +35454,10 @@
             },
             {
               "date": "2026-05-10",
+              "count": 10
+            },
+            {
+              "date": "2026-05-11",
               "count": 10
             }
           ]
@@ -35687,6 +35711,10 @@
             {
               "date": "2026-05-10",
               "count": 5
+            },
+            {
+              "date": "2026-05-11",
+              "count": 5
             }
           ]
         },
@@ -35938,6 +35966,10 @@
             },
             {
               "date": "2026-05-10",
+              "count": 0
+            },
+            {
+              "date": "2026-05-11",
               "count": 0
             }
           ]
@@ -36191,6 +36223,10 @@
             {
               "date": "2026-05-10",
               "count": 10
+            },
+            {
+              "date": "2026-05-11",
+              "count": 10
             }
           ]
         },
@@ -36442,6 +36478,10 @@
             },
             {
               "date": "2026-05-10",
+              "count": 0
+            },
+            {
+              "date": "2026-05-11",
               "count": 0
             }
           ]
@@ -36695,6 +36735,10 @@
             {
               "date": "2026-05-10",
               "count": 0
+            },
+            {
+              "date": "2026-05-11",
+              "count": 0
             }
           ]
         },
@@ -36947,6 +36991,10 @@
             {
               "date": "2026-05-10",
               "count": 16
+            },
+            {
+              "date": "2026-05-11",
+              "count": 14
             }
           ]
         },
@@ -37199,6 +37247,10 @@
             {
               "date": "2026-05-10",
               "count": 29
+            },
+            {
+              "date": "2026-05-11",
+              "count": 29
             }
           ]
         }
@@ -37206,11 +37258,15 @@
       "categories": [
         {
           "category": "Community / Social",
-          "count": 17
+          "count": 14
         },
         {
           "category": "Food / Drink",
-          "count": 15
+          "count": 13
+        },
+        {
+          "category": "Health / Wellness",
+          "count": 9
         },
         {
           "category": "Arts / Culture",
@@ -37218,14 +37274,14 @@
         },
         {
           "category": "Education / Workshops",
-          "count": 8
-        },
-        {
-          "category": "Health / Wellness",
-          "count": 8
+          "count": 7
         },
         {
           "category": "Nature / Outdoors / Recreation",
+          "count": 6
+        },
+        {
+          "category": "Music / Concerts",
           "count": 5
         },
         {
@@ -37233,43 +37289,39 @@
           "count": 4
         },
         {
-          "category": "Music / Concerts",
+          "category": "Dance / Performance",
           "count": 4
         },
         {
-          "category": "Dance / Performance",
-          "count": 2
-        },
-        {
           "category": "Family / Kids",
-          "count": 1
+          "count": 2
         }
       ],
       "images": {
         "total": 73,
-        "with_image": 26,
+        "with_image": 25,
         "by_source": [
           {
             "source": "Visityolo Event",
-            "total": 17,
-            "with_image": 15
+            "total": 19,
+            "with_image": 16
           },
           {
             "source": "Visit Davis, Visityolo Event",
-            "total": 9,
-            "with_image": 8
+            "total": 6,
+            "with_image": 5
           },
           {
             "source": "Visit Davis",
-            "total": 3,
-            "with_image": 3
+            "total": 4,
+            "with_image": 4
           }
         ]
       },
       "url_quality": {
-        "total_with_url": 72,
+        "total_with_url": 73,
         "total_events": 73,
-        "unique_urls": 72,
+        "unique_urls": 73,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
@@ -37277,8 +37329,8 @@
         "source_specificity": [
           {
             "source": "Visityolo Event",
-            "events": 17,
-            "unique_urls": 17,
+            "events": 19,
+            "unique_urls": 19,
             "specificity_pct": 100
           },
           {
@@ -37294,33 +37346,33 @@
             "specificity_pct": 100
           },
           {
-            "source": "Visit Davis, Visityolo Event",
-            "events": 9,
-            "unique_urls": 9,
-            "specificity_pct": 100
-          },
-          {
             "source": "Meetup: Mosaics",
-            "events": 7,
-            "unique_urls": 7,
+            "events": 8,
+            "unique_urls": 8,
             "specificity_pct": 100
           },
           {
             "source": "Meetup Intercultural Mosaics",
-            "events": 7,
-            "unique_urls": 7,
+            "events": 8,
+            "unique_urls": 8,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Visit Davis, Visityolo Event",
+            "events": 6,
+            "unique_urls": 6,
             "specificity_pct": 100
           },
           {
             "source": "Visit Davis",
-            "events": 3,
-            "unique_urls": 3,
+            "events": 4,
+            "unique_urls": 4,
             "specificity_pct": 100
           },
           {
             "source": "Meetup Intercultural Mosaics, Meetup: Mosaics",
-            "events": 3,
-            "unique_urls": 3,
+            "events": 2,
+            "unique_urls": 2,
             "specificity_pct": 100
           },
           {
@@ -37330,19 +37382,19 @@
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Pence Adult Art Programs, Visit Davis",
+            "source": "Meetup Pence Adult Art Programs, Visit Davis, Visityolo Event",
             "events": 2,
             "unique_urls": 2,
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Pence Adult Art Programs, Visit Davis, Visityolo Event",
+            "source": "Meetup: Art in Action",
             "events": 1,
             "unique_urls": 1,
             "specificity_pct": 100
           },
           {
-            "source": "Meetup: Art in Action",
+            "source": "Meetup Pence Adult Art Programs, Visit Davis",
             "events": 1,
             "unique_urls": 1,
             "specificity_pct": 100
@@ -38263,6 +38315,14 @@
       "date": "2026-05-08",
       "city": "lancaster",
       "feed": "visityolo_event"
+    },
+    {
+      "type": "zero_events",
+      "message": "Feed returned 0 events (was 1)",
+      "severity": "high",
+      "date": "2026-05-11",
+      "city": "lancaster",
+      "feed": "gcal_davisbikeclubwww"
     }
   ],
   "errors": []
