@@ -25,31 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_314155336@meetup.com
-SEQUENCE:1
-DTSTAMP:20260517T014507Z
-DTSTART;TZID=America/Los_Angeles:20260517T130000
-DTEND;TZID=America/Los_Angeles:20260517T143000
-SUMMARY:Artist Talk & Reception with Linda Clark Johnson
-DESCRIPTION:Pence Adult Art Programs\nJoin artist Linda Clark Johnson as s
- he discusses her artistic process in working with cyanotype\, including he
- r love of sunlight and her ways of gathering and arranging plants. Linda w
- ill also show visitors how to get started with cyanotype through an artist
-  demo\, as well as explore her current work in her exhibit\, *Sunshine & S
- hadows*\, on view at the Pence Gallery from May 2 - June 21\, 2026.\n\nArt
- ist Talk & Reception with Linda Clark Johnson\nSunday\, May 17\, 1-2:30 PM
- \nFree Admission
-URL;VALUE=URI:https://www.meetup.com/pence-adult-art-programs/events/31415
- 5336/
-STATUS:CONFIRMED
-CREATED:20260406T232116Z
-LAST-MODIFIED:20260406T232116Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:event_314155530@meetup.com
 SEQUENCE:1
-DTSTAMP:20260517T014507Z
+DTSTAMP:20260518T015405Z
 DTSTART;TZID=America/Los_Angeles:20260518T100000
 DTEND;TZID=America/Los_Angeles:20260518T114500
 SUMMARY:Healing Arts One-Time Workshop
@@ -79,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_314286331@meetup.com
 SEQUENCE:1
-DTSTAMP:20260517T014507Z
+DTSTAMP:20260518T015405Z
 DTSTART;TZID=America/Los_Angeles:20260523T100000
 DTEND;TZID=America/Los_Angeles:20260523T143000
 SUMMARY:Watercolor Portrait Painting with Misuk Goltz
@@ -106,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_314271500@meetup.com
 SEQUENCE:1
-DTSTAMP:20260517T014507Z
+DTSTAMP:20260518T015405Z
 DTSTART;TZID=America/Los_Angeles:20260531T100000
 DTEND;TZID=America/Los_Angeles:20260531T140000
 SUMMARY:Botanical Blueprints with Linda Clark Johnson
@@ -132,7 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_314387156@meetup.com
 SEQUENCE:1
-DTSTAMP:20260517T014507Z
+DTSTAMP:20260518T015405Z
 DTSTART;TZID=America/Los_Angeles:20260627T113000
 DTEND;TZID=America/Los_Angeles:20260627T153000
 SUMMARY:Beginning Charcoal Drawing
