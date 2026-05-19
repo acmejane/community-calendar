@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-18T01:54:14.285634",
+  "generated": "2026-05-19T01:54:03.011906",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34207,6 +34207,10 @@
             {
               "date": "2026-05-18",
               "count": 0
+            },
+            {
+              "date": "2026-05-19",
+              "count": 13
             }
           ]
         },
@@ -34490,6 +34494,10 @@
             },
             {
               "date": "2026-05-18",
+              "count": 0
+            },
+            {
+              "date": "2026-05-19",
               "count": 0
             }
           ]
@@ -34775,6 +34783,10 @@
             {
               "date": "2026-05-18",
               "count": 2
+            },
+            {
+              "date": "2026-05-19",
+              "count": 2
             }
           ]
         },
@@ -35058,6 +35070,10 @@
             },
             {
               "date": "2026-05-18",
+              "count": 10
+            },
+            {
+              "date": "2026-05-19",
               "count": 10
             }
           ]
@@ -35343,6 +35359,10 @@
             {
               "date": "2026-05-18",
               "count": 10
+            },
+            {
+              "date": "2026-05-19",
+              "count": 10
             }
           ]
         },
@@ -35626,6 +35646,10 @@
             },
             {
               "date": "2026-05-18",
+              "count": 10
+            },
+            {
+              "date": "2026-05-19",
               "count": 10
             }
           ]
@@ -35911,6 +35935,10 @@
             {
               "date": "2026-05-18",
               "count": 4
+            },
+            {
+              "date": "2026-05-19",
+              "count": 4
             }
           ]
         },
@@ -36194,6 +36222,10 @@
             },
             {
               "date": "2026-05-18",
+              "count": 0
+            },
+            {
+              "date": "2026-05-19",
               "count": 0
             }
           ]
@@ -36479,6 +36511,10 @@
             {
               "date": "2026-05-18",
               "count": 10
+            },
+            {
+              "date": "2026-05-19",
+              "count": 10
             }
           ]
         },
@@ -36762,6 +36798,10 @@
             },
             {
               "date": "2026-05-18",
+              "count": 0
+            },
+            {
+              "date": "2026-05-19",
               "count": 0
             }
           ]
@@ -37047,6 +37087,10 @@
             {
               "date": "2026-05-18",
               "count": 0
+            },
+            {
+              "date": "2026-05-19",
+              "count": 0
             }
           ]
         },
@@ -37331,6 +37375,10 @@
             {
               "date": "2026-05-18",
               "count": 6
+            },
+            {
+              "date": "2026-05-19",
+              "count": 4
             }
           ]
         },
@@ -37615,17 +37663,25 @@
             {
               "date": "2026-05-18",
               "count": 28
+            },
+            {
+              "date": "2026-05-19",
+              "count": 28
             }
           ]
         }
       },
       "categories": [
         {
-          "category": "Community / Social",
+          "category": "Food / Drink",
           "count": 14
         },
         {
-          "category": "Food / Drink",
+          "category": "Community / Social",
+          "count": 13
+        },
+        {
+          "category": "Sports / Fitness",
           "count": 13
         },
         {
@@ -37637,12 +37693,12 @@
           "count": 8
         },
         {
-          "category": "Arts / Culture",
-          "count": 7
+          "category": "Education / Workshops",
+          "count": 8
         },
         {
-          "category": "Education / Workshops",
-          "count": 7
+          "category": "Arts / Culture",
+          "count": 6
         },
         {
           "category": "Family / Kids",
@@ -37662,18 +37718,18 @@
         }
       ],
       "images": {
-        "total": 71,
+        "total": 84,
         "with_image": 24,
         "by_source": [
           {
             "source": "Visityolo Event",
-            "total": 24,
-            "with_image": 21
+            "total": 25,
+            "with_image": 22
           },
           {
             "source": "Visit Davis",
-            "total": 2,
-            "with_image": 2
+            "total": 1,
+            "with_image": 1
           },
           {
             "source": "Visit Davis, Visityolo Event",
@@ -37684,7 +37740,7 @@
       },
       "url_quality": {
         "total_with_url": 71,
-        "total_events": 71,
+        "total_events": 84,
         "unique_urls": 71,
         "generic_count": 0,
         "generic_domains": [],
@@ -37693,8 +37749,8 @@
         "source_specificity": [
           {
             "source": "Visityolo Event",
-            "events": 24,
-            "unique_urls": 24,
+            "events": 25,
+            "unique_urls": 25,
             "specificity_pct": 100
           },
           {
@@ -37723,12 +37779,6 @@
           },
           {
             "source": "Meetup Pence Adult Art Programs, Visit Davis, Visityolo Event",
-            "events": 3,
-            "unique_urls": 3,
-            "specificity_pct": 100
-          },
-          {
-            "source": "Visit Davis",
             "events": 2,
             "unique_urls": 2,
             "specificity_pct": 100
@@ -37746,13 +37796,19 @@
             "specificity_pct": 100
           },
           {
-            "source": "Visit Davis, Visityolo Event",
+            "source": "Meetup Pence Adult Art Programs",
+            "events": 2,
+            "unique_urls": 2,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Visit Davis",
             "events": 1,
             "unique_urls": 1,
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Pence Adult Art Programs",
+            "source": "Visit Davis, Visityolo Event",
             "events": 1,
             "unique_urls": 1,
             "specificity_pct": 100

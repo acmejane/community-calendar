@@ -51,7 +51,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260410
 DTEND;VALUE=DATE:20260604
-DTSTAMP:20260517T185407
+DTSTAMP:20260518T185356
 CREATED:20260402T173019Z
 LAST-MODIFIED:20260410T173046Z
 UID:10002819-1775779200-1780531199@visitdavis.org
@@ -65,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260516T100000
 DTEND;TZID=America/Los_Angeles:20260613T170000
-DTSTAMP:20260517T185407
+DTSTAMP:20260518T185356
 CREATED:20260429T160043Z
 LAST-MODIFIED:20260516T173029Z
 UID:10002839-1778925600-1781370000@visitdavis.org
@@ -77,39 +77,11 @@ ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Cathie-James
 ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260517T120000
-DTEND;TZID=America/Los_Angeles:20260517T150000
-DTSTAMP:20260517T185407
-CREATED:20260508T180025Z
-LAST-MODIFIED:20260517T173024Z
-UID:10002840-1779019200-1779030000@visitdavis.org
-SUMMARY:Singles Wine and Cheese Pairing Experience
-DESCRIPTION:Sips & Sparks – SINGLES Wine & Cheese Pairing Experience  in Davis\n Sunday\, May 17 | 12–3pm\nLooking to meet new people in a fun\, relaxed setting? Skip the swiping and join us at Great Bear Vineyards for an afternoon of wine\, cheese\, conversation\, and connection. \nIndulge your senses (and maybe hand out your phone number ) during this special Singles Wine & Cheese Pairing Experience\, featuring a curated flight of four award-winning wines paired with premium artisan cheeses designed to bring out the best in every bite and sip.\nThe Dates Not Apps team will be onsite helping spark genuine connections through light facilitation\, shared interests\, and easy conversation starters—so you can mingle naturally without the pressure.\n Ticket Includes: Flight of 4 Wines Paired Artisan Cheese Tasting\n Whether you’re:• A single looking to meet someone new• A foodie who loves delicious pairings• A wine enthusiast eager to explore flavor combinations• Or simply in the mood for a fun Sunday outing…\n…this experience is for you!\n What to Expect: MeetCute facilitators helping guests connect naturally Handcrafted wines paired to perfection Fun insights into wine & cheese harmony Relaxed vineyard atmosphere perfect for mingling\nSettle into a shady spot\, sip something delicious\, and enjoy an afternoon designed to help great conversations flow as easily as the wine. Additional wine and snacks will be available for purchase if you’d like to linger a little longer.\n Dietary Restrictions & PreferencesIf you have dietary restrictions or preferences\, please email us at:greatbearvineyards@gmail.com\nPlease include:• Dietary restrictions/preferences(Gluten Free\, Vegan\, Vegetarian\, Nut Free\, Pescatarian\, Shellfish Free\, etc.)• Preferred pronouns• Preferred age range:21–28 | 28–46 | 47–64 | 64+\n Great wine. Great cheese. Great company. You never know who you’ll meet at the vineyard.
-URL:https://visitdavis.org/event/singles-wine-and-cheese-pairing-experience/
-LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
-ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260517T130000
-DTEND;TZID=America/Los_Angeles:20260517T143000
-DTSTAMP:20260517T185407
-CREATED:20260407T163030Z
-LAST-MODIFIED:20260517T173016Z
-UID:10002822-1779022800-1779028200@visitdavis.org
-SUMMARY:Artist Talk and Reception with Linda Clark Johnson
-DESCRIPTION:Artist Talk & Reception with Linda Clark Johnson in Davis \nSunday\, May 17\, 1-2:30 PM \nFree Admission \nJoin artist Linda Clark Johnson as she discusses her artistic process in working with cyanotype\, including her love of sunlight and her ways of gathering and arranging plants. Linda will also show visitors how to get started with cyanotype through an artist demo\, as well as explore her current work in her exhibit\, Sunshine & Shadows\, on view at the Pence Gallery from May 2 – June 21\, 2026.
-URL:https://visitdavis.org/event/artist-talk-and-reception-with-linda-clark-johnson/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Linda-Clark-Johnson-MBuhzM.jpg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260518T100000
 DTEND;TZID=America/Los_Angeles:20260518T114500
-DTSTAMP:20260517T185407
+DTSTAMP:20260518T185356
 CREATED:20260429T160028Z
-LAST-MODIFIED:20260517T173018Z
+LAST-MODIFIED:20260518T173015Z
 UID:10002838-1779098400-1779104700@visitdavis.org
 SUMMARY:Healing Arts One-Time Workshop
 DESCRIPTION:Healing Arts One-Time Workshop in Davis \nMonday\, May 18\, 10-11:45 AM \n$5 Members\, $10 Non-Members (all materials included) \n  \nPart of the Pence’s Healing Arts Program and run by facilitator Amy Vidra\, this one-time workshop focuses more broadly on themes related to depression\, anxiety\, or major life changes. Through the process of art making\, participants will have opportunities for discussion\, education\, and connecting with peers in a safe and supportive space. \n  \nRegistration is required in advance through our website\, and space is limited to the first 8 participants who register. Participants must be 18 or older\, and no art experience is necessary. This program is generously sponsored by Bob & Joanne Andresen. \n  \nRegister here (REQUIRED): https://pencegallery.org/education/programs/workshops-and-classes/ \n  \n[If you register for this session and are unable to attend\, please let us know in advance.] \n  \nAny questions? Email pencegallery@gmail.com.
@@ -121,9 +93,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260523T100000
 DTEND;TZID=America/Los_Angeles:20260523T143000
-DTSTAMP:20260517T185407
+DTSTAMP:20260518T185356
 CREATED:20260416T173026Z
-LAST-MODIFIED:20260517T173019Z
+LAST-MODIFIED:20260518T173016Z
 UID:10002835-1779530400-1779546600@visitdavis.org
 SUMMARY:Watercolor Portrait Painting with Misuk Goltz
 DESCRIPTION:Watercolor Portrait Painting with Misuk Goltz at Pence Gallery in Davis \nSaturday\, May 23\, 10 AM – 2:30 PM \n$120 Members\, $135 Non-Members (materials not included) \n  \nThis watercolor portrait workshop with Misuk Goltz will teach you how to mix skin tones and develop a layering process to capture a subject’s likeness and character. Students will explore an expressive style rather than realistic perfection\, focusing on facial structure\, features\, and shadows. Through hands-on demonstrations\, you’ll be guided until your portrait comes to life. Portrait painting experience isn’t necessary\, but participants should be familiar with the basics of drawing and watercolor painting. \n  \nRegister at https://pencegallery.org/education/programs/workshops-and-classes/. \n  \nQuestions? Email pencegallery@gmail.com.
@@ -135,9 +107,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260530T170000
 DTEND;TZID=America/Los_Angeles:20260530T210000
-DTSTAMP:20260517T185407
+DTSTAMP:20260518T185356
 CREATED:20260508T180029Z
-LAST-MODIFIED:20260517T173022Z
+LAST-MODIFIED:20260518T173019Z
 UID:10002842-1780160400-1780174800@visitdavis.org
 SUMMARY:Experience Argentina from North to South
 DESCRIPTION:Experience Argentine culture through sight\, sound\, taste\, and movement in this interactive\, community-centered event. Designed as a participatory journey\, the program invites you to connect with traditions\, share stories\, and build meaningful connections across cultures. \nPart 1: Journey Through Argentina in Davis | 60 minutes \nBegin in the I-House’s lounge with an interactive exhibition highlighting five regions of Argentina. Through traditional crafts\, instruments\, textiles\, and photo displays\, you’ll explore the country’s cultural diversity while enjoying small tastings like Malbec\, dulce de leche\, and chimichurri. Argentine community members will share stories and guide the experience. \nPart 2: Folklore Dance Workshop | 90 minutes \nIn the I-House’s Community Room\, join a 90-minute dance workshop led by Veronica Flores. Through movement and music\, you’ll learn the basics of traditional dances such as carnavalito and gato in a welcoming\, beginner-friendly environment. \nPart 3: Peña-Inspired Musical Gathering | 90 minutes \nThe evening concludes outdoors with a relaxed\, live music gathering inspired by a traditional Argentine peña. Set in a social\, communal atmosphere\, this experience blends music\, conversation\, and shared space\, inviting you to listen\, dance\, and connect with others.
@@ -149,9 +121,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260531T100000
 DTEND;TZID=America/Los_Angeles:20260531T140000
-DTSTAMP:20260517T185408
+DTSTAMP:20260518T185356
 CREATED:20260416T173023Z
-LAST-MODIFIED:20260517T173018Z
+LAST-MODIFIED:20260518T173015Z
 UID:10002834-1780221600-1780236000@visitdavis.org
 SUMMARY:Botanical Blueprints with Linda Clark Johnson
 DESCRIPTION:Botanical Blueprints with Linda Clark Johnson at Pence Gallery in Davis \nSunday\, May 31\, 10 AM – 2 PM \n$115 Members | $125 Non-Members \n(All materials included except for flowers and foliage\, which participants should bring) \n  \nYou don’t need to be an artist to enjoy making beautiful blue cyanotypes! In this introductory class with artist Linda Clark Johnson\, you’ll learn all the basics of this fun and easy alternative photographic technique. Using light-sensitive chemicals\, you’ll expose prints of plants in the sun and process them in water. By the time you leave\, you’ll have 4 gorgeous 8 x 10” blueprints and the know-how to create more at home. \n  \nRegister here: https://pencegallery.org/education/programs/workshops-and-classes/ \n  \nAny questions? Email pencegallery@gmail.com.
