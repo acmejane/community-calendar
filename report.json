@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-21T01:52:54.935987",
+  "generated": "2026-05-22T01:54:31.820136",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34219,6 +34219,10 @@
             {
               "date": "2026-05-21",
               "count": 13
+            },
+            {
+              "date": "2026-05-22",
+              "count": 14
             }
           ]
         },
@@ -34514,6 +34518,10 @@
             },
             {
               "date": "2026-05-21",
+              "count": 0
+            },
+            {
+              "date": "2026-05-22",
               "count": 0
             }
           ]
@@ -34811,6 +34819,10 @@
             {
               "date": "2026-05-21",
               "count": 2
+            },
+            {
+              "date": "2026-05-22",
+              "count": 2
             }
           ]
         },
@@ -35106,6 +35118,10 @@
             },
             {
               "date": "2026-05-21",
+              "count": 10
+            },
+            {
+              "date": "2026-05-22",
               "count": 10
             }
           ]
@@ -35403,6 +35419,10 @@
             {
               "date": "2026-05-21",
               "count": 10
+            },
+            {
+              "date": "2026-05-22",
+              "count": 10
             }
           ]
         },
@@ -35698,6 +35718,10 @@
             },
             {
               "date": "2026-05-21",
+              "count": 10
+            },
+            {
+              "date": "2026-05-22",
               "count": 10
             }
           ]
@@ -35995,6 +36019,10 @@
             {
               "date": "2026-05-21",
               "count": 4
+            },
+            {
+              "date": "2026-05-22",
+              "count": 4
             }
           ]
         },
@@ -36290,6 +36318,10 @@
             },
             {
               "date": "2026-05-21",
+              "count": 0
+            },
+            {
+              "date": "2026-05-22",
               "count": 0
             }
           ]
@@ -36587,6 +36619,10 @@
             {
               "date": "2026-05-21",
               "count": 10
+            },
+            {
+              "date": "2026-05-22",
+              "count": 10
             }
           ]
         },
@@ -36882,6 +36918,10 @@
             },
             {
               "date": "2026-05-21",
+              "count": 0
+            },
+            {
+              "date": "2026-05-22",
               "count": 0
             }
           ]
@@ -37179,6 +37219,10 @@
             {
               "date": "2026-05-21",
               "count": 0
+            },
+            {
+              "date": "2026-05-22",
+              "count": 0
             }
           ]
         },
@@ -37474,6 +37518,10 @@
             },
             {
               "date": "2026-05-21",
+              "count": 10
+            },
+            {
+              "date": "2026-05-22",
               "count": 10
             }
           ]
@@ -37771,17 +37819,21 @@
             {
               "date": "2026-05-21",
               "count": 28
+            },
+            {
+              "date": "2026-05-22",
+              "count": 28
             }
           ]
         }
       },
       "categories": [
         {
-          "category": "Community / Social",
-          "count": 13
+          "category": "Sports / Fitness",
+          "count": 14
         },
         {
-          "category": "Sports / Fitness",
+          "category": "Community / Social",
           "count": 13
         },
         {
@@ -37822,7 +37874,7 @@
         }
       ],
       "images": {
-        "total": 83,
+        "total": 84,
         "with_image": 23,
         "by_source": [
           {
@@ -37839,7 +37891,7 @@
       },
       "url_quality": {
         "total_with_url": 70,
-        "total_events": 83,
+        "total_events": 84,
         "unique_urls": 70,
         "generic_count": 0,
         "generic_domains": [],
@@ -37853,13 +37905,13 @@
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Yolo County Board Game Gathering",
+            "source": "Meetup Mindful Embodied Spirituality",
             "events": 10,
             "unique_urls": 10,
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Mindful Embodied Spirituality",
+            "source": "Meetup Yolo County Board Game Gathering",
             "events": 10,
             "unique_urls": 10,
             "specificity_pct": 100
