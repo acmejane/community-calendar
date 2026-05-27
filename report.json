@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-26T01:50:17.865012",
+  "generated": "2026-05-27T01:58:08.032171",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34239,6 +34239,10 @@
             {
               "date": "2026-05-26",
               "count": 14
+            },
+            {
+              "date": "2026-05-27",
+              "count": 13
             }
           ]
         },
@@ -34554,6 +34558,10 @@
             },
             {
               "date": "2026-05-26",
+              "count": 0
+            },
+            {
+              "date": "2026-05-27",
               "count": 0
             }
           ]
@@ -34871,6 +34879,10 @@
             {
               "date": "2026-05-26",
               "count": 2
+            },
+            {
+              "date": "2026-05-27",
+              "count": 2
             }
           ]
         },
@@ -35186,6 +35198,10 @@
             },
             {
               "date": "2026-05-26",
+              "count": 10
+            },
+            {
+              "date": "2026-05-27",
               "count": 10
             }
           ]
@@ -35503,6 +35519,10 @@
             {
               "date": "2026-05-26",
               "count": 10
+            },
+            {
+              "date": "2026-05-27",
+              "count": 10
             }
           ]
         },
@@ -35818,6 +35838,10 @@
             },
             {
               "date": "2026-05-26",
+              "count": 10
+            },
+            {
+              "date": "2026-05-27",
               "count": 10
             }
           ]
@@ -36135,6 +36159,10 @@
             {
               "date": "2026-05-26",
               "count": 3
+            },
+            {
+              "date": "2026-05-27",
+              "count": 3
             }
           ]
         },
@@ -36450,6 +36478,10 @@
             },
             {
               "date": "2026-05-26",
+              "count": 0
+            },
+            {
+              "date": "2026-05-27",
               "count": 0
             }
           ]
@@ -36767,6 +36799,10 @@
             {
               "date": "2026-05-26",
               "count": 10
+            },
+            {
+              "date": "2026-05-27",
+              "count": 10
             }
           ]
         },
@@ -37082,6 +37118,10 @@
             },
             {
               "date": "2026-05-26",
+              "count": 0
+            },
+            {
+              "date": "2026-05-27",
               "count": 0
             }
           ]
@@ -37399,6 +37439,10 @@
             {
               "date": "2026-05-26",
               "count": 0
+            },
+            {
+              "date": "2026-05-27",
+              "count": 0
             }
           ]
         },
@@ -37714,6 +37758,10 @@
             },
             {
               "date": "2026-05-26",
+              "count": 8
+            },
+            {
+              "date": "2026-05-27",
               "count": 8
             }
           ]
@@ -38031,6 +38079,10 @@
             {
               "date": "2026-05-26",
               "count": 28
+            },
+            {
+              "date": "2026-05-27",
+              "count": 28
             }
           ]
         }
@@ -38038,11 +38090,11 @@
       "categories": [
         {
           "category": "Community / Social",
-          "count": 15
+          "count": 16
         },
         {
           "category": "Sports / Fitness",
-          "count": 14
+          "count": 13
         },
         {
           "category": "Health / Wellness",
@@ -38091,7 +38143,7 @@
         "by_source": [
           {
             "source": "Visityolo Event",
-            "total": 18,
+            "total": 19,
             "with_image": 18
           },
           {
@@ -38102,9 +38154,9 @@
         ]
       },
       "url_quality": {
-        "total_with_url": 67,
+        "total_with_url": 68,
         "total_events": 81,
-        "unique_urls": 67,
+        "unique_urls": 68,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
@@ -38112,18 +38164,18 @@
         "source_specificity": [
           {
             "source": "Visityolo Event",
-            "events": 18,
-            "unique_urls": 18,
+            "events": 19,
+            "unique_urls": 19,
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Mindful Embodied Spirituality",
+            "source": "Meetup Yolo County Board Game Gathering",
             "events": 10,
             "unique_urls": 10,
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Yolo County Board Game Gathering",
+            "source": "Meetup Mindful Embodied Spirituality",
             "events": 10,
             "unique_urls": 10,
             "specificity_pct": 100
@@ -38171,7 +38223,7 @@
             "specificity_pct": 100
           },
           {
-            "source": "Meetup: Art in Action, Visityolo Event",
+            "source": "Meetup: Art in Action",
             "events": 1,
             "unique_urls": 1,
             "specificity_pct": 100
