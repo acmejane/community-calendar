@@ -9,7 +9,6 @@ used across all city feeds, identified by their PRODID header.
 |----------|-------------|--------|------:|
 | **Meetup** | ICS export from meetup.com groups. | lancaster | 7 |
 | **Google Calendar** | Public Google Calendar ICS export. | lancaster | 1 |
-| **The Events Calendar (WordPress)** | WordPress plugin (aka "Tribe Events"). PRODID includes site name + ECP version. | lancaster | 1 |
 
 ## Detail
 
@@ -24,9 +23,3 @@ ICS export from meetup.com groups.
 Public Google Calendar ICS export.
 
 **lancaster** (1): gcal_davisbikeclubwww
-
-### The Events Calendar (WordPress) (1 feeds)
-
-WordPress plugin (aka "Tribe Events"). PRODID includes site name + ECP version.
-
-**lancaster** (1): visitdavis
