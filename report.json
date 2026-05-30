@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-29T01:52:00.073753",
+  "generated": "2026-05-30T01:48:01.302485",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34251,6 +34251,10 @@
             {
               "date": "2026-05-29",
               "count": 9
+            },
+            {
+              "date": "2026-05-30",
+              "count": 8
             }
           ]
         },
@@ -34578,6 +34582,10 @@
             },
             {
               "date": "2026-05-29",
+              "count": 0
+            },
+            {
+              "date": "2026-05-30",
               "count": 0
             }
           ]
@@ -34907,6 +34915,10 @@
             {
               "date": "2026-05-29",
               "count": 2
+            },
+            {
+              "date": "2026-05-30",
+              "count": 2
             }
           ]
         },
@@ -35234,6 +35246,10 @@
             },
             {
               "date": "2026-05-29",
+              "count": 10
+            },
+            {
+              "date": "2026-05-30",
               "count": 10
             }
           ]
@@ -35563,6 +35579,10 @@
             {
               "date": "2026-05-29",
               "count": 10
+            },
+            {
+              "date": "2026-05-30",
+              "count": 10
             }
           ]
         },
@@ -35890,6 +35910,10 @@
             },
             {
               "date": "2026-05-29",
+              "count": 10
+            },
+            {
+              "date": "2026-05-30",
               "count": 10
             }
           ]
@@ -36219,6 +36243,10 @@
             {
               "date": "2026-05-29",
               "count": 3
+            },
+            {
+              "date": "2026-05-30",
+              "count": 3
             }
           ]
         },
@@ -36546,6 +36574,10 @@
             },
             {
               "date": "2026-05-29",
+              "count": 0
+            },
+            {
+              "date": "2026-05-30",
               "count": 0
             }
           ]
@@ -36875,6 +36907,10 @@
             {
               "date": "2026-05-29",
               "count": 10
+            },
+            {
+              "date": "2026-05-30",
+              "count": 10
             }
           ]
         },
@@ -37202,6 +37238,10 @@
             },
             {
               "date": "2026-05-29",
+              "count": 0
+            },
+            {
+              "date": "2026-05-30",
               "count": 0
             }
           ]
@@ -37531,6 +37571,10 @@
             {
               "date": "2026-05-29",
               "count": 0
+            },
+            {
+              "date": "2026-05-30",
+              "count": 0
             }
           ]
         },
@@ -37858,6 +37902,10 @@
             },
             {
               "date": "2026-05-29",
+              "count": 0
+            },
+            {
+              "date": "2026-05-30",
               "count": 0
             }
           ]
@@ -38187,6 +38235,10 @@
             {
               "date": "2026-05-29",
               "count": 0
+            },
+            {
+              "date": "2026-05-30",
+              "count": 0
             }
           ]
         }
@@ -38198,15 +38250,15 @@
         },
         {
           "category": "Sports / Fitness",
-          "count": 9
-        },
-        {
-          "category": "Health / Wellness",
           "count": 8
         },
         {
           "category": "Education / Workshops",
           "count": 8
+        },
+        {
+          "category": "Health / Wellness",
+          "count": 7
         },
         {
           "category": "Arts / Culture",
@@ -38218,7 +38270,7 @@
         },
         {
           "category": "Religion / Spirituality",
-          "count": 3
+          "count": 4
         },
         {
           "category": "Food / Drink",
@@ -38234,13 +38286,13 @@
         }
       ],
       "images": {
-        "total": 52,
+        "total": 51,
         "with_image": 0,
         "by_source": []
       },
       "url_quality": {
         "total_with_url": 43,
-        "total_events": 52,
+        "total_events": 51,
         "unique_urls": 43,
         "generic_count": 0,
         "generic_domains": [],
