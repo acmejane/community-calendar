@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-09T01:46:42.015305",
+  "generated": "2026-06-10T01:57:25.440465",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34295,6 +34295,10 @@
             {
               "date": "2026-06-09",
               "count": 3
+            },
+            {
+              "date": "2026-06-10",
+              "count": 3
             }
           ]
         },
@@ -34666,6 +34670,10 @@
             },
             {
               "date": "2026-06-09",
+              "count": 0
+            },
+            {
+              "date": "2026-06-10",
               "count": 0
             }
           ]
@@ -35039,6 +35047,10 @@
             {
               "date": "2026-06-09",
               "count": 0
+            },
+            {
+              "date": "2026-06-10",
+              "count": 1
             }
           ]
         },
@@ -35410,6 +35422,10 @@
             },
             {
               "date": "2026-06-09",
+              "count": 10
+            },
+            {
+              "date": "2026-06-10",
               "count": 10
             }
           ]
@@ -35783,6 +35799,10 @@
             {
               "date": "2026-06-09",
               "count": 10
+            },
+            {
+              "date": "2026-06-10",
+              "count": 10
             }
           ]
         },
@@ -36154,6 +36174,10 @@
             },
             {
               "date": "2026-06-09",
+              "count": 10
+            },
+            {
+              "date": "2026-06-10",
               "count": 10
             }
           ]
@@ -36527,6 +36551,10 @@
             {
               "date": "2026-06-09",
               "count": 3
+            },
+            {
+              "date": "2026-06-10",
+              "count": 3
             }
           ]
         },
@@ -36898,6 +36926,10 @@
             },
             {
               "date": "2026-06-09",
+              "count": 0
+            },
+            {
+              "date": "2026-06-10",
               "count": 0
             }
           ]
@@ -37271,6 +37303,10 @@
             {
               "date": "2026-06-09",
               "count": 10
+            },
+            {
+              "date": "2026-06-10",
+              "count": 10
             }
           ]
         },
@@ -37642,6 +37678,10 @@
             },
             {
               "date": "2026-06-09",
+              "count": 0
+            },
+            {
+              "date": "2026-06-10",
               "count": 0
             }
           ]
@@ -38015,6 +38055,10 @@
             {
               "date": "2026-06-09",
               "count": 0
+            },
+            {
+              "date": "2026-06-10",
+              "count": 0
             }
           ]
         },
@@ -38386,6 +38430,10 @@
             },
             {
               "date": "2026-06-09",
+              "count": 13
+            },
+            {
+              "date": "2026-06-10",
               "count": 13
             }
           ]
@@ -38759,6 +38807,10 @@
             {
               "date": "2026-06-09",
               "count": 29
+            },
+            {
+              "date": "2026-06-10",
+              "count": 29
             }
           ]
         }
@@ -38793,11 +38845,11 @@
           "count": 5
         },
         {
-          "category": "Sports / Fitness",
-          "count": 3
+          "category": "Arts / Culture",
+          "count": 4
         },
         {
-          "category": "Arts / Culture",
+          "category": "Sports / Fitness",
           "count": 3
         },
         {
@@ -38806,7 +38858,7 @@
         }
       ],
       "images": {
-        "total": 78,
+        "total": 79,
         "with_image": 26,
         "by_source": [
           {
@@ -38827,9 +38879,9 @@
         ]
       },
       "url_quality": {
-        "total_with_url": 76,
-        "total_events": 78,
-        "unique_urls": 76,
+        "total_with_url": 77,
+        "total_events": 79,
+        "unique_urls": 77,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
@@ -38887,6 +38939,12 @@
             "source": "Meetup Pence Adult Art Programs, Visit Davis",
             "events": 2,
             "unique_urls": 2,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Meetup: Art in Action",
+            "events": 1,
+            "unique_urls": 1,
             "specificity_pct": 100
           },
           {
