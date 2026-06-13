@@ -51,7 +51,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260516T100000
 DTEND;TZID=America/Los_Angeles:20260613T170000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20260428T165059Z
 LAST-MODIFIED:20260428T165232Z
 UID:10013738-1778925600-1781370000@visityolo.com
@@ -63,62 +63,9 @@ ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Cathie-James-
 ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260611T180000
-DTEND;TZID=America/Los_Angeles:20260611T203000
-DTSTAMP:20260611T190425
-CREATED:20260601T174930Z
-LAST-MODIFIED:20260601T174930Z
-UID:10013887-1781200800-1781209800@visityolo.com
-SUMMARY:Live Music at the Gazebo in Winters
-DESCRIPTION:Join the fun in Downtown Winters this summer with free concerts the gazebo in Rotary Park. Family-friendly.
-URL:https://visityolo.com/event/live-music-at-the-gazebo-in-winters/2026-06-11/
-LOCATION:Downtown Winters\, Main Street\, Winters\, CA\, 95694\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/GazeboConcert.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260611T184500
-DTEND;TZID=America/Los_Angeles:20260611T203000
-DTSTAMP:20260611T190425
-CREATED:20260602T164936Z
-LAST-MODIFIED:20260602T165032Z
-UID:10014050-1781203500-1781209800@visityolo.com
-SUMMARY:Bat Talk and Tour
-DESCRIPTION:The Bats are Back at the Yolo Causeway \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
-URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-06-11/
-LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
-ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260612T080000
-DTEND;TZID=America/Los_Angeles:20260612T170000
-DTSTAMP:20260611T190425
-CREATED:20260601T194610Z
-LAST-MODIFIED:20260601T194610Z
-UID:10013909-1781251200-1781283600@visityolo.com
-SUMMARY:June Bloom at Capay Valley Lavender Farm
-DESCRIPTION:Capay Valley Lavender Farm is open for June bloom offering tours\, u-pick lavender\, workshops and more. Open Fridays-Sundays 10AM-4PM.
-URL:https://visityolo.com/event/june-bloom-at-capay-valley-lavender-farm/2026-06-12/
-LOCATION:Capay Valley Lavender\, Capay Valley Lavender
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/capay-valley-lavender.jpeg
-ORGANIZER;CN="Capay Valley Lavender":MAILTO:Sherri@capayvalleylavender.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260612T110000
-DTEND;TZID=America/Los_Angeles:20260612T180000
-DTSTAMP:20260611T190425
-CREATED:20251117T171126Z
-LAST-MODIFIED:20251117T171126Z
-UID:10013261-1781262000-1781287200@visityolo.com
-SUMMARY:Sip Yolo with Yolo County Wines
-DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
-URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-06-12/
-LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260612T163000
 DTEND;TZID=America/Los_Angeles:20260612T220000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20260602T163511Z
 LAST-MODIFIED:20260602T163511Z
 UID:10013919-1781281800-1781301600@visityolo.com
@@ -130,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260612T180000
 DTEND;TZID=America/Los_Angeles:20260612T210000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20260601T172610Z
 LAST-MODIFIED:20260601T172908Z
 UID:10013857-1781287200-1781298000@visityolo.com
@@ -144,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260612T184500
 DTEND;TZID=America/Los_Angeles:20260612T203000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20260602T164936Z
 LAST-MODIFIED:20260602T165032Z
 UID:10014051-1781289900-1781296200@visityolo.com
@@ -157,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260612T193000
 DTEND;TZID=America/Los_Angeles:20260612T213000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20250724T212132Z
 LAST-MODIFIED:20250724T212132Z
 UID:10010713-1781292600-1781299800@visityolo.com
@@ -171,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260613T080000
 DTEND;TZID=America/Los_Angeles:20260613T130000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20230426T230654Z
 LAST-MODIFIED:20240624T175432Z
 UID:10004175-1781337600-1781355600@visityolo.com
@@ -184,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260613T080000
 DTEND;TZID=America/Los_Angeles:20260613T170000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20260601T194610Z
 LAST-MODIFIED:20260601T194610Z
 UID:10013910-1781337600-1781370000@visityolo.com
@@ -198,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260613T090000
 DTEND;TZID=America/Los_Angeles:20260613T130000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20260409T224549Z
 LAST-MODIFIED:20260409T224625Z
 UID:10013657-1781341200-1781355600@visityolo.com
@@ -211,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260613T100000
 DTEND;TZID=America/Los_Angeles:20260613T160000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20260519T225846Z
 LAST-MODIFIED:20260519T225846Z
 UID:10013835-1781344800-1781366400@visityolo.com
@@ -224,7 +171,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260613T110000
 DTEND;TZID=America/Los_Angeles:20260613T180000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013262-1781348400-1781373600@visityolo.com
@@ -237,7 +184,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260613T180000
 DTEND;TZID=America/Los_Angeles:20260613T210000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20260604T171027Z
 LAST-MODIFIED:20260604T171259Z
 UID:10014390-1781373600-1781384400@visityolo.com
@@ -249,7 +196,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260613T184500
 DTEND;TZID=America/Los_Angeles:20260613T203000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20260602T164936Z
 LAST-MODIFIED:20260602T165032Z
 UID:10014052-1781376300-1781382600@visityolo.com
@@ -262,7 +209,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260613T193000
 DTEND;TZID=America/Los_Angeles:20260613T213000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20250724T212132Z
 LAST-MODIFIED:20250724T212132Z
 UID:10010714-1781379000-1781386200@visityolo.com
@@ -276,7 +223,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260613T193000
 DTEND;TZID=America/Los_Angeles:20260613T213000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20260522T180400Z
 LAST-MODIFIED:20260522T180400Z
 UID:10013847-1781379000-1781386200@visityolo.com
@@ -290,7 +237,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260614T080000
 DTEND;TZID=America/Los_Angeles:20260614T170000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20260601T194610Z
 LAST-MODIFIED:20260601T194610Z
 UID:10013911-1781424000-1781456400@visityolo.com
@@ -304,7 +251,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260614T090000
 DTEND;TZID=America/Los_Angeles:20260614T130000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20260409T224549Z
 LAST-MODIFIED:20260409T224625Z
 UID:10013658-1781427600-1781442000@visityolo.com
@@ -317,7 +264,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260614T100000
 DTEND;TZID=America/Los_Angeles:20260614T130000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20260417T163323Z
 LAST-MODIFIED:20260421T184432Z
 UID:10013716-1781431200-1781442000@visityolo.com
@@ -330,7 +277,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260614T100000
 DTEND;TZID=America/Los_Angeles:20260614T160000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20260519T225846Z
 LAST-MODIFIED:20260519T225846Z
 UID:10013836-1781431200-1781452800@visityolo.com
@@ -343,7 +290,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260614T110000
 DTEND;TZID=America/Los_Angeles:20260614T180000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013263-1781434800-1781460000@visityolo.com
@@ -356,7 +303,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260614T173000
 DTEND;TZID=America/Los_Angeles:20260614T203000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20260601T175752Z
 LAST-MODIFIED:20260601T180918Z
 UID:10013892-1781458200-1781469000@visityolo.com
@@ -369,7 +316,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260614T184500
 DTEND;TZID=America/Los_Angeles:20260614T203000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185747
 CREATED:20260602T164936Z
 LAST-MODIFIED:20260602T165032Z
 UID:10014053-1781462700-1781469000@visityolo.com
@@ -382,7 +329,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260615T184500
 DTEND;TZID=America/Los_Angeles:20260615T203000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185748
 CREATED:20260602T164936Z
 LAST-MODIFIED:20260602T165032Z
 UID:10014054-1781549100-1781555400@visityolo.com
@@ -395,7 +342,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260616T184500
 DTEND;TZID=America/Los_Angeles:20260616T203000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185748
 CREATED:20260602T164936Z
 LAST-MODIFIED:20260602T165032Z
 UID:10014055-1781635500-1781641800@visityolo.com
@@ -408,7 +355,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260617T173000
 DTEND;TZID=America/Los_Angeles:20260617T203000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185748
 CREATED:20260601T175752Z
 LAST-MODIFIED:20260601T180918Z
 UID:10013893-1781717400-1781728200@visityolo.com
@@ -421,7 +368,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260617T184500
 DTEND;TZID=America/Los_Angeles:20260617T203000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185748
 CREATED:20260602T164936Z
 LAST-MODIFIED:20260602T165032Z
 UID:10014056-1781721900-1781728200@visityolo.com
@@ -434,7 +381,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260618T180000
 DTEND;TZID=America/Los_Angeles:20260618T203000
-DTSTAMP:20260611T190425
+DTSTAMP:20260612T185748
 CREATED:20260601T174930Z
 LAST-MODIFIED:20260601T174930Z
 UID:10013888-1781805600-1781814600@visityolo.com
@@ -443,5 +390,57 @@ DESCRIPTION:Join the fun in Downtown Winters this summer with free concerts the 
 URL:https://visityolo.com/event/live-music-at-the-gazebo-in-winters/2026-06-18/
 LOCATION:Downtown Winters\, Main Street\, Winters\, CA\, 95694\, United States
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/GazeboConcert.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260618T184500
+DTEND;TZID=America/Los_Angeles:20260618T203000
+DTSTAMP:20260612T185748
+CREATED:20260602T164936Z
+LAST-MODIFIED:20260602T165032Z
+UID:10014057-1781808300-1781814600@visityolo.com
+SUMMARY:Bat Talk and Tour
+DESCRIPTION:The Bats are Back at the Yolo Causeway \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
+URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-06-18/
+LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
+ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260622
+DTSTAMP:20260612T185748
+CREATED:20250221T210735Z
+LAST-MODIFIED:20260604T170414Z
+UID:10008903-1781827200-1782086399@visityolo.com
+SUMMARY:Davis Music Festival
+DESCRIPTION:Davis Music Festival (DMF) is a three day multi-venue\, multi-genre live music event showcasing local\, regional and touring artists – all to benefit our local public schools’ art\, music and performing arts programs… all proceeds are donated to to support local arts education and performance opportunities for up and coming artists. It’s like our own version of SXSW in a single weekend\, and for a great cause! \nThis event is all ages. The festival takes place rain or shine (though we probably will never have to worry about rain on a June day in Davis\, CA). Tickets are non-refundable and non-transferable. Lineup and daily schedules are subject to change. Artist cancellation is not grounds for refund. \nFor further information and questions\, visit davismusicfest.com. If you are experiencing any technical issues related to online ticketing\, please contact us at info@davismusicfest.com \nHave questions about DMF? Contact the Davis Music Festival team. \n\nEARLY-BIRD FESTIVAL (3-day) PASS: $30 (expires March 19\, 2026)\nPRESALE FESTIVAL (3-day) PASS: $40 (expires June 19\, 2026)\nDAY-OF FESTIVAL (3-day) PASS: $50 (in-person purchase only)\n\nSingle day admission is available Friday and Sunday only\, at the door only. $20
+URL:https://visityolo.com/event/davis-music-festival/
+LOCATION:CA
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/DavisMusicFest-1.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260619T080000
+DTEND;TZID=America/Los_Angeles:20260619T170000
+DTSTAMP:20260612T185748
+CREATED:20260601T194610Z
+LAST-MODIFIED:20260601T194610Z
+UID:10013912-1781856000-1781888400@visityolo.com
+SUMMARY:June Bloom at Capay Valley Lavender Farm
+DESCRIPTION:Capay Valley Lavender Farm is open for June bloom offering tours\, u-pick lavender\, workshops and more. Open Fridays-Sundays 10AM-4PM.
+URL:https://visityolo.com/event/june-bloom-at-capay-valley-lavender-farm/2026-06-19/
+LOCATION:Capay Valley Lavender\, Capay Valley Lavender
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/capay-valley-lavender.jpeg
+ORGANIZER;CN="Capay Valley Lavender":MAILTO:Sherri@capayvalleylavender.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260619T103000
+DTEND;TZID=America/Los_Angeles:20260619T150000
+DTSTAMP:20260612T185748
+CREATED:20260602T163511Z
+LAST-MODIFIED:20260602T163511Z
+UID:10013920-1781865000-1781881200@visityolo.com
+SUMMARY:Davis Soccer Fest
+DESCRIPTION:One game. One world. One Davis. 4 pre-game parties June & July 2026 to kick off the World Cup. Enjoy pre-game party\, watch the game\, food & drinks and post-game activities. \n\nFriday\, June 12 – USA vs Paraguay\nFriday\, June 19 – USA vs Australia\nThursday\, June 25 – USA vs Türkiye\nSunday\, July 19 – World Cup Final\n\nFor more information: davisdowntown.com/davis-soccer-fest
+URL:https://visityolo.com/event/davis-soccer-fest/2026-06-19/
+LOCATION:G Street\, Downtown Davis\, G Street\, Davis\, CA\, 95616\, United States
 END:VEVENT
 END:VCALENDAR

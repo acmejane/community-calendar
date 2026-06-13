@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-12T02:04:31.937880",
+  "generated": "2026-06-13T01:57:51.645411",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34307,6 +34307,10 @@
             {
               "date": "2026-06-12",
               "count": 3
+            },
+            {
+              "date": "2026-06-13",
+              "count": 3
             }
           ]
         },
@@ -34690,6 +34694,10 @@
             },
             {
               "date": "2026-06-12",
+              "count": 0
+            },
+            {
+              "date": "2026-06-13",
               "count": 0
             }
           ]
@@ -35075,6 +35083,10 @@
             {
               "date": "2026-06-12",
               "count": 1
+            },
+            {
+              "date": "2026-06-13",
+              "count": 1
             }
           ]
         },
@@ -35458,6 +35470,10 @@
             },
             {
               "date": "2026-06-12",
+              "count": 10
+            },
+            {
+              "date": "2026-06-13",
               "count": 10
             }
           ]
@@ -35843,6 +35859,10 @@
             {
               "date": "2026-06-12",
               "count": 10
+            },
+            {
+              "date": "2026-06-13",
+              "count": 10
             }
           ]
         },
@@ -36226,6 +36246,10 @@
             },
             {
               "date": "2026-06-12",
+              "count": 10
+            },
+            {
+              "date": "2026-06-13",
               "count": 10
             }
           ]
@@ -36611,6 +36635,10 @@
             {
               "date": "2026-06-12",
               "count": 3
+            },
+            {
+              "date": "2026-06-13",
+              "count": 3
             }
           ]
         },
@@ -36994,6 +37022,10 @@
             },
             {
               "date": "2026-06-12",
+              "count": 0
+            },
+            {
+              "date": "2026-06-13",
               "count": 0
             }
           ]
@@ -37379,6 +37411,10 @@
             {
               "date": "2026-06-12",
               "count": 10
+            },
+            {
+              "date": "2026-06-13",
+              "count": 10
             }
           ]
         },
@@ -37762,6 +37798,10 @@
             },
             {
               "date": "2026-06-12",
+              "count": 0
+            },
+            {
+              "date": "2026-06-13",
               "count": 0
             }
           ]
@@ -38147,6 +38187,10 @@
             {
               "date": "2026-06-12",
               "count": 0
+            },
+            {
+              "date": "2026-06-13",
+              "count": 0
             }
           ]
         },
@@ -38530,6 +38574,10 @@
             },
             {
               "date": "2026-06-12",
+              "count": 11
+            },
+            {
+              "date": "2026-06-13",
               "count": 11
             }
           ]
@@ -38915,17 +38963,21 @@
             {
               "date": "2026-06-12",
               "count": 29
+            },
+            {
+              "date": "2026-06-13",
+              "count": 29
             }
           ]
         }
       },
       "categories": [
         {
-          "category": "Music / Concerts",
+          "category": "Nature / Outdoors / Recreation",
           "count": 13
         },
         {
-          "category": "Nature / Outdoors / Recreation",
+          "category": "Music / Concerts",
           "count": 13
         },
         {
@@ -38937,11 +38989,11 @@
           "count": 11
         },
         {
-          "category": "Food / Drink",
-          "count": 8
+          "category": "Arts / Culture",
+          "count": 7
         },
         {
-          "category": "Arts / Culture",
+          "category": "Food / Drink",
           "count": 7
         },
         {
@@ -38954,17 +39006,17 @@
         },
         {
           "category": "Sports / Fitness",
-          "count": 3
+          "count": 4
         }
       ],
       "images": {
         "total": 79,
-        "with_image": 25,
+        "with_image": 24,
         "by_source": [
           {
             "source": "Visityolo Event",
             "total": 26,
-            "with_image": 18
+            "with_image": 17
           },
           {
             "source": "Visit Davis",
