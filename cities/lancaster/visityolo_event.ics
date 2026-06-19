@@ -49,35 +49,9 @@ DTSTART:20271107T090000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260617T173000
-DTEND;TZID=America/Los_Angeles:20260617T203000
-DTSTAMP:20260617T190841
-CREATED:20260601T175752Z
-LAST-MODIFIED:20260601T180918Z
-UID:10013893-1781717400-1781728200@visityolo.com
-SUMMARY:Live Music at Carboni's Ristorante
-DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
-URL:https://visityolo.com/event/live-music-at-carbonis-ristorante/2026-06-17/
-LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260617T184500
-DTEND;TZID=America/Los_Angeles:20260617T203000
-DTSTAMP:20260617T190841
-CREATED:20260602T164936Z
-LAST-MODIFIED:20260602T165032Z
-UID:10014056-1781721900-1781728200@visityolo.com
-SUMMARY:Bat Talk and Tour
-DESCRIPTION:The Bats are Back at the Yolo Causeway \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
-URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-06-17/
-LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
-ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260618T180000
 DTEND;TZID=America/Los_Angeles:20260618T203000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260601T174930Z
 LAST-MODIFIED:20260601T174930Z
 UID:10013888-1781805600-1781814600@visityolo.com
@@ -90,7 +64,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260618T184500
 DTEND;TZID=America/Los_Angeles:20260618T203000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260602T164936Z
 LAST-MODIFIED:20260602T165032Z
 UID:10014057-1781808300-1781814600@visityolo.com
@@ -103,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260622
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20250221T210735Z
 LAST-MODIFIED:20260604T170414Z
 UID:10008903-1781827200-1782086399@visityolo.com
@@ -116,7 +90,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260619T080000
 DTEND;TZID=America/Los_Angeles:20260619T170000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260601T194610Z
 LAST-MODIFIED:20260601T194610Z
 UID:10013912-1781856000-1781888400@visityolo.com
@@ -130,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260619T103000
 DTEND;TZID=America/Los_Angeles:20260619T150000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260602T163511Z
 LAST-MODIFIED:20260602T163511Z
 UID:10013920-1781865000-1781881200@visityolo.com
@@ -142,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260619T110000
 DTEND;TZID=America/Los_Angeles:20260619T180000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013264-1781866800-1781892000@visityolo.com
@@ -155,7 +129,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260619T113000
 DTEND;TZID=America/Los_Angeles:20260619T170000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260519T223926Z
 LAST-MODIFIED:20260519T223926Z
 UID:10013778-1781868600-1781888400@visityolo.com
@@ -169,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260619T183000
 DTEND;TZID=America/Los_Angeles:20260619T210000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260602T165415Z
 LAST-MODIFIED:20260602T165415Z
 UID:10014117-1781893800-1781902800@visityolo.com
@@ -183,7 +157,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260619T184500
 DTEND;TZID=America/Los_Angeles:20260619T203000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260602T164936Z
 LAST-MODIFIED:20260602T165032Z
 UID:10010443-1781894700-1781901000@visityolo.com
@@ -196,7 +170,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260620T080000
 DTEND;TZID=America/Los_Angeles:20260620T130000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20230426T230654Z
 LAST-MODIFIED:20240624T175432Z
 UID:10004176-1781942400-1781960400@visityolo.com
@@ -209,7 +183,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260620T080000
 DTEND;TZID=America/Los_Angeles:20260620T170000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260601T194610Z
 LAST-MODIFIED:20260601T194610Z
 UID:10013913-1781942400-1781974800@visityolo.com
@@ -223,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260620T090000
 DTEND;TZID=America/Los_Angeles:20260620T130000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260409T224549Z
 LAST-MODIFIED:20260409T224625Z
 UID:10013659-1781946000-1781960400@visityolo.com
@@ -236,7 +210,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260620T110000
 DTEND;TZID=America/Los_Angeles:20260620T180000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013265-1781953200-1781978400@visityolo.com
@@ -249,7 +223,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260620T113000
 DTEND;TZID=America/Los_Angeles:20260620T130000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260409T225148Z
 LAST-MODIFIED:20260409T225148Z
 UID:10013694-1781955000-1781960400@visityolo.com
@@ -262,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260620T113000
 DTEND;TZID=America/Los_Angeles:20260620T170000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260519T223926Z
 LAST-MODIFIED:20260519T223926Z
 UID:10013779-1781955000-1781974800@visityolo.com
@@ -276,7 +250,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260620T150000
 DTEND;TZID=America/Los_Angeles:20260620T180000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260519T224846Z
 LAST-MODIFIED:20260519T224903Z
 UID:10013764-1781967600-1781978400@visityolo.com
@@ -287,9 +261,21 @@ LOCATION:Berryessa Brewing Co.\, 27260 CA-128\, Winters\, 95694\, United States
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/beer-tasting-yolo-county.jpg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260620T150000
+DTEND;TZID=America/Los_Angeles:20260620T180000
+DTSTAMP:20260618T193700
+CREATED:20260618T225251Z
+LAST-MODIFIED:20260618T225251Z
+UID:10014399-1781967600-1781978400@visityolo.com
+SUMMARY:Blü Egyptian at Berryessa Brewing Co.
+DESCRIPTION:Saturday\, June 20th Blü Egyptian at Berryessa Brewing Co. from 3-6pm. Free. All ages. \nCome out and enjoy the summer solstice w/ a tasty mix of bluegrass\, reggae funk and rock from Blü Egyptian\, food truck and great beer! \nbluegyptianband.c \nom
+URL:https://visityolo.com/event/blu-egyptian-at-berryessa-brewing-co-2/
+LOCATION:Berryessa Brewing Co.\, 27260 CA-128\, Winters\, 95694\, United States
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260620T183000
 DTEND;TZID=America/Los_Angeles:20260620T210000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260602T165415Z
 LAST-MODIFIED:20260602T165415Z
 UID:10014118-1781980200-1781989200@visityolo.com
@@ -303,7 +289,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260620T184500
 DTEND;TZID=America/Los_Angeles:20260620T203000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260602T164936Z
 LAST-MODIFIED:20260602T165032Z
 UID:10010461-1781981100-1781987400@visityolo.com
@@ -316,7 +302,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260620T193000
 DTEND;TZID=America/Los_Angeles:20260620T213000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260522T180229Z
 LAST-MODIFIED:20260522T180229Z
 UID:10013849-1781983800-1781991000@visityolo.com
@@ -330,7 +316,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260621T080000
 DTEND;TZID=America/Los_Angeles:20260621T170000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260601T194610Z
 LAST-MODIFIED:20260601T194610Z
 UID:10013914-1782028800-1782061200@visityolo.com
@@ -344,7 +330,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260621T090000
 DTEND;TZID=America/Los_Angeles:20260621T130000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260409T224549Z
 LAST-MODIFIED:20260409T224625Z
 UID:10013660-1782032400-1782046800@visityolo.com
@@ -357,7 +343,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260621T100000
 DTEND;TZID=America/Los_Angeles:20260621T130000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260417T163323Z
 LAST-MODIFIED:20260421T184432Z
 UID:10013717-1782036000-1782046800@visityolo.com
@@ -370,7 +356,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260621T110000
 DTEND;TZID=America/Los_Angeles:20260621T180000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013266-1782039600-1782064800@visityolo.com
@@ -383,7 +369,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260621T113000
 DTEND;TZID=America/Los_Angeles:20260621T170000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260519T223926Z
 LAST-MODIFIED:20260519T223926Z
 UID:10013780-1782041400-1782061200@visityolo.com
@@ -397,7 +383,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260621T173000
 DTEND;TZID=America/Los_Angeles:20260621T203000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260601T175752Z
 LAST-MODIFIED:20260601T180918Z
 UID:10013894-1782063000-1782073800@visityolo.com
@@ -410,7 +396,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260621T183000
 DTEND;TZID=America/Los_Angeles:20260621T210000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260602T165415Z
 LAST-MODIFIED:20260602T165415Z
 UID:10014119-1782066600-1782075600@visityolo.com
@@ -424,7 +410,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260621T184500
 DTEND;TZID=America/Los_Angeles:20260621T203000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260602T164936Z
 LAST-MODIFIED:20260602T165032Z
 UID:10010462-1782067500-1782073800@visityolo.com
@@ -437,7 +423,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260622T113000
 DTEND;TZID=America/Los_Angeles:20260622T150000
-DTSTAMP:20260617T190841
+DTSTAMP:20260618T193700
 CREATED:20260519T223926Z
 LAST-MODIFIED:20260519T223926Z
 UID:10013781-1782127800-1782140400@visityolo.com
@@ -447,5 +433,19 @@ URL:https://visityolo.com/event/pence-gallery-treasure-sale/2026-06-22/
 LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
 ATTACH;FMTTYPE=image/png:https://visityolo.com/wp-content/uploads/Treasure-sale2026-front.png
 ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260622T183000
+DTEND;TZID=America/Los_Angeles:20260622T210000
+DTSTAMP:20260618T193700
+CREATED:20260602T165415Z
+LAST-MODIFIED:20260602T165415Z
+UID:10014120-1782153000-1782162000@visityolo.com
+SUMMARY:Bat Talk & Walk Tour
+DESCRIPTION:Bat Talk & Walk Tour is back in Davis! \nFollowing a presentation on bat natural history\, where you will have the opportunity to see live ambassador bats up close\, the group will carpool out to the Yolo Bypass Wildlife Area for a brief tour of the wetlands and rice fields. Then we get in position to watch the “flyout” of the largest urban colony of Mexican free-tailed bats in California. The bats emerge in long ribbons as they head out to hunt for insects for the night. \n  \nThe whole experience takes about two and a half hours. This is a family friendly event! There is a small amount of walking. Those in wheelchairs or unable to walk may view the bats by car. Please let us know if you have special needs. \n  \nRefunding or rescheduling tickets requires two weeks notice and is subject to a $10 administrative fee. \n  \nIn regards to the recent heat: While it can be very hot in town during the heat of the day\, the first hour and a half of this program will take place in an air conditioned room and from your own vehicle during the auto tour. By the time we are outside to view the flyout\, it will be nearly sunset. It is typically 10-15 degrees cooler in the Yolo Bypass Wildlife Area where we watch the bat flyout. \nTickets are $17 adult\, $5 child (6-17 years old)\, children under 5 years old are free.
+URL:https://visityolo.com/event/bat-talk-walk-tour/2026-06-22/
+LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/People watching bats - by Polly Kleinberg-scaled.jpg
+ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
 END:VEVENT
 END:VCALENDAR
