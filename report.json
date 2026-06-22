@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-21T02:10:20.667707",
+  "generated": "2026-06-22T02:13:42.610553",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34343,6 +34343,10 @@
             {
               "date": "2026-06-21",
               "count": 1
+            },
+            {
+              "date": "2026-06-22",
+              "count": 0
             }
           ]
         },
@@ -34762,6 +34766,10 @@
             },
             {
               "date": "2026-06-21",
+              "count": 0
+            },
+            {
+              "date": "2026-06-22",
               "count": 0
             }
           ]
@@ -35183,6 +35191,10 @@
             {
               "date": "2026-06-21",
               "count": 1
+            },
+            {
+              "date": "2026-06-22",
+              "count": 1
             }
           ]
         },
@@ -35602,6 +35614,10 @@
             },
             {
               "date": "2026-06-21",
+              "count": 10
+            },
+            {
+              "date": "2026-06-22",
               "count": 10
             }
           ]
@@ -36023,6 +36039,10 @@
             {
               "date": "2026-06-21",
               "count": 10
+            },
+            {
+              "date": "2026-06-22",
+              "count": 10
             }
           ]
         },
@@ -36442,6 +36462,10 @@
             },
             {
               "date": "2026-06-21",
+              "count": 10
+            },
+            {
+              "date": "2026-06-22",
               "count": 10
             }
           ]
@@ -36863,6 +36887,10 @@
             {
               "date": "2026-06-21",
               "count": 3
+            },
+            {
+              "date": "2026-06-22",
+              "count": 3
             }
           ]
         },
@@ -37282,6 +37310,10 @@
             },
             {
               "date": "2026-06-21",
+              "count": 0
+            },
+            {
+              "date": "2026-06-22",
               "count": 0
             }
           ]
@@ -37703,6 +37735,10 @@
             {
               "date": "2026-06-21",
               "count": 10
+            },
+            {
+              "date": "2026-06-22",
+              "count": 10
             }
           ]
         },
@@ -38122,6 +38158,10 @@
             },
             {
               "date": "2026-06-21",
+              "count": 0
+            },
+            {
+              "date": "2026-06-22",
               "count": 0
             }
           ]
@@ -38543,6 +38583,10 @@
             {
               "date": "2026-06-21",
               "count": 0
+            },
+            {
+              "date": "2026-06-22",
+              "count": 0
             }
           ]
         },
@@ -38962,6 +39006,10 @@
             },
             {
               "date": "2026-06-21",
+              "count": 0
+            },
+            {
+              "date": "2026-06-22",
               "count": 0
             }
           ]
@@ -39383,6 +39431,10 @@
             {
               "date": "2026-06-21",
               "count": 0
+            },
+            {
+              "date": "2026-06-22",
+              "count": 0
             }
           ]
         }
@@ -39415,20 +39467,16 @@
         {
           "category": "Music / Concerts",
           "count": 4
-        },
-        {
-          "category": "Sports / Fitness",
-          "count": 1
         }
       ],
       "images": {
-        "total": 45,
+        "total": 44,
         "with_image": 0,
         "by_source": []
       },
       "url_quality": {
         "total_with_url": 44,
-        "total_events": 45,
+        "total_events": 44,
         "unique_urls": 44,
         "generic_count": 0,
         "generic_domains": [],
@@ -39436,13 +39484,13 @@
         "http_domains": 0,
         "source_specificity": [
           {
-            "source": "Meetup: Mosaics",
+            "source": "Meetup Yolo County Board Game Gathering",
             "events": 10,
             "unique_urls": 10,
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Yolo County Board Game Gathering",
+            "source": "Meetup: Mosaics",
             "events": 10,
             "unique_urls": 10,
             "specificity_pct": 100
@@ -40611,6 +40659,14 @@
       "date": "2026-06-21",
       "city": "lancaster",
       "feed": "visitdavis"
+    },
+    {
+      "type": "zero_events",
+      "message": "Feed returned 0 events (was 1)",
+      "severity": "high",
+      "date": "2026-06-22",
+      "city": "lancaster",
+      "feed": "gcal_davisbikeclubwww"
     }
   ],
   "errors": []

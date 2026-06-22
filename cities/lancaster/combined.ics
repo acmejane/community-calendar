@@ -7,67 +7,12 @@ X-WR-CALNAME:Lancaster Community Calendar
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-X-SOURCE-ID:gcal_davisbikeclubwww
-X-SOURCE:Gcal Davisbikeclubwww
-DTSTART;TZID=America/Los_Angeles:20260620T080000
-DTEND;TZID=America/Los_Angeles:20260620T110000
-RRULE:FREQ=MONTHLY;BYDAY=3SA
-DTSTAMP:20260621T021019Z
-UID:aqgapdnkv60slkt4h9c8fqbbrc@google.com
-CREATED:20241017T171351Z
-DESCRIPTION:<a href="https://davisbikeclub.org/3rd-saturday-road-ride/" tar
- get="_blank">Ride description link</a>
-LAST-MODIFIED:20260518T143448Z
-LOCATION:John Jones\, 2068 John Jones Rd\, Davis\, CA 95616\, USA
-SEQUENCE:3
-STATUS:CONFIRMED
-SUMMARY:3rd Saturday Long Ride
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/315047632/"}
-X-SOURCE-ID:meetup_mosaics
-X-SOURCE:Meetup: Mosaics
-UID:event_315047632@meetup.com
-SEQUENCE:1
-DTSTAMP:20260621T021014Z
-DTSTART;TZID=America/Los_Angeles:20260620T190000
-DTEND;TZID=America/Los_Angeles:20260620T200000
-SUMMARY:Mosaics English Learners Group on Zoom
-DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics Hub 
- – Summer 2026!**\nJoin us for a vibrant and uplifting season of virtual 
- learning and community from **June 20 to August 29\, 2026**—all from the
-  comfort of your home on Zoom!\n\n**Bi-Weekly Friday Zoom Sessions** *(Eve
- ry 2nd and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\
- n• **5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6
- :00 PM** – Bible Study & Meditation Group with Stephen\n• **7:00 PM** 
- – Beginning Chinese with Jane\n\n**Weekly Saturday Zoom Sessions** (tota
- l of 10 sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n•
-  **5:00 PM** – Beginning to Intermediate Korean with Stephen\n• **6:00
-  PM** – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** 
- – English Learners Group with Linda & Chad\n\n***\n\n**Important Notes:*
- *\n\n1. **No Zoom sessions** on **July 3–4\, 2026** (Independence Day) a
- nd **September 4–5\, 2026** (Labor Day).\n2. All classes will be conduct
- ed **exclusively via Zoom** during the summer session.\n3. **Return to In-
- Person Meetings:**\nWe will resume our **regular in-person gatherings on S
- eptember 12\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Comm
- unity Church**.\n\nFor more information about Intercultural Mosaics classe
- s and activities\, visit [www.nextg.org](http://www.nextg.org/) or contact
-  Dr. Stephen Moon at 916-217-5470\nor email to: [catalyst@nextg.org](mailt
- o:catalyst@nextg.org). Thank you!
-URL;VALUE=URI:https://www.meetup.com/mosaics/events/315047632/
-STATUS:CONFIRMED
-CREATED:20260601T022319Z
-LAST-MODIFIED:20260601T022319Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Pence Adult Art Programs": "https://www.meetup.com/pence-adult-art-programs/events/314851346/"}
 X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_314851346@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021015Z
+DTSTAMP:20260622T021337Z
 DTSTART;TZID=America/Los_Angeles:20260623T100000
 DTEND;TZID=America/Los_Angeles:20260623T120000
 SUMMARY:Intermediate Watercolor Painting with Misuk Goltz (6-Sessions)
@@ -97,7 +42,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_315111308@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021015Z
+DTSTAMP:20260622T021336Z
 DTSTART;TZID=America/Los_Angeles:20260624T170000
 DTEND;TZID=America/Los_Angeles:20260624T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -129,7 +74,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_314387156@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021015Z
+DTSTAMP:20260622T021337Z
 DTSTART;TZID=America/Los_Angeles:20260627T113000
 DTEND;TZID=America/Los_Angeles:20260627T153000
 SUMMARY:Beginning Charcoal Drawing
@@ -156,7 +101,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_314801854@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021014Z
+DTSTAMP:20260622T021335Z
 DTSTART;TZID=America/Los_Angeles:20260627T150000
 DTEND;TZID=America/Los_Angeles:20260627T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -194,7 +139,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315152119@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021014Z
+DTSTAMP:20260622T021335Z
 DTSTART;TZID=America/Los_Angeles:20260627T150000
 DTEND;TZID=America/Los_Angeles:20260627T170000
 SUMMARY:Mosaics Beginning to Intermediate Korean in Person
@@ -232,7 +177,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315152923@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021014Z
+DTSTAMP:20260622T021335Z
 DTSTART;TZID=America/Los_Angeles:20260627T160000
 DTEND;TZID=America/Los_Angeles:20260627T170000
 SUMMARY:Mosaics Beginning Spanish on Zoom
@@ -269,7 +214,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315153507@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021014Z
+DTSTAMP:20260622T021335Z
 DTSTART;TZID=America/Los_Angeles:20260627T170000
 DTEND;TZID=America/Los_Angeles:20260627T180000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -307,7 +252,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315299173@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021014Z
+DTSTAMP:20260622T021335Z
 DTSTART;TZID=America/Los_Angeles:20260627T170000
 DTEND;TZID=America/Los_Angeles:20260627T180000
 SUMMARY:Mosaics Beginning Korean on Zoom
@@ -344,7 +289,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315153505@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021014Z
+DTSTAMP:20260622T021335Z
 DTSTART;TZID=America/Los_Angeles:20260627T180000
 DTEND;TZID=America/Los_Angeles:20260627T190000
 SUMMARY:Mosaics Beginning Japanese on Zoom
@@ -381,7 +326,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315154117@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021014Z
+DTSTAMP:20260622T021335Z
 DTSTART;TZID=America/Los_Angeles:20260627T180000
 DTEND;TZID=America/Los_Angeles:20260627T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -419,7 +364,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315154821@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021014Z
+DTSTAMP:20260622T021335Z
 DTSTART;TZID=America/Los_Angeles:20260627T190000
 DTEND;TZID=America/Los_Angeles:20260627T200000
 SUMMARY:Mosaics English Learners Group on Zoom
@@ -456,7 +401,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315154823@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021014Z
+DTSTAMP:20260622T021335Z
 DTSTART;TZID=America/Los_Angeles:20260627T190000
 DTEND;TZID=America/Los_Angeles:20260627T200000
 SUMMARY:Mosaics Water & Acrylic Painting 
@@ -494,7 +439,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_315221753@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021015Z
+DTSTAMP:20260622T021336Z
 DTSTART;TZID=America/Los_Angeles:20260701T170000
 DTEND;TZID=America/Los_Angeles:20260701T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -520,7 +465,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315238152@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021016Z
+DTSTAMP:20260622T021337Z
 DTSTART;TZID=America/Los_Angeles:20260702T180000
 DTEND;TZID=America/Los_Angeles:20260702T191000
 SUMMARY:Free Yoga Practice
@@ -543,12 +488,49 @@ LAST-MODIFIED:20260613T011059Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/ccsxxtyjckbgb/"}
+X-SOURCE-ID:meetup_mosaics
+X-SOURCE:Meetup: Mosaics
+UID:event_ccsxxtyjckbgb@meetup.com
+SEQUENCE:1
+DTSTAMP:20260622T021335Z
+DTSTART;TZID=America/Los_Angeles:20260704T170000
+DTEND;TZID=America/Los_Angeles:20260704T180000
+SUMMARY:Mosaics Beginning Korean on Zoom
+DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics Hub 
+ – Summer 2026!**\nJoin us for a vibrant and uplifting season of virtual 
+ learning and community from **June 20 to August 29\, 2026**—all from the
+  comfort of your home on Zoom!\n\n**Bi-Weekly Friday Zoom Sessions** *(Eve
+ ry 2nd and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\
+ n• **5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6
+ :00 PM** – Bible Study & Meditation Group with Stephen\n• **7:00 PM** 
+ – Beginning Chinese with Jane\n\n**Weekly Saturday Zoom Sessions** (tota
+ l of 10 sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n•
+  **5:00 PM** – Beginning to Intermediate Korean with Stephen\n• **6:00
+  PM** – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** 
+ – English Learners Group with Linda & Chad\n\n***\n\n**Important Notes:*
+ *\n\n1. **No Zoom sessions** on **July 3–4\, 2026** (Independence Day) a
+ nd **September 4–5\, 2026** (Labor Day).\n2. All classes will be conduct
+ ed **exclusively via Zoom** during the summer session.\n3. **Return to In-
+ Person Meetings:**\nWe will resume our **regular in-person gatherings on S
+ eptember 12\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Comm
+ unity Church**.\n\nFor more information about Intercultural Mosaics classe
+ s and activities\, visit [www.nextg.org](http://www.nextg.org/) or contact
+  Dr. Stephen Moon at 916-217-5470\nor email to: [catalyst@nextg.org](mailt
+ o:catalyst@nextg.org). Thank you!
+URL;VALUE=URI:https://www.meetup.com/mosaics/events/ccsxxtyjckbgb/
+STATUS:CONFIRMED
+CREATED:20260617T152127Z
+LAST-MODIFIED:20260617T152127Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/315292369/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315292369@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021016Z
+DTSTAMP:20260622T021337Z
 DTSTART;TZID=America/Los_Angeles:20260706T180000
 DTEND;TZID=America/Los_Angeles:20260706T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -580,7 +562,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315300872@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021016Z
+DTSTAMP:20260622T021337Z
 DTSTART;TZID=America/Los_Angeles:20260707T100000
 DTEND;TZID=America/Los_Angeles:20260707T110000
 SUMMARY:Gentle yoga
@@ -605,7 +587,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_315322113@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021015Z
+DTSTAMP:20260622T021336Z
 DTSTART;TZID=America/Los_Angeles:20260708T170000
 DTEND;TZID=America/Los_Angeles:20260708T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -637,7 +619,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_bgfpxtyjckbrb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021016Z
+DTSTAMP:20260622T021337Z
 DTSTART;TZID=America/Los_Angeles:20260713T180000
 DTEND;TZID=America/Los_Angeles:20260713T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -669,7 +651,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_ndpjxtyjckbsb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021016Z
+DTSTAMP:20260622T021337Z
 DTSTART;TZID=America/Los_Angeles:20260714T100000
 DTEND;TZID=America/Los_Angeles:20260714T110000
 SUMMARY:Gentle yoga
@@ -694,7 +676,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjckbtb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021015Z
+DTSTAMP:20260622T021336Z
 DTSTART;TZID=America/Los_Angeles:20260715T170000
 DTEND;TZID=America/Los_Angeles:20260715T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -726,7 +708,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_bgfpxtyjckbbc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021016Z
+DTSTAMP:20260622T021337Z
 DTSTART;TZID=America/Los_Angeles:20260720T180000
 DTEND;TZID=America/Los_Angeles:20260720T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -758,7 +740,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_ndpjxtyjckbcc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021016Z
+DTSTAMP:20260622T021337Z
 DTSTART;TZID=America/Los_Angeles:20260721T100000
 DTEND;TZID=America/Los_Angeles:20260721T110000
 SUMMARY:Gentle yoga
@@ -783,7 +765,7 @@ X-SOURCE-ID:meetup_art_in_action
 X-SOURCE:Meetup: Art in Action
 UID:event_315190316@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021016Z
+DTSTAMP:20260622T021337Z
 DTSTART;TZID=America/Los_Angeles:20260725T130000
 DTEND;TZID=America/Los_Angeles:20260725T150000
 SUMMARY:Art in Action: Pressed Flower Suncatchers
@@ -820,7 +802,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_bgfpxtyjckbkc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021016Z
+DTSTAMP:20260622T021337Z
 DTSTART;TZID=America/Los_Angeles:20260727T180000
 DTEND;TZID=America/Los_Angeles:20260727T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -852,7 +834,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_ndpjxtyjckblc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021016Z
+DTSTAMP:20260622T021337Z
 DTSTART;TZID=America/Los_Angeles:20260728T100000
 DTEND;TZID=America/Los_Angeles:20260728T110000
 SUMMARY:Gentle yoga
@@ -877,7 +859,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjckbmc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021015Z
+DTSTAMP:20260622T021336Z
 DTSTART;TZID=America/Los_Angeles:20260729T170000
 DTEND;TZID=America/Los_Angeles:20260729T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -909,7 +891,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_bgfpxtyjclbfb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021016Z
+DTSTAMP:20260622T021337Z
 DTSTART;TZID=America/Los_Angeles:20260803T180000
 DTEND;TZID=America/Los_Angeles:20260803T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -941,7 +923,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjclbhb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021015Z
+DTSTAMP:20260622T021336Z
 DTSTART;TZID=America/Los_Angeles:20260805T170000
 DTEND;TZID=America/Los_Angeles:20260805T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -967,7 +949,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_315176714@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021015Z
+DTSTAMP:20260622T021337Z
 DTSTART;TZID=America/Los_Angeles:20260809T100000
 DTEND;TZID=America/Los_Angeles:20260809T133000
 SUMMARY:Relief Printmaking with Heather Hogan
@@ -997,7 +979,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstyjclbqb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021015Z
+DTSTAMP:20260622T021336Z
 DTSTART;TZID=America/Los_Angeles:20260812T170000
 DTEND;TZID=America/Los_Angeles:20260812T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1029,7 +1011,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjclbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021015Z
+DTSTAMP:20260622T021336Z
 DTSTART;TZID=America/Los_Angeles:20260819T170000
 DTEND;TZID=America/Los_Angeles:20260819T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1061,7 +1043,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjclbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021015Z
+DTSTAMP:20260622T021336Z
 DTSTART;TZID=America/Los_Angeles:20260826T170000
 DTEND;TZID=America/Los_Angeles:20260826T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1093,7 +1075,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcmbdb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021015Z
+DTSTAMP:20260622T021336Z
 DTSTART;TZID=America/Los_Angeles:20260902T170000
 DTEND;TZID=America/Los_Angeles:20260902T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1119,7 +1101,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315045635@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021014Z
+DTSTAMP:20260622T021336Z
 DTSTART;TZID=America/Los_Angeles:20260912T160000
 DTEND;TZID=America/Los_Angeles:20260912T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1158,7 +1140,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315046964@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021014Z
+DTSTAMP:20260622T021336Z
 DTSTART;TZID=America/Los_Angeles:20260912T180000
 DTEND;TZID=America/Los_Angeles:20260912T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1197,7 +1179,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315047643@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021014Z
+DTSTAMP:20260622T021336Z
 DTSTART;TZID=America/Los_Angeles:20260912T190000
 DTEND;TZID=America/Los_Angeles:20260912T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1236,7 +1218,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_rjtwxtyjcmbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021014Z
+DTSTAMP:20260622T021336Z
 DTSTART;TZID=America/Los_Angeles:20260919T160000
 DTEND;TZID=America/Los_Angeles:20260919T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1275,7 +1257,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_tjtwxtyjcmbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021014Z
+DTSTAMP:20260622T021336Z
 DTSTART;TZID=America/Los_Angeles:20260919T180000
 DTEND;TZID=America/Los_Angeles:20260919T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1314,7 +1296,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_vjtwxtyjcmbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021014Z
+DTSTAMP:20260622T021336Z
 DTSTART;TZID=America/Los_Angeles:20260919T190000
 DTEND;TZID=America/Los_Angeles:20260919T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1353,7 +1335,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_rjtwxtyjcmbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021014Z
+DTSTAMP:20260622T021336Z
 DTSTART;TZID=America/Los_Angeles:20260926T160000
 DTEND;TZID=America/Los_Angeles:20260926T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1392,7 +1374,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_tjtwxtyjcmbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021014Z
+DTSTAMP:20260622T021336Z
 DTSTART;TZID=America/Los_Angeles:20260926T180000
 DTEND;TZID=America/Los_Angeles:20260926T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1431,7 +1413,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_vjtwxtyjcmbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021014Z
+DTSTAMP:20260622T021336Z
 DTSTART;TZID=America/Los_Angeles:20260926T190000
 DTEND;TZID=America/Los_Angeles:20260926T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1470,7 +1452,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_rjtwxtyjcnbfb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260621T021014Z
+DTSTAMP:20260622T021336Z
 DTSTART;TZID=America/Los_Angeles:20261003T160000
 DTEND;TZID=America/Los_Angeles:20261003T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
