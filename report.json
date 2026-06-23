@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-22T02:13:42.610553",
+  "generated": "2026-06-23T01:52:59.750250",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34347,6 +34347,10 @@
             {
               "date": "2026-06-22",
               "count": 0
+            },
+            {
+              "date": "2026-06-23",
+              "count": 0
             }
           ]
         },
@@ -34770,6 +34774,10 @@
             },
             {
               "date": "2026-06-22",
+              "count": 0
+            },
+            {
+              "date": "2026-06-23",
               "count": 0
             }
           ]
@@ -35195,6 +35203,10 @@
             {
               "date": "2026-06-22",
               "count": 1
+            },
+            {
+              "date": "2026-06-23",
+              "count": 1
             }
           ]
         },
@@ -35618,6 +35630,10 @@
             },
             {
               "date": "2026-06-22",
+              "count": 10
+            },
+            {
+              "date": "2026-06-23",
               "count": 10
             }
           ]
@@ -36043,6 +36059,10 @@
             {
               "date": "2026-06-22",
               "count": 10
+            },
+            {
+              "date": "2026-06-23",
+              "count": 10
             }
           ]
         },
@@ -36466,6 +36486,10 @@
             },
             {
               "date": "2026-06-22",
+              "count": 10
+            },
+            {
+              "date": "2026-06-23",
               "count": 10
             }
           ]
@@ -36891,6 +36915,10 @@
             {
               "date": "2026-06-22",
               "count": 3
+            },
+            {
+              "date": "2026-06-23",
+              "count": 3
             }
           ]
         },
@@ -37314,6 +37342,10 @@
             },
             {
               "date": "2026-06-22",
+              "count": 0
+            },
+            {
+              "date": "2026-06-23",
               "count": 0
             }
           ]
@@ -37739,6 +37771,10 @@
             {
               "date": "2026-06-22",
               "count": 10
+            },
+            {
+              "date": "2026-06-23",
+              "count": 10
             }
           ]
         },
@@ -38162,6 +38198,10 @@
             },
             {
               "date": "2026-06-22",
+              "count": 0
+            },
+            {
+              "date": "2026-06-23",
               "count": 0
             }
           ]
@@ -38587,6 +38627,10 @@
             {
               "date": "2026-06-22",
               "count": 0
+            },
+            {
+              "date": "2026-06-23",
+              "count": 0
             }
           ]
         },
@@ -39011,6 +39055,10 @@
             {
               "date": "2026-06-22",
               "count": 0
+            },
+            {
+              "date": "2026-06-23",
+              "count": 6
             }
           ]
         },
@@ -39435,54 +39483,92 @@
             {
               "date": "2026-06-22",
               "count": 0
+            },
+            {
+              "date": "2026-06-23",
+              "count": 30
             }
           ]
         }
       },
       "categories": [
         {
+          "category": "Nature / Outdoors / Recreation",
+          "count": 13
+        },
+        {
           "category": "Education / Workshops",
           "count": 11
         },
         {
           "category": "Community / Social",
+          "count": 11
+        },
+        {
+          "category": "Music / Concerts",
           "count": 10
         },
         {
+          "category": "Food / Drink",
+          "count": 8
+        },
+        {
           "category": "Health / Wellness",
-          "count": 6
+          "count": 7
         },
         {
           "category": "Religion / Spirituality",
-          "count": 5
-        },
-        {
-          "category": "Food / Drink",
-          "count": 4
+          "count": 6
         },
         {
           "category": "Arts / Culture",
           "count": 4
         },
         {
-          "category": "Music / Concerts",
-          "count": 4
+          "category": "Dance / Performance",
+          "count": 2
+        },
+        {
+          "category": "Sports / Fitness",
+          "count": 1
         }
       ],
       "images": {
-        "total": 44,
-        "with_image": 0,
-        "by_source": []
+        "total": 73,
+        "with_image": 22,
+        "by_source": [
+          {
+            "source": "Visityolo Event",
+            "total": 25,
+            "with_image": 18
+          },
+          {
+            "source": "Visit Davis, Visityolo Event",
+            "total": 3,
+            "with_image": 3
+          },
+          {
+            "source": "Visit Davis",
+            "total": 1,
+            "with_image": 1
+          }
+        ]
       },
       "url_quality": {
-        "total_with_url": 44,
-        "total_events": 44,
-        "unique_urls": 44,
+        "total_with_url": 73,
+        "total_events": 73,
+        "unique_urls": 73,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
         "http_domains": 0,
         "source_specificity": [
+          {
+            "source": "Visityolo Event",
+            "events": 25,
+            "unique_urls": 25,
+            "specificity_pct": 100
+          },
           {
             "source": "Meetup Yolo County Board Game Gathering",
             "events": 10,
@@ -39508,13 +39594,31 @@
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Pence Adult Art Programs",
+            "source": "Visit Davis, Visityolo Event",
             "events": 3,
             "unique_urls": 3,
             "specificity_pct": 100
           },
           {
+            "source": "Meetup Pence Adult Art Programs, Visit Davis, Visityolo Event",
+            "events": 2,
+            "unique_urls": 2,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Visit Davis",
+            "events": 1,
+            "unique_urls": 1,
+            "specificity_pct": 100
+          },
+          {
             "source": "Meetup: Art in Action",
+            "events": 1,
+            "unique_urls": 1,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Meetup Pence Adult Art Programs",
             "events": 1,
             "unique_urls": 1,
             "specificity_pct": 100
