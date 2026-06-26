@@ -7,93 +7,12 @@ X-WR-CALNAME:Lancaster Community Calendar
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-picnic-in-the-park-21/2026-06-24/", "Visityolo Event": "https://visityolo.com/event/davis-farmers-market-picnic-in-the-park-2-2/2026-06-24/"}
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-picnic-in-the-park-21/2026-06-24/"}
-X-SOURCE-ID:visitdavis
-X-SOURCE:Visit Davis, Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260624T160000
-DTEND;TZID=America/Los_Angeles:20260624T200000
-DTSTAMP:20260624T185516
-CREATED:20250825T081126Z
-LAST-MODIFIED:20260624T192743Z
-UID:10002965-1782316800-1782331200@visitdavis.org
-SUMMARY:Davis Farmers Market Picnic In The Park
-DESCRIPTION:The popular Davis Farmers Market event is every Wednesday from 4 to 8 p.m.\, April through August. A local band plays each night. There’s children’s entertainment\, loads of food vendors\, and plenty of opportunity to gather as a community. October through April\, there’s a traditional farmers market on Wednesdays\, from 3 to 6 p.m. \nPicnic in the Park focuses on family-friendly children’s activities and music\, along with a wide range of food made from market ingredients. There is a clown\, face-painter and children’s activities. \nYear-round in downtown Davis\, thousands gather each week to shop for what is grown\, raised and made locally. Since 1976\, the Davis Farmers Market has connected and supported communities\, area agriculture\, farmers and artisan food producers. It educates the public about nutrition\, sustainable agriculture\, and the local economic value of buying food and products directly from the producer.
-URL:https://visitdavis.org/event/davis-farmers-market-picnic-in-the-park-21/2026-06-24/
-LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/486434334_1090519546450339_214190693011889520_n-scaled-Ch1zBz.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/315111308/"}
-X-SOURCE-ID:meetup_yolo_county_board_game_gathering
-X-SOURCE:Meetup Yolo County Board Game Gathering
-UID:event_315111308@meetup.com
-SEQUENCE:1
-DTSTAMP:20260625T015513Z
-DTSTART;TZID=America/Los_Angeles:20260624T170000
-DTEND;TZID=America/Los_Angeles:20260624T210000
-SUMMARY:Weekly Game Night at Blue Note
-DESCRIPTION:Yolo County Board Game Gathering\nUpdate 8/14/25:\n**We're sti
- ll active**\, but we primarily use Discord to chat and plan events. (See g
- roup description for invite link.)\n\nWe still meet every Wednesday for bo
- ard games at Blue Note Brewing Company. We'll have a handful of tables res
- erved near the back\; just look for the pile of board games.\n\nPeople usu
- ally start arriving around 5pm\, and games start whenever people are ready
- . Blue Note closes at 9pm\, and although we have a 5-10 minute grace perio
- d there\, you should be in the process of final scoring by 9\, or else pac
- k it up and play again another day.\n\nGame night is open to all ages! Blu
- e Note is a brewery\, not a bar\, so there's no restriction against minors
- . In addition to their crafted-in-house beer selection\, water and sodas a
- re available.\n\nYou're not required to buy anything in order to join us\,
-  but we do encourage you to support local businesses. Blue Note's chef tea
- m makes a mean pizza\, and there are other nearby downtown restaurants and
-  businesses.
-URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
- ts/315111308/
-STATUS:CONFIRMED
-CREATED:20260605T002854Z
-LAST-MODIFIED:20260605T002854Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/live-music-at-carbonis-ristorante/2026-06-24/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260624T173000
-DTEND;TZID=America/Los_Angeles:20260624T203000
-DTSTAMP:20260624T185517
-CREATED:20260601T175752Z
-LAST-MODIFIED:20260601T180918Z
-UID:10013895-1782322200-1782333000@visityolo.com
-SUMMARY:Live Music at Carboni's Ristorante
-DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
-URL:https://visityolo.com/event/live-music-at-carbonis-ristorante/2026-06-24/
-LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/bat-talk-and-tour-2/2026-06-24/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260624T184500
-DTEND;TZID=America/Los_Angeles:20260624T203000
-DTSTAMP:20260624T185517
-CREATED:20260602T164936Z
-LAST-MODIFIED:20260602T165032Z
-UID:10014059-1782326700-1782333000@visityolo.com
-SUMMARY:Bat Talk and Tour
-DESCRIPTION:The Bats are Back at the Yolo Causeway \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
-URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-06-24/
-LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
-ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/davis-soccer-fest/2026-06-25/"}
 X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260625T173000
 DTEND;TZID=America/Los_Angeles:20260625T220000
-DTSTAMP:20260624T185517
+DTSTAMP:20260602T163511Z
 CREATED:20260602T163511Z
 LAST-MODIFIED:20260602T163511Z
 UID:10013921-1782408600-1782424800@visityolo.com
@@ -108,7 +27,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260625T180000
 DTEND;TZID=America/Los_Angeles:20260625T203000
-DTSTAMP:20260624T185517
+DTSTAMP:20260601T174930Z
 CREATED:20260601T174930Z
 LAST-MODIFIED:20260601T174930Z
 UID:10013889-1782410400-1782419400@visityolo.com
@@ -124,7 +43,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260625T183000
 DTEND;TZID=America/Los_Angeles:20260625T220000
-DTSTAMP:20260624T185517
+DTSTAMP:20260528T225449Z
 CREATED:20260528T225449Z
 LAST-MODIFIED:20260528T225449Z
 UID:10013858-1782412200-1782424800@visityolo.com
@@ -141,7 +60,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260625T184500
 DTEND;TZID=America/Los_Angeles:20260625T203000
-DTSTAMP:20260624T185517
+DTSTAMP:20260602T165032Z
 CREATED:20260602T164936Z
 LAST-MODIFIED:20260602T165032Z
 UID:10014060-1782413100-1782419400@visityolo.com
@@ -158,9 +77,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260625T193000
 DTEND;TZID=America/Los_Angeles:20260625T213000
-DTSTAMP:20260624T185516
+DTSTAMP:20260625T185647
 CREATED:20260523T180020Z
-LAST-MODIFIED:20260624T173027Z
+LAST-MODIFIED:20260625T173033Z
 UID:10002865-1782415800-1782423000@visitdavis.org
 SUMMARY:Goh Kurosawa Live @ The Melon Ball
 DESCRIPTION:Watermelon Music in Davis presents Goh Kurosawa Live. \nGoh Kurosawa\, the “Musical Wakonyosai” or Bicultural Music Samurai\, is a composer-guitarist-singer recognized for his “Lovetap” technique\, percussive elements\, heartfelt singing\, as well as infusing fingerpicking and flamenco with electric guitar pedals. Based in California and traveling the world from Japan\, his original genre blends world music\, jazz\, folk\, rock and even classical. \n\n“His music takes you to that place where most people have not visited since childhood.”\n“Innovative guitar creations.”\n“California’s Goh Kurosawa is a multi-genre wizard who had the crowd mesmerized before his first song had ended.”\n“International touring musician Goh Kurosawa’s music is beyond any simple classification. The guitarist improvises melodically\, is open to the influences of pop\, rock\, flamenco\, classical\, Latin and Japanese music\, and has his own musical identity. Equally skilled on electric and acoustic guitars\, he uses electrical devices to create a wide range of sounds yet is not shy to embrace a pretty melody.”\n“Goh’s set included Bob Marley’s No Women No Cry\, My Family My Friends (original)\, a Japanese folk song\, and Leonard Cohen’s Hallelujah (which he sang).”\n\nBicultural Music Samurai\nBandcamp\nInstagram\nYouTube \n$20 General Admission\n$15 Students (available in-store or at the door only\, w/ student ID)\n$15 Seniors (available in-store or at the door only\, 65+)\n$10 Kids 12 and Under (available in-store or at the door only)\nThis is a BYOB event!
@@ -175,7 +94,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260626T080000
 DTEND;TZID=America/Los_Angeles:20260626T170000
-DTSTAMP:20260624T185517
+DTSTAMP:20260601T194610Z
 CREATED:20260601T194610Z
 LAST-MODIFIED:20260601T194610Z
 UID:10013915-1782460800-1782493200@visityolo.com
@@ -192,7 +111,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260626T110000
 DTEND;TZID=America/Los_Angeles:20260626T180000
-DTSTAMP:20260624T185517
+DTSTAMP:20251117T171126Z
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013267-1782471600-1782496800@visityolo.com
@@ -208,7 +127,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260626T173000
 DTEND;TZID=America/Los_Angeles:20260626T213000
-DTSTAMP:20260624T185517
+DTSTAMP:20260601T174333Z
 CREATED:20260601T174333Z
 LAST-MODIFIED:20260601T174333Z
 UID:10013881-1782495000-1782509400@visityolo.com
@@ -224,7 +143,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260626T180000
 DTEND;TZID=America/Los_Angeles:20260626T210000
-DTSTAMP:20260624T185517
+DTSTAMP:20260522T181450Z
 CREATED:20260522T181356Z
 LAST-MODIFIED:20260522T181450Z
 UID:10013839-1782496800-1782507600@visityolo.com
@@ -241,7 +160,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260626T183000
 DTEND;TZID=America/Los_Angeles:20260626T210000
-DTSTAMP:20260624T185517
+DTSTAMP:20260602T165415Z
 CREATED:20260602T165415Z
 LAST-MODIFIED:20260602T165415Z
 UID:10014121-1782498600-1782507600@visityolo.com
@@ -258,7 +177,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260626T184500
 DTEND;TZID=America/Los_Angeles:20260626T203000
-DTSTAMP:20260624T185517
+DTSTAMP:20260602T165032Z
 CREATED:20260602T164936Z
 LAST-MODIFIED:20260602T165032Z
 UID:10010467-1782499500-1782505800@visityolo.com
@@ -275,9 +194,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260626T193000
 DTEND;TZID=America/Los_Angeles:20260626T223000
-DTSTAMP:20260624T185516
+DTSTAMP:20260625T185647
 CREATED:20260328T160043Z
-LAST-MODIFIED:20260624T173053Z
+LAST-MODIFIED:20260625T173058Z
 UID:10002816-1782502200-1782513000@visitdavis.org
 SUMMARY:Davis Musical Theatre Presents: RENT
 DESCRIPTION:Davis Musical Theatre Presents: RENT – June 26 through July 19\, 2026\nUnderwritten by Nancy Dunne\nSet in the East Village of New York City\, Rent is about falling in love\, finding your voice and living for today. Winner of the Tony Award for Best Musical and the Pulitzer Prize for Drama\, Rent has become a pop cultural phenomenon. with songs that rock and a story that resonates with audiences of all ages. Based loosely on Puccini’s La Boheme\, Jonathan Larson’s Rent follows a year in the life of a group of impoverished young artists and musicians struggling to survive and create in New York’s Lower East Side\, under the shadow of HIV/AIDS. How these young bohemians negotiate their dreams\, loves and conflicts provides the narrative thread to this groundbreaking musical. \nRecommended for theater goers 13 & up \nDirected by Kyle Jackson\nChoreographed by Kyle Jackson
@@ -293,9 +212,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260626T200000
 DTEND;TZID=America/Los_Angeles:20260626T220000
-DTSTAMP:20260624T185516
+DTSTAMP:20260625T185647
 CREATED:20260523T180015Z
-LAST-MODIFIED:20260624T173027Z
+LAST-MODIFIED:20260625T173033Z
 UID:10002864-1782504000-1782511200@visitdavis.org
 SUMMARY:Kyle Rowland Live @ The Melon Ball
 DESCRIPTION:Watermelon Music in Davis presents Kyle Rowland. \nKyle Rowland powers through the reeds of a Harmonica\, honoring the rich traditions of American rhythm & blues\, soul\, and gospel.  Rowland quickly and naturally developed his own sound\, with help from a few of his heroes such as James Cotton\, Lazy Lester\, Hubert Sumlin\, Billy “Boy” Arnold\, Matt “Guitar” Murphy\, Henry Gray\, Charlie Musselwhite\, and many others. Through these pioneers\, Rowland learned specific techniques of stage presence\, the music business\, and several highly revered harmonica secrets\, evident in his performances. \nIn August of 2022\, Rowland signed an endorsement deal with Hohner harmonica company\, which he has proudly used for his 20+ year career. Recently with the help of Hohner\, Rowland has had the opportunity to teach the harmonica to hundreds of children across the United States\, Mexico\, and Cuba. In 2024\, he was inducted as the youngest member into the Sacramento Blues Hall of Fame\, where he began his musical journey at the age of 10. In both 2024 and 2025\, Rowland placed as a simi-finalist in the International Blues Challenge\, in Memphis Tennessee.  In Spring of 2025\, Rowland signed with Little Village Foundation\, a California based record label\, and released his critically acclaimed album NOT HOLDING BACK!\, securing a 2026 Blues Music Award nomination for “Best Emerging Album.” \nCheck Out Kyle’s Site for Videos and Music \n$20 General Admission\nDoors open at 7:30pm\nThis is a BYOB event!
@@ -311,7 +230,7 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260627T080000
 DTEND;TZID=America/Los_Angeles:20260627T130000
-DTSTAMP:20260624T185516
+DTSTAMP:20260625T185647
 CREATED:20260103T234411Z
 LAST-MODIFIED:20260624T184342Z
 UID:10002917-1782547200-1782565200@visitdavis.org
@@ -327,7 +246,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260627T080000
 DTEND;TZID=America/Los_Angeles:20260627T170000
-DTSTAMP:20260624T185517
+DTSTAMP:20260601T194610Z
 CREATED:20260601T194610Z
 LAST-MODIFIED:20260601T194610Z
 UID:10013916-1782547200-1782579600@visityolo.com
@@ -344,7 +263,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260627T090000
 DTEND;TZID=America/Los_Angeles:20260627T130000
-DTSTAMP:20260624T185517
+DTSTAMP:20260409T224625Z
 CREATED:20260409T224549Z
 LAST-MODIFIED:20260409T224625Z
 UID:10013661-1782550800-1782565200@visityolo.com
@@ -360,7 +279,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260627T100000
 DTEND;TZID=America/Los_Angeles:20260627T110000
-DTSTAMP:20260624T185517
+DTSTAMP:20260519T224635Z
 CREATED:20260519T224635Z
 LAST-MODIFIED:20260519T224635Z
 UID:10013771-1782554400-1782558000@visityolo.com
@@ -377,7 +296,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260627T110000
 DTEND;TZID=America/Los_Angeles:20260627T180000
-DTSTAMP:20260624T185517
+DTSTAMP:20251117T171126Z
 CREATED:20251117T171126Z
 LAST-MODIFIED:20251117T171126Z
 UID:10013268-1782558000-1782583200@visityolo.com
@@ -394,7 +313,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs, Visit Davis, Visityolo Event
 UID:event_314387156@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015513Z
+DTSTAMP:20260626T015644Z
 DTSTART;TZID=America/Los_Angeles:20260627T113000
 DTEND;TZID=America/Los_Angeles:20260627T153000
 SUMMARY:Beginning Charcoal Drawing
@@ -421,7 +340,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_314801854@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015512Z
+DTSTAMP:20260626T015642Z
 DTSTART;TZID=America/Los_Angeles:20260627T150000
 DTEND;TZID=America/Los_Angeles:20260627T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -459,7 +378,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315152119@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015512Z
+DTSTAMP:20260626T015642Z
 DTSTART;TZID=America/Los_Angeles:20260627T150000
 DTEND;TZID=America/Los_Angeles:20260627T170000
 SUMMARY:Mosaics Beginning to Intermediate Korean in Person
@@ -497,7 +416,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315152923@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015512Z
+DTSTAMP:20260626T015642Z
 DTSTART;TZID=America/Los_Angeles:20260627T160000
 DTEND;TZID=America/Los_Angeles:20260627T170000
 SUMMARY:Mosaics Beginning Spanish on Zoom
@@ -534,7 +453,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315153507@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015512Z
+DTSTAMP:20260626T015642Z
 DTSTART;TZID=America/Los_Angeles:20260627T170000
 DTEND;TZID=America/Los_Angeles:20260627T180000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -572,7 +491,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315299173@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015512Z
+DTSTAMP:20260626T015642Z
 DTSTART;TZID=America/Los_Angeles:20260627T170000
 DTEND;TZID=America/Los_Angeles:20260627T180000
 SUMMARY:Mosaics Beginning Korean on Zoom
@@ -609,7 +528,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315153505@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015512Z
+DTSTAMP:20260626T015642Z
 DTSTART;TZID=America/Los_Angeles:20260627T180000
 DTEND;TZID=America/Los_Angeles:20260627T190000
 SUMMARY:Mosaics Beginning Japanese on Zoom
@@ -646,7 +565,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315154117@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015512Z
+DTSTAMP:20260626T015642Z
 DTSTART;TZID=America/Los_Angeles:20260627T180000
 DTEND;TZID=America/Los_Angeles:20260627T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -684,7 +603,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260627T180000
 DTEND;TZID=America/Los_Angeles:20260627T220000
-DTSTAMP:20260624T185517
+DTSTAMP:20260522T181552Z
 CREATED:20260522T181552Z
 LAST-MODIFIED:20260522T181552Z
 UID:10013837-1782583200-1782597600@visityolo.com
@@ -700,7 +619,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260627T183000
 DTEND;TZID=America/Los_Angeles:20260627T210000
-DTSTAMP:20260624T185517
+DTSTAMP:20260602T165415Z
 CREATED:20260602T165415Z
 LAST-MODIFIED:20260602T165415Z
 UID:10014122-1782585000-1782594000@visityolo.com
@@ -717,7 +636,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260627T184500
 DTEND;TZID=America/Los_Angeles:20260627T203000
-DTSTAMP:20260624T185517
+DTSTAMP:20260602T165032Z
 CREATED:20260602T164936Z
 LAST-MODIFIED:20260602T165032Z
 UID:10010468-1782585900-1782592200@visityolo.com
@@ -733,7 +652,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315154821@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015512Z
+DTSTAMP:20260626T015642Z
 DTSTART;TZID=America/Los_Angeles:20260627T190000
 DTEND;TZID=America/Los_Angeles:20260627T200000
 SUMMARY:Mosaics English Learners Group on Zoom
@@ -770,7 +689,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315154823@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015512Z
+DTSTAMP:20260626T015642Z
 DTSTART;TZID=America/Los_Angeles:20260627T190000
 DTEND;TZID=America/Los_Angeles:20260627T200000
 SUMMARY:Mosaics Water & Acrylic Painting 
@@ -808,7 +727,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260627T193000
 DTEND;TZID=America/Los_Angeles:20260627T223000
-DTSTAMP:20260624T185517
+DTSTAMP:20250731T172704Z
 CREATED:20250724T211943Z
 LAST-MODIFIED:20250731T172704Z
 UID:10010769-1782588600-1782599400@visityolo.com
@@ -825,7 +744,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260628T080000
 DTEND;TZID=America/Los_Angeles:20260628T170000
-DTSTAMP:20260624T185517
+DTSTAMP:20260601T194610Z
 CREATED:20260601T194610Z
 LAST-MODIFIED:20260601T194610Z
 UID:10013917-1782633600-1782666000@visityolo.com
@@ -842,7 +761,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260628T090000
 DTEND;TZID=America/Los_Angeles:20260628T130000
-DTSTAMP:20260624T185517
+DTSTAMP:20260409T224625Z
 CREATED:20260409T224549Z
 LAST-MODIFIED:20260409T224625Z
 UID:10013662-1782637200-1782651600@visityolo.com
@@ -858,7 +777,7 @@ X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260628T100000
 DTEND;TZID=America/Los_Angeles:20260628T130000
-DTSTAMP:20260624T185517
+DTSTAMP:20260421T184432Z
 CREATED:20260417T163323Z
 LAST-MODIFIED:20260421T184432Z
 UID:10013718-1782640800-1782651600@visityolo.com
@@ -869,14 +788,48 @@ LOCATION:Downtown Winters\, Main Street\, Winters\, CA\, 95694\, United States
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Winters-Farmers-Market_01-scaled.jpeg
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-06-28/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260628T110000
+DTEND;TZID=America/Los_Angeles:20260628T180000
+DTSTAMP:20251117T171126Z
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013269-1782644400-1782669600@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-06-28/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/rent/2026-06-28/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260628T140000
+DTEND;TZID=America/Los_Angeles:20260628T170000
+DTSTAMP:20250731T172704Z
+CREATED:20250724T211943Z
+LAST-MODIFIED:20250731T172704Z
+UID:10010770-1782655200-1782666000@visityolo.com
+SUMMARY:Davis Musical Theatre Presents: RENT
+DESCRIPTION:Davis Musical Theatre Presents: RENT – June 26 through July 19\, 2026\nUnderwritten by Nancy Dunne\nSet in the East Village of New York City\, Rent is about falling in love\, finding your voice and living for today. Winner of the Tony Award for Best Musical and the Pulitzer Prize for Drama\, Rent has become a pop cultural phenomenon. with songs that rock and a story that resonates with audiences of all ages. Based loosely on Puccini’s La Boheme\, Jonathan Larson’s Rent follows a year in the life of a group of impoverished young artists and musicians struggling to survive and create in New York’s Lower East Side\, under the shadow of HIV/AIDS. How these young bohemians negotiate their dreams\, loves and conflicts provides the narrative thread to this groundbreaking musical. \nRecommended for theater goers 13 & up \nDirected by Kyle Jackson\nChoreographed by Kyle Jackson
+URL:https://visityolo.com/event/rent/2026-06-28/
+LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/RENT.jpg
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/ceremony-for-personal-transformation-the-medicine-wheel/", "Visityolo Event": "https://visityolo.com/event/ceremony-for-personal-transformation-the-medicine-wheel/"}
 X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/ceremony-for-personal-transformation-the-medicine-wheel/"}
 X-SOURCE-ID:visitdavis
-X-SOURCE:Visit Davis
+X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260628T150000
 DTEND;TZID=America/Los_Angeles:20260628T170000
-DTSTAMP:20260624T185516
+DTSTAMP:20260625T185647
 CREATED:20260619T173021Z
-LAST-MODIFIED:20260624T173024Z
+LAST-MODIFIED:20260625T173029Z
 UID:10002889-1782658800-1782666000@visitdavis.org
 SUMMARY:Ceremony for Personal Transformation: The Medicine Wheel
 DESCRIPTION:Ceremony for Personal Transformation: The Medicine Wheel A participatory workshop led by Sylvia Rios in Davis \nJoin elder and wisdom keeper Sylvia Rios for an immersive 90-minute ceremony exploring one of the most enduring symbols in Indigenous tradition: the Medicine Wheel. A circle with no beginning and no end\, the Medicine Wheel is a sacred map — of the seasons\, the elements\, the spirit animals\, and the cycles of our own lives. \nParticipants will gather in a circle as Sylvia teaches the community to co-create a living Medicine Wheel Earth Altar using medicinal plants\, stones\, and earth elements\, oriented to the four cardinal directions and their associated colors\, seasons\, and spirit animals: the Hummingbird\, Eagle/Condor\, Great Serpent\, and Mother Jaguar. Through platicas (guided talk)\, journaling prompts\, and a closing meditation\, participants are invited to examine where they stand in their own life’s cycle — in growth\, creativity\, relationships\, and spirit — and to ask: Who am I? Where do I come from? Where am I going? \nThis is a ceremony for anyone seeking grounding\, reflection\, and connection — to themselves\, to each other\, and to the Earth. \nNot recommended for children under 10 \nPlease bring: A yoga mat or cushion for sitting in circle
@@ -886,14 +839,30 @@ ATTACH;FMTTYPE=image/png:https://visitdavis.org/wp-content/uploads/WT-2026-Medic
 ORGANIZER;CN="International House Davis":MAILTO:shahzana@ihousedavis.org
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/live-music-at-carbonis-ristorante/2026-06-28/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260628T173000
+DTEND;TZID=America/Los_Angeles:20260628T203000
+DTSTAMP:20260601T180918Z
+CREATED:20260601T175752Z
+LAST-MODIFIED:20260601T180918Z
+UID:10013896-1782667800-1782678600@visityolo.com
+SUMMARY:Live Music at Carboni's Ristorante
+DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
+URL:https://visityolo.com/event/live-music-at-carbonis-ristorante/2026-06-28/
+LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/open-mic-and-music-trivia-2/"}
 X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20260628T180000
 DTEND;TZID=America/Los_Angeles:20260628T200000
-DTSTAMP:20260624T185516
+DTSTAMP:20260625T185647
 CREATED:20260623T173043Z
-LAST-MODIFIED:20260624T173040Z
+LAST-MODIFIED:20260625T173045Z
 UID:10002896-1782669600-1782676800@visitdavis.org
 SUMMARY:Open Mic and Music Trivia
 DESCRIPTION:Hosted by Jordyn Micke in Davis. \nCelebrate the halfway point of 2026 with us at the June Open Mic! We will continue to feature our Music Trivia contest throughout the evening in between acts. The winner will receive a $20 Watermelon Music gift card! \nWhether you’re looking for a venue to share your own talents or just looking to enjoy hearing (and seeing) some local performers\, we invite you to this free monthly event. We provide the sound\, stage and lights – the rest is up to you. Play us your favorite song\, tell us some jokes\, act out a scene from your favorite play with friends. \nWe ask only that each performance be suitable for an all-ages venue\, and that you arrive on time and stay until the end to support your fellow performers. \nFREE!!!\nDoors open/sign-ups @ 5:30.\nFirst act @ 6:00. \nWe hope to see you there!
@@ -908,7 +877,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_315221753@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015513Z
+DTSTAMP:20260626T015644Z
 DTSTART;TZID=America/Los_Angeles:20260701T170000
 DTEND;TZID=America/Los_Angeles:20260701T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -934,7 +903,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315238152@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015514Z
+DTSTAMP:20260626T015645Z
 DTSTART;TZID=America/Los_Angeles:20260702T180000
 DTEND;TZID=America/Los_Angeles:20260702T191000
 SUMMARY:Free Yoga Practice
@@ -962,7 +931,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_ccsxxtyjckbgb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015512Z
+DTSTAMP:20260626T015642Z
 DTSTART;TZID=America/Los_Angeles:20260704T170000
 DTEND;TZID=America/Los_Angeles:20260704T180000
 SUMMARY:Mosaics Beginning Korean on Zoom
@@ -998,7 +967,7 @@ X-SOURCE-ID:gcal_davisbikeclubwww
 X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20260705T080000
 DTEND;TZID=America/Los_Angeles:20260705T120000
-DTSTAMP:20260625T015519Z
+DTSTAMP:20260626T015650Z
 UID:7fjftb8huhtvrm9fb7uup14qmb@google.com
 RECURRENCE-ID;TZID=America/Los_Angeles:20260704T080000
 CREATED:20231017T204709Z
@@ -1017,7 +986,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315292369@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015514Z
+DTSTAMP:20260626T015645Z
 DTSTART;TZID=America/Los_Angeles:20260706T180000
 DTEND;TZID=America/Los_Angeles:20260706T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1049,7 +1018,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315300872@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015514Z
+DTSTAMP:20260626T015645Z
 DTSTART;TZID=America/Los_Angeles:20260707T100000
 DTEND;TZID=America/Los_Angeles:20260707T110000
 SUMMARY:Gentle yoga
@@ -1074,7 +1043,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_315322113@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015513Z
+DTSTAMP:20260626T015644Z
 DTSTART;TZID=America/Los_Angeles:20260708T170000
 DTEND;TZID=America/Los_Angeles:20260708T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1106,7 +1075,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315391801@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015514Z
+DTSTAMP:20260626T015645Z
 DTSTART;TZID=America/Los_Angeles:20260713T180000
 DTEND;TZID=America/Los_Angeles:20260713T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1138,7 +1107,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315399662@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015514Z
+DTSTAMP:20260626T015645Z
 DTSTART;TZID=America/Los_Angeles:20260714T100000
 DTEND;TZID=America/Los_Angeles:20260714T110000
 SUMMARY:Gentle yoga
@@ -1158,12 +1127,12 @@ LAST-MODIFIED:20260624T173117Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/kwnqstyjckbtb/"}
+X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/315420780/"}
 X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
-UID:event_kwnqstyjckbtb@meetup.com
+UID:event_315420780@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015513Z
+DTSTAMP:20260626T015644Z
 DTSTART;TZID=America/Los_Angeles:20260715T170000
 DTEND;TZID=America/Los_Angeles:20260715T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1183,10 +1152,10 @@ DESCRIPTION:Yolo County Board Game Gathering\nUpdate 8/14/25:\n**We're sti
  m makes a mean pizza\, and there are other nearby downtown restaurants and
   businesses.
 URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
- ts/kwnqstyjckbtb/
+ ts/315420780/
 STATUS:CONFIRMED
-CREATED:20250814T213413Z
-LAST-MODIFIED:20250814T213413Z
+CREATED:20260626T001848Z
+LAST-MODIFIED:20260626T001848Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
@@ -1195,7 +1164,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_bgfpxtyjckbbc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015514Z
+DTSTAMP:20260626T015645Z
 DTSTART;TZID=America/Los_Angeles:20260720T180000
 DTEND;TZID=America/Los_Angeles:20260720T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1227,7 +1196,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_ndpjxtyjckbcc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015514Z
+DTSTAMP:20260626T015645Z
 DTSTART;TZID=America/Los_Angeles:20260721T100000
 DTEND;TZID=America/Los_Angeles:20260721T110000
 SUMMARY:Gentle yoga
@@ -1252,7 +1221,7 @@ X-SOURCE-ID:meetup_art_in_action
 X-SOURCE:Meetup: Art in Action
 UID:event_315190316@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015513Z
+DTSTAMP:20260626T015644Z
 DTSTART;TZID=America/Los_Angeles:20260725T130000
 DTEND;TZID=America/Los_Angeles:20260725T150000
 SUMMARY:Art in Action: Pressed Flower Suncatchers
@@ -1289,7 +1258,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_bgfpxtyjckbkc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015514Z
+DTSTAMP:20260626T015645Z
 DTSTART;TZID=America/Los_Angeles:20260727T180000
 DTEND;TZID=America/Los_Angeles:20260727T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1321,7 +1290,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_ndpjxtyjckblc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015514Z
+DTSTAMP:20260626T015645Z
 DTSTART;TZID=America/Los_Angeles:20260728T100000
 DTEND;TZID=America/Los_Angeles:20260728T110000
 SUMMARY:Gentle yoga
@@ -1346,7 +1315,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjckbmc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015513Z
+DTSTAMP:20260626T015644Z
 DTSTART;TZID=America/Los_Angeles:20260729T170000
 DTEND;TZID=America/Los_Angeles:20260729T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1378,7 +1347,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_bgfpxtyjclbfb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015514Z
+DTSTAMP:20260626T015645Z
 DTSTART;TZID=America/Los_Angeles:20260803T180000
 DTEND;TZID=America/Los_Angeles:20260803T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1410,7 +1379,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjclbhb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015513Z
+DTSTAMP:20260626T015644Z
 DTSTART;TZID=America/Los_Angeles:20260805T170000
 DTEND;TZID=America/Los_Angeles:20260805T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1436,7 +1405,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_315176714@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015513Z
+DTSTAMP:20260626T015644Z
 DTSTART;TZID=America/Los_Angeles:20260809T100000
 DTEND;TZID=America/Los_Angeles:20260809T133000
 SUMMARY:Relief Printmaking with Heather Hogan
@@ -1466,7 +1435,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstyjclbqb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015513Z
+DTSTAMP:20260626T015644Z
 DTSTART;TZID=America/Los_Angeles:20260812T170000
 DTEND;TZID=America/Los_Angeles:20260812T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1498,7 +1467,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjclbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015513Z
+DTSTAMP:20260626T015644Z
 DTSTART;TZID=America/Los_Angeles:20260819T170000
 DTEND;TZID=America/Los_Angeles:20260819T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1530,7 +1499,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_315385707@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015513Z
+DTSTAMP:20260626T015644Z
 DTSTART;TZID=America/Los_Angeles:20260822T100000
 DTEND;TZID=America/Los_Angeles:20260822T140000
 SUMMARY:Sculptural Papermaking with Bev Barnett
@@ -1561,7 +1530,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjclbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015513Z
+DTSTAMP:20260626T015644Z
 DTSTART;TZID=America/Los_Angeles:20260826T170000
 DTEND;TZID=America/Los_Angeles:20260826T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1593,7 +1562,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcmbdb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015513Z
+DTSTAMP:20260626T015644Z
 DTSTART;TZID=America/Los_Angeles:20260902T170000
 DTEND;TZID=America/Los_Angeles:20260902T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1614,12 +1583,44 @@ LAST-MODIFIED:20250814T213807Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/vwnqstyjcmbmb/"}
+X-SOURCE-ID:meetup_yolo_county_board_game_gathering
+X-SOURCE:Meetup Yolo County Board Game Gathering
+UID:event_vwnqstyjcmbmb@meetup.com
+SEQUENCE:1
+DTSTAMP:20260626T015644Z
+DTSTART;TZID=America/Los_Angeles:20260909T170000
+DTEND;TZID=America/Los_Angeles:20260909T210000
+SUMMARY:Weekly Game Night at Blue Note
+DESCRIPTION:Yolo County Board Game Gathering\nUpdate 8/14/25:\n**We're sti
+ ll active**\, but we primarily use Discord to chat and plan events. (See g
+ roup description for invite link.)\n\nWe still meet every Wednesday for bo
+ ard games at Blue Note Brewing Company. We'll have a handful of tables res
+ erved near the back\; just look for the pile of board games.\n\nPeople usu
+ ally start arriving around 5pm\, and games start whenever people are ready
+ . Blue Note closes at 9pm\, and although we have a 5-10 minute grace perio
+ d there\, you should be in the process of final scoring by 9\, or else pac
+ k it up and play again another day.\n\nGame night is open to all ages! Blu
+ e Note is a brewery\, not a bar\, so there's no restriction against minors
+ . In addition to their crafted-in-house beer selection\, water and sodas a
+ re available.\n\nYou're not required to buy anything in order to join us\,
+  but we do encourage you to support local businesses. Blue Note's chef tea
+ m makes a mean pizza\, and there are other nearby downtown restaurants and
+  businesses.
+URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
+ ts/vwnqstyjcmbmb/
+STATUS:CONFIRMED
+CREATED:20250814T213602Z
+LAST-MODIFIED:20250814T213602Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/315045635/"}
 X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315045635@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015512Z
+DTSTAMP:20260626T015643Z
 DTSTART;TZID=America/Los_Angeles:20260912T160000
 DTEND;TZID=America/Los_Angeles:20260912T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1658,7 +1659,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315046964@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015512Z
+DTSTAMP:20260626T015643Z
 DTSTART;TZID=America/Los_Angeles:20260912T180000
 DTEND;TZID=America/Los_Angeles:20260912T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1697,7 +1698,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315047643@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015512Z
+DTSTAMP:20260626T015643Z
 DTSTART;TZID=America/Los_Angeles:20260912T190000
 DTEND;TZID=America/Los_Angeles:20260912T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1736,7 +1737,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_rjtwxtyjcmbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015512Z
+DTSTAMP:20260626T015643Z
 DTSTART;TZID=America/Los_Angeles:20260919T160000
 DTEND;TZID=America/Los_Angeles:20260919T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1775,7 +1776,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_tjtwxtyjcmbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015512Z
+DTSTAMP:20260626T015643Z
 DTSTART;TZID=America/Los_Angeles:20260919T180000
 DTEND;TZID=America/Los_Angeles:20260919T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1814,7 +1815,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_vjtwxtyjcmbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015512Z
+DTSTAMP:20260626T015643Z
 DTSTART;TZID=America/Los_Angeles:20260919T190000
 DTEND;TZID=America/Los_Angeles:20260919T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1853,7 +1854,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_rjtwxtyjcmbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015512Z
+DTSTAMP:20260626T015643Z
 DTSTART;TZID=America/Los_Angeles:20260926T160000
 DTEND;TZID=America/Los_Angeles:20260926T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1892,7 +1893,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_tjtwxtyjcmbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015512Z
+DTSTAMP:20260626T015643Z
 DTSTART;TZID=America/Los_Angeles:20260926T180000
 DTEND;TZID=America/Los_Angeles:20260926T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1931,7 +1932,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_vjtwxtyjcmbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015512Z
+DTSTAMP:20260626T015643Z
 DTSTART;TZID=America/Los_Angeles:20260926T190000
 DTEND;TZID=America/Los_Angeles:20260926T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1970,7 +1971,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_rjtwxtyjcnbfb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260625T015512Z
+DTSTAMP:20260626T015643Z
 DTSTART;TZID=America/Los_Angeles:20261003T160000
 DTEND;TZID=America/Los_Angeles:20261003T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
