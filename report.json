@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-02T01:55:12.804163",
+  "generated": "2026-07-03T01:25:18.365292",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34387,6 +34387,10 @@
             {
               "date": "2026-07-02",
               "count": 1
+            },
+            {
+              "date": "2026-07-03",
+              "count": 1
             }
           ]
         },
@@ -34850,6 +34854,10 @@
             },
             {
               "date": "2026-07-02",
+              "count": 0
+            },
+            {
+              "date": "2026-07-03",
               "count": 0
             }
           ]
@@ -35315,6 +35323,10 @@
             {
               "date": "2026-07-02",
               "count": 1
+            },
+            {
+              "date": "2026-07-03",
+              "count": 1
             }
           ]
         },
@@ -35778,6 +35790,10 @@
             },
             {
               "date": "2026-07-02",
+              "count": 10
+            },
+            {
+              "date": "2026-07-03",
               "count": 10
             }
           ]
@@ -36243,6 +36259,10 @@
             {
               "date": "2026-07-02",
               "count": 10
+            },
+            {
+              "date": "2026-07-03",
+              "count": 10
             }
           ]
         },
@@ -36706,6 +36726,10 @@
             },
             {
               "date": "2026-07-02",
+              "count": 10
+            },
+            {
+              "date": "2026-07-03",
               "count": 10
             }
           ]
@@ -37171,6 +37195,10 @@
             {
               "date": "2026-07-02",
               "count": 3
+            },
+            {
+              "date": "2026-07-03",
+              "count": 3
             }
           ]
         },
@@ -37634,6 +37662,10 @@
             },
             {
               "date": "2026-07-02",
+              "count": 0
+            },
+            {
+              "date": "2026-07-03",
               "count": 0
             }
           ]
@@ -38099,6 +38131,10 @@
             {
               "date": "2026-07-02",
               "count": 10
+            },
+            {
+              "date": "2026-07-03",
+              "count": 10
             }
           ]
         },
@@ -38562,6 +38598,10 @@
             },
             {
               "date": "2026-07-02",
+              "count": 0
+            },
+            {
+              "date": "2026-07-03",
               "count": 0
             }
           ]
@@ -39027,6 +39067,10 @@
             {
               "date": "2026-07-02",
               "count": 0
+            },
+            {
+              "date": "2026-07-03",
+              "count": 0
             }
           ]
         },
@@ -39491,6 +39535,10 @@
             {
               "date": "2026-07-02",
               "count": 0
+            },
+            {
+              "date": "2026-07-03",
+              "count": 24
             }
           ]
         },
@@ -39955,21 +40003,45 @@
             {
               "date": "2026-07-02",
               "count": 0
+            },
+            {
+              "date": "2026-07-03",
+              "count": 30
             }
           ]
         }
       },
       "categories": [
         {
+          "category": "Music / Concerts",
+          "count": 15
+        },
+        {
           "category": "Education / Workshops",
-          "count": 13
+          "count": 15
         },
         {
           "category": "Community / Social",
-          "count": 10
+          "count": 14
+        },
+        {
+          "category": "Nature / Outdoors / Recreation",
+          "count": 12
+        },
+        {
+          "category": "Food / Drink",
+          "count": 11
+        },
+        {
+          "category": "Arts / Culture",
+          "count": 11
         },
         {
           "category": "Health / Wellness",
+          "count": 5
+        },
+        {
+          "category": "Dance / Performance",
           "count": 5
         },
         {
@@ -39977,40 +40049,50 @@
           "count": 5
         },
         {
-          "category": "Arts / Culture",
-          "count": 4
-        },
-        {
-          "category": "Music / Concerts",
-          "count": 4
-        },
-        {
-          "category": "Food / Drink",
-          "count": 3
-        },
-        {
           "category": "Sports / Fitness",
           "count": 1
         }
       ],
       "images": {
-        "total": 45,
-        "with_image": 0,
-        "by_source": []
+        "total": 94,
+        "with_image": 43,
+        "by_source": [
+          {
+            "source": "Visityolo Event",
+            "total": 26,
+            "with_image": 20
+          },
+          {
+            "source": "Visit Davis",
+            "total": 19,
+            "with_image": 19
+          },
+          {
+            "source": "Visit Davis, Visityolo Event",
+            "total": 4,
+            "with_image": 4
+          }
+        ]
       },
       "url_quality": {
-        "total_with_url": 44,
-        "total_events": 45,
-        "unique_urls": 44,
+        "total_with_url": 93,
+        "total_events": 94,
+        "unique_urls": 93,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
         "http_domains": 0,
         "source_specificity": [
           {
-            "source": "Meetup Yolo County Board Game Gathering",
-            "events": 10,
-            "unique_urls": 10,
+            "source": "Visityolo Event",
+            "events": 26,
+            "unique_urls": 26,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Visit Davis",
+            "events": 19,
+            "unique_urls": 19,
             "specificity_pct": 100
           },
           {
@@ -40026,9 +40108,21 @@
             "specificity_pct": 100
           },
           {
+            "source": "Meetup Yolo County Board Game Gathering",
+            "events": 10,
+            "unique_urls": 10,
+            "specificity_pct": 100
+          },
+          {
             "source": "Meetup Intercultural Mosaics",
             "events": 10,
             "unique_urls": 10,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Visit Davis, Visityolo Event",
+            "events": 4,
+            "unique_urls": 4,
             "specificity_pct": 100
           },
           {
@@ -40038,7 +40132,7 @@
             "specificity_pct": 100
           },
           {
-            "source": "Meetup: Art in Action",
+            "source": "Meetup: Art in Action, Visit Davis",
             "events": 1,
             "unique_urls": 1,
             "specificity_pct": 100
