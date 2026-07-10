@@ -1,1 +1,310 @@
-<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fevents%2F%3Fical%3D1&y=ipr:20.127.245.162:1783560238.961"></meta></head></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Visit Davis - ECPv6.17.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Visit Davis
+X-ORIGINAL-URL:https://visitdavis.org
+X-WR-CALDESC:Events for Visit Davis
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20270314T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20271107T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260709T173026Z
+CREATED:20260619T173046Z
+LAST-MODIFIED:20260709T173026Z
+UID:10002890-1783641600-1786924799@visitdavis.org
+SUMMARY:Mirabel Wigon: Earth Stars
+DESCRIPTION:Mirabel Wigon: Earth Stars at Pence Gallery in Davis \nExhibit: July 10 – August 16\, 2026 \nReception: July 10\, 6-9 PM (Free) \nMirabel Wigon’s Earth Stars features imagined and fantastical futures with flora as the main subject. Her paintings deconstruct and reconstruct plant forms to explore the intermingled and entangled relationships in the natural world. Her range of mediated source materials\, including photogrammetry scans of botanical specimens\, offers new ways of looking at our planetary cohabitants. Wigon uses augmented reality to reveal the 3D models made through photogrammetry\, further entangling the viewer in the processes of the paintings’ construction. Her reflections of mediation and translation call for a future that values diversity\, adaptation\, and perseverance. \nImage: Mirabel Wigon\, “Celestial Lattice”
+URL:https://visitdavis.org/event/mirabel-wigon-earth-stars/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Mirabel-Wigon-Celestial-Lattice-Caasjb.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260709T173016Z
+CREATED:20260630T053014Z
+LAST-MODIFIED:20260709T173016Z
+UID:10002976-1783641600-1786924799@visitdavis.org
+SUMMARY:Slice: A Juried Exhibit of Regional Art
+DESCRIPTION:Slice: A Juried Exhibit of Regional Art \nExhibit: July 10 – August 16\, 2026 \nReception: July 10\, 6-9 PM (Awards at 8 PM) \n  \nSlice celebrates the diversity of expression in our region with an array of sculpture\, prints\, paintings\, and photography created by 36 visual artists. This year marks the 14th anniversary of the Pence’s regional call to artists\, affectionately called Slice. Representing a ‘slice’ of work fresh from the studio produced by new and established artists working in the state\, this annual juried exhibit has quickly gained a reputation for displaying innovative and thought-provoking work. The selected work is chosen by the juror for its merit rather than its ability to fit within any particular theme or concept. As with any juried ‘open theme’ selection\, the connections between the artworks can prove to be mind-bending or head-scratching.  \n  \nGioia Fonda is this year’s juror of Slice. Fonda is an interdisciplinary artist working primarily in two-dimensional media (painting\, drawing\, sewing\, and photography) with occasional forays in sculpture\, social practice\, and public art. She tends to work in a colorful and non-objective manner\, but just under the surface\, her work is often imbued with storytelling and narrative. She has a bi-coastal art education\, having earned a BFA at the California College of the Arts and an MFA at the School of Visual Arts in New York. Gioia is a dedicated member of the Sacramento art community\, contributing as an artist\, curator\, jurist\, and collaborator. She is also a tenured professor of art at Sacramento City College\, where she teaches painting\, drawing\, and design. Her work has been exhibited widely throughout Northern California and is held in many private and public collections throughout the U.S. \n  \nImage: Michael Larson\, “Day Turns to Night #2”
+URL:https://visitdavis.org/event/slice-a-juried-exhibit-of-regional-art/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/png:https://visitdavis.org/wp-content/uploads/Michael-Larson-Day-turns-to-night-2-KB-0v3jh3.png
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260710T180000
+DTEND;TZID=America/Los_Angeles:20260710T210000
+DTSTAMP:20260709T173026Z
+CREATED:20260619T173050Z
+LAST-MODIFIED:20260709T173026Z
+UID:10002891-1783706400-1783717200@visitdavis.org
+SUMMARY:2nd Friday ArtAbout at the Pence Gallery
+DESCRIPTION:Join us at the Pence Gallery for our 2nd Friday ArtAbout reception on July 10\, 6-9 PM. Enjoy viewing all new exhibits\, complimentary wine\, and an art-themed scavenger hunt. Free admission! \n  \nSlice: A Juried Exhibit of Regional Art | Jul. 10 – Aug. 16 \nSlice celebrates the diversity of expression in our region with an array of sculpture\, prints\, paintings\, and photography created by 36 visual artists. This year’s juror is Gioia Fonda\, and awards will be announced at 8 PM. \n  \nMirabel Wigon: Earth Stars | Jul. 10 – Aug. 16 \nEarth Stars brings together the artist’s expansive new series of botanical inspired paintings. Working in oil and acrylic on canvas\, her paintings have an illustrative quality\, immersing the viewer in imaginative worlds where flora works in tandem with geometric forms. See her work take 3D form through augmented reality technology. \n  \nExhibit It! A Community Art Exhibit | Jul. 3 – Aug. 16 \nExhibit It! highlights the talent of our community’s artists. View 50 artworks in different media\, and vote for your favorite artist to win the Public Choice Award (announced at the conclusion of the exhibit). The Curator’s Choice Award will be announced during the reception at 7:30 PM. \n  \nDavid Burkholder: Day Trip | Jul. 3 – Aug. 28 \nDay Trip showcases oil paintings along the stairway by plein air painter David Burkholder. This series explores the beauty and variety within Northern California and its close neighbors\, capturing the warm light and diverse landscapes. \n  \nScavenger Hunt: Join us for a fun\, art-themed scavenger hunt at the Pence during the 2nd Friday ArtAbout. Complete all of the clues by exploring our exhibits for the chance to win a special prize. \n  \n— \n  \nVisit the Pence and other venues in Downtown Davis for the 2nd Friday ArtAbout artwalk. We will have printed ArtAbout guides available that week. Follow the ArtAbout’s Facebook page for more information: https://www.facebook.com/davisartabout. \n  \nImages: \nEdward Lance Montgomery\, “Kinetic Ambiguity” \nMirabel Wigon\, “Emergence” \nDavid Burkholder\, “Ft Sutter”
+URL:https://visitdavis.org/event/2nd-friday-artabout-at-the-pence-gallery-15/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/July-10-banner-copy-kS5SBF.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260710T193000
+DTEND;TZID=America/Los_Angeles:20260710T213000
+DTSTAMP:20260709T173026Z
+CREATED:20260623T173044Z
+LAST-MODIFIED:20260709T173026Z
+UID:10002897-1783711800-1783719000@visitdavis.org
+SUMMARY:Katie Knipp Live @ The Melon Ball
+DESCRIPTION:The Melon Ball in Davis presents… \nKatie Knipp is a powerhouse blues and Americana artist from Northern California\, celebrated for her raw\, soul-deep vocals and multi-instrumental fire. A Billboard-charting songwriter and performer\, she blends blues\, Americana\, rock\, and genre-bending experimental edges into a sound that’s unmistakably her own. \nBorn in Alameda and trained in music at Cal State East Bay\, Knipp has built a national reputation through relentless touring and a string of acclaimed releases. Her albums Take It With You (2018)\, The Well (2021)\, Live at The Green Room Social Club (2022)\, and Me (2024) all landed on the Billboard Blues Albums Chart\, with The Well debuting at No. 4. \nA two-time Sacramento Music Award winner for Best Blues Artist (2019\, 2020)\, Knipp has shared stages with legends including Robert Cray\, Jimmie Vaughan\, Joan Osborne\, The Doobie Brothers\, and Ruthie Foster. \nKnown for her electrifying live shows—switching between piano\, slide guitar\, and harmonica—Knipp continues to be one of Sacramento’s most dynamic and nationally recognized musical voices \nWEBSITE\nINSTAGRAM\nFACEBOOK \n$20 General Admission\nDoors open at 7:00pm\nThis is a BYOB event!
+URL:https://visitdavis.org/event/katie-knipp-live-the-melon-ball/
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/KatieKnipp_Website-1-gdAzyJ.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260711T080000
+DTEND;TZID=America/Los_Angeles:20260711T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002919-1783756800-1783774800@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-07-11/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260715T160000
+DTEND;TZID=America/Los_Angeles:20260715T200000
+DTSTAMP:20260624T192743Z
+CREATED:20250825T081126Z
+LAST-MODIFIED:20260624T192743Z
+UID:10002968-1784131200-1784145600@visitdavis.org
+SUMMARY:Davis Farmers Market Picnic In The Park
+DESCRIPTION:The popular Davis Farmers Market event is every Wednesday from 4 to 8 p.m.\, April through August. A local band plays each night. There’s children’s entertainment\, loads of food vendors\, and plenty of opportunity to gather as a community. October through April\, there’s a traditional farmers market on Wednesdays\, from 3 to 6 p.m. \nPicnic in the Park focuses on family-friendly children’s activities and music\, along with a wide range of food made from market ingredients. There is a clown\, face-painter and children’s activities. \nYear-round in downtown Davis\, thousands gather each week to shop for what is grown\, raised and made locally. Since 1976\, the Davis Farmers Market has connected and supported communities\, area agriculture\, farmers and artisan food producers. It educates the public about nutrition\, sustainable agriculture\, and the local economic value of buying food and products directly from the producer.
+URL:https://visitdavis.org/event/davis-farmers-market-picnic-in-the-park-21/2026-07-15/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/486434334_1090519546450339_214190693011889520_n-scaled-Ch1zBz.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260715T170000
+DTEND;TZID=America/Los_Angeles:20260715T180000
+DTSTAMP:20260709T173013Z
+CREATED:20260623T173015Z
+LAST-MODIFIED:20260709T173013Z
+UID:10002893-1784134800-1784138400@visitdavis.org
+SUMMARY:Richard Gilewitz Workshop for Guitar and Ukulele
+DESCRIPTION:Watermelon Music presents a workshop with Richard Gilewitz. \nAre you a guitarist who’s always wanted to be in a band but never had the chance or thought you could be? Or are you already in a band and want more strategies and techniques to take your musicianship to the next level? Whatever your musical background\, this workshop is for you! As an experienced master class instructor\, Richard knows how to bring folks of varying levels of experience together so newer players never feel left out or confused\, and more advanced guitarists are never bored or restrained to slow down for the beginner. Under Richard’s direction\, we will ‘create a band’ on the spot with a combination of rhythms\, fingerpicking\, and a touch of music theory. You’ll learn how to: join and exit the group\, listen to yourself and each other\, vary your dynamic attack\, play with your eyes closed\, follow your breath\, and release body tension. He’ll also experiment with different instrumental voicings with the use of a capo to create a layered\, symphonic sound. You’ll leave the workshop knowing you gained valuable new skills and contributed to making some beautiful noise with others who love the guitar too. \nSkills Needed: Some experience with a few basic chords and strumming. Barre chords and fingerpicking are helpful but not required. \nWhat to Bring: A guitar. Optional but helpful: tuner\, capo\, pencil\, and paper. Handout materials will be provided. \nTeacher: Never one to settle for the boring or mundane\, Richard Gilewitz surprises audiences with his hilariously eccentric vision of the world and its inhabitants alongside breathtaking fingerstyle artistry on the 6- and 12-string guitar. Named one of the top fingerstyle guitarists of all time\, Richard invariably captivates listeners with uniquely emotional interpretations of romping knuckle busters and contemplative classical tunes reimagined for steel strings. He credits his ability to pull the deepest breath out of a tune to having studied for decades with a classical guitarist\, who was himself taught by a violinist who played alongside Albert Einstein. That is Richard in a nutshell…unusual\, unique\, surprising\, and a master of fingerstyle guitar.
+URL:https://visitdavis.org/event/richard-gilewitz-workshop-for-guitar-and-ukulele/
+LOCATION:Watermelon Music\, 1970 Lake Blvd\, DAVIS\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/071526WKSHP-2-EbcnhV.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260715T193000
+DTEND;TZID=America/Los_Angeles:20260715T213000
+DTSTAMP:20260709T173026Z
+CREATED:20260623T173045Z
+LAST-MODIFIED:20260709T173026Z
+UID:10002898-1784143800-1784151000@visitdavis.org
+SUMMARY:Richard Gilewitz Concert Live @ The Melon Ball
+DESCRIPTION:Internationally acclaimed fingerstyle guitarist Richard Gilewitz will appear live at The Melon Ball in Davis on Wednesday\, July 15\, 2026 as part of his album release tour supporting his tenth studio recording\, GILEWITZ. \nKnown for his dazzling technique\, intricate fingerpicking\, and playful storytelling\, Richard brings a one-of-a-kind performance. Don’t miss the chance to experience an intimate performance from one of the most distinctive musicians in acoustic guitar. \nWidely regarded for his virtuoso fingerstyle technique and engaging stage presence\, Gilewitz has toured internationally for more than three decades\, earning praise for performances that move seamlessly between classical\, blues\, folk\, jazz\, and rock traditions. His repertoire spans from Bach to Zeppelin\, delivered with technical mastery and a storyteller’s charm. DigitalDreamDoor has ranked him among the Top 100 Greatest Acoustic Guitar Players of All Time. \nGilewitz has performed at major festivals and venues worldwide\, including the 1996 Atlanta Olympics\, and has opened for artists such as Warren Zevon\, America\, Leo Kottke\, Steve Morse\, and The Little River Band\, as well as comedians including Richard Lewis and Louie Anderson. Guitar legend Leo Kottke recorded one of Gilewitz’s original compositions\, retitling it Echoing Gilewitz in his honor.\nIn addition to his performance career\, Gilewitz is a respected educator and creator of instructional materials for TrueFire and Mel Bay Publications\, and is the founder of Gillacamp Guitar and Ukulele Camp. His recent appearances include repeated invitations to perform at the Chicago Botanic Gardens\, where he drew the largest audience in the venue’s summer concert series history. \n  \n 
+URL:https://visitdavis.org/event/richard-gilewitz-concert-live-the-melon-ball/
+LOCATION:Watermelon Music\, 1970 Lake Blvd\, DAVIS\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/071526TICKET-2-Blibpu.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260718T080000
+DTEND;TZID=America/Los_Angeles:20260718T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002920-1784361600-1784379600@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-07-18/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260718T193000
+DTEND;TZID=America/Los_Angeles:20260718T213000
+DTSTAMP:20260709T173026Z
+CREATED:20260623T173046Z
+LAST-MODIFIED:20260709T173026Z
+UID:10002899-1784403000-1784410200@visitdavis.org
+SUMMARY:Jim Bruno Trio w/ Maxwell Oaks Live @ The Melon Ball
+DESCRIPTION:The Melon Ball in Davis presents… \nThe Jim Bruno Trio features Jim Barnes on Lead Guitar and Andrew Sisco on Bass.  Joining the show as the opening act will be Maxwell Oaks. \nJim Bruno is a Northern California based published songwriter. Songs he’s written or co-written have been recorded and released by Shawn Colvin\, Chuck Prophet\, Thad Cockrell\, Mary Lou Lord\, Cliff Eberhardt\, Maurice Tani and Laurie MacAlister. \nAs a performing songwriter he has performed with or opened shows for the following artists: Shawn Colvin\, Timothy B Schmidt\, Graham Parker\, John Gorka\, Charlie Musselwhite\, Joe Ely\, Greg Brown\, Mary Lou Lord\, Steve Forbert\, Bill Morrissey\, Big Twist\, and Cliff Eberhardt.  He’s performed at the Greenwich Village Folk Festival\, the Udine Folk Festival in Udine\, Italy and has toured five times in Europe. He also played bass\, guitar and sang in the Shawn Colvin Band for a number of years and often performed with Shawn as a duet. \nHe’s had numerous song publishing agreements. Among others these publishers include Bug Music and the Welk Music Group in Los Angeles\, and Largo Music in New York. In addition to his having his own publishing company\, Jimmy Bruno Music\, as a songwriter he currently has a music publishing agreement with Universal Music Group. He is an affiliated Publisher and Songwriter with BMI and the Harry Fox Agency. He’s also a voting member of the Recording Academy. \nHe taught Songwriting at Foothill College in Los Altos\, California and at the Freight and Salvage\, a prominent acoustic music venue in Berkeley\, California. \nJim Bruno’s Website \n$20 General Admission\nDoors open at 7:00
+URL:https://visitdavis.org/event/jim-bruno-trio-w-maxwell-oaks-live-the-melon-ball/
+LOCATION:Watermelon Music\, 1970 Lake Blvd\, DAVIS\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/JimBrunoTrio_New-2-NzOHvy.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260719T190000
+DTEND;TZID=America/Los_Angeles:20260719T210000
+DTSTAMP:20260709T173026Z
+CREATED:20260623T173041Z
+LAST-MODIFIED:20260709T173026Z
+UID:10002894-1784487600-1784494800@visitdavis.org
+SUMMARY:Michael Kirkpatrick Live @ The Melon Ball
+DESCRIPTION:The Melon Ball in Davis presents… \nMichael Kirkpatrick\, Rocky Mountain-based vocalist and songwriter blends elements of acoustic fingerstyle and folk rock to cradle lush songscapes in a fuzzy paradoxical blanket of sunshine and fog. Obsessed by mandolin\, guitar and groomed by bluegrass festival culture\, Michael has carved a unique presence in the Colorado singer-songwriter\, string band and rock scene. With a voice that ranges from a quiet rumble to powerful mountain-top exclamation\, Michael’s passionate vocals bring to life lyrics about dreams\, sensuality\, and reverence for nature. \n“Michael Kirkpatrick has the voice of an anthropomorphic brontosaurus that has popped out of a children’s book to teach kids about the dangers of playing with matches” – The Scene Magazine \nWith over 30 years of experience on stage\, Michael has toured extensively and won multiple awards for his songwriting\, including the prestigious Telluride Troubadour award. His rich baritone voice\, eclectic picking\, and absurdly earnest storytelling have established Michael as an unconventionally entertaining live performer with a loyal audience. Michael currently tours as a soloist\, as the front man for the Neo-psychedelic New-Wave Americana band Violet Pilot and the Grateful Dead tribute act Pickin’ On The Dead. \n“Michael does things to a mandolin that shouldn’t be done to a mandolin” – Chris K\, The Colorado Playlist \nThroughout his career\, Michael has shared the stage with some of the biggest names in music\, including Zac Brown\, Charlie Musselwhite\, Sam Bush\, Billy Valentine\, Sonny Charles\, Jim Belushi\, Darol Anger\, Greensky Bluegrass\, Billy Strings\, Brian Nova\, Leftover Salmon\, and many others. Michael has received numerous accolades for his music\, including the “Best Colorado Folk/Singer-Songwriter Album of 2013” from the Colorado Sound Fan Poll for his album “Key to My Cage\,” the 2014 Telluride Troubadour Award\, and seven consecutive “Best Singer-Songwriter” awards from the Fort Collins Musicians Association. In 2019\, he was honored with FoCoMA’s Lifetime Achievement Award. In 2022\, Michael released the highly anticipated debut album by Neo-Psychedelic New-Wave Americana band: Violet Pilot\, “Glad We Found You.” Michael’s latest record “Away-O” (released Jan 12\, 2024) was recorded on a bright\, snowy day in an empty house in the foothills of Colorado’s Front Range. The 12 songs for fingerstyle guitar and voice were captured with an organic\, live approach\, mimicking the vibe of Michael’s intimate solo house concerts. \nMichael Kirkpatrick Official Website \nFacebook  –  Instagram  –  YouTube  –  Spotify  –  Band Camp  –  Amazon Music \nThe Eyes Don’t Lie (w/ band)\nBack To Colorado (solo) \n$20 General Admission\nDoors Open at 6:30pm\nThis is a BYOB Event!
+URL:https://visitdavis.org/event/michael-kirkpatrick-live-the-melon-ball/
+LOCATION:Watermelon Music\, 1970 Lake Blvd\, DAVIS\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/MichaelKirkpatrick-3-uin1F9.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260722T160000
+DTEND;TZID=America/Los_Angeles:20260722T200000
+DTSTAMP:20260624T192743Z
+CREATED:20250825T081126Z
+LAST-MODIFIED:20260624T192743Z
+UID:10002969-1784736000-1784750400@visitdavis.org
+SUMMARY:Davis Farmers Market Picnic In The Park
+DESCRIPTION:The popular Davis Farmers Market event is every Wednesday from 4 to 8 p.m.\, April through August. A local band plays each night. There’s children’s entertainment\, loads of food vendors\, and plenty of opportunity to gather as a community. October through April\, there’s a traditional farmers market on Wednesdays\, from 3 to 6 p.m. \nPicnic in the Park focuses on family-friendly children’s activities and music\, along with a wide range of food made from market ingredients. There is a clown\, face-painter and children’s activities. \nYear-round in downtown Davis\, thousands gather each week to shop for what is grown\, raised and made locally. Since 1976\, the Davis Farmers Market has connected and supported communities\, area agriculture\, farmers and artisan food producers. It educates the public about nutrition\, sustainable agriculture\, and the local economic value of buying food and products directly from the producer.
+URL:https://visitdavis.org/event/davis-farmers-market-picnic-in-the-park-21/2026-07-22/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/486434334_1090519546450339_214190693011889520_n-scaled-Ch1zBz.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260724T200000
+DTEND;TZID=America/Los_Angeles:20260724T220000
+DTSTAMP:20260709T173026Z
+CREATED:20260623T173105Z
+LAST-MODIFIED:20260709T173026Z
+UID:10002904-1784923200-1784930400@visitdavis.org
+SUMMARY:The Willow Snags Live @ The Melon Ball
+DESCRIPTION:The Melon Ball in Davis presents… \nThe Willow Snags (Sacramento\, CA) are a rock band rooted in the blues and psychedelia of the 1960s. Typically found performing 2 – 3 hour sets in local haunts and dive bars in the Sacramento area\, The Willow Snags had the honor of opening up for the legendary 4 Non Blondes at the Great American Music Hall on 12/17/2025. \nFeaturing the talents of UC Davis alumni Mia Mercado on electric organ/vocals\, UC Davis alumni Diego Martinez-Campos on percussion\, Joshua Williams on lead guitar\, Marisol Werner on rhythm guitar\, and Johnny Mercado on vocals. \nAlaskan Bull Worm – Video\nSister – Video \nInstagram\nSpotify\nApple Music \n$15 General Admission\nDoors open at 7:30pm\nThis is a BYOB Event!
+URL:https://visitdavis.org/event/the-willow-snags-live-the-melon-ball/
+LOCATION:Watermelon Music\, 1970 Lake Blvd\, DAVIS\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/WillowSnags_WebPage2-3-dNvneT.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260725T080000
+DTEND;TZID=America/Los_Angeles:20260725T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002921-1784966400-1784984400@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-07-25/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260725T130000
+DTEND;TZID=America/Los_Angeles:20260725T150000
+DTSTAMP:20260709T173020Z
+CREATED:20260619T173016Z
+LAST-MODIFIED:20260709T173020Z
+UID:10002887-1784984400-1784991600@visitdavis.org
+SUMMARY:Art in Action: Pressed Flower Suncatchers
+DESCRIPTION:Art in Action: Pressed Flower Suncatchers at Pence Gallery in Davis \nSaturday\, July 25\, 1-3 PM \n$5 Members\, $10 Non-Members (per person\, all materials included) \nCreate the perfect artwork to hang in your window! Using a circle punch\, branches\, pressed flowers\, and other materials\, craft your very own suncatcher filled with flowers and leaves.  \n  \nHow it works: \nArt in Action engages kids in art projects that are fun\, creative\, and collaborative with their family members. This is a drop-in program for ages 5-12. No registration in advance is required\, but space and supplies are limited to the first 25 participants and are available on a first come\, first served basis.  \n  \nWhen you arrive\, pay with cash or card at the front desk. A parent or adult caregiver is required to stay\, but only has to pay for the project for themselves if they are also doing art. Stay as long or as short as you like over the two hour period.  \n  \nBecome a Member starting at $70/year and save! If you join the Pence Gallery when you attend this workshop\, you can enjoy Member pricing for Art in Action\, plus receive a $5 gift certificate to our gift shop as a thank you. Membership supports art for all ages and makes creative moments like this possible—jump in and be part of it. \n  \nWe have a different Art in Action family workshop every month. Learn more at https://pencegallery.org/art-in-action/. \n  \nThis monthly program is generously sponsored by Mary Stephens DeWall & Les DeWall.
+URL:https://visitdavis.org/event/art-in-action-pressed-flower-suncatchers/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Art-in-Action-logo-17-DkVWfS.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260725T200000
+DTEND;TZID=America/Los_Angeles:20260725T223000
+DTSTAMP:20260709T173026Z
+CREATED:20260623T173047Z
+LAST-MODIFIED:20260709T173026Z
+UID:10002900-1785009600-1785018600@visitdavis.org
+SUMMARY:Adrian West Band Live @ The Melon Ball
+DESCRIPTION:Adrian West Band returns to Davis for another night of great live music. Performing as a six-piece band with pianist (Michael Echaniz) on the Steinway grand piano they’ll play their signature mix of original acoustic rock\, a couple covers and few jazz tunes. Some describe their sound as “Paul Simon meets Talking Heads”. The band will include two vocalists\, acoustic guitar\, piano\, electric violin\, alto sax\, upright bass\, drums & live looping. More info coming soon. \nThis is a BYOB show! \n$20 General Admission\n$15 Students (w/student ID\, in-store or at the door only)\nKids under 12 FREE\nDoors open at 7:30
+URL:https://visitdavis.org/event/adrian-west-band-live-the-melon-ball/
+LOCATION:Watermelon Music\, 1970 Lake Blvd\, DAVIS\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/AdrianWest-2-s6yQyW.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260726T180000
+DTEND;TZID=America/Los_Angeles:20260726T200000
+DTSTAMP:20260709T173026Z
+CREATED:20260623T173042Z
+LAST-MODIFIED:20260709T173026Z
+UID:10002895-1785088800-1785096000@visitdavis.org
+SUMMARY:Open Mic & Music Trivia
+DESCRIPTION:Hosted by Jordyn Micke. \nCome beat the heat and join us in the air-conditioned Melon Ball in Davis for the July Open Mic! We will continue to feature our Music Trivia contest throughout the evening in between acts. The winner will receive a $20 Watermelon Music gift card! \nWhether you’re looking for a venue to share your own talents or just looking to enjoy hearing (and seeing) some local performers\, we invite you to this free monthly event. We provide the sound\, stage and lights – the rest is up to you. Play us your favorite song\, tell us some jokes\, act out a scene from your favorite play with friends. \nWe ask only that each performance be suitable for an all-ages venue\, and that you arrive on time and stay until the end to support your fellow performers. \nFREE!!!\nDoors open/sign-ups @ 5:30.\nFirst act @ 6:00. \nWe hope to see you there!
+URL:https://visitdavis.org/event/open-mic-music-trivia/
+LOCATION:Watermelon Music\, 1970 Lake Blvd\, DAVIS\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/July2026-1-Ichrpv.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260729T160000
+DTEND;TZID=America/Los_Angeles:20260729T200000
+DTSTAMP:20260624T192743Z
+CREATED:20250825T081126Z
+LAST-MODIFIED:20260624T192743Z
+UID:10002970-1785340800-1785355200@visitdavis.org
+SUMMARY:Davis Farmers Market Picnic In The Park
+DESCRIPTION:The popular Davis Farmers Market event is every Wednesday from 4 to 8 p.m.\, April through August. A local band plays each night. There’s children’s entertainment\, loads of food vendors\, and plenty of opportunity to gather as a community. October through April\, there’s a traditional farmers market on Wednesdays\, from 3 to 6 p.m. \nPicnic in the Park focuses on family-friendly children’s activities and music\, along with a wide range of food made from market ingredients. There is a clown\, face-painter and children’s activities. \nYear-round in downtown Davis\, thousands gather each week to shop for what is grown\, raised and made locally. Since 1976\, the Davis Farmers Market has connected and supported communities\, area agriculture\, farmers and artisan food producers. It educates the public about nutrition\, sustainable agriculture\, and the local economic value of buying food and products directly from the producer.
+URL:https://visitdavis.org/event/davis-farmers-market-picnic-in-the-park-21/2026-07-29/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/486434334_1090519546450339_214190693011889520_n-scaled-Ch1zBz.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260731T193000
+DTEND;TZID=America/Los_Angeles:20260731T213000
+DTSTAMP:20260709T173026Z
+CREATED:20260623T173103Z
+LAST-MODIFIED:20260709T173026Z
+UID:10002903-1785526200-1785533400@visitdavis.org
+SUMMARY:The Alexander McClintock Quartet Live @ The Melon Ball
+DESCRIPTION:The Melon Ball in Davis presents… \nThe Alexander McClintock Quartet is a group of up-and-coming Sacramento-area musicians: Pianist Colbe Hunter\, Bassist Claire Seymour\, Drummer JJ Doolittle\, and Davis’ own Alexander McClintock on Saxophone. Come join us as we celebrate the jazz giants that have inspired many others\, including us\, and all the variety of beautiful music that has come out of it. \nAlexander McClintock Instagram\nColbe Hunter Instagram\nClaire Seymour Instagram\nJJ Doolittle Instagram \n$15 General Admission\nDoors open at 7:00pm\nThis is a BYOB event!
+URL:https://visitdavis.org/event/the-alexander-mcclintock-quartet-live-the-melon-ball/
+LOCATION:Watermelon Music\, 1970 Lake Blvd\, DAVIS\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/McClintock_WebPage-2-ttbsMC.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+END:VCALENDAR
