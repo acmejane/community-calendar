@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14T01:07:30.180760",
+  "generated": "2026-07-15T01:04:40.996257",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34435,6 +34435,10 @@
             {
               "date": "2026-07-14",
               "count": 0
+            },
+            {
+              "date": "2026-07-15",
+              "count": 0
             }
           ]
         },
@@ -34946,6 +34950,10 @@
             },
             {
               "date": "2026-07-14",
+              "count": 0
+            },
+            {
+              "date": "2026-07-15",
               "count": 0
             }
           ]
@@ -35459,6 +35467,10 @@
             {
               "date": "2026-07-14",
               "count": 1
+            },
+            {
+              "date": "2026-07-15",
+              "count": 2
             }
           ]
         },
@@ -35970,6 +35982,10 @@
             },
             {
               "date": "2026-07-14",
+              "count": 10
+            },
+            {
+              "date": "2026-07-15",
               "count": 10
             }
           ]
@@ -36483,6 +36499,10 @@
             {
               "date": "2026-07-14",
               "count": 10
+            },
+            {
+              "date": "2026-07-15",
+              "count": 10
             }
           ]
         },
@@ -36994,6 +37014,10 @@
             },
             {
               "date": "2026-07-14",
+              "count": 10
+            },
+            {
+              "date": "2026-07-15",
               "count": 10
             }
           ]
@@ -37507,6 +37531,10 @@
             {
               "date": "2026-07-14",
               "count": 3
+            },
+            {
+              "date": "2026-07-15",
+              "count": 3
             }
           ]
         },
@@ -38018,6 +38046,10 @@
             },
             {
               "date": "2026-07-14",
+              "count": 0
+            },
+            {
+              "date": "2026-07-15",
               "count": 0
             }
           ]
@@ -38531,6 +38563,10 @@
             {
               "date": "2026-07-14",
               "count": 10
+            },
+            {
+              "date": "2026-07-15",
+              "count": 10
             }
           ]
         },
@@ -39042,6 +39078,10 @@
             },
             {
               "date": "2026-07-14",
+              "count": 0
+            },
+            {
+              "date": "2026-07-15",
               "count": 0
             }
           ]
@@ -39555,6 +39595,10 @@
             {
               "date": "2026-07-14",
               "count": 0
+            },
+            {
+              "date": "2026-07-15",
+              "count": 0
             }
           ]
         },
@@ -40066,6 +40110,10 @@
             },
             {
               "date": "2026-07-14",
+              "count": 0
+            },
+            {
+              "date": "2026-07-15",
               "count": 0
             }
           ]
@@ -40579,6 +40627,10 @@
             {
               "date": "2026-07-14",
               "count": 0
+            },
+            {
+              "date": "2026-07-15",
+              "count": 0
             }
           ]
         }
@@ -40611,28 +40663,26 @@
         {
           "category": "Food / Drink",
           "count": 3
+        },
+        {
+          "category": "Family / Kids",
+          "count": 1
         }
       ],
       "images": {
-        "total": 44,
+        "total": 45,
         "with_image": 0,
         "by_source": []
       },
       "url_quality": {
-        "total_with_url": 44,
-        "total_events": 44,
-        "unique_urls": 44,
+        "total_with_url": 45,
+        "total_events": 45,
+        "unique_urls": 45,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
         "http_domains": 0,
         "source_specificity": [
-          {
-            "source": "Meetup Mindful Embodied Spirituality",
-            "events": 10,
-            "unique_urls": 10,
-            "specificity_pct": 100
-          },
           {
             "source": "Meetup Yolo County Board Game Gathering",
             "events": 10,
@@ -40641,6 +40691,12 @@
           },
           {
             "source": "Meetup: Mosaics",
+            "events": 10,
+            "unique_urls": 10,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Meetup Mindful Embodied Spirituality",
             "events": 10,
             "unique_urls": 10,
             "specificity_pct": 100
@@ -40659,8 +40715,8 @@
           },
           {
             "source": "Meetup: Art in Action",
-            "events": 1,
-            "unique_urls": 1,
+            "events": 2,
+            "unique_urls": 2,
             "specificity_pct": 100
           }
         ]
