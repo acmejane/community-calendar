@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T01:25:12.113063",
+  "generated": "2026-07-28T01:12:41.948281",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34487,6 +34487,10 @@
             {
               "date": "2026-07-27",
               "count": 0
+            },
+            {
+              "date": "2026-07-28",
+              "count": 0
             }
           ]
         },
@@ -35050,6 +35054,10 @@
             },
             {
               "date": "2026-07-27",
+              "count": 30
+            },
+            {
+              "date": "2026-07-28",
               "count": 30
             }
           ]
@@ -35615,6 +35623,10 @@
             {
               "date": "2026-07-27",
               "count": 1
+            },
+            {
+              "date": "2026-07-28",
+              "count": 1
             }
           ]
         },
@@ -36178,6 +36190,10 @@
             },
             {
               "date": "2026-07-27",
+              "count": 10
+            },
+            {
+              "date": "2026-07-28",
               "count": 10
             }
           ]
@@ -36743,6 +36759,10 @@
             {
               "date": "2026-07-27",
               "count": 10
+            },
+            {
+              "date": "2026-07-28",
+              "count": 10
             }
           ]
         },
@@ -37306,6 +37326,10 @@
             },
             {
               "date": "2026-07-27",
+              "count": 10
+            },
+            {
+              "date": "2026-07-28",
               "count": 10
             }
           ]
@@ -37871,6 +37895,10 @@
             {
               "date": "2026-07-27",
               "count": 4
+            },
+            {
+              "date": "2026-07-28",
+              "count": 5
             }
           ]
         },
@@ -38434,6 +38462,10 @@
             },
             {
               "date": "2026-07-27",
+              "count": 0
+            },
+            {
+              "date": "2026-07-28",
               "count": 0
             }
           ]
@@ -38999,6 +39031,10 @@
             {
               "date": "2026-07-27",
               "count": 10
+            },
+            {
+              "date": "2026-07-28",
+              "count": 10
             }
           ]
         },
@@ -39562,6 +39598,10 @@
             },
             {
               "date": "2026-07-27",
+              "count": 0
+            },
+            {
+              "date": "2026-07-28",
               "count": 0
             }
           ]
@@ -40127,6 +40167,10 @@
             {
               "date": "2026-07-27",
               "count": 0
+            },
+            {
+              "date": "2026-07-28",
+              "count": 0
             }
           ]
         },
@@ -40691,6 +40735,10 @@
             {
               "date": "2026-07-27",
               "count": 0
+            },
+            {
+              "date": "2026-07-28",
+              "count": 5
             }
           ]
         },
@@ -41255,6 +41303,10 @@
             {
               "date": "2026-07-27",
               "count": 0
+            },
+            {
+              "date": "2026-07-28",
+              "count": 28
             }
           ]
         }
@@ -41266,30 +41318,38 @@
         },
         {
           "category": "Education / Workshops",
-          "count": 13
+          "count": 15
         },
         {
           "category": "Community / Social",
-          "count": 10
+          "count": 12
+        },
+        {
+          "category": "Arts / Culture",
+          "count": 9
+        },
+        {
+          "category": "Nature / Outdoors / Recreation",
+          "count": 8
+        },
+        {
+          "category": "Health / Wellness",
+          "count": 7
+        },
+        {
+          "category": "Food / Drink",
+          "count": 7
+        },
+        {
+          "category": "Music / Concerts",
+          "count": 6
         },
         {
           "category": "Religion / Spirituality",
           "count": 5
         },
         {
-          "category": "Health / Wellness",
-          "count": 5
-        },
-        {
-          "category": "Arts / Culture",
-          "count": 4
-        },
-        {
-          "category": "Music / Concerts",
-          "count": 4
-        },
-        {
-          "category": "Food / Drink",
+          "category": "Dance / Performance",
           "count": 3
         },
         {
@@ -41298,20 +41358,30 @@
         }
       ],
       "images": {
-        "total": 75,
-        "with_image": 30,
+        "total": 103,
+        "with_image": 50,
         "by_source": [
           {
             "source": "Hate-Free Together",
             "total": 30,
             "with_image": 30
+          },
+          {
+            "source": "Visityolo Event",
+            "total": 22,
+            "with_image": 15
+          },
+          {
+            "source": "Visit Davis, Visityolo Event",
+            "total": 5,
+            "with_image": 5
           }
         ]
       },
       "url_quality": {
-        "total_with_url": 75,
-        "total_events": 75,
-        "unique_urls": 75,
+        "total_with_url": 103,
+        "total_events": 103,
+        "unique_urls": 103,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
@@ -41321,6 +41391,12 @@
             "source": "Hate-Free Together",
             "events": 30,
             "unique_urls": 30,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Visityolo Event",
+            "events": 22,
+            "unique_urls": 22,
             "specificity_pct": 100
           },
           {
@@ -41348,9 +41424,15 @@
             "specificity_pct": 100
           },
           {
+            "source": "Visit Davis, Visityolo Event",
+            "events": 5,
+            "unique_urls": 5,
+            "specificity_pct": 100
+          },
+          {
             "source": "Meetup Pence Adult Art Programs",
-            "events": 4,
-            "unique_urls": 4,
+            "events": 5,
+            "unique_urls": 5,
             "specificity_pct": 100
           },
           {
