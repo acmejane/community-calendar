@@ -7,12 +7,29 @@ X-WR-CALNAME:Lancaster Community Calendar
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-picnic-in-the-park-21/2026-07-29/", "Visityolo Event": "https://visityolo.com/event/davis-farmers-market-picnic-in-the-park-2-2/2026-07-29/"}
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-picnic-in-the-park-21/2026-07-29/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis, Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260729T160000
+DTEND;TZID=America/Los_Angeles:20260729T200000
+DTSTAMP:20260624T192743Z
+CREATED:20250825T081126Z
+LAST-MODIFIED:20260624T192743Z
+UID:10002970-1785340800-1785355200@visitdavis.org
+SUMMARY:Davis Farmers Market Picnic In The Park
+DESCRIPTION:The popular Davis Farmers Market event is every Wednesday from 4 to 8 p.m.\, April through August. A local band plays each night. There’s children’s entertainment\, loads of food vendors\, and plenty of opportunity to gather as a community. October through April\, there’s a traditional farmers market on Wednesdays\, from 3 to 6 p.m. \nPicnic in the Park focuses on family-friendly children’s activities and music\, along with a wide range of food made from market ingredients. There is a clown\, face-painter and children’s activities. \nYear-round in downtown Davis\, thousands gather each week to shop for what is grown\, raised and made locally. Since 1976\, the Davis Farmers Market has connected and supported communities\, area agriculture\, farmers and artisan food producers. It educates the public about nutrition\, sustainable agriculture\, and the local economic value of buying food and products directly from the producer.
+URL:https://visitdavis.org/event/davis-farmers-market-picnic-in-the-park-21/2026-07-29/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/486434334_1090519546450339_214190693011889520_n-scaled-Ch1zBz.jpg
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/315622201/"}
 X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_315622201@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011519Z
+DTSTAMP:20260730T010809Z
 DTSTART;TZID=America/Los_Angeles:20260729T170000
 DTEND;TZID=America/Los_Angeles:20260729T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -39,12 +56,115 @@ LAST-MODIFIED:20260710T003251Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/live-music-at-carbonis-ristorante/2026-07-29/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260729T173000
+DTEND;TZID=America/Los_Angeles:20260729T203000
+DTSTAMP:20260601T180918Z
+CREATED:20260601T175752Z
+LAST-MODIFIED:20260601T180918Z
+UID:10013905-1785346200-1785357000@visityolo.com
+SUMMARY:Live Music at Carboni's Ristorante
+DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
+URL:https://visityolo.com/event/live-music-at-carbonis-ristorante/2026-07-29/
+LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/bat-talk-and-tour-2/2026-07-29/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260729T184500
+DTEND;TZID=America/Los_Angeles:20260729T203000
+DTSTAMP:20260717T171052Z
+CREATED:20260602T164936Z
+LAST-MODIFIED:20260717T171052Z
+UID:10014074-1785350700-1785357000@visityolo.com
+SUMMARY:Bat Talk and Tour
+DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
+URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-07-29/
+LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
+ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/exhibit-it-a-community-art-exhibit/2026-07-30/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260730T113000
+DTEND;TZID=America/Los_Angeles:20260730T170000
+DTSTAMP:20260519T225153Z
+CREATED:20260519T225153Z
+LAST-MODIFIED:20260519T225153Z
+UID:10013819-1785411000-1785430800@visityolo.com
+SUMMARY:Exhibit It! A Community Art Exhibit
+DESCRIPTION:Exhibit It! A Community Art Exhibit in Davis \n  \nIt’s time for our annual non-juried exhibit to highlight the talent of our community’s artists! Artists ages 16 and up can drop off one artwork in any medium at the Pence Gallery on Friday\, June 26\, beginning at 11:30 AM. This is a first come\, first served process. No early drop-offs accepted. \n  \nArtworks are limited to 30″ in any direction\, including the frame\, and no more than 50 pounds. All artworks must be framed\, or ready to install.  \n  \nThe first 50 submissions will be admitted after artists pay a fee of $35 for Members and $40 for non-Members. Please be prepared to fill out information about your piece including the title\, year made\, medium\, dimensions\, retail price\, etc.  \n  \nParticipants can win the Curator’s Choice award\, announced during the reception on July 10. Or they can win the Public Choice award\, chosen by viewers who vote when visiting the exhibit at the gallery\, which awards a free Pence membership and a photo in the Davis Enterprise. \n  \nArtist call drop-off date: Friday\, June 26 beginning at 11:30 AM \nSubmission fee: $35 Members\, $40 non-Members \nExhibit dates: July 3 – August 16\, 2026 \nReception: July 10\, 6-9 PM (Awards at 7:30 PM) \n  \nThis exhibit is sponsored by Dawn Daro.
+URL:https://visityolo.com/event/exhibit-it-a-community-art-exhibit/2026-07-30/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Exhibit_It-2026-front-copy.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/thursday-social-at-great-bear-vineyards/", "Visityolo Event": "https://visityolo.com/event/thursday-social-at-great-bear-vineyards/"}
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/thursday-social-at-great-bear-vineyards/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis, Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260730T170000
+DTEND;TZID=America/Los_Angeles:20260730T200000
+DTSTAMP:20260729T190040Z
+CREATED:20260718T180046Z
+LAST-MODIFIED:20260729T190040Z
+UID:10002988-1785430800-1785441600@visitdavis.org
+SUMMARY:Thursday Social at Great Bear Vineyards
+DESCRIPTION:Thursday Social at Great Bear Vineyards in Davis  Thursday\, July 30 | 5–8 PM\nTicket Includes: Your First Glass of Wine\nWe’re excited to kick off our new Thursday Socials—the perfect way to ease into the weekend a little early!\nGather your friends\, leave work behind\, and join us for a relaxed summer evening of award-winning wine\, great conversation\, and a little friendly competition in the beautiful setting of Great Bear Vineyards.\nFor $15\, your ticket includes your first glass of wine\, so all you have to do is find your favorite spot among the vines and settle in for the evening.\nFeeling competitive? We’ve got you covered! We’ll have a selection of classic board games available\, including chess\, draughts\, Bananagrams\, and dominos. Challenge your friends to a game\, meet someone new\, or simply sit back\, sip your wine\, and enjoy the vineyard atmosphere.\n Cheese and light snacks will be available for purchase\, or you’re welcome to bring your own picnic and make an evening of it.\nWhether you’re catching up with friends\, planning a casual date night\, or looking for a new weekly tradition\, Thursday Social is all about slowing down\, sharing good company\, and enjoying summer evenings at the vineyard.\nGood wine. Great friends. Beautiful vineyard views. We can’t wait to welcome you to Thursday Social!
+URL:https://visitdavis.org/event/thursday-social-at-great-bear-vineyards/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/tai-chi-basics-at-great-bear-vineyards-3/", "Visityolo Event": "https://visityolo.com/event/tai-chi-basics-at-great-bear-vineyards-4/"}
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/tai-chi-basics-at-great-bear-vineyards-3/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis, Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260730T173000
+DTEND;TZID=America/Los_Angeles:20260730T183000
+DTSTAMP:20260729T190040Z
+CREATED:20260718T180035Z
+LAST-MODIFIED:20260729T190040Z
+UID:10002986-1785432600-1785436200@visitdavis.org
+SUMMARY:Tai Chi Basics at Great Bear Vineyards
+DESCRIPTION:Tai Chi Basics Course at Great Bear Vineyards in Davis  Thursday\, July 30 | 5:30–6:30 PM\nTicket Includes: Tai Chi Class\nSlow down\, breathe deeply\, and find your balance with an evening of Tai Chi at Great Bear Vineyards.\nJoin us every Thursday evening for our Tai Chi Basics Course\, a welcoming introduction to the ancient practice of Tai Chi. Through slow\, flowing movements and mindful breathing\, you’ll build balance\, improve strength and flexibility\, reduce stress\, and leave feeling refreshed and recharged.\nThis beginner-friendly class focuses on the fundamental drills and postures that provide the greatest health benefits while laying the foundation for a deeper Tai Chi practice. Whether you’re completely new to Tai Chi or looking to refine the basics\, everyone is welcome.\n Meet Your Instructor\nDaniel Pfister has practiced Tai Chi for nearly 30 years. He received intensive training while living in Taiwan for five years and later completed his master’s thesis on the effects of Tai Chi stance training on blood pressure. His approachable teaching style makes this class enjoyable and accessible for participants of all experience levels.\nAfter class\, you’re invited to stay and enjoy Thursday Social! Relax with a glass of wine\, challenge friends to a board game\, or simply unwind in the peaceful vineyard setting as the sun begins to set.\nCome discover why Tai Chi is often called “meditation in motion” and experience the perfect blend of wellness\, community\, and vineyard charm.\nWe look forward to moving with you!
+URL:https://visitdavis.org/event/tai-chi-basics-at-great-bear-vineyards-3/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/yolo-line-dance-social/", "Visityolo Event": "https://visityolo.com/event/yolo-line-dance-social/"}
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/yolo-line-dance-social/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis, Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260730T173000
+DTEND;TZID=America/Los_Angeles:20260730T213000
+DTSTAMP:20260729T190040Z
+CREATED:20260718T180035Z
+LAST-MODIFIED:20260729T190040Z
+UID:10002987-1785432600-1785447000@visitdavis.org
+SUMMARY:YOLO Line Dance Social
+DESCRIPTION:YOLO Line Dance Social at Great Bear Vineyards in Davis  Thursday\, July 30 | 5:30–9:30 PM\nDust off your boots and join us for an evening of dancing\, great food\, and vineyard fun!\nWhether you’re planning a date night\, a girls’ night out\, coming with friends\, or flying solo\, YOLO Line Dance creates a welcoming community where everyone can join in—no matter your experience level.\nNew to line dancing? We’ve got you covered! Arrive early for a beginner warm-up and lesson before the dance floor opens for everyone.\n Evening Schedule5:30–6:00 PM – Beginner warm-up6:00–6:30 PM – Beginner lesson6:30–8:00 PM – Mixed-level line dance social8:00 PM – Improver/Intermediate lesson8:30 PM–Close – Power Hour Social featuring our most challenging dances\n Dance for a Great Cause\nClass participation is a $5 cash or Venmo donation\, with 100% of proceeds benefiting YOLO County CASA\, supporting children in foster care throughout Yolo County.\n Food & Drinks Available for Purchase Nash & Proper Food Truck serving their famous chicken sandwiches Great Bear wines\, mocktails\, juice\, soda\, and other beverages Cheese\, salami\, olives\, and light snacks\nWhether you’re learning your first steps or dancing all night long\, this is the perfect way to spend a summer evening in the vineyard. Grab your boots\, bring your friends\, and join us for a night of dancing\, sipping\, and supporting a wonderful local cause.\nWe can’t wait to see you on the dance floor!
+URL:https://visitdavis.org/event/yolo-line-dance-social/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/315828476/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315828476@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011520Z
+DTSTAMP:20260730T010810Z
 DTSTART;TZID=America/Los_Angeles:20260730T180000
 DTEND;TZID=America/Los_Angeles:20260730T190000
 SUMMARY:Free Yoga Practice
@@ -83,12 +203,209 @@ LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, U
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/bat-talk-and-tour-2/2026-07-30/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260730T184500
+DTEND;TZID=America/Los_Angeles:20260730T203000
+DTSTAMP:20260717T171052Z
+CREATED:20260602T164936Z
+LAST-MODIFIED:20260717T171052Z
+UID:10014075-1785437100-1785443400@visityolo.com
+SUMMARY:Bat Talk and Tour
+DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
+URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-07-30/
+LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
+ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-07-31/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260731T110000
+DTEND;TZID=America/Los_Angeles:20260731T180000
+DTSTAMP:20251117T171126Z
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013282-1785495600-1785520800@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-07-31/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/exhibit-it-a-community-art-exhibit/2026-07-31/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260731T113000
+DTEND;TZID=America/Los_Angeles:20260731T170000
+DTSTAMP:20260519T225153Z
+CREATED:20260519T225153Z
+LAST-MODIFIED:20260519T225153Z
+UID:10013820-1785497400-1785517200@visityolo.com
+SUMMARY:Exhibit It! A Community Art Exhibit
+DESCRIPTION:Exhibit It! A Community Art Exhibit in Davis \n  \nIt’s time for our annual non-juried exhibit to highlight the talent of our community’s artists! Artists ages 16 and up can drop off one artwork in any medium at the Pence Gallery on Friday\, June 26\, beginning at 11:30 AM. This is a first come\, first served process. No early drop-offs accepted. \n  \nArtworks are limited to 30″ in any direction\, including the frame\, and no more than 50 pounds. All artworks must be framed\, or ready to install.  \n  \nThe first 50 submissions will be admitted after artists pay a fee of $35 for Members and $40 for non-Members. Please be prepared to fill out information about your piece including the title\, year made\, medium\, dimensions\, retail price\, etc.  \n  \nParticipants can win the Curator’s Choice award\, announced during the reception on July 10. Or they can win the Public Choice award\, chosen by viewers who vote when visiting the exhibit at the gallery\, which awards a free Pence membership and a photo in the Davis Enterprise. \n  \nArtist call drop-off date: Friday\, June 26 beginning at 11:30 AM \nSubmission fee: $35 Members\, $40 non-Members \nExhibit dates: July 3 – August 16\, 2026 \nReception: July 10\, 6-9 PM (Awards at 7:30 PM) \n  \nThis exhibit is sponsored by Dawn Daro.
+URL:https://visityolo.com/event/exhibit-it-a-community-art-exhibit/2026-07-31/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Exhibit_It-2026-front-copy.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/bat-talk-and-tour-2/2026-07-31/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260731T184500
+DTEND;TZID=America/Los_Angeles:20260731T203000
+DTSTAMP:20260717T171052Z
+CREATED:20260602T164936Z
+LAST-MODIFIED:20260717T171052Z
+UID:10010502-1785523500-1785529800@visityolo.com
+SUMMARY:Bat Talk and Tour
+DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
+URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-07-31/
+LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
+ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/the-alexander-mcclintock-quartet-live-the-melon-ball/", "Visityolo Event": "https://visityolo.com/event/the-alexander-mcclintock-quartet-live-the-melon-ball/"}
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/the-alexander-mcclintock-quartet-live-the-melon-ball/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis, Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260731T193000
+DTEND;TZID=America/Los_Angeles:20260731T213000
+DTSTAMP:20260729T190053Z
+CREATED:20260623T173103Z
+LAST-MODIFIED:20260729T190053Z
+UID:10002903-1785526200-1785533400@visitdavis.org
+SUMMARY:The Alexander McClintock Quartet Live @ The Melon Ball
+DESCRIPTION:The Melon Ball in Davis presents… \nThe Alexander McClintock Quartet is a group of up-and-coming Sacramento-area musicians: Pianist Colbe Hunter\, Bassist Claire Seymour\, Drummer JJ Doolittle\, and Davis’ own Alexander McClintock on Saxophone. Come join us as we celebrate the jazz giants that have inspired many others\, including us\, and all the variety of beautiful music that has come out of it. \nAlexander McClintock Instagram\nColbe Hunter Instagram\nClaire Seymour Instagram\nJJ Doolittle Instagram \n$15 General Admission\nDoors open at 7:00pm\nThis is a BYOB event!
+URL:https://visitdavis.org/event/the-alexander-mcclintock-quartet-live-the-melon-ball/
+LOCATION:Watermelon Music\, 1970 Lake Blvd\, DAVIS\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/McClintock_WebPage-2-ttbsMC.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/romeo-and-juliet/2026-07-31/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260731T193000
+DTEND;TZID=America/Los_Angeles:20260731T213000
+DTSTAMP:20260710T182951Z
+CREATED:20260710T182951Z
+LAST-MODIFIED:20260710T182951Z
+UID:10014536-1785526200-1785533400@visityolo.com
+SUMMARY:Romeo and Juliet
+DESCRIPTION:Directed by Andrew Fridae \n\n\nShakespeare’s classic Romeo and Juliet tells the tragic tale of two young star-crossed lovers caught in the seemingly inevitable cycle of hate and revenge between their families.
+URL:https://visityolo.com/event/romeo-and-juliet/2026-07-31/
+LOCATION:Winters Opera House Ballroom\, 13 Main St\, Winters\, 95694\, United States
+ATTACH;FMTTYPE=image/png:https://visityolo.com/wp-content/uploads/Romeo-Flyer4-png-2.png
+ORGANIZER;CN="Winters Theatre Copany":MAILTO:winterstheatre@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/davis-farmers-market-2/2026-08-01/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260801T080000
+DTEND;TZID=America/Los_Angeles:20260801T130000
+DTSTAMP:20260624T182825Z
+CREATED:20230426T230654Z
+LAST-MODIFIED:20260624T182825Z
+UID:10004182-1785571200-1785589200@visityolo.com
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visityolo.com/event/davis-farmers-market-2/2026-08-01/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Small_CapayCarrots-002.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/beginner-yoga-at-the-vineyard-4/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260801T090000
+DTEND;TZID=America/Los_Angeles:20260801T100000
+DTSTAMP:20260722T210840Z
+CREATED:20260722T210840Z
+LAST-MODIFIED:20260722T210840Z
+UID:10014565-1785574800-1785578400@visityolo.com
+SUMMARY:Beginner Yoga at the Vineyard
+DESCRIPTION:Beginner Yoga at the Vineyard in Davis  Every Saturday Morning August 1 | 9–10 AMTicket Includes: Yoga ClassStart your weekend with fresh air\, gentle movement\, and beautiful vineyard views at Beginner Yoga at the Vineyard!Whether you’re brand new to yoga or simply looking for a relaxing way to ease into your Saturday\, this welcoming outdoor class is designed for all experience levels. Our professional instructors will guide you through the fundamentals of yoga with gentle stretches\, basic poses\, and mindful movement to help you build confidence\, improve flexibility\, and leave feeling refreshed.Set among the peaceful surroundings of Great Bear Vineyards\, it’s the perfect opportunity to slow down\, reconnect with yourself\, and enjoy a little tranquility before the weekend begins. What to Bring Yoga mat Water bottle TowelAfter class\, stay and enjoy the beauty of the vineyard. Wander the grounds\, relax with friends\, or return later during our tasting room hours for a glass of award-winning wine.Breathe deeply\, stretch gently\, and start your weekend feeling your very best. We can’t wait to welcome you to the vineyard!
+URL:https://visityolo.com/event/beginner-yoga-at-the-vineyard-4/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards  24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/pick-your-own-bouquet-at-park-winters/2026-08-01/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260801T090000
+DTEND;TZID=America/Los_Angeles:20260801T130000
+DTSTAMP:20260409T224625Z
+CREATED:20260409T224549Z
+LAST-MODIFIED:20260409T224625Z
+UID:10013671-1785574800-1785589200@visityolo.com
+SUMMARY:Pick Your Own Bouquet at Park Winters
+DESCRIPTION:This seasonal farm hospitality experience\, offered most Saturdays and Sundays\, includes everything you need to create a beautiful farm-grown bouquet. Wander through the flower rows and enjoy a peaceful countryside outing while our team guides you on how to clip and gather your blooms. \nYour freshly picked flowers will be wrapped in a moisture-soaked paper wrap to keep them fresh until they are placed in a vase at home. \nWhile we will accommodate walk-in guests when availability allows\, reservations are recommended. On the booking page\, simply select the number of bouquets you would like to create. \nAs this experience is guided by nature\, flower varieties change throughout the season. If field conditions do not meet expectations\, a full refund is available upon request.
+URL:https://visityolo.com/event/pick-your-own-bouquet-at-park-winters/2026-08-01/
+LOCATION:Park Winters\, Park Winters\, 27850 County Road 26 Winters\, CA 95694
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/ES0A7883-1-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/albarino-wine-stroll-2/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260801T110000
+DTEND;TZID=America/Los_Angeles:20260801T170000
+DTSTAMP:20260722T224540Z
+CREATED:20260722T213853Z
+LAST-MODIFIED:20260722T224540Z
+UID:10014574-1785582000-1785603600@visityolo.com
+SUMMARY:Albarino Wine Stroll
+DESCRIPTION:Sip\, Stroll and Enjoy\n\n\n\n\nJourney through the streets of Downtown Winters to celebrate International Albariño Grape Day. Sip on wine and Albariño inspired cocktails at participating tasting rooms & restaurants.\nWith your ticket you’ll enjoy small bites and a half-glass of Albariño wine or Albariño inspired cocktails at participating businesses.\nParticipating Businesses Include: Turkovich Family Wines\, Berryessa Gap Winery\, Ficelle\, Carboni’s Ristorante Bar & Market\, The Buckhorn Steakhouse\, Preserve\, Hooby’s Brewing \nEvent Details: \n\n\nDate: Saturday\, August 1st \n\n\nTime: 11:00 AM – 5:00 PM \n\n\nAge: 21+ (Please have your ID ready at check-in) \n\n\nCheck-in Information: \n\n\nLocation: Corner of Main & Railroad at Rotary Clock (look for the white pop-up tent) \n\n\nWhat to Bring: Your email confirmation and the name your tickets were purchased under. We’ll check your ID\, give you a wristband\, and hand you your event passport. Be sure to hold on to your passport as you’ll need it to access tastings at each stop. \n\n\nPlease note: Check in will close at 3pm. If you arrive after 3pm\, please make your way to Berryessa Gap (15 Main Street) or Turkovich Tasting Room (304 Railroad Ave.) to grab your passport & wristband. \n\n\nPlease note\, we have some additional promotions being offered that day!\n*Valid Saturday\, August 1st. Proof of Albariño Passport Purchase must be presented to redeem these promotions. \nYOLO 365 ARTISAN MARKET – 7 E Main St. #7A\n15% & 20% off Select Vendors \nINDIGO & CO – 9 Main Street\n50% off Sunglasses and any Swimsuits + Swim Cover-ups \nWINTERS COLLECTIVE – 41 Main Street\n40% OFF Women’s Clothing\, 15% OFF Everything Else \nTHE SHOPPE By WINTERS COLLECTIVE – 10 Main Street \n40% OFF Home Décor\, 15% OFF Everything Else \nPUTAH CREEK CAFÈ – 1 Main Street\n20% off a single dinner entrée \nWINTERS MUSEUM – 13 Russell Street\nComplimentary Albariño Wine and Spanish Bite \nSTEADY EDDY’S – 5 East Main Street\nFree Small Iced Coffee with Purchase of Food \nRemember to check out our lodging properties to book your hotel room! \n**This event is for adults 21 and older.
+URL:https://visityolo.com/event/albarino-wine-stroll-2/
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-08-01/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260801T110000
+DTEND;TZID=America/Los_Angeles:20260801T180000
+DTSTAMP:20251117T171126Z
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013283-1785582000-1785607200@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-08-01/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/exhibit-it-a-community-art-exhibit/2026-08-01/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260801T113000
+DTEND;TZID=America/Los_Angeles:20260801T170000
+DTSTAMP:20260519T225153Z
+CREATED:20260519T225153Z
+LAST-MODIFIED:20260519T225153Z
+UID:10013821-1785583800-1785603600@visityolo.com
+SUMMARY:Exhibit It! A Community Art Exhibit
+DESCRIPTION:Exhibit It! A Community Art Exhibit in Davis \n  \nIt’s time for our annual non-juried exhibit to highlight the talent of our community’s artists! Artists ages 16 and up can drop off one artwork in any medium at the Pence Gallery on Friday\, June 26\, beginning at 11:30 AM. This is a first come\, first served process. No early drop-offs accepted. \n  \nArtworks are limited to 30″ in any direction\, including the frame\, and no more than 50 pounds. All artworks must be framed\, or ready to install.  \n  \nThe first 50 submissions will be admitted after artists pay a fee of $35 for Members and $40 for non-Members. Please be prepared to fill out information about your piece including the title\, year made\, medium\, dimensions\, retail price\, etc.  \n  \nParticipants can win the Curator’s Choice award\, announced during the reception on July 10. Or they can win the Public Choice award\, chosen by viewers who vote when visiting the exhibit at the gallery\, which awards a free Pence membership and a photo in the Davis Enterprise. \n  \nArtist call drop-off date: Friday\, June 26 beginning at 11:30 AM \nSubmission fee: $35 Members\, $40 non-Members \nExhibit dates: July 3 – August 16\, 2026 \nReception: July 10\, 6-9 PM (Awards at 7:30 PM) \n  \nThis exhibit is sponsored by Dawn Daro.
+URL:https://visityolo.com/event/exhibit-it-a-community-art-exhibit/2026-08-01/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Exhibit_It-2026-front-copy.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/315659595/"}
 X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315659595@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011517Z
+DTSTAMP:20260730T010808Z
 DTSTART;TZID=America/Los_Angeles:20260801T160000
 DTEND;TZID=America/Los_Angeles:20260801T170000
 SUMMARY:Mosaics Beginning Spanish on Zoom
@@ -120,7 +437,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315660113@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011517Z
+DTSTAMP:20260730T010808Z
 DTSTART;TZID=America/Los_Angeles:20260801T170000
 DTEND;TZID=America/Los_Angeles:20260801T180000
 SUMMARY:Mosaics Beginning Korean on Zoom
@@ -157,7 +474,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315660725@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011517Z
+DTSTAMP:20260730T010808Z
 DTSTART;TZID=America/Los_Angeles:20260801T180000
 DTEND;TZID=America/Los_Angeles:20260801T190000
 SUMMARY:Mosaics Beginning Japanese on Zoom
@@ -184,12 +501,28 @@ LAST-MODIFIED:20260713T011936Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/bat-talk-and-tour-2/2026-08-01/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260801T184500
+DTEND;TZID=America/Los_Angeles:20260801T203000
+DTSTAMP:20260717T171052Z
+CREATED:20260602T164936Z
+LAST-MODIFIED:20260717T171052Z
+UID:10010503-1785609900-1785616200@visityolo.com
+SUMMARY:Bat Talk and Tour
+DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
+URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-08-01/
+LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
+ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/315661341/"}
 X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315661341@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011517Z
+DTSTAMP:20260730T010808Z
 DTSTART;TZID=America/Los_Angeles:20260801T190000
 DTEND;TZID=America/Los_Angeles:20260801T200000
 SUMMARY:Mosaics English Learners Group on Zoom
@@ -216,12 +549,110 @@ LAST-MODIFIED:20260713T021727Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/romeo-and-juliet/2026-08-01/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260801T193000
+DTEND;TZID=America/Los_Angeles:20260801T213000
+DTSTAMP:20260710T182951Z
+CREATED:20260710T182951Z
+LAST-MODIFIED:20260710T182951Z
+UID:10014537-1785612600-1785619800@visityolo.com
+SUMMARY:Romeo and Juliet
+DESCRIPTION:Directed by Andrew Fridae \n\n\nShakespeare’s classic Romeo and Juliet tells the tragic tale of two young star-crossed lovers caught in the seemingly inevitable cycle of hate and revenge between their families.
+URL:https://visityolo.com/event/romeo-and-juliet/2026-08-01/
+LOCATION:Winters Opera House Ballroom\, 13 Main St\, Winters\, 95694\, United States
+ATTACH;FMTTYPE=image/png:https://visityolo.com/wp-content/uploads/Romeo-Flyer4-png-2.png
+ORGANIZER;CN="Winters Theatre Copany":MAILTO:winterstheatre@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/city-of-davis-wetlands-tour/2026-08-02/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260802T090000
+DTEND;TZID=America/Los_Angeles:20260802T120000
+DTSTAMP:20260601T173457Z
+CREATED:20260601T173457Z
+LAST-MODIFIED:20260601T173457Z
+UID:10013864-1785661200-1785672000@visityolo.com
+SUMMARY:City of Davis Wetlands Tour
+DESCRIPTION:The Davis Wetlands is a managed\, native California wetland ecosystem that includes oak riparian woodlands and native grasslands. The group will caravan along the hard-packed gravel roads of the auto tour route. Several stops will be made along the way providing guests with a closer look at the many species of birds that utilize the more than 400 acres of reconstructed wetlands. \nMeet at the City of Davis Wastewater Treatment Plant. 45400 County Rd 28H\, Davis\, CA 95616. There is no access to restrooms in the City of Davis Wetlands; please arrange for this before arriving. Tours run rain or shine at 9:00 a.m. on the first Sunday of each month\, except in the instances of flooding. Registration required.
+URL:https://visityolo.com/event/city-of-davis-wetlands-tour/2026-08-02/
+LOCATION:45400 County Road 28H\, Davis\, CA\, 45400 County Road 28H\, Davis\, 95616\, United States
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/pick-your-own-bouquet-at-park-winters/2026-08-02/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260802T090000
+DTEND;TZID=America/Los_Angeles:20260802T130000
+DTSTAMP:20260409T224625Z
+CREATED:20260409T224549Z
+LAST-MODIFIED:20260409T224625Z
+UID:10013672-1785661200-1785675600@visityolo.com
+SUMMARY:Pick Your Own Bouquet at Park Winters
+DESCRIPTION:This seasonal farm hospitality experience\, offered most Saturdays and Sundays\, includes everything you need to create a beautiful farm-grown bouquet. Wander through the flower rows and enjoy a peaceful countryside outing while our team guides you on how to clip and gather your blooms. \nYour freshly picked flowers will be wrapped in a moisture-soaked paper wrap to keep them fresh until they are placed in a vase at home. \nWhile we will accommodate walk-in guests when availability allows\, reservations are recommended. On the booking page\, simply select the number of bouquets you would like to create. \nAs this experience is guided by nature\, flower varieties change throughout the season. If field conditions do not meet expectations\, a full refund is available upon request.
+URL:https://visityolo.com/event/pick-your-own-bouquet-at-park-winters/2026-08-02/
+LOCATION:Park Winters\, Park Winters\, 27850 County Road 26 Winters\, CA 95694
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/ES0A7883-1-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/winters-farmers-market-3/2026-08-02/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260802T100000
+DTEND;TZID=America/Los_Angeles:20260802T130000
+DTSTAMP:20260421T184432Z
+CREATED:20260417T163323Z
+LAST-MODIFIED:20260421T184432Z
+UID:10013723-1785664800-1785675600@visityolo.com
+SUMMARY:Winters Farmers Market
+DESCRIPTION:Join us Downtown Winters every Sunday for the Winters Farmers Market. \nLOCATION: Downtown Main Street between Railroad & 1st Street\nDATE & TIME: Every Sunday 9am-1pm (April 26th-October 25th) \nEnjoy local produce\, fresh flowers\, food vendors & more! \nInterested in being a vendor? \nEmail: Simba at simbasheirloomfarm@gmail.com \nwww.wintersfarmersmarket.com
+URL:https://visityolo.com/event/winters-farmers-market-3/2026-08-02/
+LOCATION:Downtown Winters\, Main Street\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Winters-Farmers-Market_01-scaled.jpeg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-08-02/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260802T110000
+DTEND;TZID=America/Los_Angeles:20260802T180000
+DTSTAMP:20251117T171126Z
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013284-1785668400-1785693600@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-08-02/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/exhibit-it-a-community-art-exhibit/2026-08-02/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260802T113000
+DTEND;TZID=America/Los_Angeles:20260802T170000
+DTSTAMP:20260519T225153Z
+CREATED:20260519T225153Z
+LAST-MODIFIED:20260519T225153Z
+UID:10013822-1785670200-1785690000@visityolo.com
+SUMMARY:Exhibit It! A Community Art Exhibit
+DESCRIPTION:Exhibit It! A Community Art Exhibit in Davis \n  \nIt’s time for our annual non-juried exhibit to highlight the talent of our community’s artists! Artists ages 16 and up can drop off one artwork in any medium at the Pence Gallery on Friday\, June 26\, beginning at 11:30 AM. This is a first come\, first served process. No early drop-offs accepted. \n  \nArtworks are limited to 30″ in any direction\, including the frame\, and no more than 50 pounds. All artworks must be framed\, or ready to install.  \n  \nThe first 50 submissions will be admitted after artists pay a fee of $35 for Members and $40 for non-Members. Please be prepared to fill out information about your piece including the title\, year made\, medium\, dimensions\, retail price\, etc.  \n  \nParticipants can win the Curator’s Choice award\, announced during the reception on July 10. Or they can win the Public Choice award\, chosen by viewers who vote when visiting the exhibit at the gallery\, which awards a free Pence membership and a photo in the Davis Enterprise. \n  \nArtist call drop-off date: Friday\, June 26 beginning at 11:30 AM \nSubmission fee: $35 Members\, $40 non-Members \nExhibit dates: July 3 – August 16\, 2026 \nReception: July 10\, 6-9 PM (Awards at 7:30 PM) \n  \nThis exhibit is sponsored by Dawn Daro.
+URL:https://visityolo.com/event/exhibit-it-a-community-art-exhibit/2026-08-02/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Exhibit_It-2026-front-copy.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup: Art in Action": "https://www.meetup.com/art-in-action/events/315685334/", "Visityolo Event": "https://visityolo.com/event/art-in-action-marvelous-marionettes/"}
 X-SOURCE-URLS:{"Meetup: Art in Action": "https://www.meetup.com/art-in-action/events/315685334/"}
 X-SOURCE-ID:meetup_art_in_action
-X-SOURCE:Meetup: Art in Action
+X-SOURCE:Meetup: Art in Action, Visityolo Event
 UID:event_315685334@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011519Z
+DTSTAMP:20260730T010810Z
 DTSTART;TZID=America/Los_Angeles:20260802T130000
 DTEND;TZID=America/Los_Angeles:20260802T150000
 SUMMARY:Art in Action: Marvelous Marionettes
@@ -258,7 +689,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315564396@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011520Z
+DTSTAMP:20260730T010810Z
 DTSTART;TZID=America/Los_Angeles:20260803T180000
 DTEND;TZID=America/Los_Angeles:20260803T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -290,7 +721,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315696424@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011520Z
+DTSTAMP:20260730T010810Z
 DTSTART;TZID=America/Los_Angeles:20260804T100000
 DTEND;TZID=America/Los_Angeles:20260804T110000
 SUMMARY:Gentle yoga
@@ -315,7 +746,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_315716295@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011519Z
+DTSTAMP:20260730T010809Z
 DTSTART;TZID=America/Los_Angeles:20260805T170000
 DTEND;TZID=America/Los_Angeles:20260805T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -357,7 +788,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315754024@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011517Z
+DTSTAMP:20260730T010808Z
 DTSTART;TZID=America/Los_Angeles:20260808T160000
 DTEND;TZID=America/Los_Angeles:20260808T170000
 SUMMARY:Mosaics Beginning Spanish on Zoom
@@ -389,7 +820,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315754611@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011517Z
+DTSTAMP:20260730T010808Z
 DTSTART;TZID=America/Los_Angeles:20260808T170000
 DTEND;TZID=America/Los_Angeles:20260808T180000
 SUMMARY:Mosaics Beginning Korean on Zoom
@@ -426,7 +857,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315755243@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011517Z
+DTSTAMP:20260730T010808Z
 DTSTART;TZID=America/Los_Angeles:20260808T180000
 DTEND;TZID=America/Los_Angeles:20260808T190000
 SUMMARY:Mosaics Beginning Japanese on Zoom
@@ -458,7 +889,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315755829@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011517Z
+DTSTAMP:20260730T010808Z
 DTSTART;TZID=America/Los_Angeles:20260808T190000
 DTEND;TZID=America/Los_Angeles:20260808T200000
 SUMMARY:Mosaics English Learners Group on Zoom
@@ -490,7 +921,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_315176714@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011519Z
+DTSTAMP:20260730T010810Z
 DTSTART;TZID=America/Los_Angeles:20260809T100000
 DTEND;TZID=America/Los_Angeles:20260809T133000
 SUMMARY:Relief Printmaking with Heather Hogan
@@ -520,7 +951,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766378@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011520Z
+DTSTAMP:20260730T010810Z
 DTSTART;TZID=America/Los_Angeles:20260810T180000
 DTEND;TZID=America/Los_Angeles:20260810T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -552,7 +983,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766416@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011520Z
+DTSTAMP:20260730T010810Z
 DTSTART;TZID=America/Los_Angeles:20260811T100000
 DTEND;TZID=America/Los_Angeles:20260811T110000
 SUMMARY:Gentle yoga
@@ -577,7 +1008,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_315812354@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011519Z
+DTSTAMP:20260730T010809Z
 DTSTART;TZID=America/Los_Angeles:20260812T170000
 DTEND;TZID=America/Los_Angeles:20260812T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -625,7 +1056,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315851798@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011517Z
+DTSTAMP:20260730T010808Z
 DTSTART;TZID=America/Los_Angeles:20260815T160000
 DTEND;TZID=America/Los_Angeles:20260815T170000
 SUMMARY:Mosaics Beginning Spanish on Zoom
@@ -657,7 +1088,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315852292@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011517Z
+DTSTAMP:20260730T010808Z
 DTSTART;TZID=America/Los_Angeles:20260815T170000
 DTEND;TZID=America/Los_Angeles:20260815T180000
 SUMMARY:Mosaics Beginning Korean on Zoom
@@ -694,7 +1125,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_315702079@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011519Z
+DTSTAMP:20260730T010810Z
 DTSTART;TZID=America/Los_Angeles:20260816T150000
 DTEND;TZID=America/Los_Angeles:20260816T163000
 SUMMARY:Artist Talk with Mirabel Wigon & Closing Reception 
@@ -720,7 +1151,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766400@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011520Z
+DTSTAMP:20260730T010810Z
 DTSTART;TZID=America/Los_Angeles:20260817T180000
 DTEND;TZID=America/Los_Angeles:20260817T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -752,7 +1183,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766418@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011520Z
+DTSTAMP:20260730T010810Z
 DTSTART;TZID=America/Los_Angeles:20260818T100000
 DTEND;TZID=America/Los_Angeles:20260818T110000
 SUMMARY:Gentle yoga
@@ -777,7 +1208,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjclbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011519Z
+DTSTAMP:20260730T010809Z
 DTSTART;TZID=America/Los_Angeles:20260819T170000
 DTEND;TZID=America/Los_Angeles:20260819T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -809,7 +1240,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_315385707@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011519Z
+DTSTAMP:20260730T010810Z
 DTSTART;TZID=America/Los_Angeles:20260822T100000
 DTEND;TZID=America/Los_Angeles:20260822T140000
 SUMMARY:Sculptural Papermaking with Bev Barnett
@@ -840,7 +1271,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766389@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011520Z
+DTSTAMP:20260730T010810Z
 DTSTART;TZID=America/Los_Angeles:20260824T180000
 DTEND;TZID=America/Los_Angeles:20260824T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -872,7 +1303,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766436@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011520Z
+DTSTAMP:20260730T010810Z
 DTSTART;TZID=America/Los_Angeles:20260825T100000
 DTEND;TZID=America/Los_Angeles:20260825T110000
 SUMMARY:Gentle yoga
@@ -897,7 +1328,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjclbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011519Z
+DTSTAMP:20260730T010809Z
 DTSTART;TZID=America/Los_Angeles:20260826T170000
 DTEND;TZID=America/Los_Angeles:20260826T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -961,7 +1392,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_315506530@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011519Z
+DTSTAMP:20260730T010810Z
 DTSTART;TZID=America/Los_Angeles:20260830T130000
 DTEND;TZID=America/Los_Angeles:20260830T160000
 SUMMARY:Tote Embroidery Workshop
@@ -989,7 +1420,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766392@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011520Z
+DTSTAMP:20260730T010810Z
 DTSTART;TZID=America/Los_Angeles:20260831T180000
 DTEND;TZID=America/Los_Angeles:20260831T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1021,7 +1452,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcmbdb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011519Z
+DTSTAMP:20260730T010809Z
 DTSTART;TZID=America/Los_Angeles:20260902T170000
 DTEND;TZID=America/Los_Angeles:20260902T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1063,7 +1494,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstyjcmbmb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011519Z
+DTSTAMP:20260730T010809Z
 DTSTART;TZID=America/Los_Angeles:20260909T170000
 DTEND;TZID=America/Los_Angeles:20260909T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1111,7 +1542,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315045635@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011518Z
+DTSTAMP:20260730T010809Z
 DTSTART;TZID=America/Los_Angeles:20260912T160000
 DTEND;TZID=America/Los_Angeles:20260912T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1150,7 +1581,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315046964@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011518Z
+DTSTAMP:20260730T010809Z
 DTSTART;TZID=America/Los_Angeles:20260912T180000
 DTEND;TZID=America/Los_Angeles:20260912T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1189,7 +1620,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315047643@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011518Z
+DTSTAMP:20260730T010809Z
 DTSTART;TZID=America/Los_Angeles:20260912T190000
 DTEND;TZID=America/Los_Angeles:20260912T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1228,7 +1659,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjcmbvb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011519Z
+DTSTAMP:20260730T010809Z
 DTSTART;TZID=America/Los_Angeles:20260916T170000
 DTEND;TZID=America/Los_Angeles:20260916T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1260,7 +1691,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_rjtwxtyjcmbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011518Z
+DTSTAMP:20260730T010809Z
 DTSTART;TZID=America/Los_Angeles:20260919T160000
 DTEND;TZID=America/Los_Angeles:20260919T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1299,7 +1730,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_tjtwxtyjcmbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011518Z
+DTSTAMP:20260730T010809Z
 DTSTART;TZID=America/Los_Angeles:20260919T180000
 DTEND;TZID=America/Los_Angeles:20260919T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1338,7 +1769,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315719094@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011518Z
+DTSTAMP:20260730T010809Z
 DTSTART;TZID=America/Los_Angeles:20260919T190000
 DTEND;TZID=America/Los_Angeles:20260919T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1409,7 +1840,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_rjtwxtyjcmbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011518Z
+DTSTAMP:20260730T010809Z
 DTSTART;TZID=America/Los_Angeles:20260926T160000
 DTEND;TZID=America/Los_Angeles:20260926T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1448,7 +1879,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_tjtwxtyjcmbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011518Z
+DTSTAMP:20260730T010809Z
 DTSTART;TZID=America/Los_Angeles:20260926T180000
 DTEND;TZID=America/Los_Angeles:20260926T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1487,7 +1918,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_vjtwxtyjcmbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011518Z
+DTSTAMP:20260730T010809Z
 DTSTART;TZID=America/Los_Angeles:20260926T190000
 DTEND;TZID=America/Los_Angeles:20260926T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1526,7 +1957,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcmbnc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011519Z
+DTSTAMP:20260730T010809Z
 DTSTART;TZID=America/Los_Angeles:20260930T170000
 DTEND;TZID=America/Los_Angeles:20260930T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1574,7 +2005,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_rjtwxtyjcnbfb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011518Z
+DTSTAMP:20260730T010809Z
 DTSTART;TZID=America/Los_Angeles:20261003T160000
 DTEND;TZID=America/Los_Angeles:20261003T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1613,7 +2044,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcnbkb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011519Z
+DTSTAMP:20260730T010809Z
 DTSTART;TZID=America/Los_Angeles:20261007T170000
 DTEND;TZID=America/Los_Angeles:20261007T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1655,7 +2086,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_315864641@meetup.com
 SEQUENCE:1
-DTSTAMP:20260729T011519Z
+DTSTAMP:20260730T010810Z
 DTSTART;TZID=America/Los_Angeles:20261011T130000
 DTEND;TZID=America/Los_Angeles:20261011T153000
 SUMMARY:Stained Glass Workshop with Salty Bird Glass
