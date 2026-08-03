@@ -5,59 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 NAME:Pence Family Art Workshops
 X-WR-CALNAME:Pence Family Art Workshops
-BEGIN:VTIMEZONE
-TZID:America/Los_Angeles
-TZURL:http://tzurl.org/zoneinfo-outlook/America/Los_Angeles
-X-LIC-LOCATION:America/Los_Angeles
-BEGIN:DAYLIGHT
-TZOFFSETFROM:-0800
-TZOFFSETTO:-0700
-TZNAME:PDT
-DTSTART:19700308T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
-END:DAYLIGHT
-BEGIN:STANDARD
-TZOFFSETFROM:-0700
-TZOFFSETTO:-0800
-TZNAME:PST
-DTSTART:19701101T020000
-RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VEVENT
-UID:event_315685334@meetup.com
-SEQUENCE:1
-DTSTAMP:20260802T011957Z
-DTSTART;TZID=America/Los_Angeles:20260802T130000
-DTEND;TZID=America/Los_Angeles:20260802T150000
-SUMMARY:Art in Action: Marvelous Marionettes
-DESCRIPTION:Pence Family Art Workshops\nUse your imagination to bring your
-  favorite animal to life! Transform cardboard\, various papers\, pom poms\
- , yarn\, and more into a lively and colorful animal marionette.\n\nArt in 
- Action: Marvelous Marionettes\nSunday\, August 2\, 1-3 PM\n$5 Members\, $1
- 0 Non-Members (per person\, all materials included)\n\n**How it works:**\n
- Art in Action engages kids in art projects that are fun\, creative\, and c
- ollaborative with their family members. This is a drop-in program for ages
-  5-12. No registration in advance is required\, but space and supplies are
-  limited to the first 25 participants and are available on a first come\, 
- first served basis.\n\nWhen you arrive\, pay with cash or card at the fron
- t desk. A parent or adult caregiver is required to stay\, but only has to 
- pay for the project for themselves if they are also doing art. Stay as lon
- g or as short as you like over the two hour period.\n\nBecome a Member sta
- rting at $70/year and save! If you join the Pence Gallery when you attend 
- this workshop\, you can enjoy Member pricing for Art in Action\, plus rece
- ive a $5 gift certificate to our gift shop as a thank you. Membership supp
- orts art for all ages and makes creative moments like this possible—jump
-  in and be part of it.\n\nWe have a different Art in Action family worksho
- p every month. Learn more at [https://pencegallery.org/art-in-action/](htt
- ps://pencegallery.org/art-in-action/).\n\nThis monthly program is generous
- ly sponsored by Mary Stephens DeWall & Les DeWall.
-URL;VALUE=URI:https://www.meetup.com/art-in-action/events/315685334/
-STATUS:CONFIRMED
-CREATED:20260714T211011Z
-LAST-MODIFIED:20260714T211011Z
-CLASS:PUBLIC
-END:VEVENT
 X-ORIGINAL-URL:https://www.meetup.com/art-in-action/events/ical/
 X-WR-CALNAME:Pence Family Art Workshops
 END:VCALENDAR
