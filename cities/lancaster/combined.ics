@@ -7,96 +7,6 @@ X-WR-CALNAME:Lancaster Community Calendar
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/315564396/"}
-X-SOURCE-ID:meetup_mindful_embodied_spirituality
-X-SOURCE:Meetup Mindful Embodied Spirituality
-UID:event_315564396@meetup.com
-SEQUENCE:1
-DTSTAMP:20260804T011215Z
-DTSTART;TZID=America/Los_Angeles:20260803T180000
-DTEND;TZID=America/Los_Angeles:20260803T200000
-SUMMARY:Conscious Conversations & Somatic Practices  
-DESCRIPTION:Iama Embodied Community\nThis is a spiritual community that ho
- nors the body’s wisdom and lived experience. Whether you’re healing fr
- om religious trauma\, deconstructing beliefs\, exploring spirituality\, or
-  just want to be with other conscious persons\, this space is for you.\n\n
- Expect conscious conversations\, meditation\, breathwork\, sound healing\,
-  and other somatic practices to help reconnect with ourselves and each oth
- er.\n\nwe share a potluck dinner every last Monday of the month.\n\n📅 *
- *Date & Time**: Mondays 6-8 PM\n📍 **Location**: 727 T St. Sacramento\, 
- Ca\, 95811\n💜 **All our events are free\, donations supported.**\n✨ *
- *No prior experience or spiritual beliefs necessary.**\n📩 **RSVP/ Quest
- ions? Reach out at** embody.iama@gmail.com\n🔗 **Follow us on Instagram:
- ** [@embody.iama](https://www.instagram.com/embody.iama)\n\nPS: we meet in
-  the social hall of Parkview Presbyterian Church. Please find us through t
- he back entrance\, the brown gate on Solons alley. You may park in the bac
- k\, move the orange post to park and please return it when you leave.
-URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
- 315564396/
-STATUS:CONFIRMED
-CREATED:20260706T000013Z
-LAST-MODIFIED:20260706T000013Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/bat-talk-and-tour-2/2026-08-03/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260803T184500
-DTEND;TZID=America/Los_Angeles:20260803T203000
-DTSTAMP:20260717T171052Z
-CREATED:20260602T164936Z
-LAST-MODIFIED:20260717T171052Z
-UID:10010505-1785782700-1785789000@visityolo.com
-SUMMARY:Bat Talk and Tour
-DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
-URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-08-03/
-LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
-ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/315696424/"}
-X-SOURCE-ID:meetup_mindful_embodied_spirituality
-X-SOURCE:Meetup Mindful Embodied Spirituality
-UID:event_315696424@meetup.com
-SEQUENCE:1
-DTSTAMP:20260804T011215Z
-DTSTART;TZID=America/Los_Angeles:20260804T100000
-DTEND;TZID=America/Los_Angeles:20260804T110000
-SUMMARY:Gentle yoga
-DESCRIPTION:Iama Embodied Community\nThis is a slow and mindful practice t
- hat emphasizes deep breathing\, body awareness\, and nervous system regula
- tion. This class is accessible to all abilities\, providing a supportive a
- nd trauma-informed space to reconnect with the body.\n\nSessions alternate
-  between floor yoga and chair yoga (on the 2nd and 4th Tuesday). Stay a bi
- t longer on the last Tuesday of the month and join us for coffee or tea af
- terward!\n\nLike all our events\, this class is free\, donations are welco
- me.
-URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
- 315696424/
-STATUS:CONFIRMED
-CREATED:20260715T172954Z
-LAST-MODIFIED:20260715T172954Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/exhibit-it-a-community-art-exhibit/2026-08-04/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260804T113000
-DTEND;TZID=America/Los_Angeles:20260804T170000
-DTSTAMP:20260519T225153Z
-CREATED:20260519T225153Z
-LAST-MODIFIED:20260519T225153Z
-UID:10013823-1785843000-1785862800@visityolo.com
-SUMMARY:Exhibit It! A Community Art Exhibit
-DESCRIPTION:Exhibit It! A Community Art Exhibit in Davis \n  \nIt’s time for our annual non-juried exhibit to highlight the talent of our community’s artists! Artists ages 16 and up can drop off one artwork in any medium at the Pence Gallery on Friday\, June 26\, beginning at 11:30 AM. This is a first come\, first served process. No early drop-offs accepted. \n  \nArtworks are limited to 30″ in any direction\, including the frame\, and no more than 50 pounds. All artworks must be framed\, or ready to install.  \n  \nThe first 50 submissions will be admitted after artists pay a fee of $35 for Members and $40 for non-Members. Please be prepared to fill out information about your piece including the title\, year made\, medium\, dimensions\, retail price\, etc.  \n  \nParticipants can win the Curator’s Choice award\, announced during the reception on July 10. Or they can win the Public Choice award\, chosen by viewers who vote when visiting the exhibit at the gallery\, which awards a free Pence membership and a photo in the Davis Enterprise. \n  \nArtist call drop-off date: Friday\, June 26 beginning at 11:30 AM \nSubmission fee: $35 Members\, $40 non-Members \nExhibit dates: July 3 – August 16\, 2026 \nReception: July 10\, 6-9 PM (Awards at 7:30 PM) \n  \nThis exhibit is sponsored by Dawn Daro.
-URL:https://visityolo.com/event/exhibit-it-a-community-art-exhibit/2026-08-04/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Exhibit_It-2026-front-copy.jpg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/bat-talk-and-tour-2/2026-08-04/"}
 X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
@@ -152,7 +62,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_315716295@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260805T170000
 DTEND;TZID=America/Los_Angeles:20260805T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -212,9 +122,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260806T170000
 DTEND;TZID=America/Los_Angeles:20260806T200000
-DTSTAMP:20260803T180055Z
+DTSTAMP:20260804T180054Z
 CREATED:20260723T173027Z
-LAST-MODIFIED:20260803T180055Z
+LAST-MODIFIED:20260804T180054Z
 UID:10002996-1786035600-1786046400@visitdavis.org
 SUMMARY:Thursday Social at Great Bear Vineyards
 DESCRIPTION:Thursday Social at Great Bear Vineyards in Davis  Thursday\, August 6 | 5–8 PM\nTicket Includes: Your First Glass of Wine\nWe’re excited to kick off our new Thursday Socials—the perfect way to ease into the weekend a little early!\nGather your friends\, leave work behind\, and join us for a relaxed summer evening of award-winning wine\, great conversation\, and a little friendly competition in the beautiful setting of Great Bear Vineyards.\nFor $15\, your ticket includes your first glass of wine\, so all you have to do is find your favorite spot among the vines and settle in for the evening.\nFeeling competitive? We’ve got you covered! We’ll have a selection of classic board games available\, including chess\, draughts\, Bananagrams\, and dominos. Challenge your friends to a game\, meet someone new\, or simply sit back\, sip your wine\, and enjoy the vineyard atmosphere.\n Cheese and light snacks will be available for purchase\, or you’re welcome to bring your own picnic and make an evening of it.\nWhether you’re catching up with friends\, planning a casual date night\, or looking for a new weekly tradition\, Thursday Social is all about slowing down\, sharing good company\, and enjoying summer evenings at the vineyard.\nGood wine. Great friends. Beautiful vineyard views. We can’t wait to welcome you to Thursday Social!
@@ -230,9 +140,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260806T173000
 DTEND;TZID=America/Los_Angeles:20260806T183000
-DTSTAMP:20260803T180055Z
+DTSTAMP:20260804T180054Z
 CREATED:20260723T173025Z
-LAST-MODIFIED:20260803T180055Z
+LAST-MODIFIED:20260804T180054Z
 UID:10002994-1786037400-1786041000@visitdavis.org
 SUMMARY:Tai Chi Basics at Great Bear Vineyards
 DESCRIPTION:☯️🌿 Tai Chi Basics Course in Davis 🌿☯️\n📅 Thursday\, August 6 | 5:30–6:30 PM \nTicket Includes: Tai Chi Class \nSlow down\, breathe deeply\, and find your balance with an evening of Tai Chi at Great Bear Vineyards. \nJoin us every Thursday evening for our Tai Chi Basics Course\, a welcoming introduction to the ancient practice of Tai Chi. Through slow\, flowing movements and mindful breathing\, you’ll build balance\, improve strength and flexibility\, reduce stress\, and leave feeling refreshed and recharged. \nThis beginner-friendly class focuses on the fundamental drills and postures that provide the greatest health benefits while laying the foundation for a deeper Tai Chi practice. Whether you’re completely new to Tai Chi or looking to refine the basics\, everyone is welcome. \n👨‍🏫 Meet Your Instructor \nDaniel Pfister has practiced Tai Chi for nearly 30 years. He received intensive training while living in Taiwan for five years and later completed his master’s thesis on the effects of Tai Chi stance training on blood pressure. His approachable teaching style makes this class enjoyable and accessible for participants of all experience levels. \nAfter class\, you’re invited to stay and enjoy Thursday Social! Relax with a glass of wine\, challenge friends to a board game\, or simply unwind in the peaceful vineyard setting as the sun begins to set. \nCome discover why Tai Chi is often called “meditation in motion” and experience the perfect blend of wellness\, community\, and vineyard charm. \nWe look forward to moving with you! 🌿☯️
@@ -313,9 +223,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260807T170000
 DTEND;TZID=America/Los_Angeles:20260807T203000
-DTSTAMP:20260803T180042Z
+DTSTAMP:20260804T180042Z
 CREATED:20260723T173026Z
-LAST-MODIFIED:20260803T180042Z
+LAST-MODIFIED:20260804T180042Z
 UID:10002995-1786122000-1786134600@visitdavis.org
 SUMMARY:Live Music and Food Truck Night at Great Bear Vineyards
 DESCRIPTION:Live Music & Food Truck Night in Davis  Friday\, August 7 | 5–8:30 PM\nTicket Includes: Glass of Wine & Live Music\nKick off your weekend with an evening of smooth jazz\, incredible food\, and award-winning wine at Great Bear Vineyards!\nSettle in with a glass of your favorite estate-grown wine\, enjoy the peaceful vineyard views\, and let the Potential Jazz Ensemble provide the soundtrack to your Friday evening. Come hungry—India Jones will be onsite serving authentic Indian cuisine from 5–8 PM\, with live music from 6–7:30 PM.\n Music by Potential Jazz Ensemble\nA vibrant collective of talented musicians\, the Potential Jazz Ensemble brings together a shared passion for jazz\, creativity\, and collaboration. Featuring saxophone\, bass\, guitar\, piano\, and percussion\, their lively performances blend timeless jazz traditions with fresh\, contemporary energy. The band includes Tommy Meyers (saxophone)\, Harold Jackson (bass)\, Jim Baxter (guitar)\, John Rominger (piano)\, and Jessie Norfleet (percussion).\n Food by India Jones\nWe’re excited to welcome India Jones to the winery! Enjoy authentic Indian favorites like their famous Butter Chicken\, Vegetable Coconut Curry\, and Channa Masala\, all made with fresh\, organic ingredients and bold\, delicious flavors. Please help us support this fantastic local food truck by purchasing your dinner onsite and leaving outside food at home.\n Your Evening Includes A glass of Great Bear estate-grown wine Live jazz from the Potential Jazz Ensemble Authentic Indian cuisine available for purchase Beautiful vineyard views and a relaxing summer atmosphere\nGather your friends\, bring your appetite\, and join us for an evening of great music\, delicious food\, and unforgettable vineyard vibes. We can’t wait to see you!
@@ -381,9 +291,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20260808T090000
 DTEND;TZID=America/Los_Angeles:20260808T100000
-DTSTAMP:20260803T180041Z
+DTSTAMP:20260804T180042Z
 CREATED:20260723T173027Z
-LAST-MODIFIED:20260803T180041Z
+LAST-MODIFIED:20260804T180042Z
 UID:10002998-1786179600-1786183200@visitdavis.org
 SUMMARY:Beginner Yoga at the Vineyard
 DESCRIPTION:Beginner Yoga at the Vineyard in Davis  Every Saturday Morning August 8 | 9–10 AMYoga Class Ticket: $10Start your weekend with fresh air\, gentle movement\, and beautiful vineyard views at Beginner Yoga at the Vineyard!Whether you’re brand new to yoga or simply looking for a relaxing way to ease into your Saturday\, this welcoming outdoor class is designed for all experience levels. Our professional instructors will guide you through the fundamentals of yoga with gentle stretches\, basic poses\, and mindful movement to help you build confidence\, improve flexibility\, and leave feeling refreshed.Set among the peaceful surroundings of Great Bear Vineyards\, it’s the perfect opportunity to slow down\, reconnect with yourself\, and enjoy a little tranquility before the weekend begins. What to Bring Yoga mat Water bottle TowelBreathe deeply\, stretch gently\, and start your weekend feeling your very best. We can’t wait to welcome you to the vineyard!
@@ -462,7 +372,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315754024@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011213Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260808T160000
 DTEND;TZID=America/Los_Angeles:20260808T170000
 SUMMARY:Mosaics Beginning Spanish on Zoom
@@ -494,7 +404,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315754611@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011213Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260808T170000
 DTEND;TZID=America/Los_Angeles:20260808T180000
 SUMMARY:Mosaics Beginning Korean on Zoom
@@ -531,7 +441,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315755243@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011213Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260808T180000
 DTEND;TZID=America/Los_Angeles:20260808T190000
 SUMMARY:Mosaics Beginning Japanese on Zoom
@@ -579,7 +489,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315755829@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011213Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260808T190000
 DTEND;TZID=America/Los_Angeles:20260808T200000
 SUMMARY:Mosaics English Learners Group on Zoom
@@ -645,7 +555,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs, Visit Davis, Visityolo Event
 UID:event_315176714@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011258Z
 DTSTART;TZID=America/Los_Angeles:20260809T100000
 DTEND;TZID=America/Los_Angeles:20260809T133000
 SUMMARY:Relief Printmaking with Heather Hogan
@@ -702,12 +612,46 @@ LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/exhibit-it-a-community-art-exhibit/2026-08-09/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260809T113000
+DTEND;TZID=America/Los_Angeles:20260809T170000
+DTSTAMP:20260519T225153Z
+CREATED:20260519T225153Z
+LAST-MODIFIED:20260519T225153Z
+UID:10013828-1786275000-1786294800@visityolo.com
+SUMMARY:Exhibit It! A Community Art Exhibit
+DESCRIPTION:Exhibit It! A Community Art Exhibit in Davis \n  \nIt’s time for our annual non-juried exhibit to highlight the talent of our community’s artists! Artists ages 16 and up can drop off one artwork in any medium at the Pence Gallery on Friday\, June 26\, beginning at 11:30 AM. This is a first come\, first served process. No early drop-offs accepted. \n  \nArtworks are limited to 30″ in any direction\, including the frame\, and no more than 50 pounds. All artworks must be framed\, or ready to install.  \n  \nThe first 50 submissions will be admitted after artists pay a fee of $35 for Members and $40 for non-Members. Please be prepared to fill out information about your piece including the title\, year made\, medium\, dimensions\, retail price\, etc.  \n  \nParticipants can win the Curator’s Choice award\, announced during the reception on July 10. Or they can win the Public Choice award\, chosen by viewers who vote when visiting the exhibit at the gallery\, which awards a free Pence membership and a photo in the Davis Enterprise. \n  \nArtist call drop-off date: Friday\, June 26 beginning at 11:30 AM \nSubmission fee: $35 Members\, $40 non-Members \nExhibit dates: July 3 – August 16\, 2026 \nReception: July 10\, 6-9 PM (Awards at 7:30 PM) \n  \nThis exhibit is sponsored by Dawn Daro.
+URL:https://visityolo.com/event/exhibit-it-a-community-art-exhibit/2026-08-09/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Exhibit_It-2026-front-copy.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/romeo-and-juliet/2026-08-09/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20260809T140000
+DTEND;TZID=America/Los_Angeles:20260809T163000
+DTSTAMP:20260710T182951Z
+CREATED:20260710T182951Z
+LAST-MODIFIED:20260710T182951Z
+UID:10014541-1786284000-1786293000@visityolo.com
+SUMMARY:Romeo and Juliet
+DESCRIPTION:Directed by Andrew Fridae \n\n\nShakespeare’s classic Romeo and Juliet tells the tragic tale of two young star-crossed lovers caught in the seemingly inevitable cycle of hate and revenge between their families.
+URL:https://visityolo.com/event/romeo-and-juliet/2026-08-09/
+LOCATION:Winters Opera House Ballroom\, 13 Main St\, Winters\, 95694\, United States
+ATTACH;FMTTYPE=image/png:https://visityolo.com/wp-content/uploads/Romeo-Flyer4-png-2.png
+ORGANIZER;CN="Winters Theatre Copany":MAILTO:winterstheatre@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/315766378/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766378@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011215Z
+DTSTAMP:20260805T011258Z
 DTSTART;TZID=America/Los_Angeles:20260810T180000
 DTEND;TZID=America/Los_Angeles:20260810T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -739,7 +683,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766416@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011215Z
+DTSTAMP:20260805T011258Z
 DTSTART;TZID=America/Los_Angeles:20260811T100000
 DTEND;TZID=America/Los_Angeles:20260811T110000
 SUMMARY:Gentle yoga
@@ -780,7 +724,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_315812354@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260812T170000
 DTEND;TZID=America/Los_Angeles:20260812T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -812,9 +756,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20260812T180000
 DTEND;TZID=America/Los_Angeles:20260812T200000
-DTSTAMP:20260803T180110Z
+DTSTAMP:20260804T180107Z
 CREATED:20260723T173029Z
-LAST-MODIFIED:20260803T180110Z
+LAST-MODIFIED:20260804T180107Z
 UID:10002999-1786557600-1786564800@visitdavis.org
 SUMMARY:Fit4Mom Yoga Night
 DESCRIPTION:Yoga & Wine at Great Bear Vineyards in Davis Second Wednesday of Every Month August 12 | 6–8 PM\nTicket Includes: Yoga Class & Your First Glass of Wine\nUnroll your mat\, take a deep breath\, and enjoy an evening of movement\, mindfulness\, and wine at Great Bear Vineyards!\nJoin Fit4Mom Davis-Woodland for an easy-to-moderate Vinyasa Flow class set in the peaceful surroundings of the vineyard. This welcoming class is designed for all experience levels\, with instructors offering modifications to suit your individual practice. Flow through gentle poses\, reconnect with your breath\, and finish with an inspiring guided meditation that will leave you feeling refreshed and recharged.\nAfter class\, it’s time to reward yourself! Your ticket includes a glass of Great Bear wine\, so you can relax with friends\, wander through the vineyard\, spread out a picnic\, or simply soak in a beautiful summer evening.\nWhat to Bring Yoga mat Water bottle Towel A light jacket or sweater for the evening Money or card if you’d like to purchase an additional glass or bottle of wine Picnic food if you’d like to stay and enjoy dinner at the vineyard\nWhether you’re looking to unwind after work\, meet new friends\, or simply enjoy a little self-care in a beautiful setting\, Yoga & Wine is the perfect midweek escape.\nWe can’t wait to welcome you to the vineyard for an evening of movement\, relaxation\, and great wine!\nHosted by FIT4MOM Davis-Woodland
@@ -829,9 +773,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20260813T170000
 DTEND;TZID=America/Los_Angeles:20260813T200000
-DTSTAMP:20260803T180041Z
+DTSTAMP:20260804T180042Z
 CREATED:20260731T173043Z
-LAST-MODIFIED:20260803T180041Z
+LAST-MODIFIED:20260804T180042Z
 UID:10003011-1786640400-1786651200@visitdavis.org
 SUMMARY:Thursday Social at Great Bear Vineyards
 DESCRIPTION:Thursday Social at Great Bear Vineyards in Davis   Thursday\, August 13 | 5–8 PMTicket Includes: Your First Glass of WineWe’re excited to kick off our new Thursday Socials—the perfect way to ease into the weekend a little early!Gather your friends\, leave work behind\, and join us for a relaxed summer evening of award-winning wine\, great conversation\, and a little friendly competition in the beautiful setting of Great Bear Vineyards.For $15\, your ticket includes your first glass of wine\, so all you have to do is find your favorite spot among the vines and settle in for the evening.Feeling competitive? We’ve got you covered! We’ll have a selection of classic board games available\, including chess\, draughts\, Bananagrams\, and dominos. Challenge your friends to a game\, meet someone new\, or simply sit back\, sip your wine\, and enjoy the vineyard atmosphere. Cheese and light snacks will be available for purchase\, or you’re welcome to bring your own picnic and make an evening of it.Whether you’re catching up with friends\, planning a casual date night\, or looking for a new weekly tradition\, Thursday Social is all about slowing down\, sharing good company\, and enjoying summer evenings at the vineyard.Good wine. Great friends. Beautiful vineyard views. We can’t wait to welcome you to Thursday Social!
@@ -846,9 +790,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20260813T173000
 DTEND;TZID=America/Los_Angeles:20260813T183000
-DTSTAMP:20260803T180041Z
+DTSTAMP:20260804T180041Z
 CREATED:20260731T173043Z
-LAST-MODIFIED:20260803T180041Z
+LAST-MODIFIED:20260804T180041Z
 UID:10003010-1786642200-1786645800@visitdavis.org
 SUMMARY:Tai Chi Basics at Great Bear Vineyards
 DESCRIPTION:Tai Chi Basics Course in Davis   Thursday\, August 13 | 5:30–6:30 PM\nTicket Includes: Tai Chi Class\nSlow down\, breathe deeply\, and find your balance with an evening of Tai Chi at Great Bear Vineyards.\nJoin us every Thursday evening for our Tai Chi Basics Course\, a welcoming introduction to the ancient practice of Tai Chi. Through slow\, flowing movements and mindful breathing\, you’ll build balance\, improve strength and flexibility\, reduce stress\, and leave feeling refreshed and recharged.\nThis beginner-friendly class focuses on the fundamental drills and postures that provide the greatest health benefits while laying the foundation for a deeper Tai Chi practice. Whether you’re completely new to Tai Chi or looking to refine the basics\, everyone is welcome.\n Meet Your Instructor\nDaniel Pfister has practiced Tai Chi for nearly 30 years. He received intensive training while living in Taiwan for five years and later completed his master’s thesis on the effects of Tai Chi stance training on blood pressure. His approachable teaching style makes this class enjoyable and accessible for participants of all experience levels.\nAfter class\, you’re invited to stay and enjoy Thursday Social! Relax with a glass of wine\, challenge friends to a board game\, or simply unwind in the peaceful vineyard setting as the sun begins to set.\nCome discover why Tai Chi is often called “meditation in motion” and experience the perfect blend of wellness\, community\, and vineyard charm.\nWe look forward to moving with you!
@@ -863,9 +807,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20260813T180000
 DTEND;TZID=America/Los_Angeles:20260813T200000
-DTSTAMP:20260803T180015Z
+DTSTAMP:20260804T180015Z
 CREATED:20260619T173020Z
-LAST-MODIFIED:20260803T180015Z
+LAST-MODIFIED:20260804T180015Z
 UID:10002888-1786644000-1786651200@visitdavis.org
 SUMMARY:Worldwide Bingo Night: Landmarks Edition
 DESCRIPTION:Join us in Davis for a globally inspired twist on bingo! Worldwide Bingo Night: Landmarks Edition invites you to explore landmarks from around the world. \nParticipants will play multiple rounds of bingo using landmark-themed cards\, learn interesting cultural and historical facts\, and have the chance to win prizes! This event is designed for all\, whether you love to travel or simply want to learn more about the world! This event is for ages 18+\, with complimentary snacks and beverages available.
@@ -895,9 +839,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20260814T170000
 DTEND;TZID=America/Los_Angeles:20260814T203000
-DTSTAMP:20260803T180041Z
+DTSTAMP:20260804T180041Z
 CREATED:20260731T173043Z
-LAST-MODIFIED:20260803T180041Z
+LAST-MODIFIED:20260804T180041Z
 UID:10003009-1786726800-1786739400@visitdavis.org
 SUMMARY:Live Music and Food Truck
 DESCRIPTION:Live Music & Food Truck Night in Davis  Friday\, August 14 | 5–8:30 PM\nTicket Includes: Glass of Wine & Live Music\nStart your weekend the Great Bear way with an evening of live music\, delicious wood-fired pizza\, and award-winning wine!\nGather your friends\, grab a glass of your favorite estate-grown wine\, and settle in for a relaxing summer evening surrounded by beautiful vineyard views. Italian Brother’s Pizza will be serving authentic wood-fired pizzas from 5–8:30 PM\, while Carl Winter takes the stage from 6–7:30 PM with an energetic mix of classic hits.\n Music by Carl Winter\nA true “one-man band\,” Carl Winter delivers the sound of a full band using two synthesizers\, guitar\, and vocals to perform your favorite rock and pop hits from the ’60s through the ’90s. A longtime Northern California musician and member of the popular tribute band Keep On Truckin’\, Carl’s lively performances are guaranteed to have you singing along.\n Food by Italian Brother’s Pizza\nNothing pairs better with a glass of wine than authentic wood-fired pizza! Italian Brother’s Pizza crafts every pizza from scratch using fresh\, high-quality ingredients and bakes them to perfection in a traditional wood-fired oven. From classic favorites to specialty creations\, there’s something for everyone to enjoy.\n Your Evening Includes A glass of Great Bear estate-grown wine Live music by Carl Winter (6–7:30 PM) Fresh wood-fired pizza available for purchase (5–8:30 PM) Beautiful vineyard views and a relaxing summer atmosphere\nPlease help us support this fantastic local food truck by purchasing your dinner onsite and leaving outside food at home.\nGreat music\, incredible pizza\, award-winning wine\, and a beautiful vineyard setting—what better way to kick off your weekend? We can’t wait to see you!
@@ -912,9 +856,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20260814T180000
 DTEND;TZID=America/Los_Angeles:20260814T210000
-DTSTAMP:20260803T180110Z
+DTSTAMP:20260804T180107Z
 CREATED:20260723T173029Z
-LAST-MODIFIED:20260803T180110Z
+LAST-MODIFIED:20260804T180107Z
 UID:10003000-1786730400-1786741200@visitdavis.org
 SUMMARY:2nd Friday ArtAbout at the Pence Gallery
 DESCRIPTION:Join us at the Pence Gallery in Davis for our 2nd Friday ArtAbout reception on August 14\, 6-9 PM. Enjoy browsing multiple art exhibits\, complimentary wine\, an art-themed scavenger hunt\, and live music by Sammy & Lauren Leverone. Free admission! \n  \nSlice: A Juried Exhibit of Regional Art | Jul. 10 – Aug. 16 \nSlice celebrates the diversity of expression in our region with an array of sculpture\, prints\, paintings\, and photography created by 35 visual artists\, selected this year by juror Gioia Fonda. \n  \nMirabel Wigon: Earth Stars | Jul. 10 – Aug. 16 \nEarth Stars brings together the artist’s expansive new series of botanical inspired paintings. Working in oil and acrylic on canvas\, her paintings have an illustrative quality\, immersing the viewer in imaginative worlds where flora works in tandem with geometric forms. See her work take 3D form through augmented reality technology. \n  \nExhibit It! A Community Art Exhibit | Jul. 3 – Aug. 16 \nExhibit It! highlights the talent of our community’s artists. View a wide variety of art in different media\, and vote for your favorite artist for the chance to win the Public Choice Award (announced at the conclusion of the exhibit). \n  \nDavid Burkholder: Day Trip | Jul. 3 – Aug. 28 \nDay Trip showcases oil paintings along the stairway by plein air painter David Burkholder. This series explores the beauty and variety within Northern California and its close neighbors\, capturing the warm light and diverse landscapes. \n  \nScavenger Hunt: Join us for a fun\, art-themed scavenger hunt at the Pence during the 2nd Friday ArtAbout. Complete all of the clues by exploring our exhibits for the chance to win a special prize. \n  \n— \n  \nVisit the Pence and other venues in Downtown Davis for the 2nd Friday ArtAbout artwalk. We will have printed ArtAbout guides available that week. Follow the ArtAbout’s Facebook page for more information: https://www.facebook.com/davisartabout. \n  \nImages: \nChristopher Keating\, “Heirloom” \nMirabel Wigon\, “Fold-forming (Budding)” \nCharli Joerger\, “Doorway to Feeling” \nDavid Burkholder\, “The Davis Gateway”
@@ -929,9 +873,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20260814T200000
 DTEND;TZID=America/Los_Angeles:20260814T220000
-DTSTAMP:20260803T180056Z
+DTSTAMP:20260804T180055Z
 CREATED:20260623T173102Z
-LAST-MODIFIED:20260803T180056Z
+LAST-MODIFIED:20260804T180055Z
 UID:10002902-1786737600-1786744800@visitdavis.org
 SUMMARY:Max Riley Group w/ Pennies For Pluto Live @ The Melon Ball
 DESCRIPTION:Melon Ball in Davis presents… \nLongtime scene aficionados ‘The Max Riley Group’ return after a yearlong hiatus for a special night of psychedelic guitar funk wizardry at the one and only Melon Ball in Davis CA! Fronted by the immensely talented Max Riley Carpenter\, Owlfest family band ‘The Max Riley Group’ offers sweet soul\, tight blues\, and the pure intention of keeping rock music alive and healthy. \nJoining them on their POWERLINES TOUR performing their debut full length album\, from Arcata CA are indie rock troubadours\, ‘Pennies For Pluto’ ! Originally based in Grass Valley the NorCalOG band writes lyric driven ballads\, thoughtfully arranged to maintain earnestness right in the face of today’s political climate\, screen epidemic\, and emotional distraction. \nFB – Max Riley Group\nInstagram – Max Riley Group\nYouTube – Max Riley Group \nBandCamp – Pennies For Pluto\nInstagram – Pennies For Pluto\nTidal – Pennies For Pluto\nSpotify – Pennies For Pluto\nYouTube – Pennies For Pluto \nShow Starts at 8:00pm\nDoors Open at 7:30pm\n$15 General Admission \nThis is a BYOB event!
@@ -962,9 +906,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20260815T090000
 DTEND;TZID=America/Los_Angeles:20260815T100000
-DTSTAMP:20260803T180041Z
+DTSTAMP:20260804T180041Z
 CREATED:20260731T173043Z
-LAST-MODIFIED:20260803T180041Z
+LAST-MODIFIED:20260804T180041Z
 UID:10003008-1786784400-1786788000@visitdavis.org
 SUMMARY:Beginner Yoga at the Vineyard
 DESCRIPTION:Beginner Yoga at the Vineyard at Great Bear Vineyards in Davis  Every Saturday Morning August 15 | 9–10 AMTicket Includes: Yoga ClassStart your weekend with fresh air\, gentle movement\, and beautiful vineyard views at Beginner Yoga at the Vineyard!Whether you’re brand new to yoga or simply looking for a relaxing way to ease into your Saturday\, this welcoming outdoor class is designed for all experience levels. Our professional instructors will guide you through the fundamentals of yoga with gentle stretches\, basic poses\, and mindful movement to help you build confidence\, improve flexibility\, and leave feeling refreshed.Set among the peaceful surroundings of Great Bear Vineyards\, it’s the perfect opportunity to slow down\, reconnect with yourself\, and enjoy a little tranquility before the weekend begins. What to Bring Yoga mat Water bottle TowelAfter class\, stay and enjoy the beauty of the vineyard. Wander the grounds\, relax with friends\, or return later during our tasting room hours for a glass of award-winning wine.Breathe deeply\, stretch gently\, and start your weekend feeling your very best. We can’t wait to welcome you to the vineyard!
@@ -979,7 +923,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315851798@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011213Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260815T160000
 DTEND;TZID=America/Los_Angeles:20260815T170000
 SUMMARY:Mosaics Beginning Spanish on Zoom
@@ -1011,7 +955,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315852292@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011213Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260815T170000
 DTEND;TZID=America/Los_Angeles:20260815T180000
 SUMMARY:Mosaics Beginning Korean on Zoom
@@ -1048,7 +992,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315852999@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011213Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260815T180000
 DTEND;TZID=America/Los_Angeles:20260815T190000
 SUMMARY:Mosaics Beginning Japanese on Zoom
@@ -1080,7 +1024,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315853728@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011213Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260815T190000
 DTEND;TZID=America/Los_Angeles:20260815T200000
 SUMMARY:Mosaics English Learners Group on Zoom
@@ -1112,7 +1056,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_315702079@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011258Z
 DTSTART;TZID=America/Los_Angeles:20260816T150000
 DTEND;TZID=America/Los_Angeles:20260816T163000
 SUMMARY:Artist Talk with Mirabel Wigon & Closing Reception 
@@ -1138,9 +1082,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20260816T150000
 DTEND;TZID=America/Los_Angeles:20260816T163000
-DTSTAMP:20260803T180056Z
+DTSTAMP:20260804T180054Z
 CREATED:20260717T173026Z
-LAST-MODIFIED:20260803T180056Z
+LAST-MODIFIED:20260804T180054Z
 UID:10002983-1786892400-1786897800@visitdavis.org
 SUMMARY:Artist Talk with Mirabel Wigon and Closing Reception
 DESCRIPTION:Artist Talk with Mirabel Wigon & Closing Reception in Davis \nSunday\, August 16\, 3-4:30 PM (Free) \n  \nMirabel Wigon will lead a walkthrough and informal talk regarding the work in her exhibit Earth Stars at the Pence. She will discuss her practice\, the evolution of her work culminating in this project\, image/model making\, and environmental ideas of entangled collaboration that inform the paintings. Enjoy her Artist Talk\, view her exhibit\, and sample refreshments on its last day. \n  \nEarth Stars is on display at the Pence Gallery from July 10 – August 16\, 2026.
@@ -1155,7 +1099,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766400@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011215Z
+DTSTAMP:20260805T011258Z
 DTSTART;TZID=America/Los_Angeles:20260817T180000
 DTEND;TZID=America/Los_Angeles:20260817T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1187,7 +1131,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766418@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011215Z
+DTSTAMP:20260805T011258Z
 DTSTART;TZID=America/Los_Angeles:20260818T100000
 DTEND;TZID=America/Los_Angeles:20260818T110000
 SUMMARY:Gentle yoga
@@ -1228,7 +1172,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_315913246@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260819T170000
 DTEND;TZID=America/Los_Angeles:20260819T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1260,9 +1204,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20260820T170000
 DTEND;TZID=America/Los_Angeles:20260820T200000
-DTSTAMP:20260803T180041Z
+DTSTAMP:20260804T180041Z
 CREATED:20260731T173043Z
-LAST-MODIFIED:20260803T180041Z
+LAST-MODIFIED:20260804T180041Z
 UID:10003007-1787245200-1787256000@visitdavis.org
 SUMMARY:Thursday Social at Great Bear Vineyards
 DESCRIPTION:Thursday Social at Great Bear Vineyards in Davis   Thursday\, August 20 | 5–8 PMTicket Includes: Your First Glass of WineWe’re excited to kick off our new Thursday Socials—the perfect way to ease into the weekend a little early!Gather your friends\, leave work behind\, and join us for a relaxed summer evening of award-winning wine\, great conversation\, and a little friendly competition in the beautiful setting of Great Bear Vineyards.For $15\, your ticket includes your first glass of wine\, so all you have to do is find your favorite spot among the vines and settle in for the evening.Feeling competitive? We’ve got you covered! We’ll have a selection of classic board games available\, including chess\, draughts\, Bananagrams\, and dominos. Challenge your friends to a game\, meet someone new\, or simply sit back\, sip your wine\, and enjoy the vineyard atmosphere. Cheese and light snacks will be available for purchase\, or you’re welcome to bring your own picnic and make an evening of it.Whether you’re catching up with friends\, planning a casual date night\, or looking for a new weekly tradition\, Thursday Social is all about slowing down\, sharing good company\, and enjoying summer evenings at the vineyard.Good wine. Great friends. Beautiful vineyard views. We can’t wait to welcome you to Thursday Social!
@@ -1277,9 +1221,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20260820T173000
 DTEND;TZID=America/Los_Angeles:20260820T183000
-DTSTAMP:20260803T180040Z
+DTSTAMP:20260804T180041Z
 CREATED:20260731T173043Z
-LAST-MODIFIED:20260803T180040Z
+LAST-MODIFIED:20260804T180041Z
 UID:10003006-1787247000-1787250600@visitdavis.org
 SUMMARY:Tai Chi Basics at Great Bear Vineyards
 DESCRIPTION:Tai Chi Basics Course in Davis   Thursday\, August 20 | 5:30–6:30 PM\nTicket Includes: Tai Chi Class\nSlow down\, breathe deeply\, and find your balance with an evening of Tai Chi at Great Bear Vineyards.\nJoin us every Thursday evening for our Tai Chi Basics Course\, a welcoming introduction to the ancient practice of Tai Chi. Through slow\, flowing movements and mindful breathing\, you’ll build balance\, improve strength and flexibility\, reduce stress\, and leave feeling refreshed and recharged.\nThis beginner-friendly class focuses on the fundamental drills and postures that provide the greatest health benefits while laying the foundation for a deeper Tai Chi practice. Whether you’re completely new to Tai Chi or looking to refine the basics\, everyone is welcome.\n Meet Your Instructor\nDaniel Pfister has practiced Tai Chi for nearly 30 years. He received intensive training while living in Taiwan for five years and later completed his master’s thesis on the effects of Tai Chi stance training on blood pressure. His approachable teaching style makes this class enjoyable and accessible for participants of all experience levels.\nAfter class\, you’re invited to stay and enjoy Thursday Social! Relax with a glass of wine\, challenge friends to a board game\, or simply unwind in the peaceful vineyard setting as the sun begins to set.\nCome discover why Tai Chi is often called “meditation in motion” and experience the perfect blend of wellness\, community\, and vineyard charm.\nWe look forward to moving with you!
@@ -1294,9 +1238,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20260820T180000
 DTEND;TZID=America/Los_Angeles:20260820T200000
-DTSTAMP:20260803T180028Z
+DTSTAMP:20260804T180029Z
 CREATED:20260731T173031Z
-LAST-MODIFIED:20260803T180028Z
+LAST-MODIFIED:20260804T180029Z
 UID:10003005-1787248800-1787256000@visitdavis.org
 SUMMARY:Silent Book Club at Great Bear Vineyards
 DESCRIPTION:Silent Book Club at Great Bear Vineyards in Davis Thursday\, August 20 | 6–8 PM\nTicket Includes: A Glass of Wine\nLooking for the perfect excuse to slow down and unplug? Join us for Silent Book Club at Great Bear Vineyards—an evening dedicated to good books\, great wine\, and peaceful vineyard surroundings.\nBring the book you’ve been meaning to finish\, find a cozy spot in our beautiful gardens\, and settle in with a glass of estate-grown wine. Whether you come on your own or with friends\, there’s no assigned reading\, no pressure\, and no deadlines—just uninterrupted time to relax and enjoy a great story.\nYour ticket includes your first glass of wine\, with your choice of four delicious wines. After that\, you’re welcome to linger as long as you’d like\, enjoying another glass or a bottle while soaking in the tranquil vineyard atmosphere.\n Cheese\, charcuterie\, and light snacks will be available for purchase\, making it easy to pair your favorite chapter with the perfect bite.\nWhether you’re an avid reader or simply looking for a peaceful way to spend your evening\, Silent Book Club is the perfect blend of relaxation\, community\, and great wine.\nGrab your current read\, pour a glass\, and escape into a story with us. We can’t wait to see you at the vineyard!
@@ -1311,9 +1255,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20260820T183000
 DTEND;TZID=America/Los_Angeles:20260820T210000
-DTSTAMP:20260803T180055Z
+DTSTAMP:20260804T180054Z
 CREATED:20260718T180032Z
-LAST-MODIFIED:20260803T180055Z
+LAST-MODIFIED:20260804T180054Z
 UID:10002985-1787250600-1787259600@visitdavis.org
 SUMMARY:Hope Café
 DESCRIPTION:Come celebrate the end of summer and the start of fall with an evening designed to build connection and community in Davis. Hope Café is a little bit workshop\, a little bit party — a warm\, welcoming space where live music\, creative activities\, and guided conversations invite you to pause\, reconnet\, and feel like you belong. All you need to do is show up with a curious mind and an open heart. \nWhat to Expect: \nDoors open at 6:30 PM with live world jazz by Nick Carvajal and Jim Frink. Local vendors Jumi Shrub\, Enamora Empanadas\, and Upper Crust Baking will have snacks and drinks available. Community story sharing and playful creative exercises continue through 8:30 PM\, after which guests are encouraged to linger and connect.
@@ -1328,9 +1272,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20260821T170000
 DTEND;TZID=America/Los_Angeles:20260821T203000
-DTSTAMP:20260803T180028Z
+DTSTAMP:20260804T180029Z
 CREATED:20260731T173030Z
-LAST-MODIFIED:20260803T180028Z
+LAST-MODIFIED:20260804T180029Z
 UID:10003004-1787331600-1787344200@visitdavis.org
 SUMMARY:Live Music and Food Truck Night at Great Bear Vineyards
 DESCRIPTION:Live Music & Food Truck Night in Davis Friday\, August 21 | 5–8:30 PM\nTicket Includes: Glass of Wine & Live Music\nKick off your weekend with an evening of live music\, authentic Mexican food\, and award-winning wine at Great Bear Vineyards!\nGather your friends\, pour a glass of your favorite estate-grown wine\, and relax among the vines while enjoying live music from Marty Cohen & The Sidekicks. Maiz Mexican Food will be serving up their delicious menu from 5–8:30 PM\, with live music from 6–7:30 PM.\n Music by Marty Cohen & The Sidekicks\nWe’re excited to welcome Marty Cohen & The Sidekicks back to the winery! Featuring Marty Cohen\, Ken Rabiroff\, and Jeff Sears\, this talented trio is one of Northern California’s premier acoustic vocal groups. Their rich three-part harmonies\, distinctive arrangements\, and blend of folk-inspired originals with pop influences create the perfect soundtrack for a relaxing summer evening.\n Food by Maiz Mexican Food\nCome hungry! This family-owned food truck serves authentic Mexican favorites\, including tacos\, huaraches\, quesadillas\, and more\, all featuring their signature smoked meats and fresh\, flavorful ingredients. It’s the perfect pairing with a glass of Great Bear wine.\n Your Evening Includes A glass of Great Bear estate-grown wine Live music by Marty Cohen & The Sidekicks (6–7:30 PM) Authentic Mexican food available for purchase (5–8:30 PM) Beautiful vineyard views and a relaxing summer atmosphere\nPlease help us support this wonderful local food truck by purchasing your dinner onsite and leaving outside food at home.\nGreat wine\, delicious food\, live music\, and beautiful vineyard views—it’s everything you need for the perfect Friday night. We can’t wait to see you at the vineyard!
@@ -1361,9 +1305,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20260822T090000
 DTEND;TZID=America/Los_Angeles:20260822T100000
-DTSTAMP:20260803T180028Z
+DTSTAMP:20260804T180029Z
 CREATED:20260731T173030Z
-LAST-MODIFIED:20260803T180028Z
+LAST-MODIFIED:20260804T180029Z
 UID:10003003-1787389200-1787392800@visitdavis.org
 SUMMARY:Beginner Yoga at the Vineyard
 DESCRIPTION:Beginner Yoga at the Vineyard in Davis Every Saturday Morning August 22 | 9–10 AMYoga Class Ticket: $10Start your weekend with fresh air\, gentle movement\, and beautiful vineyard views at Beginner Yoga at the Vineyard!Whether you’re brand new to yoga or simply looking for a relaxing way to ease into your Saturday\, this welcoming outdoor class is designed for all experience levels. Our professional instructors will guide you through the fundamentals of yoga with gentle stretches\, basic poses\, and mindful movement to help you build confidence\, improve flexibility\, and leave feeling refreshed.Set among the peaceful surroundings of Great Bear Vineyards\, it’s the perfect opportunity to slow down\, reconnect with yourself\, and enjoy a little tranquility before the weekend begins. What to Bring Yoga mat Water bottle TowelBreathe deeply\, stretch gently\, and start your weekend feeling your very best. We can’t wait to welcome you to the vineyard!
@@ -1379,7 +1323,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs, Visit Davis
 UID:event_315385707@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011258Z
 DTSTART;TZID=America/Los_Angeles:20260822T100000
 DTEND;TZID=America/Los_Angeles:20260822T140000
 SUMMARY:Sculptural Papermaking with Bev Barnett
@@ -1410,7 +1354,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315953447@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011213Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260822T160000
 DTEND;TZID=America/Los_Angeles:20260822T170000
 SUMMARY:Mosaics Beginning Spanish on Zoom
@@ -1442,7 +1386,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315954060@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011213Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260822T170000
 DTEND;TZID=America/Los_Angeles:20260822T180000
 SUMMARY:Mosaics Beginning Korean on Zoom
@@ -1479,7 +1423,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766389@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011215Z
+DTSTAMP:20260805T011258Z
 DTSTART;TZID=America/Los_Angeles:20260824T180000
 DTEND;TZID=America/Los_Angeles:20260824T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1511,7 +1455,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766436@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011215Z
+DTSTAMP:20260805T011258Z
 DTSTART;TZID=America/Los_Angeles:20260825T100000
 DTEND;TZID=America/Los_Angeles:20260825T110000
 SUMMARY:Gentle yoga
@@ -1552,7 +1496,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjclbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260826T170000
 DTEND;TZID=America/Los_Angeles:20260826T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1616,7 +1560,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_315506530@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011258Z
 DTSTART;TZID=America/Los_Angeles:20260830T130000
 DTEND;TZID=America/Los_Angeles:20260830T160000
 SUMMARY:Tote Embroidery Workshop
@@ -1644,7 +1588,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766392@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011215Z
+DTSTAMP:20260805T011258Z
 DTSTART;TZID=America/Los_Angeles:20260831T180000
 DTEND;TZID=America/Los_Angeles:20260831T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1676,7 +1620,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766440@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011215Z
+DTSTAMP:20260805T011258Z
 DTSTART;TZID=America/Los_Angeles:20260901T100000
 DTEND;TZID=America/Los_Angeles:20260901T110000
 SUMMARY:Gentle yoga
@@ -1701,7 +1645,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcmbdb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260902T170000
 DTEND;TZID=America/Los_Angeles:20260902T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1738,12 +1682,69 @@ LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, U
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/499036487_1275464707915844_5079899038399820181_n.jpg
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/315766394/"}
+X-SOURCE-ID:meetup_mindful_embodied_spirituality
+X-SOURCE:Meetup Mindful Embodied Spirituality
+UID:event_315766394@meetup.com
+SEQUENCE:1
+DTSTAMP:20260805T011258Z
+DTSTART;TZID=America/Los_Angeles:20260907T180000
+DTEND;TZID=America/Los_Angeles:20260907T200000
+SUMMARY:Conscious Conversations & Somatic Practices  
+DESCRIPTION:Iama Embodied Community\nThis is a spiritual community that ho
+ nors the body’s wisdom and lived experience. Whether you’re healing fr
+ om religious trauma\, deconstructing beliefs\, exploring spirituality\, or
+  just want to be with other conscious persons\, this space is for you.\n\n
+ Expect conscious conversations\, meditation\, breathwork\, sound healing\,
+  and other somatic practices to help reconnect with ourselves and each oth
+ er.\n\nwe share a potluck dinner every last Monday of the month.\n\n📅 *
+ *Date & Time**: Mondays 6-8 PM\n📍 **Location**: 727 T St. Sacramento\, 
+ Ca\, 95811\n💜 **All our events are free\, donations supported.**\n✨ *
+ *No prior experience or spiritual beliefs necessary.**\n📩 **RSVP/ Quest
+ ions? Reach out at** embody.iama@gmail.com\n🔗 **Follow us on Instagram:
+ ** [@embody.iama](https://www.instagram.com/embody.iama)\n\nPS: we meet in
+  the social hall of Parkview Presbyterian Church. Please find us through t
+ he back entrance\, the brown gate on Solons alley. You may park in the bac
+ k\, move the orange post to park and please return it when you leave.
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ 315766394/
+STATUS:CONFIRMED
+CREATED:20260720T203938Z
+LAST-MODIFIED:20260720T203938Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/ndpjxtyjcmblb/"}
+X-SOURCE-ID:meetup_mindful_embodied_spirituality
+X-SOURCE:Meetup Mindful Embodied Spirituality
+UID:event_ndpjxtyjcmblb@meetup.com
+SEQUENCE:1
+DTSTAMP:20260805T011258Z
+DTSTART;TZID=America/Los_Angeles:20260908T100000
+DTEND;TZID=America/Los_Angeles:20260908T110000
+SUMMARY:Gentle yoga
+DESCRIPTION:Iama Embodied Community\nThis is a slow and mindful practice t
+ hat emphasizes deep breathing\, body awareness\, and nervous system regula
+ tion. This class is accessible to all abilities\, providing a supportive a
+ nd trauma-informed space to reconnect with the body.\n\nSessions alternate
+  between floor yoga and chair yoga (on the 2nd and 4th Tuesday). Stay a bi
+ t longer on the last Tuesday of the month and join us for coffee or tea af
+ terward!\n\nLike all our events\, this class is free\, donations are welco
+ me.
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ ndpjxtyjcmblb/
+STATUS:CONFIRMED
+CREATED:20260504T215215Z
+LAST-MODIFIED:20260504T215215Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/vwnqstyjcmbmb/"}
 X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstyjcmbmb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260909T170000
 DTEND;TZID=America/Los_Angeles:20260909T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1791,7 +1792,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315045635@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260912T160000
 DTEND;TZID=America/Los_Angeles:20260912T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1830,7 +1831,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315046964@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260912T180000
 DTEND;TZID=America/Los_Angeles:20260912T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1869,7 +1870,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315047643@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260912T190000
 DTEND;TZID=America/Los_Angeles:20260912T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1908,7 +1909,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjcmbvb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260916T170000
 DTEND;TZID=America/Los_Angeles:20260916T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1940,7 +1941,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_rjtwxtyjcmbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260919T160000
 DTEND;TZID=America/Los_Angeles:20260919T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1979,7 +1980,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_tjtwxtyjcmbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260919T180000
 DTEND;TZID=America/Los_Angeles:20260919T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -2018,7 +2019,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315719094@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260919T190000
 DTEND;TZID=America/Los_Angeles:20260919T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -2057,7 +2058,7 @@ X-SOURCE-ID:meetup_art_in_action
 X-SOURCE:Meetup: Art in Action
 UID:event_315966638@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011215Z
+DTSTAMP:20260805T011258Z
 DTSTART;TZID=America/Los_Angeles:20260920T130000
 DTEND;TZID=America/Los_Angeles:20260920T150000
 SUMMARY:Art in Action: Flying Birds Mobile
@@ -2127,7 +2128,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_rjtwxtyjcmbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260926T160000
 DTEND;TZID=America/Los_Angeles:20260926T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -2166,7 +2167,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_tjtwxtyjcmbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260926T180000
 DTEND;TZID=America/Los_Angeles:20260926T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -2205,7 +2206,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_vjtwxtyjcmbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260926T190000
 DTEND;TZID=America/Los_Angeles:20260926T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -2244,7 +2245,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcmbnc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20260930T170000
 DTEND;TZID=America/Los_Angeles:20260930T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2292,7 +2293,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_rjtwxtyjcnbfb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20261003T160000
 DTEND;TZID=America/Los_Angeles:20261003T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -2331,7 +2332,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcnbkb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20261007T170000
 DTEND;TZID=America/Los_Angeles:20261007T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -2373,7 +2374,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_315864641@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011258Z
 DTSTART;TZID=America/Los_Angeles:20261011T130000
 DTEND;TZID=America/Los_Angeles:20261011T153000
 SUMMARY:Stained Glass Workshop with Salty Bird Glass
@@ -2401,7 +2402,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstyjcnbsb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260804T011214Z
+DTSTAMP:20260805T011257Z
 DTSTART;TZID=America/Los_Angeles:20261014T170000
 DTEND;TZID=America/Los_Angeles:20261014T210000
 SUMMARY:Weekly Game Night at Blue Note
