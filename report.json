@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-07T01:55:20.035736",
+  "generated": "2026-08-08T00:37:17.014496",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34531,6 +34531,10 @@
             {
               "date": "2026-08-07",
               "count": 0
+            },
+            {
+              "date": "2026-08-08",
+              "count": 0
             }
           ]
         },
@@ -35138,6 +35142,10 @@
             },
             {
               "date": "2026-08-07",
+              "count": 30
+            },
+            {
+              "date": "2026-08-08",
               "count": 30
             }
           ]
@@ -35747,6 +35755,10 @@
             {
               "date": "2026-08-07",
               "count": 1
+            },
+            {
+              "date": "2026-08-08",
+              "count": 1
             }
           ]
         },
@@ -36354,6 +36366,10 @@
             },
             {
               "date": "2026-08-07",
+              "count": 10
+            },
+            {
+              "date": "2026-08-08",
               "count": 10
             }
           ]
@@ -36963,6 +36979,10 @@
             {
               "date": "2026-08-07",
               "count": 10
+            },
+            {
+              "date": "2026-08-08",
+              "count": 10
             }
           ]
         },
@@ -37570,6 +37590,10 @@
             },
             {
               "date": "2026-08-07",
+              "count": 10
+            },
+            {
+              "date": "2026-08-08",
               "count": 10
             }
           ]
@@ -38179,6 +38203,10 @@
             {
               "date": "2026-08-07",
               "count": 5
+            },
+            {
+              "date": "2026-08-08",
+              "count": 6
             }
           ]
         },
@@ -38786,6 +38814,10 @@
             },
             {
               "date": "2026-08-07",
+              "count": 0
+            },
+            {
+              "date": "2026-08-08",
               "count": 0
             }
           ]
@@ -39395,6 +39427,10 @@
             {
               "date": "2026-08-07",
               "count": 10
+            },
+            {
+              "date": "2026-08-08",
+              "count": 10
             }
           ]
         },
@@ -40002,6 +40038,10 @@
             },
             {
               "date": "2026-08-07",
+              "count": 0
+            },
+            {
+              "date": "2026-08-08",
               "count": 0
             }
           ]
@@ -40611,6 +40651,10 @@
             {
               "date": "2026-08-07",
               "count": 0
+            },
+            {
+              "date": "2026-08-08",
+              "count": 0
             }
           ]
         },
@@ -41218,6 +41262,10 @@
             },
             {
               "date": "2026-08-07",
+              "count": 28
+            },
+            {
+              "date": "2026-08-08",
               "count": 28
             }
           ]
@@ -41827,6 +41875,10 @@
             {
               "date": "2026-08-07",
               "count": 28
+            },
+            {
+              "date": "2026-08-08",
+              "count": 28
             }
           ]
         }
@@ -41857,11 +41909,11 @@
           "count": 12
         },
         {
-          "category": "Nature / Outdoors / Recreation",
+          "category": "Music / Concerts",
           "count": 8
         },
         {
-          "category": "Music / Concerts",
+          "category": "Nature / Outdoors / Recreation",
           "count": 8
         },
         {
@@ -41873,6 +41925,10 @@
           "count": 3
         },
         {
+          "category": "Comedy / Improv",
+          "count": 1
+        },
+        {
           "category": "Books / Literature / Poetry",
           "count": 1
         },
@@ -41882,7 +41938,7 @@
         }
       ],
       "images": {
-        "total": 123,
+        "total": 124,
         "with_image": 69,
         "by_source": [
           {
@@ -41908,9 +41964,9 @@
         ]
       },
       "url_quality": {
-        "total_with_url": 123,
-        "total_events": 123,
-        "unique_urls": 123,
+        "total_with_url": 124,
+        "total_events": 124,
+        "unique_urls": 124,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
@@ -41923,13 +41979,13 @@
             "specificity_pct": 100
           },
           {
-            "source": "Visit Davis",
+            "source": "Visityolo Event",
             "events": 21,
             "unique_urls": 21,
             "specificity_pct": 100
           },
           {
-            "source": "Visityolo Event",
+            "source": "Visit Davis",
             "events": 21,
             "unique_urls": 21,
             "specificity_pct": 100
@@ -41966,8 +42022,8 @@
           },
           {
             "source": "Meetup Pence Adult Art Programs",
-            "events": 3,
-            "unique_urls": 3,
+            "events": 4,
+            "unique_urls": 4,
             "specificity_pct": 100
           },
           {

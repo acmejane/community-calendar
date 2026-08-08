@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Visit Yolo County California, Davis, Winters, Clarksburg, Capay Valley, Woodland - ECPv6.17.0//NONSGML v1.0//EN
+PRODID:-//Visit Yolo County California, Davis, Winters, Clarksburg, Capay Valley, Woodland - ECPv6.17.2//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Visit Yolo County California, Davis, Winters, Clarksburg, Capay Valley, Woodland
@@ -77,33 +77,6 @@ ATTACH;FMTTYPE=image/png:https://visityolo.com/wp-content/uploads/Michael-Larson
 ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260806T170000
-DTEND;TZID=America/Los_Angeles:20260806T200000
-DTSTAMP:20260722T210734Z
-CREATED:20260722T210734Z
-LAST-MODIFIED:20260722T210734Z
-UID:10014566-1786035600-1786046400@visityolo.com
-SUMMARY:Thursday Social at Great Bear Vineyards
-DESCRIPTION:Thursday Social at Great Bear Vineyards in Davis  Thursday\, August 6 | 5–8 PM\nTicket Includes: Your First Glass of Wine\nWe’re excited to kick off our new Thursday Socials—the perfect way to ease into the weekend a little early!\nGather your friends\, leave work behind\, and join us for a relaxed summer evening of award-winning wine\, great conversation\, and a little friendly competition in the beautiful setting of Great Bear Vineyards.\nFor $15\, your ticket includes your first glass of wine\, so all you have to do is find your favorite spot among the vines and settle in for the evening.\nFeeling competitive? We’ve got you covered! We’ll have a selection of classic board games available\, including chess\, draughts\, Bananagrams\, and dominos. Challenge your friends to a game\, meet someone new\, or simply sit back\, sip your wine\, and enjoy the vineyard atmosphere.\n Cheese and light snacks will be available for purchase\, or you’re welcome to bring your own picnic and make an evening of it.\nWhether you’re catching up with friends\, planning a casual date night\, or looking for a new weekly tradition\, Thursday Social is all about slowing down\, sharing good company\, and enjoying summer evenings at the vineyard.\nGood wine. Great friends. Beautiful vineyard views. We can’t wait to welcome you to Thursday Social!
-URL:https://visityolo.com/event/thursday-social-at-great-bear-vineyards-3/
-LOCATION:Great Bear Vineyards\, Great Bear Vineyards  24800 Co Rd 101A\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Highway128PressTrip_GreatBearVineyards_2024_MaxWhittaker_12-Copy-scaled.jpg
-ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260806T184500
-DTEND;TZID=America/Los_Angeles:20260806T203000
-DTSTAMP:20260717T171052Z
-CREATED:20260602T164936Z
-LAST-MODIFIED:20260717T171052Z
-UID:10014078-1786041900-1786048200@visityolo.com
-SUMMARY:Bat Talk and Tour
-DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
-URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-08-06/
-LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
-ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260807T110000
 DTEND;TZID=America/Los_Angeles:20260807T180000
 DTSTAMP:20251117T171126Z
@@ -115,20 +88,6 @@ DESCRIPTION:Discover the charm of Yolo County’s wine country this season by vi
 URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-08-07/
 LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260807T113000
-DTEND;TZID=America/Los_Angeles:20260807T170000
-DTSTAMP:20260519T225153Z
-CREATED:20260519T225153Z
-LAST-MODIFIED:20260519T225153Z
-UID:10013826-1786102200-1786122000@visityolo.com
-SUMMARY:Exhibit It! A Community Art Exhibit
-DESCRIPTION:Exhibit It! A Community Art Exhibit in Davis \n  \nIt’s time for our annual non-juried exhibit to highlight the talent of our community’s artists! Artists ages 16 and up can drop off one artwork in any medium at the Pence Gallery on Friday\, June 26\, beginning at 11:30 AM. This is a first come\, first served process. No early drop-offs accepted. \n  \nArtworks are limited to 30″ in any direction\, including the frame\, and no more than 50 pounds. All artworks must be framed\, or ready to install.  \n  \nThe first 50 submissions will be admitted after artists pay a fee of $35 for Members and $40 for non-Members. Please be prepared to fill out information about your piece including the title\, year made\, medium\, dimensions\, retail price\, etc.  \n  \nParticipants can win the Curator’s Choice award\, announced during the reception on July 10. Or they can win the Public Choice award\, chosen by viewers who vote when visiting the exhibit at the gallery\, which awards a free Pence membership and a photo in the Davis Enterprise. \n  \nArtist call drop-off date: Friday\, June 26 beginning at 11:30 AM \nSubmission fee: $35 Members\, $40 non-Members \nExhibit dates: July 3 – August 16\, 2026 \nReception: July 10\, 6-9 PM (Awards at 7:30 PM) \n  \nThis exhibit is sponsored by Dawn Daro.
-URL:https://visityolo.com/event/exhibit-it-a-community-art-exhibit/2026-08-07/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Exhibit_It-2026-front-copy.jpg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260807T170000
@@ -276,6 +235,20 @@ URL:https://visityolo.com/event/romeo-and-juliet/2026-08-08/
 LOCATION:Winters Opera House Ballroom\, 13 Main St\, Winters\, 95694\, United States
 ATTACH;FMTTYPE=image/png:https://visityolo.com/wp-content/uploads/Romeo-Flyer4-png-2.png
 ORGANIZER;CN="Winters Theatre Copany":MAILTO:winterstheatre@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260808T193000
+DTEND;TZID=America/Los_Angeles:20260808T220000
+DTSTAMP:20260807T225830Z
+CREATED:20260807T225830Z
+LAST-MODIFIED:20260807T225830Z
+UID:10014607-1786217400-1786226400@visityolo.com
+SUMMARY:Modern Magic Live @ The Melon Ball
+DESCRIPTION:Live music at The Melon Ball in Davis. \nExperience an unforgettable evening of mystery\, laughter\, and seemingly impossible thrills as Modern Magic Live! brings together three contemporary magicians for one spectacular event. \nThe evening begins with intimate strolling magic then continues with a fast-paced stage show where award-winning professional magicians Craig Meyers\, Roman Spinale\, and Michael Nguyen each bring a distinct style to create astonishing sleights of hand\, mind-reading\, and visual illusions
+URL:https://visityolo.com/event/modern-magic-live-the-melon-ball/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Magic080826_Banner-1.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260809T090000
@@ -450,5 +423,32 @@ DESCRIPTION:The popular Davis Farmers Market event is every Wednesday from 4 to 
 URL:https://visityolo.com/event/davis-farmers-market-picnic-in-the-park-2-2/2026-08-12/
 LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/486434334_1090519546450339_214190693011889520_n-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260812T180000
+DTEND;TZID=America/Los_Angeles:20260812T200000
+DTSTAMP:20260722T210534Z
+CREATED:20260722T210534Z
+LAST-MODIFIED:20260722T210534Z
+UID:10014571-1786557600-1786564800@visityolo.com
+SUMMARY:Fit4Mom Yoga Night
+DESCRIPTION:Yoga & Wine at Great Bear Vineyards in Davis Second Wednesday of Every Month August 12 | 6–8 PM\nTicket Includes: Yoga Class & Your First Glass of Wine\nUnroll your mat\, take a deep breath\, and enjoy an evening of movement\, mindfulness\, and wine at Great Bear Vineyards!\nJoin Fit4Mom Davis-Woodland for an easy-to-moderate Vinyasa Flow class set in the peaceful surroundings of the vineyard. This welcoming class is designed for all experience levels\, with instructors offering modifications to suit your individual practice. Flow through gentle poses\, reconnect with your breath\, and finish with an inspiring guided meditation that will leave you feeling refreshed and recharged.\nAfter class\, it’s time to reward yourself! Your ticket includes a glass of Great Bear wine\, so you can relax with friends\, wander through the vineyard\, spread out a picnic\, or simply soak in a beautiful summer evening.\nWhat to Bring Yoga mat Water bottle Towel A light jacket or sweater for the evening Money or card if you’d like to purchase an additional glass or bottle of wine Picnic food if you’d like to stay and enjoy dinner at the vineyard\nWhether you’re looking to unwind after work\, meet new friends\, or simply enjoy a little self-care in a beautiful setting\, Yoga & Wine is the perfect midweek escape.\nWe can’t wait to welcome you to the vineyard for an evening of movement\, relaxation\, and great wine!\nHosted by FIT4MOM Davis-Woodland
+URL:https://visityolo.com/event/fit4mom-yoga-night-2/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards  24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260812T184500
+DTEND;TZID=America/Los_Angeles:20260812T203000
+DTSTAMP:20260717T171052Z
+CREATED:20260602T164936Z
+LAST-MODIFIED:20260717T171052Z
+UID:10014080-1786560300-1786566600@visityolo.com
+SUMMARY:Bat Talk and Tour
+DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
+URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-08-12/
+LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
+ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
 END:VEVENT
 END:VCALENDAR
