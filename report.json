@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-08T00:37:17.014496",
+  "generated": "2026-08-09T00:39:25.925382",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34535,6 +34535,10 @@
             {
               "date": "2026-08-08",
               "count": 0
+            },
+            {
+              "date": "2026-08-09",
+              "count": 0
             }
           ]
         },
@@ -35146,6 +35150,10 @@
             },
             {
               "date": "2026-08-08",
+              "count": 30
+            },
+            {
+              "date": "2026-08-09",
               "count": 30
             }
           ]
@@ -35759,6 +35767,10 @@
             {
               "date": "2026-08-08",
               "count": 1
+            },
+            {
+              "date": "2026-08-09",
+              "count": 1
             }
           ]
         },
@@ -36370,6 +36382,10 @@
             },
             {
               "date": "2026-08-08",
+              "count": 10
+            },
+            {
+              "date": "2026-08-09",
               "count": 10
             }
           ]
@@ -36983,6 +36999,10 @@
             {
               "date": "2026-08-08",
               "count": 10
+            },
+            {
+              "date": "2026-08-09",
+              "count": 10
             }
           ]
         },
@@ -37594,6 +37614,10 @@
             },
             {
               "date": "2026-08-08",
+              "count": 10
+            },
+            {
+              "date": "2026-08-09",
               "count": 10
             }
           ]
@@ -38207,6 +38231,10 @@
             {
               "date": "2026-08-08",
               "count": 6
+            },
+            {
+              "date": "2026-08-09",
+              "count": 6
             }
           ]
         },
@@ -38818,6 +38846,10 @@
             },
             {
               "date": "2026-08-08",
+              "count": 0
+            },
+            {
+              "date": "2026-08-09",
               "count": 0
             }
           ]
@@ -39431,6 +39463,10 @@
             {
               "date": "2026-08-08",
               "count": 10
+            },
+            {
+              "date": "2026-08-09",
+              "count": 10
             }
           ]
         },
@@ -40042,6 +40078,10 @@
             },
             {
               "date": "2026-08-08",
+              "count": 0
+            },
+            {
+              "date": "2026-08-09",
               "count": 0
             }
           ]
@@ -40655,6 +40695,10 @@
             {
               "date": "2026-08-08",
               "count": 0
+            },
+            {
+              "date": "2026-08-09",
+              "count": 0
             }
           ]
         },
@@ -41266,6 +41310,10 @@
             },
             {
               "date": "2026-08-08",
+              "count": 28
+            },
+            {
+              "date": "2026-08-09",
               "count": 28
             }
           ]
@@ -41879,6 +41927,10 @@
             {
               "date": "2026-08-08",
               "count": 28
+            },
+            {
+              "date": "2026-08-09",
+              "count": 28
             }
           ]
         }
@@ -41914,7 +41966,7 @@
         },
         {
           "category": "Nature / Outdoors / Recreation",
-          "count": 8
+          "count": 7
         },
         {
           "category": "Religion / Spirituality",
@@ -41922,11 +41974,7 @@
         },
         {
           "category": "Dance / Performance",
-          "count": 3
-        },
-        {
-          "category": "Comedy / Improv",
-          "count": 1
+          "count": 2
         },
         {
           "category": "Books / Literature / Poetry",
@@ -41938,8 +41986,8 @@
         }
       ],
       "images": {
-        "total": 124,
-        "with_image": 69,
+        "total": 121,
+        "with_image": 67,
         "by_source": [
           {
             "source": "Hate-Free Together",
@@ -41948,25 +41996,25 @@
           },
           {
             "source": "Visit Davis",
-            "total": 21,
-            "with_image": 20
+            "total": 18,
+            "with_image": 18
           },
           {
             "source": "Visityolo Event",
-            "total": 21,
-            "with_image": 14
+            "total": 18,
+            "with_image": 12
           },
           {
             "source": "Visit Davis, Visityolo Event",
-            "total": 5,
-            "with_image": 5
+            "total": 8,
+            "with_image": 7
           }
         ]
       },
       "url_quality": {
-        "total_with_url": 124,
-        "total_events": 124,
-        "unique_urls": 124,
+        "total_with_url": 121,
+        "total_events": 121,
+        "unique_urls": 121,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
@@ -41979,15 +42027,15 @@
             "specificity_pct": 100
           },
           {
-            "source": "Visityolo Event",
-            "events": 21,
-            "unique_urls": 21,
+            "source": "Visit Davis",
+            "events": 18,
+            "unique_urls": 18,
             "specificity_pct": 100
           },
           {
-            "source": "Visit Davis",
-            "events": 21,
-            "unique_urls": 21,
+            "source": "Visityolo Event",
+            "events": 18,
+            "unique_urls": 18,
             "specificity_pct": 100
           },
           {
@@ -42016,8 +42064,8 @@
           },
           {
             "source": "Visit Davis, Visityolo Event",
-            "events": 5,
-            "unique_urls": 5,
+            "events": 8,
+            "unique_urls": 8,
             "specificity_pct": 100
           },
           {
