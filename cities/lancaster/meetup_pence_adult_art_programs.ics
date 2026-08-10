@@ -25,36 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_315176714@meetup.com
-SEQUENCE:1
-DTSTAMP:20260809T003917Z
-DTSTART;TZID=America/Los_Angeles:20260809T100000
-DTEND;TZID=America/Los_Angeles:20260809T133000
-SUMMARY:Relief Printmaking with Heather Hogan
-DESCRIPTION:Pence Adult Art Programs\nWith artist Heather Hogan\, students
-  will learn how to design for relief printing\, transfer the design to the
-  block\, use various types of ink\, and create single prints and repeating
-  patterns on paper and fabric. Paper\, cards\, flour-sack towels\, and dra
- wstring pouches will be provided\, but students are encouraged to bring mu
- ltiple garments and fabrics to print upon. Tips and techniques for collagi
- ng paper prints and securing fabric printed patches to garments will be di
- scussed. This class is open to both beginners and experienced artists and 
- is recommended for ages 12 and up.\n\nRelief Printmaking with Heather Hoga
- n\nSunday\\\, August 9 \\| 10 AM \\- 1:30 PM\n$115 Members\, $125 Non-Memb
- ers (All materials included)\n\n**Registration is required through the [Pe
- nce's website (CLICK HERE)](https://pencegallery.org/education/programs/wo
- rkshops-and-classes/).**\n\nAny questions? Email pencegallery@gmail.com.
-URL;VALUE=URI:https://www.meetup.com/pence-adult-art-programs/events/31517
- 6714/
-STATUS:CONFIRMED
-CREATED:20260608T232920Z
-LAST-MODIFIED:20260608T232920Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:event_315702079@meetup.com
 SEQUENCE:1
-DTSTAMP:20260809T003917Z
+DTSTAMP:20260810T004100Z
 DTSTART;TZID=America/Los_Angeles:20260816T150000
 DTEND;TZID=America/Los_Angeles:20260816T163000
 SUMMARY:Artist Talk with Mirabel Wigon & Closing Reception 
@@ -77,7 +50,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_315385707@meetup.com
 SEQUENCE:1
-DTSTAMP:20260809T003917Z
+DTSTAMP:20260810T004100Z
 DTSTART;TZID=America/Los_Angeles:20260822T100000
 DTEND;TZID=America/Los_Angeles:20260822T140000
 SUMMARY:Sculptural Papermaking with Bev Barnett
@@ -105,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_315506530@meetup.com
 SEQUENCE:1
-DTSTAMP:20260809T003917Z
+DTSTAMP:20260810T004100Z
 DTSTART;TZID=America/Los_Angeles:20260830T130000
 DTEND;TZID=America/Los_Angeles:20260830T160000
 SUMMARY:Tote Embroidery Workshop
@@ -130,7 +103,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316022027@meetup.com
 SEQUENCE:1
-DTSTAMP:20260809T003917Z
+DTSTAMP:20260810T004100Z
 DTSTART;TZID=America/Los_Angeles:20260901T100000
 DTEND;TZID=America/Los_Angeles:20260901T120000
 SUMMARY:Intermediate Watercolor with Misuk Goltz (5-sessions)
@@ -157,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_315864641@meetup.com
 SEQUENCE:1
-DTSTAMP:20260809T003917Z
+DTSTAMP:20260810T004100Z
 DTSTART;TZID=America/Los_Angeles:20261011T130000
 DTEND;TZID=America/Los_Angeles:20261011T153000
 SUMMARY:Stained Glass Workshop with Salty Bird Glass
