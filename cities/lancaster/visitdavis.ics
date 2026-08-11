@@ -1,1 +1,464 @@
-<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fevents%2F%3Fical%3D1&y=ipr:172.182.194.209:1786322461.797"></meta></head></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Visit Davis - ECPv6.17.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Visit Davis
+X-ORIGINAL-URL:https://visitdavis.org
+X-WR-CALDESC:Events for Visit Davis
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20270314T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20271107T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260710T173045Z
+CREATED:20260619T173046Z
+LAST-MODIFIED:20260710T173045Z
+UID:10002890-1783641600-1786924799@visitdavis.org
+SUMMARY:Mirabel Wigon: Earth Stars
+DESCRIPTION:Mirabel Wigon: Earth Stars at Pence Gallery in Davis \nExhibit: July 10 – August 16\, 2026 \nReception: July 10\, 6-9 PM (Free) \nMirabel Wigon’s Earth Stars features imagined and fantastical futures with flora as the main subject. Her paintings deconstruct and reconstruct plant forms to explore the intermingled and entangled relationships in the natural world. Her range of mediated source materials\, including photogrammetry scans of botanical specimens\, offers new ways of looking at our planetary cohabitants. Wigon uses augmented reality to reveal the 3D models made through photogrammetry\, further entangling the viewer in the processes of the paintings’ construction. Her reflections of mediation and translation call for a future that values diversity\, adaptation\, and perseverance. \nImage: Mirabel Wigon\, “Celestial Lattice”
+URL:https://visitdavis.org/event/mirabel-wigon-earth-stars/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Mirabel-Wigon-Celestial-Lattice-Caasjb.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260817
+DTSTAMP:20260710T173019Z
+CREATED:20260630T053014Z
+LAST-MODIFIED:20260710T173019Z
+UID:10002976-1783641600-1786924799@visitdavis.org
+SUMMARY:Slice: A Juried Exhibit of Regional Art
+DESCRIPTION:Slice: A Juried Exhibit of Regional Art \nExhibit: July 10 – August 16\, 2026 \nReception: July 10\, 6-9 PM (Awards at 8 PM) \n  \nSlice celebrates the diversity of expression in our region with an array of sculpture\, prints\, paintings\, and photography created by 36 visual artists. This year marks the 14th anniversary of the Pence’s regional call to artists\, affectionately called Slice. Representing a ‘slice’ of work fresh from the studio produced by new and established artists working in the state\, this annual juried exhibit has quickly gained a reputation for displaying innovative and thought-provoking work. The selected work is chosen by the juror for its merit rather than its ability to fit within any particular theme or concept. As with any juried ‘open theme’ selection\, the connections between the artworks can prove to be mind-bending or head-scratching.  \n  \nGioia Fonda is this year’s juror of Slice. Fonda is an interdisciplinary artist working primarily in two-dimensional media (painting\, drawing\, sewing\, and photography) with occasional forays in sculpture\, social practice\, and public art. She tends to work in a colorful and non-objective manner\, but just under the surface\, her work is often imbued with storytelling and narrative. She has a bi-coastal art education\, having earned a BFA at the California College of the Arts and an MFA at the School of Visual Arts in New York. Gioia is a dedicated member of the Sacramento art community\, contributing as an artist\, curator\, jurist\, and collaborator. She is also a tenured professor of art at Sacramento City College\, where she teaches painting\, drawing\, and design. Her work has been exhibited widely throughout Northern California and is held in many private and public collections throughout the U.S. \n  \nImage: Michael Larson\, “Day Turns to Night #2”
+URL:https://visitdavis.org/event/slice-a-juried-exhibit-of-regional-art/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/png:https://visitdavis.org/wp-content/uploads/Michael-Larson-Day-turns-to-night-2-KB-0v3jh3.png
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260812T160000
+DTEND;TZID=America/Los_Angeles:20260812T200000
+DTSTAMP:20260624T192743Z
+CREATED:20250825T081126Z
+LAST-MODIFIED:20260624T192743Z
+UID:10002972-1786550400-1786564800@visitdavis.org
+SUMMARY:Davis Farmers Market Picnic In The Park
+DESCRIPTION:The popular Davis Farmers Market event is every Wednesday from 4 to 8 p.m.\, April through August. A local band plays each night. There’s children’s entertainment\, loads of food vendors\, and plenty of opportunity to gather as a community. October through April\, there’s a traditional farmers market on Wednesdays\, from 3 to 6 p.m. \nPicnic in the Park focuses on family-friendly children’s activities and music\, along with a wide range of food made from market ingredients. There is a clown\, face-painter and children’s activities. \nYear-round in downtown Davis\, thousands gather each week to shop for what is grown\, raised and made locally. Since 1976\, the Davis Farmers Market has connected and supported communities\, area agriculture\, farmers and artisan food producers. It educates the public about nutrition\, sustainable agriculture\, and the local economic value of buying food and products directly from the producer.
+URL:https://visitdavis.org/event/davis-farmers-market-picnic-in-the-park-21/2026-08-12/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/486434334_1090519546450339_214190693011889520_n-scaled-Ch1zBz.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260812T180000
+DTEND;TZID=America/Los_Angeles:20260812T200000
+DTSTAMP:20260810T173109Z
+CREATED:20260723T173029Z
+LAST-MODIFIED:20260810T173109Z
+UID:10002999-1786557600-1786564800@visitdavis.org
+SUMMARY:Fit4Mom Yoga Night
+DESCRIPTION:Yoga & Wine at Great Bear Vineyards in Davis Second Wednesday of Every Month August 12 | 6–8 PM\nTicket Includes: Yoga Class & Your First Glass of Wine\nUnroll your mat\, take a deep breath\, and enjoy an evening of movement\, mindfulness\, and wine at Great Bear Vineyards!\nJoin Fit4Mom Davis-Woodland for an easy-to-moderate Vinyasa Flow class set in the peaceful surroundings of the vineyard. This welcoming class is designed for all experience levels\, with instructors offering modifications to suit your individual practice. Flow through gentle poses\, reconnect with your breath\, and finish with an inspiring guided meditation that will leave you feeling refreshed and recharged.\nAfter class\, it’s time to reward yourself! Your ticket includes a glass of Great Bear wine\, so you can relax with friends\, wander through the vineyard\, spread out a picnic\, or simply soak in a beautiful summer evening.\nWhat to Bring Yoga mat Water bottle Towel A light jacket or sweater for the evening Money or card if you’d like to purchase an additional glass or bottle of wine Picnic food if you’d like to stay and enjoy dinner at the vineyard\nWhether you’re looking to unwind after work\, meet new friends\, or simply enjoy a little self-care in a beautiful setting\, Yoga & Wine is the perfect midweek escape.\nWe can’t wait to welcome you to the vineyard for an evening of movement\, relaxation\, and great wine!\nHosted by FIT4MOM Davis-Woodland
+URL:https://visitdavis.org/event/fit4mom-yoga-night-2/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260813T170000
+DTEND;TZID=America/Los_Angeles:20260813T200000
+DTSTAMP:20260810T173056Z
+CREATED:20260731T173043Z
+LAST-MODIFIED:20260810T173056Z
+UID:10003011-1786640400-1786651200@visitdavis.org
+SUMMARY:Thursday Social at Great Bear Vineyards
+DESCRIPTION:Thursday Social at Great Bear Vineyards in Davis   Thursday\, August 13 | 5–8 PMTicket Includes: Your First Glass of WineWe’re excited to kick off our new Thursday Socials—the perfect way to ease into the weekend a little early!Gather your friends\, leave work behind\, and join us for a relaxed summer evening of award-winning wine\, great conversation\, and a little friendly competition in the beautiful setting of Great Bear Vineyards.For $15\, your ticket includes your first glass of wine\, so all you have to do is find your favorite spot among the vines and settle in for the evening.Feeling competitive? We’ve got you covered! We’ll have a selection of classic board games available\, including chess\, draughts\, Bananagrams\, and dominos. Challenge your friends to a game\, meet someone new\, or simply sit back\, sip your wine\, and enjoy the vineyard atmosphere. Cheese and light snacks will be available for purchase\, or you’re welcome to bring your own picnic and make an evening of it.Whether you’re catching up with friends\, planning a casual date night\, or looking for a new weekly tradition\, Thursday Social is all about slowing down\, sharing good company\, and enjoying summer evenings at the vineyard.Good wine. Great friends. Beautiful vineyard views. We can’t wait to welcome you to Thursday Social!
+URL:https://visitdavis.org/event/thursday-social-at-great-bear-vineyards-5/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Highway128PressTrip_GreatBearVineyards_2024_MaxWhittaker_12-Copy-scaled-OoIRnT.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260813T173000
+DTEND;TZID=America/Los_Angeles:20260813T183000
+DTSTAMP:20260810T173056Z
+CREATED:20260731T173043Z
+LAST-MODIFIED:20260810T173056Z
+UID:10003010-1786642200-1786645800@visitdavis.org
+SUMMARY:Tai Chi Basics at Great Bear Vineyards
+DESCRIPTION:Tai Chi Basics Course in Davis   Thursday\, August 13 | 5:30–6:30 PM\nTicket Includes: Tai Chi Class\nSlow down\, breathe deeply\, and find your balance with an evening of Tai Chi at Great Bear Vineyards.\nJoin us every Thursday evening for our Tai Chi Basics Course\, a welcoming introduction to the ancient practice of Tai Chi. Through slow\, flowing movements and mindful breathing\, you’ll build balance\, improve strength and flexibility\, reduce stress\, and leave feeling refreshed and recharged.\nThis beginner-friendly class focuses on the fundamental drills and postures that provide the greatest health benefits while laying the foundation for a deeper Tai Chi practice. Whether you’re completely new to Tai Chi or looking to refine the basics\, everyone is welcome.\n Meet Your Instructor\nDaniel Pfister has practiced Tai Chi for nearly 30 years. He received intensive training while living in Taiwan for five years and later completed his master’s thesis on the effects of Tai Chi stance training on blood pressure. His approachable teaching style makes this class enjoyable and accessible for participants of all experience levels.\nAfter class\, you’re invited to stay and enjoy Thursday Social! Relax with a glass of wine\, challenge friends to a board game\, or simply unwind in the peaceful vineyard setting as the sun begins to set.\nCome discover why Tai Chi is often called “meditation in motion” and experience the perfect blend of wellness\, community\, and vineyard charm.\nWe look forward to moving with you!
+URL:https://visitdavis.org/event/tai-chi-basics-at-great-bear-vineyards-7/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260813T180000
+DTEND;TZID=America/Los_Angeles:20260813T200000
+DTSTAMP:20260810T173028Z
+CREATED:20260619T173020Z
+LAST-MODIFIED:20260810T173028Z
+UID:10002888-1786644000-1786651200@visitdavis.org
+SUMMARY:Worldwide Bingo Night: Landmarks Edition
+DESCRIPTION:Join us in Davis for a globally inspired twist on bingo! Worldwide Bingo Night: Landmarks Edition invites you to explore landmarks from around the world. \nParticipants will play multiple rounds of bingo using landmark-themed cards\, learn interesting cultural and historical facts\, and have the chance to win prizes! This event is designed for all\, whether you love to travel or simply want to learn more about the world! This event is for ages 18+\, with complimentary snacks and beverages available.
+URL:https://visitdavis.org/event/worldwide-bingo-night-landmarks-edition/
+LOCATION:International House Davis\, 10 College Park\, Davis\, CA\, 95616\, United States
+ORGANIZER;CN="International House Davis":MAILTO:shahzana@ihousedavis.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260814T170000
+DTEND;TZID=America/Los_Angeles:20260814T203000
+DTSTAMP:20260810T173056Z
+CREATED:20260731T173043Z
+LAST-MODIFIED:20260810T173056Z
+UID:10003009-1786726800-1786739400@visitdavis.org
+SUMMARY:Live Music and Food Truck
+DESCRIPTION:Live Music & Food Truck Night in Davis  Friday\, August 14 | 5–8:30 PM\nTicket Includes: Glass of Wine & Live Music\nStart your weekend the Great Bear way with an evening of live music\, delicious wood-fired pizza\, and award-winning wine!\nGather your friends\, grab a glass of your favorite estate-grown wine\, and settle in for a relaxing summer evening surrounded by beautiful vineyard views. Italian Brother’s Pizza will be serving authentic wood-fired pizzas from 5–8:30 PM\, while Carl Winter takes the stage from 6–7:30 PM with an energetic mix of classic hits.\n Music by Carl Winter\nA true “one-man band\,” Carl Winter delivers the sound of a full band using two synthesizers\, guitar\, and vocals to perform your favorite rock and pop hits from the ’60s through the ’90s. A longtime Northern California musician and member of the popular tribute band Keep On Truckin’\, Carl’s lively performances are guaranteed to have you singing along.\n Food by Italian Brother’s Pizza\nNothing pairs better with a glass of wine than authentic wood-fired pizza! Italian Brother’s Pizza crafts every pizza from scratch using fresh\, high-quality ingredients and bakes them to perfection in a traditional wood-fired oven. From classic favorites to specialty creations\, there’s something for everyone to enjoy.\n Your Evening Includes A glass of Great Bear estate-grown wine Live music by Carl Winter (6–7:30 PM) Fresh wood-fired pizza available for purchase (5–8:30 PM) Beautiful vineyard views and a relaxing summer atmosphere\nPlease help us support this fantastic local food truck by purchasing your dinner onsite and leaving outside food at home.\nGreat music\, incredible pizza\, award-winning wine\, and a beautiful vineyard setting—what better way to kick off your weekend? We can’t wait to see you!
+URL:https://visitdavis.org/event/live-music-and-food-truck-20/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Highway128PressTrip_GreatBearVineyards_2024_MaxWhittaker_12-Copy-scaled-OoIRnT.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260814T180000
+DTEND;TZID=America/Los_Angeles:20260814T210000
+DTSTAMP:20260810T173109Z
+CREATED:20260723T173029Z
+LAST-MODIFIED:20260810T173109Z
+UID:10003000-1786730400-1786741200@visitdavis.org
+SUMMARY:2nd Friday ArtAbout at the Pence Gallery
+DESCRIPTION:Join us at the Pence Gallery in Davis for our 2nd Friday ArtAbout reception on August 14\, 6-9 PM. Enjoy browsing multiple art exhibits\, complimentary wine\, an art-themed scavenger hunt\, and live music by Sammy & Lauren Leverone. Free admission! \n  \nSlice: A Juried Exhibit of Regional Art | Jul. 10 – Aug. 16 \nSlice celebrates the diversity of expression in our region with an array of sculpture\, prints\, paintings\, and photography created by 35 visual artists\, selected this year by juror Gioia Fonda. \n  \nMirabel Wigon: Earth Stars | Jul. 10 – Aug. 16 \nEarth Stars brings together the artist’s expansive new series of botanical inspired paintings. Working in oil and acrylic on canvas\, her paintings have an illustrative quality\, immersing the viewer in imaginative worlds where flora works in tandem with geometric forms. See her work take 3D form through augmented reality technology. \n  \nExhibit It! A Community Art Exhibit | Jul. 3 – Aug. 16 \nExhibit It! highlights the talent of our community’s artists. View a wide variety of art in different media\, and vote for your favorite artist for the chance to win the Public Choice Award (announced at the conclusion of the exhibit). \n  \nDavid Burkholder: Day Trip | Jul. 3 – Aug. 28 \nDay Trip showcases oil paintings along the stairway by plein air painter David Burkholder. This series explores the beauty and variety within Northern California and its close neighbors\, capturing the warm light and diverse landscapes. \n  \nScavenger Hunt: Join us for a fun\, art-themed scavenger hunt at the Pence during the 2nd Friday ArtAbout. Complete all of the clues by exploring our exhibits for the chance to win a special prize. \n  \n— \n  \nVisit the Pence and other venues in Downtown Davis for the 2nd Friday ArtAbout artwalk. We will have printed ArtAbout guides available that week. Follow the ArtAbout’s Facebook page for more information: https://www.facebook.com/davisartabout. \n  \nImages: \nChristopher Keating\, “Heirloom” \nMirabel Wigon\, “Fold-forming (Budding)” \nCharli Joerger\, “Doorway to Feeling” \nDavid Burkholder\, “The Davis Gateway”
+URL:https://visitdavis.org/event/2nd-friday-artabout-at-the-pence-gallery-16/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Aug-14-banner-h0T2bJ.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260814T200000
+DTEND;TZID=America/Los_Angeles:20260814T220000
+DTSTAMP:20260810T173108Z
+CREATED:20260623T173102Z
+LAST-MODIFIED:20260810T173108Z
+UID:10002902-1786737600-1786744800@visitdavis.org
+SUMMARY:Max Riley Group w/ Pennies For Pluto Live @ The Melon Ball
+DESCRIPTION:Melon Ball in Davis presents… \nLongtime scene aficionados ‘The Max Riley Group’ return after a yearlong hiatus for a special night of psychedelic guitar funk wizardry at the one and only Melon Ball in Davis CA! Fronted by the immensely talented Max Riley Carpenter\, Owlfest family band ‘The Max Riley Group’ offers sweet soul\, tight blues\, and the pure intention of keeping rock music alive and healthy. \nJoining them on their POWERLINES TOUR performing their debut full length album\, from Arcata CA are indie rock troubadours\, ‘Pennies For Pluto’ ! Originally based in Grass Valley the NorCalOG band writes lyric driven ballads\, thoughtfully arranged to maintain earnestness right in the face of today’s political climate\, screen epidemic\, and emotional distraction. \nFB – Max Riley Group\nInstagram – Max Riley Group\nYouTube – Max Riley Group \nBandCamp – Pennies For Pluto\nInstagram – Pennies For Pluto\nTidal – Pennies For Pluto\nSpotify – Pennies For Pluto\nYouTube – Pennies For Pluto \nShow Starts at 8:00pm\nDoors Open at 7:30pm\n$15 General Admission \nThis is a BYOB event!
+URL:https://visitdavis.org/event/max-riley-group-w-pennies-for-pluto-live-the-melon-ball/
+LOCATION:Watermelon Music\, 1970 Lake Blvd\, DAVIS\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/MaxRileyWebSite_081426-2-mxOCXV.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260815T080000
+DTEND;TZID=America/Los_Angeles:20260815T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002924-1786780800-1786798800@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-08-15/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260815T090000
+DTEND;TZID=America/Los_Angeles:20260815T100000
+DTSTAMP:20260810T173056Z
+CREATED:20260731T173043Z
+LAST-MODIFIED:20260810T173056Z
+UID:10003008-1786784400-1786788000@visitdavis.org
+SUMMARY:Beginner Yoga at the Vineyard
+DESCRIPTION:Beginner Yoga at the Vineyard at Great Bear Vineyards in Davis  Every Saturday Morning August 15 | 9–10 AMTicket Includes: Yoga ClassStart your weekend with fresh air\, gentle movement\, and beautiful vineyard views at Beginner Yoga at the Vineyard!Whether you’re brand new to yoga or simply looking for a relaxing way to ease into your Saturday\, this welcoming outdoor class is designed for all experience levels. Our professional instructors will guide you through the fundamentals of yoga with gentle stretches\, basic poses\, and mindful movement to help you build confidence\, improve flexibility\, and leave feeling refreshed.Set among the peaceful surroundings of Great Bear Vineyards\, it’s the perfect opportunity to slow down\, reconnect with yourself\, and enjoy a little tranquility before the weekend begins. What to Bring Yoga mat Water bottle TowelAfter class\, stay and enjoy the beauty of the vineyard. Wander the grounds\, relax with friends\, or return later during our tasting room hours for a glass of award-winning wine.Breathe deeply\, stretch gently\, and start your weekend feeling your very best. We can’t wait to welcome you to the vineyard!
+URL:https://visitdavis.org/event/beginner-yoga-at-the-vineyard-6/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260816T150000
+DTEND;TZID=America/Los_Angeles:20260816T163000
+DTSTAMP:20260810T173108Z
+CREATED:20260717T173026Z
+LAST-MODIFIED:20260810T173108Z
+UID:10002983-1786892400-1786897800@visitdavis.org
+SUMMARY:Artist Talk with Mirabel Wigon and Closing Reception
+DESCRIPTION:Artist Talk with Mirabel Wigon & Closing Reception in Davis \nSunday\, August 16\, 3-4:30 PM (Free) \n  \nMirabel Wigon will lead a walkthrough and informal talk regarding the work in her exhibit Earth Stars at the Pence. She will discuss her practice\, the evolution of her work culminating in this project\, image/model making\, and environmental ideas of entangled collaboration that inform the paintings. Enjoy her Artist Talk\, view her exhibit\, and sample refreshments on its last day. \n  \nEarth Stars is on display at the Pence Gallery from July 10 – August 16\, 2026.
+URL:https://visitdavis.org/event/artist-talk-with-mirabel-wigon-and-closing-reception/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Mirabel-Wigon-copy-pyzBZ5.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260819T160000
+DTEND;TZID=America/Los_Angeles:20260819T200000
+DTSTAMP:20260624T192743Z
+CREATED:20250825T081126Z
+LAST-MODIFIED:20260624T192743Z
+UID:10002973-1787155200-1787169600@visitdavis.org
+SUMMARY:Davis Farmers Market Picnic In The Park
+DESCRIPTION:The popular Davis Farmers Market event is every Wednesday from 4 to 8 p.m.\, April through August. A local band plays each night. There’s children’s entertainment\, loads of food vendors\, and plenty of opportunity to gather as a community. October through April\, there’s a traditional farmers market on Wednesdays\, from 3 to 6 p.m. \nPicnic in the Park focuses on family-friendly children’s activities and music\, along with a wide range of food made from market ingredients. There is a clown\, face-painter and children’s activities. \nYear-round in downtown Davis\, thousands gather each week to shop for what is grown\, raised and made locally. Since 1976\, the Davis Farmers Market has connected and supported communities\, area agriculture\, farmers and artisan food producers. It educates the public about nutrition\, sustainable agriculture\, and the local economic value of buying food and products directly from the producer.
+URL:https://visitdavis.org/event/davis-farmers-market-picnic-in-the-park-21/2026-08-19/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/486434334_1090519546450339_214190693011889520_n-scaled-Ch1zBz.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260820T170000
+DTEND;TZID=America/Los_Angeles:20260820T200000
+DTSTAMP:20260810T173042Z
+CREATED:20260731T173043Z
+LAST-MODIFIED:20260810T173042Z
+UID:10003007-1787245200-1787256000@visitdavis.org
+SUMMARY:Thursday Social at Great Bear Vineyards
+DESCRIPTION:Thursday Social at Great Bear Vineyards in Davis   Thursday\, August 20 | 5–8 PMTicket Includes: Your First Glass of WineWe’re excited to kick off our new Thursday Socials—the perfect way to ease into the weekend a little early!Gather your friends\, leave work behind\, and join us for a relaxed summer evening of award-winning wine\, great conversation\, and a little friendly competition in the beautiful setting of Great Bear Vineyards.For $15\, your ticket includes your first glass of wine\, so all you have to do is find your favorite spot among the vines and settle in for the evening.Feeling competitive? We’ve got you covered! We’ll have a selection of classic board games available\, including chess\, draughts\, Bananagrams\, and dominos. Challenge your friends to a game\, meet someone new\, or simply sit back\, sip your wine\, and enjoy the vineyard atmosphere. Cheese and light snacks will be available for purchase\, or you’re welcome to bring your own picnic and make an evening of it.Whether you’re catching up with friends\, planning a casual date night\, or looking for a new weekly tradition\, Thursday Social is all about slowing down\, sharing good company\, and enjoying summer evenings at the vineyard.Good wine. Great friends. Beautiful vineyard views. We can’t wait to welcome you to Thursday Social!
+URL:https://visitdavis.org/event/thursday-social-at-great-bear-vineyards-4/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Highway128PressTrip_GreatBearVineyards_2024_MaxWhittaker_12-Copy-scaled-OoIRnT.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260820T173000
+DTEND;TZID=America/Los_Angeles:20260820T183000
+DTSTAMP:20260810T173057Z
+CREATED:20260731T173043Z
+LAST-MODIFIED:20260810T173057Z
+UID:10003006-1787247000-1787250600@visitdavis.org
+SUMMARY:Tai Chi Basics at Great Bear Vineyards
+DESCRIPTION:Tai Chi Basics Course in Davis   Thursday\, August 20 | 5:30–6:30 PM\nTicket Includes: Tai Chi Class\nSlow down\, breathe deeply\, and find your balance with an evening of Tai Chi at Great Bear Vineyards.\nJoin us every Thursday evening for our Tai Chi Basics Course\, a welcoming introduction to the ancient practice of Tai Chi. Through slow\, flowing movements and mindful breathing\, you’ll build balance\, improve strength and flexibility\, reduce stress\, and leave feeling refreshed and recharged.\nThis beginner-friendly class focuses on the fundamental drills and postures that provide the greatest health benefits while laying the foundation for a deeper Tai Chi practice. Whether you’re completely new to Tai Chi or looking to refine the basics\, everyone is welcome.\n Meet Your Instructor\nDaniel Pfister has practiced Tai Chi for nearly 30 years. He received intensive training while living in Taiwan for five years and later completed his master’s thesis on the effects of Tai Chi stance training on blood pressure. His approachable teaching style makes this class enjoyable and accessible for participants of all experience levels.\nAfter class\, you’re invited to stay and enjoy Thursday Social! Relax with a glass of wine\, challenge friends to a board game\, or simply unwind in the peaceful vineyard setting as the sun begins to set.\nCome discover why Tai Chi is often called “meditation in motion” and experience the perfect blend of wellness\, community\, and vineyard charm.\nWe look forward to moving with you!
+URL:https://visitdavis.org/event/tai-chi-basics-at-great-bear-vineyards-6/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260820T180000
+DTEND;TZID=America/Los_Angeles:20260820T200000
+DTSTAMP:20260810T173029Z
+CREATED:20260731T173031Z
+LAST-MODIFIED:20260810T173029Z
+UID:10003005-1787248800-1787256000@visitdavis.org
+SUMMARY:Silent Book Club at Great Bear Vineyards
+DESCRIPTION:Silent Book Club at Great Bear Vineyards in Davis Thursday\, August 20 | 6–8 PM\nTicket Includes: A Glass of Wine\nLooking for the perfect excuse to slow down and unplug? Join us for Silent Book Club at Great Bear Vineyards—an evening dedicated to good books\, great wine\, and peaceful vineyard surroundings.\nBring the book you’ve been meaning to finish\, find a cozy spot in our beautiful gardens\, and settle in with a glass of estate-grown wine. Whether you come on your own or with friends\, there’s no assigned reading\, no pressure\, and no deadlines—just uninterrupted time to relax and enjoy a great story.\nYour ticket includes your first glass of wine\, with your choice of four delicious wines. After that\, you’re welcome to linger as long as you’d like\, enjoying another glass or a bottle while soaking in the tranquil vineyard atmosphere.\n Cheese\, charcuterie\, and light snacks will be available for purchase\, making it easy to pair your favorite chapter with the perfect bite.\nWhether you’re an avid reader or simply looking for a peaceful way to spend your evening\, Silent Book Club is the perfect blend of relaxation\, community\, and great wine.\nGrab your current read\, pour a glass\, and escape into a story with us. We can’t wait to see you at the vineyard!
+URL:https://visitdavis.org/event/silent-book-club-at-great-bear-vineyards/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260820T183000
+DTEND;TZID=America/Los_Angeles:20260820T210000
+DTSTAMP:20260810T173108Z
+CREATED:20260718T180032Z
+LAST-MODIFIED:20260810T173108Z
+UID:10002985-1787250600-1787259600@visitdavis.org
+SUMMARY:Hope Café
+DESCRIPTION:Come celebrate the end of summer and the start of fall with an evening designed to build connection and community in Davis. Hope Café is a little bit workshop\, a little bit party — a warm\, welcoming space where live music\, creative activities\, and guided conversations invite you to pause\, reconnet\, and feel like you belong. All you need to do is show up with a curious mind and an open heart. \nWhat to Expect: \nDoors open at 6:30 PM with live world jazz by Nick Carvajal and Jim Frink. Local vendors Jumi Shrub\, Enamora Empanadas\, and Upper Crust Baking will have snacks and drinks available. Community story sharing and playful creative exercises continue through 8:30 PM\, after which guests are encouraged to linger and connect.
+URL:https://visitdavis.org/event/hope-cafe/
+LOCATION:International House Davis\, 10 College Park\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/png:https://visitdavis.org/wp-content/uploads/Hope-Cafe-8.20.26-9.25.26-Website-KPZJ6k.png
+ORGANIZER;CN="International House Davis":MAILTO:shahzana@ihousedavis.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260821T170000
+DTEND;TZID=America/Los_Angeles:20260821T203000
+DTSTAMP:20260810T173030Z
+CREATED:20260731T173030Z
+LAST-MODIFIED:20260810T173030Z
+UID:10003004-1787331600-1787344200@visitdavis.org
+SUMMARY:Live Music and Food Truck Night at Great Bear Vineyards
+DESCRIPTION:Live Music & Food Truck Night in Davis Friday\, August 21 | 5–8:30 PM\nTicket Includes: Glass of Wine & Live Music\nKick off your weekend with an evening of live music\, authentic Mexican food\, and award-winning wine at Great Bear Vineyards!\nGather your friends\, pour a glass of your favorite estate-grown wine\, and relax among the vines while enjoying live music from Marty Cohen & The Sidekicks. Maiz Mexican Food will be serving up their delicious menu from 5–8:30 PM\, with live music from 6–7:30 PM.\n Music by Marty Cohen & The Sidekicks\nWe’re excited to welcome Marty Cohen & The Sidekicks back to the winery! Featuring Marty Cohen\, Ken Rabiroff\, and Jeff Sears\, this talented trio is one of Northern California’s premier acoustic vocal groups. Their rich three-part harmonies\, distinctive arrangements\, and blend of folk-inspired originals with pop influences create the perfect soundtrack for a relaxing summer evening.\n Food by Maiz Mexican Food\nCome hungry! This family-owned food truck serves authentic Mexican favorites\, including tacos\, huaraches\, quesadillas\, and more\, all featuring their signature smoked meats and fresh\, flavorful ingredients. It’s the perfect pairing with a glass of Great Bear wine.\n Your Evening Includes A glass of Great Bear estate-grown wine Live music by Marty Cohen & The Sidekicks (6–7:30 PM) Authentic Mexican food available for purchase (5–8:30 PM) Beautiful vineyard views and a relaxing summer atmosphere\nPlease help us support this wonderful local food truck by purchasing your dinner onsite and leaving outside food at home.\nGreat wine\, delicious food\, live music\, and beautiful vineyard views—it’s everything you need for the perfect Friday night. We can’t wait to see you at the vineyard!
+URL:https://visitdavis.org/event/live-music-and-food-truck-night-at-great-bear-vineyards-2/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Highway128PressTrip_GreatBearVineyards_2024_MaxWhittaker_12-Copy-scaled-OoIRnT.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260822T080000
+DTEND;TZID=America/Los_Angeles:20260822T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002925-1787385600-1787403600@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-08-22/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260822T090000
+DTEND;TZID=America/Los_Angeles:20260822T100000
+DTSTAMP:20260810T173030Z
+CREATED:20260731T173030Z
+LAST-MODIFIED:20260810T173030Z
+UID:10003003-1787389200-1787392800@visitdavis.org
+SUMMARY:Beginner Yoga at the Vineyard
+DESCRIPTION:Beginner Yoga at the Vineyard in Davis Every Saturday Morning August 22 | 9–10 AMYoga Class Ticket: $10Start your weekend with fresh air\, gentle movement\, and beautiful vineyard views at Beginner Yoga at the Vineyard!Whether you’re brand new to yoga or simply looking for a relaxing way to ease into your Saturday\, this welcoming outdoor class is designed for all experience levels. Our professional instructors will guide you through the fundamentals of yoga with gentle stretches\, basic poses\, and mindful movement to help you build confidence\, improve flexibility\, and leave feeling refreshed.Set among the peaceful surroundings of Great Bear Vineyards\, it’s the perfect opportunity to slow down\, reconnect with yourself\, and enjoy a little tranquility before the weekend begins. What to Bring Yoga mat Water bottle TowelBreathe deeply\, stretch gently\, and start your weekend feeling your very best. We can’t wait to welcome you to the vineyard!
+URL:https://visitdavis.org/event/beginner-yoga-at-the-vineyard-5/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260822T100000
+DTEND;TZID=America/Los_Angeles:20260822T140000
+DTSTAMP:20260810T173109Z
+CREATED:20260625T173011Z
+LAST-MODIFIED:20260810T173109Z
+UID:10002975-1787392800-1787407200@visitdavis.org
+SUMMARY:Sculptural Papermaking with Bev Barnett
+DESCRIPTION:Sculptural Papermaking with Bev Barnett in Davis \nSaturday\, August 22 | 10 AM – 2 PM \n$115 Members\, $125 Non-Members (All materials included) \n  \nWith artist Bev Barnett\, embark on a unique adventure to transform ordinary household recycling\, kitchen waste\, and foraged botanicals into textured handmade paper that tells a compelling story. In this workshop\, we’ll move beyond the notion that paper should be flat\, creating low-relief sculpture and highly textured sheets. You’ll master a simple\, low-water method using a household blender to macerate pulp and learn how to incorporate color without messy dyes. By the time you leave\, you’ll have 8 to 10 handmade papers\, a blueprint for your own home studio\, and the confidence to keep creating. \n  \nRegister here: https://pencegallery.org/education/programs/workshops-and-classes/ \n  \nAny questions? Email pencegallery@gmail.com.
+URL:https://visitdavis.org/event/sculptural-papermaking-with-bev-barnett/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Bev-Barnett-copy-scaled-IzLmic.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260826T160000
+DTEND;TZID=America/Los_Angeles:20260826T200000
+DTSTAMP:20260624T192743Z
+CREATED:20250825T081126Z
+LAST-MODIFIED:20260624T192743Z
+UID:10002974-1787760000-1787774400@visitdavis.org
+SUMMARY:Davis Farmers Market Picnic In The Park
+DESCRIPTION:The popular Davis Farmers Market event is every Wednesday from 4 to 8 p.m.\, April through August. A local band plays each night. There’s children’s entertainment\, loads of food vendors\, and plenty of opportunity to gather as a community. October through April\, there’s a traditional farmers market on Wednesdays\, from 3 to 6 p.m. \nPicnic in the Park focuses on family-friendly children’s activities and music\, along with a wide range of food made from market ingredients. There is a clown\, face-painter and children’s activities. \nYear-round in downtown Davis\, thousands gather each week to shop for what is grown\, raised and made locally. Since 1976\, the Davis Farmers Market has connected and supported communities\, area agriculture\, farmers and artisan food producers. It educates the public about nutrition\, sustainable agriculture\, and the local economic value of buying food and products directly from the producer.
+URL:https://visitdavis.org/event/davis-farmers-market-picnic-in-the-park-21/2026-08-26/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/486434334_1090519546450339_214190693011889520_n-scaled-Ch1zBz.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260827T170000
+DTEND;TZID=America/Los_Angeles:20260827T200000
+DTSTAMP:20260810T173042Z
+CREATED:20260731T173044Z
+LAST-MODIFIED:20260810T173042Z
+UID:10003012-1787850000-1787860800@visitdavis.org
+SUMMARY:Thursday Social @ Great Bear Vineyards
+DESCRIPTION:Thursday Social at Great Bear Vineyards in Davis   Thursday\, August 27 | 5–8 PMTicket Includes: Your First Glass of WineWe’re excited to kick off our new Thursday Socials—the perfect way to ease into the weekend a little early!Gather your friends\, leave work behind\, and join us for a relaxed summer evening of award-winning wine\, great conversation\, and a little friendly competition in the beautiful setting of Great Bear Vineyards.For $15\, your ticket includes your first glass of wine\, so all you have to do is find your favorite spot among the vines and settle in for the evening.Feeling competitive? We’ve got you covered! We’ll have a selection of classic board games available\, including chess\, draughts\, Bananagrams\, and dominos. Challenge your friends to a game\, meet someone new\, or simply sit back\, sip your wine\, and enjoy the vineyard atmosphere. Cheese and light snacks will be available for purchase\, or you’re welcome to bring your own picnic and make an evening of it.Whether you’re catching up with friends\, planning a casual date night\, or looking for a new weekly tradition\, Thursday Social is all about slowing down\, sharing good company\, and enjoying summer evenings at the vineyard.Good wine. Great friends. Beautiful vineyard views. We can’t wait to welcome you to Thursday Social!
+URL:https://visitdavis.org/event/thursday-social-great-bear-vineyards/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Highway128PressTrip_GreatBearVineyards_2024_MaxWhittaker_12-Copy-scaled-OoIRnT.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260827T173000
+DTEND;TZID=America/Los_Angeles:20260827T183000
+DTSTAMP:20260810T173042Z
+CREATED:20260731T173044Z
+LAST-MODIFIED:20260810T173042Z
+UID:10003013-1787851800-1787855400@visitdavis.org
+SUMMARY:Tai Chi Basics
+DESCRIPTION:Tai Chi Basics Course in Davis  Thursday\, August 27 | 5:30–6:30 PM\nTicket Includes: Tai Chi Class\nSlow down\, breathe deeply\, and find your balance with an evening of Tai Chi at Great Bear Vineyards.\nJoin us every Thursday evening for our Tai Chi Basics Course\, a welcoming introduction to the ancient practice of Tai Chi. Through slow\, flowing movements and mindful breathing\, you’ll build balance\, improve strength and flexibility\, reduce stress\, and leave feeling refreshed and recharged.\nThis beginner-friendly class focuses on the fundamental drills and postures that provide the greatest health benefits while laying the foundation for a deeper Tai Chi practice. Whether you’re completely new to Tai Chi or looking to refine the basics\, everyone is welcome.\n Meet Your Instructor\nDaniel Pfister has practiced Tai Chi for nearly 30 years. He received intensive training while living in Taiwan for five years and later completed his master’s thesis on the effects of Tai Chi stance training on blood pressure. His approachable teaching style makes this class enjoyable and accessible for participants of all experience levels.\nAfter class\, you’re invited to stay and enjoy Thursday Social! Relax with a glass of wine\, challenge friends to a board game\, or simply unwind in the peaceful vineyard setting as the sun begins to set.\nCome discover why Tai Chi is often called “meditation in motion” and experience the perfect blend of wellness\, community\, and vineyard charm.\nWe look forward to moving with you!
+URL:https://visitdavis.org/event/tai-chi-basics/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260828T170000
+DTEND;TZID=America/Los_Angeles:20260828T203000
+DTSTAMP:20260810T173042Z
+CREATED:20260731T173044Z
+LAST-MODIFIED:20260810T173042Z
+UID:10003014-1787936400-1787949000@visitdavis.org
+SUMMARY:Duet Allegro and Cousins Maine Lobster
+DESCRIPTION:Live Music & Food Truck Night at Great Bear Vineyards in Davis Friday\, August 28 | 5–8:30 PM\nTicket Includes: Glass of Wine & Live Music\nKick off your weekend with an unforgettable evening of live music\, fresh lobster rolls\, and award-winning wine at Great Bear Vineyards!\nRelax among the vines with a glass of your favorite estate-grown wine while enjoying the beautiful sounds of Duet Allegro. Cousins Maine Lobster will be serving their famous lobster rolls\, chowders\, and seafood favorites from 5–8:30 PM\, with live music from 6–7:30 PM.\n Music by Duet Allegro\nWe’re delighted to welcome Duet Allegro back to the winery! This talented brother-and-sister duo combines the elegance of classical violin with the warmth of Spanish guitar\, creating a beautiful and relaxing performance that’s the perfect soundtrack for a summer evening in the vineyard.\n Food by Cousins Maine Lobster\nCome hungry! Cousins Maine Lobster will be serving their popular lobster rolls\, seafood sandwiches\, creamy chowders\, and other East Coast favorites. It’s the perfect pairing with a glass of Great Bear wine. Please help us support this fantastic local food truck by purchasing your dinner onsite and leaving outside food at home.\n Your Evening Includes A glass of Great Bear estate-grown wine Live music by Duet Allegro (6–7:30 PM) Fresh lobster rolls and seafood favorites available for purchase (5–8:30 PM) Beautiful vineyard views and a relaxing summer atmosphere\nGather your friends\, raise a glass\, and enjoy an evening of great wine\, delicious food\, and beautiful live music. We can’t wait to welcome you to the vineyard!
+URL:https://visitdavis.org/event/duet-allegro-and-cousins-maine-lobster/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Highway128PressTrip_GreatBearVineyards_2024_MaxWhittaker_12-Copy-scaled-OoIRnT.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260829T080000
+DTEND;TZID=America/Los_Angeles:20260829T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002926-1787990400-1788008400@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-08-29/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260829T193000
+DTEND;TZID=America/Los_Angeles:20260829T213000
+DTSTAMP:20260810T173043Z
+CREATED:20260808T173044Z
+LAST-MODIFIED:20260810T173043Z
+UID:10003018-1788031800-1788039000@visitdavis.org
+SUMMARY:After 5 Live @ The Melon Ball
+DESCRIPTION:Live music at The Melon Ball in Davis. \nAfter5 is a Sacramento-based modern jazz group blending R&B\, Neo Soul\, and fusion into their sound. The band plays a mix of original music and their own arrangements of both modern hits and classic tunes\, giving each song a fresh feel while keeping the groove front and center. It’s a sound built for listeners who love jazz and for anyone just looking for good music to vibe to. \n$15 General Admission\n$10 Seniors (in-store or at the door only)\n$10 Students (in-store or at the door only\, w/ID)\nDoors open @ 7:00pm\nThis is a BYOB event!
+URL:https://visitdavis.org/event/after-5-live-the-melon-ball/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/After5_Flyer-ct8O5C.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260830T130000
+DTEND;TZID=America/Los_Angeles:20260830T160000
+DTSTAMP:20260810T173020Z
+CREATED:20260703T163022Z
+LAST-MODIFIED:20260810T173020Z
+UID:10002977-1788094800-1788105600@visitdavis.org
+SUMMARY:Tote Embroidery Workshop
+DESCRIPTION:Tote Embroidery Workshop in Davis \nSunday\, August 30\, 1-4 PM \n$25 Members\, $40 Non-Members (All materials included) \n  \nWith instructor Katherine Klein\, learn classic embroidery stitches (straight stitch\, back stitch\, french knots\, chain stitch\, satin stitch) to create a unique floral design on a Pence Gallery canvas tote. Each participant will receive a tote bag that features the Pence building and logo. This workshop is open to ages 12 and up and is perfect for beginners; no prior embroidery experience is necessary. \n  \nRegister here: https://pencegallery.org/education/programs/workshops-and-classes/ \n  \nAny questions? Email pencegallery@gmail.com.
+URL:https://visitdavis.org/event/tote-embroidery-workshop/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/png:https://visitdavis.org/wp-content/uploads/Sample-Embroidery-Photo-4P6Rn1.png
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260830T180000
+DTEND;TZID=America/Los_Angeles:20260830T200000
+DTSTAMP:20260810T173043Z
+CREATED:20260808T173045Z
+LAST-MODIFIED:20260810T173043Z
+UID:10003019-1788112800-1788120000@visitdavis.org
+SUMMARY:August Open Mic and Music Trivia
+DESCRIPTION:August open mic and music trivia in Davis \nWhether you’re looking for a venue to share your own talents or just looking to enjoy hearing (and seeing) some local performers\, we invite you to this free monthly event. We provide the sound\, stage and lights – the rest is up to you. Play us your favorite song\, tell us some jokes\, act out a scene from your favorite play with friends. \nWe will continue to feature our Music Trivia contest throughout the evening in between acts. The winner will receive a $20 Watermelon Music gift card! \nWe ask that each performance be suitable for an all-ages venue\, and that you arrive on time and stay until the end to support your fellow performers. \nFREE!!!\nDoors open/sign-ups @ 5:30.\nFirst act @ 6:00. \nPlease help support the Watermelon Music with your purchase of a drink or a snack at Open Mic!  Non-alcoholic drinks and pre-packaged snacks are available for sale at The Melon Ball.  (Cash or Venmo only) \nWe hope to see you there!
+URL:https://visitdavis.org/event/august-open-mic-and-music-trivia/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/AugOpenMic-1-rjp5y5.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+END:VCALENDAR
