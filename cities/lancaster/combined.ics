@@ -12,7 +12,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_315812354@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260812T170000
 DTEND;TZID=America/Los_Angeles:20260812T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -60,7 +60,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315851798@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004650Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260815T160000
 DTEND;TZID=America/Los_Angeles:20260815T170000
 SUMMARY:Mosaics Beginning Spanish on Zoom
@@ -92,7 +92,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315852292@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004650Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260815T170000
 DTEND;TZID=America/Los_Angeles:20260815T180000
 SUMMARY:Mosaics Beginning Korean on Zoom
@@ -129,7 +129,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315852999@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004650Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260815T180000
 DTEND;TZID=America/Los_Angeles:20260815T190000
 SUMMARY:Mosaics Beginning Japanese on Zoom
@@ -161,7 +161,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315853728@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004650Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260815T190000
 DTEND;TZID=America/Los_Angeles:20260815T200000
 SUMMARY:Mosaics English Learners Group on Zoom
@@ -193,7 +193,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_315702079@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004856Z
 DTSTART;TZID=America/Los_Angeles:20260816T150000
 DTEND;TZID=America/Los_Angeles:20260816T163000
 SUMMARY:Artist Talk with Mirabel Wigon & Closing Reception 
@@ -219,7 +219,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766400@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004652Z
+DTSTAMP:20260813T004856Z
 DTSTART;TZID=America/Los_Angeles:20260817T180000
 DTEND;TZID=America/Los_Angeles:20260817T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -251,7 +251,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766418@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004652Z
+DTSTAMP:20260813T004856Z
 DTSTART;TZID=America/Los_Angeles:20260818T100000
 DTEND;TZID=America/Los_Angeles:20260818T110000
 SUMMARY:Gentle yoga
@@ -276,7 +276,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_315913246@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260819T170000
 DTEND;TZID=America/Los_Angeles:20260819T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -303,12 +303,29 @@ LAST-MODIFIED:20260731T002250Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/hope-cafe-connection/2026-08-20/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20260820T183000
+DTEND;TZID=UTC:20260820T203000
+DTSTAMP:20260812T230429Z
+CREATED:20260812T223212Z
+LAST-MODIFIED:20260812T230429Z
+UID:10000710-1787250600-1787257800@hatefreetogether.org
+SUMMARY:Hope Café: Finding Connection
+DESCRIPTION:Join us on two nights\, August 20th and September 25th\, to celebrate the start of fall with an evening at the International House Davis\, designed to build connection and community. Hope Café is a mix of a workshop and a party\, opening up a space where live music\, creative activities\, and guided conversations invite you to reflect and develop a new connection. \n  \nActivities include: community story sharing and playful creative exercises until 8:30 PM\, live world jazz by Nick Carvajal and Jim Frink\, and complimentary food and drinks provided by the Davis Food Co-Op. \n  \nTickets operate on a sliding scale of $15 – $25. Free tickets are available upon request by emailing office@internationalhousedavis.org. This event is open to community members ages 14 and older. \n  \nTo purchase tickets\, visit: https://secure.internationalhousedavis.org/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F49102
+URL:https://hatefreetogether.org/event/hope-cafe-connection/2026-08-20/
+LOCATION:International House Davis\, 10 College Park\, Davis\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Hope-Cafe-8.20.26-9.25.26-Website-1-e1786573900885.png
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Pence Adult Art Programs": "https://www.meetup.com/pence-adult-art-programs/events/315385707/"}
 X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_315385707@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004856Z
 DTSTART;TZID=America/Los_Angeles:20260822T100000
 DTEND;TZID=America/Los_Angeles:20260822T140000
 SUMMARY:Sculptural Papermaking with Bev Barnett
@@ -339,7 +356,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315953447@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004650Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260822T160000
 DTEND;TZID=America/Los_Angeles:20260822T170000
 SUMMARY:Mosaics Beginning Spanish on Zoom
@@ -371,7 +388,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315954060@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004650Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260822T170000
 DTEND;TZID=America/Los_Angeles:20260822T180000
 SUMMARY:Mosaics Beginning Korean on Zoom
@@ -408,7 +425,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315954647@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004650Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260822T180000
 DTEND;TZID=America/Los_Angeles:20260822T190000
 SUMMARY:Mosaics Beginning Japanese on Zoom
@@ -440,7 +457,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315955276@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004650Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260822T190000
 DTEND;TZID=America/Los_Angeles:20260822T200000
 SUMMARY:Mosaics English Learners Group on Zoom
@@ -472,7 +489,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766389@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004652Z
+DTSTAMP:20260813T004856Z
 DTSTART;TZID=America/Los_Angeles:20260824T180000
 DTEND;TZID=America/Los_Angeles:20260824T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -504,7 +521,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766436@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004652Z
+DTSTAMP:20260813T004856Z
 DTSTART;TZID=America/Los_Angeles:20260825T100000
 DTEND;TZID=America/Los_Angeles:20260825T110000
 SUMMARY:Gentle yoga
@@ -529,7 +546,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_316012211@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260826T170000
 DTEND;TZID=America/Los_Angeles:20260826T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -593,7 +610,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316051152@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004650Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260829T160000
 DTEND;TZID=America/Los_Angeles:20260829T170000
 SUMMARY:Mosaics Beginning Spanish on Zoom
@@ -625,7 +642,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316051771@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004650Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260829T170000
 DTEND;TZID=America/Los_Angeles:20260829T180000
 SUMMARY:Mosaics Beginning Korean on Zoom
@@ -662,7 +679,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_315506530@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004856Z
 DTSTART;TZID=America/Los_Angeles:20260830T130000
 DTEND;TZID=America/Los_Angeles:20260830T160000
 SUMMARY:Tote Embroidery Workshop
@@ -690,7 +707,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766392@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004652Z
+DTSTAMP:20260813T004856Z
 DTSTART;TZID=America/Los_Angeles:20260831T180000
 DTEND;TZID=America/Los_Angeles:20260831T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -722,7 +739,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766440@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004652Z
+DTSTAMP:20260813T004856Z
 DTSTART;TZID=America/Los_Angeles:20260901T100000
 DTEND;TZID=America/Los_Angeles:20260901T110000
 SUMMARY:Gentle yoga
@@ -747,7 +764,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_316022027@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004856Z
 DTSTART;TZID=America/Los_Angeles:20260901T100000
 DTEND;TZID=America/Los_Angeles:20260901T120000
 SUMMARY:Intermediate Watercolor with Misuk Goltz (5-sessions)
@@ -777,7 +794,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcmbdb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260902T170000
 DTEND;TZID=America/Los_Angeles:20260902T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -819,7 +836,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766394@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004652Z
+DTSTAMP:20260813T004856Z
 DTSTART;TZID=America/Los_Angeles:20260907T180000
 DTEND;TZID=America/Los_Angeles:20260907T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -851,7 +868,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316052118@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004652Z
+DTSTAMP:20260813T004856Z
 DTSTART;TZID=America/Los_Angeles:20260908T100000
 DTEND;TZID=America/Los_Angeles:20260908T110000
 SUMMARY:Gentle yoga
@@ -876,7 +893,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstyjcmbmb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260909T170000
 DTEND;TZID=America/Los_Angeles:20260909T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -908,7 +925,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_cbwkztyjcmbnb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004652Z
+DTSTAMP:20260813T004856Z
 DTSTART;TZID=America/Los_Angeles:20260910T180000
 DTEND;TZID=America/Los_Angeles:20260910T190000
 SUMMARY:Free Yoga Practice
@@ -952,7 +969,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315045635@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260912T160000
 DTEND;TZID=America/Los_Angeles:20260912T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -991,7 +1008,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315046964@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260912T180000
 DTEND;TZID=America/Los_Angeles:20260912T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1030,7 +1047,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315047643@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260912T190000
 DTEND;TZID=America/Los_Angeles:20260912T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1069,7 +1086,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_bgfpxtyjcmbsb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004652Z
+DTSTAMP:20260813T004856Z
 DTSTART;TZID=America/Los_Angeles:20260914T180000
 DTEND;TZID=America/Los_Angeles:20260914T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1101,7 +1118,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjcmbvb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260916T170000
 DTEND;TZID=America/Los_Angeles:20260916T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1133,7 +1150,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_rjtwxtyjcmbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260919T160000
 DTEND;TZID=America/Los_Angeles:20260919T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1172,7 +1189,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_tjtwxtyjcmbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260919T180000
 DTEND;TZID=America/Los_Angeles:20260919T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1211,7 +1228,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315719094@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260919T190000
 DTEND;TZID=America/Los_Angeles:20260919T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1250,7 +1267,7 @@ X-SOURCE-ID:meetup_art_in_action
 X-SOURCE:Meetup: Art in Action
 UID:event_315966638@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004856Z
 DTSTART;TZID=America/Los_Angeles:20260920T130000
 DTEND;TZID=America/Los_Angeles:20260920T150000
 SUMMARY:Art in Action: Flying Birds Mobile
@@ -1315,12 +1332,46 @@ LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, U
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/humanrelations_ci_SACHA_CHICKERING-scaled-e1777049624821.webp
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/hope-cafe-connection/2026-09-25/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20260925T183000
+DTEND;TZID=UTC:20260925T210000
+DTSTAMP:20260812T230429Z
+CREATED:20260812T223212Z
+LAST-MODIFIED:20260812T230429Z
+UID:10000711-1790361000-1790370000@hatefreetogether.org
+SUMMARY:Hope Café: Finding Connection
+DESCRIPTION:Join us on two nights\, August 20th and September 25th\, to celebrate the start of fall with an evening at the International House Davis\, designed to build connection and community. Hope Café is a mix of a workshop and a party\, opening up a space where live music\, creative activities\, and guided conversations invite you to reflect and develop a new connection. \n  \nActivities include: community story sharing and playful creative exercises until 8:30 PM\, live world jazz by Nick Carvajal and Jim Frink\, and complimentary food and drinks provided by the Davis Food Co-Op. \n  \nTickets operate on a sliding scale of $15 – $25. Free tickets are available upon request by emailing office@internationalhousedavis.org. This event is open to community members ages 14 and older. \n  \nTo purchase tickets\, visit: https://secure.internationalhousedavis.org/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F49102
+URL:https://hatefreetogether.org/event/hope-cafe-connection/2026-09-25/
+LOCATION:International House Davis\, 10 College Park\, Davis\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Hope-Cafe-8.20.26-9.25.26-Website-1-e1786573900885.png
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/peace-picnic/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20260926T110000
+DTEND;TZID=UTC:20260926T140000
+DTSTAMP:20260812T230351Z
+CREATED:20260812T230351Z
+LAST-MODIFIED:20260812T230351Z
+UID:10000712-1790420400-1790431200@hatefreetogether.org
+SUMMARY:Peace Picnic
+DESCRIPTION:The Woodland Ecumenical and Multi-faith Ministries (WEMM)\, an interfaith council consisting of faith communities\, is hosting the annual Peace Picnic. The “Community Interfaith Peace Picnic” in Woodland\, is an event that involves bringing together people from various religious backgrounds to promote peace\, understanding\, and collaboration. The picnic features meaningful conversations\, games\, and several speakers. \n  \nThe event will occur on September 26th\, at 11:00 AM. Complimentary Pakistani food will be served. Drinks will also be included. \n  \nThe event is free for all. All ages are welcome. \n  \nFor more information\, visit: https://woodlandwemm.org/
+URL:https://hatefreetogether.org/event/peace-picnic/
+LOCATION:Fern Park\, 750 West Southwood Drive\, Woodland\, 95695\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/avif:https://hatefreetogether.org/wp-content/uploads/peace-picnic-3-J9prwNf86BatX8gk-e1786575310940.avif
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/rjtwxtyjcmbjc/"}
 X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_rjtwxtyjcmbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260926T160000
 DTEND;TZID=America/Los_Angeles:20260926T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1359,7 +1410,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_tjtwxtyjcmbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260926T180000
 DTEND;TZID=America/Los_Angeles:20260926T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1398,7 +1449,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_vjtwxtyjcmbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260926T190000
 DTEND;TZID=America/Los_Angeles:20260926T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1437,7 +1488,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcmbnc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20260930T170000
 DTEND;TZID=America/Los_Angeles:20260930T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1485,7 +1536,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_rjtwxtyjcnbfb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20261003T160000
 DTEND;TZID=America/Los_Angeles:20261003T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1519,12 +1570,28 @@ LAST-MODIFIED:20260614T082957Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-neighbors-night-out-community-celebration-2/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+DTSTAMP:20260813T001439Z
+CREATED:20260813T001439Z
+LAST-MODIFIED:20260813T001439Z
+UID:10000713-1791072000-1791158399@hatefreetogether.org
+SUMMARY:Davis Neighbors' Night Out
+DESCRIPTION:Join the City of Davis\, Yolo County\, ASUCD\, and UC Davis in celebrating community during Davis Neighbors’ Night Out. Davis Neighbors’ Night Out is a celebration of our community and a great opportunity for neighbors to get to know one another. Connected neighborhoods create safer and more caring places to live \n  \nEvents include potlucks\, neighborhood games and activities and gatherings of neighbors to meet in the street for good conversation. \n  \nDavis Neighbors’ Night Out is open to all ages and is free to participate in. \n  \nNeighbors\, neighborhood associations\, apartment complexes\, etc.\, are encouraged to be an “Event Sponsor.” If you’re interested in becoming an event sponsor\, visit: https://www.cityofdavis.org/city-hall/city-manager-s-office/community-events/davis-neighbors-night-out
+URL:https://hatefreetogether.org/event/davis-neighbors-night-out-community-celebration-2/
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/64b4ed28c91be.image_.webp
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/mxnqstyjcnbkb/"}
 X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcnbkb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20261007T170000
 DTEND;TZID=America/Los_Angeles:20261007T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1566,7 +1633,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_316065700@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004856Z
 DTSTART;TZID=America/Los_Angeles:20261009T100000
 DTEND;TZID=America/Los_Angeles:20261009T114500
 SUMMARY:Healing Arts 6-Session Workshop
@@ -1601,7 +1668,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_315864641@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004856Z
 DTSTART;TZID=America/Los_Angeles:20261011T130000
 DTEND;TZID=America/Los_Angeles:20261011T153000
 SUMMARY:Stained Glass Workshop with Salty Bird Glass
@@ -1629,7 +1696,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstyjcnbsb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20261014T170000
 DTEND;TZID=America/Los_Angeles:20261014T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1661,7 +1728,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjcnbcc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260812T004651Z
+DTSTAMP:20260813T004855Z
 DTSTART;TZID=America/Los_Angeles:20261021T170000
 DTEND;TZID=America/Los_Angeles:20261021T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1956,70 +2023,6 @@ UID:10000377-1802370600-1802376000@hatefreetogether.org
 SUMMARY:Davis City Council Meetings
 DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
 URL:https://hatefreetogether.org/event/davis-city-council-meetings/2027-02-11/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-city-council-meetings/2027-02-25/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20270225T183000
-DTEND;TZID=UTC:20270225T200000
-DTSTAMP:20260424T163204Z
-CREATED:20260424T163204Z
-LAST-MODIFIED:20260424T163204Z
-UID:10000378-1803580200-1803585600@hatefreetogether.org
-SUMMARY:Davis City Council Meetings
-DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
-URL:https://hatefreetogether.org/event/davis-city-council-meetings/2027-02-25/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/human-relations-commission-meetings/2027-02-25/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20270225T183000
-DTEND;TZID=UTC:20270225T200000
-DTSTAMP:20260424T165540Z
-CREATED:20260424T165540Z
-LAST-MODIFIED:20260424T165540Z
-UID:10000496-1803580200-1803585600@hatefreetogether.org
-SUMMARY:Human Relations Commission Meetings
-DESCRIPTION:The Davis Human Relations Commission (HRC) meetings aim to promote mutual respect\, understanding\, justice\, and advancing the human rights of all people. The Human Relations Commission meets on the fourth Thursday of each month at 6:30 p.m. The Commission takes a recess in July (no meeting in July). \n  \nMeetings take place in the Community Chambers at City Hall\, 23 Russell Boulevard. For more information on meetings\, membership\, resolutions\, and more\, visit the Human Relations Commission site. \n  \nThe HRC makes recommendations around equity and discrimination in the City\, and supports the City in preventing and addressing discrimination while promoting diversity\, equality\, and justice relevant to the goals and policies of the City Council. \n  \nTo contact or send emails to the commission\, email: HRC@cityofdavis.org
-URL:https://hatefreetogether.org/event/human-relations-commission-meetings/2027-02-25/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/humanrelations_ci_SACHA_CHICKERING-scaled-e1777049624821.webp
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/djusd-board-meetings/2027-03-04/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20270304T183000
-DTEND;TZID=UTC:20270304T200000
-DTSTAMP:20260424T172314Z
-CREATED:20260424T172126Z
-LAST-MODIFIED:20260424T172314Z
-UID:10000683-1804185000-1804190400@hatefreetogether.org
-SUMMARY:DJUSD Board Meetings
-DESCRIPTION:DJUSD Board meetings offer insight on how the school district remains responsive to the community’s values\, beliefs\, and priorities. The Board meetings occur on every first and third Thursday\, in the City of Davis Community Chambers. 23 Russell Boulevard. Public session starts at 6:30 PM.  Meetings are cablecast live on Channel 17 (Comcast) or streamed on the DJUSD-TV website. \n  \nThe Davis Joint Unified School District’s Board of Education is comprised of five community members\, responsible for setting district policy\, approving the budget\, and hiring the superintendent for schools in Davis\, California. The agendas for the meetings are posted at least 72 hours in advance. \n  \nFor more information on special meetings\, agendas\, public comment\, and more\, visit the DJUSD Board site.
-URL:https://hatefreetogether.org/event/djusd-board-meetings/2027-03-04/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/499036487_1275464707915844_5079899038399820181_n.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-city-council-meetings/2027-03-11/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20270311T183000
-DTEND;TZID=UTC:20270311T200000
-DTSTAMP:20260424T163204Z
-CREATED:20260424T163204Z
-LAST-MODIFIED:20260424T163204Z
-UID:10000379-1804789800-1804795200@hatefreetogether.org
-SUMMARY:Davis City Council Meetings
-DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
-URL:https://hatefreetogether.org/event/davis-city-council-meetings/2027-03-11/
 LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
 END:VEVENT
