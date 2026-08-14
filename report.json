@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13T00:49:01.323003",
+  "generated": "2026-08-14T00:52:38.026247",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34555,6 +34555,10 @@
             {
               "date": "2026-08-13",
               "count": 0
+            },
+            {
+              "date": "2026-08-14",
+              "count": 0
             }
           ]
         },
@@ -35186,6 +35190,10 @@
             },
             {
               "date": "2026-08-13",
+              "count": 30
+            },
+            {
+              "date": "2026-08-14",
               "count": 30
             }
           ]
@@ -35819,6 +35827,10 @@
             {
               "date": "2026-08-13",
               "count": 1
+            },
+            {
+              "date": "2026-08-14",
+              "count": 1
             }
           ]
         },
@@ -36450,6 +36462,10 @@
             },
             {
               "date": "2026-08-13",
+              "count": 10
+            },
+            {
+              "date": "2026-08-14",
               "count": 10
             }
           ]
@@ -37083,6 +37099,10 @@
             {
               "date": "2026-08-13",
               "count": 10
+            },
+            {
+              "date": "2026-08-14",
+              "count": 10
             }
           ]
         },
@@ -37714,6 +37734,10 @@
             },
             {
               "date": "2026-08-13",
+              "count": 10
+            },
+            {
+              "date": "2026-08-14",
               "count": 10
             }
           ]
@@ -38347,6 +38371,10 @@
             {
               "date": "2026-08-13",
               "count": 6
+            },
+            {
+              "date": "2026-08-14",
+              "count": 6
             }
           ]
         },
@@ -38978,6 +39006,10 @@
             },
             {
               "date": "2026-08-13",
+              "count": 0
+            },
+            {
+              "date": "2026-08-14",
               "count": 0
             }
           ]
@@ -39611,6 +39643,10 @@
             {
               "date": "2026-08-13",
               "count": 10
+            },
+            {
+              "date": "2026-08-14",
+              "count": 10
             }
           ]
         },
@@ -40242,6 +40278,10 @@
             },
             {
               "date": "2026-08-13",
+              "count": 0
+            },
+            {
+              "date": "2026-08-14",
               "count": 0
             }
           ]
@@ -40875,6 +40915,10 @@
             {
               "date": "2026-08-13",
               "count": 0
+            },
+            {
+              "date": "2026-08-14",
+              "count": 0
             }
           ]
         },
@@ -41506,6 +41550,10 @@
             },
             {
               "date": "2026-08-13",
+              "count": 0
+            },
+            {
+              "date": "2026-08-14",
               "count": 0
             }
           ]
@@ -42139,6 +42187,10 @@
             {
               "date": "2026-08-13",
               "count": 0
+            },
+            {
+              "date": "2026-08-14",
+              "count": 0
             }
           ]
         }
@@ -42149,11 +42201,11 @@
           "count": 26
         },
         {
-          "category": "Community / Social",
+          "category": "Education / Workshops",
           "count": 14
         },
         {
-          "category": "Education / Workshops",
+          "category": "Community / Social",
           "count": 14
         },
         {
@@ -42208,12 +42260,6 @@
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Yolo County Board Game Gathering",
-            "events": 10,
-            "unique_urls": 10,
-            "specificity_pct": 100
-          },
-          {
             "source": "Meetup: Mosaics",
             "events": 10,
             "unique_urls": 10,
@@ -42221,6 +42267,12 @@
           },
           {
             "source": "Meetup Mindful Embodied Spirituality",
+            "events": 10,
+            "unique_urls": 10,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Meetup Yolo County Board Game Gathering",
             "events": 10,
             "unique_urls": 10,
             "specificity_pct": 100
