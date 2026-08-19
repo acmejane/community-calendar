@@ -49,87 +49,6 @@ DTSTART:20271107T090000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260817
-DTSTAMP:20260629T213614Z
-CREATED:20260618T225226Z
-LAST-MODIFIED:20260629T213614Z
-UID:10014400-1783641600-1786924799@visityolo.com
-SUMMARY:Mirabel Wigon: Earth Stars
-DESCRIPTION:Mirabel Wigon: Earth Stars at Pence Gallery in Davis \nExhibit: July 10 – August 16\, 2026 \nReception: July 10\, 6-9 PM (Free) \nMirabel Wigon’s Earth Stars features imagined and fantastical futures with flora as the main subject. Her paintings deconstruct and reconstruct plant forms to explore the intermingled and entangled relationships in the natural world. Her range of mediated source materials\, including photogrammetry scans of botanical specimens\, offers new ways of looking at our planetary cohabitants. Wigon uses augmented reality to reveal the 3D models made through photogrammetry\, further entangling the viewer in the processes of the paintings’ construction. Her reflections of mediation and translation call for a future that values diversity\, adaptation\, and perseverance. \nImage: Mirabel Wigon\, “Celestial Lattice”
-URL:https://visityolo.com/event/mirabel-wigon-earth-stars/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Mirabel-Wigon-Celestial-Lattice.jpg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260817
-DTSTAMP:20260629T214024Z
-CREATED:20260629T214024Z
-LAST-MODIFIED:20260629T214024Z
-UID:10014395-1783641600-1786924799@visityolo.com
-SUMMARY:Slice: A Juried Exhibit of Regional Art
-DESCRIPTION:Slice: A Juried Exhibit of Regional Art \nExhibit: July 10 – August 16\, 2026 \nReception: July 10\, 6-9 PM (Awards at 8 PM) \n  \nSlice celebrates the diversity of expression in our region with an array of sculpture\, prints\, paintings\, and photography created by 36 visual artists. This year marks the 14th anniversary of the Pence’s regional call to artists\, affectionately called Slice. Representing a ‘slice’ of work fresh from the studio produced by new and established artists working in the state\, this annual juried exhibit has quickly gained a reputation for displaying innovative and thought-provoking work. The selected work is chosen by the juror for its merit rather than its ability to fit within any particular theme or concept. As with any juried ‘open theme’ selection\, the connections between the artworks can prove to be mind-bending or head-scratching.  \n  \nGioia Fonda is this year’s juror of Slice. Fonda is an interdisciplinary artist working primarily in two-dimensional media (painting\, drawing\, sewing\, and photography) with occasional forays in sculpture\, social practice\, and public art. She tends to work in a colorful and non-objective manner\, but just under the surface\, her work is often imbued with storytelling and narrative. She has a bi-coastal art education\, having earned a BFA at the California College of the Arts and an MFA at the School of Visual Arts in New York. Gioia is a dedicated member of the Sacramento art community\, contributing as an artist\, curator\, jurist\, and collaborator. She is also a tenured professor of art at Sacramento City College\, where she teaches painting\, drawing\, and design. Her work has been exhibited widely throughout Northern California and is held in many private and public collections throughout the U.S. \n  \nImage: Michael Larson\, “Day Turns to Night #2”
-URL:https://visityolo.com/event/slice-a-juried-exhibit-of-regional-art/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/png:https://visityolo.com/wp-content/uploads/Michael-Larson-Day-turns-to-night-2-KB.png
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260816T110000
-DTEND;TZID=America/Los_Angeles:20260816T180000
-DTSTAMP:20251117T171126Z
-CREATED:20251117T171126Z
-LAST-MODIFIED:20251117T171126Z
-UID:10013290-1786878000-1786903200@visityolo.com
-SUMMARY:Sip Yolo with Yolo County Wines
-DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
-URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-08-16/
-LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260816T173000
-DTEND;TZID=America/Los_Angeles:20260816T203000
-DTSTAMP:20260813T194113Z
-CREATED:20260813T194113Z
-LAST-MODIFIED:20260813T194113Z
-UID:10014694-1786901400-1786912200@visityolo.com
-SUMMARY:Live Music at Carboni's Ristorante
-DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
-URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-08-16/
-LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
-ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260816T184500
-DTEND;TZID=America/Los_Angeles:20260816T203000
-DTSTAMP:20260717T171052Z
-CREATED:20260602T164936Z
-LAST-MODIFIED:20260717T171052Z
-UID:10010518-1786905900-1786912200@visityolo.com
-SUMMARY:Bat Talk and Tour
-DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
-URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-08-16/
-LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
-ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260817T184500
-DTEND;TZID=America/Los_Angeles:20260817T203000
-DTSTAMP:20260717T171052Z
-CREATED:20260602T164936Z
-LAST-MODIFIED:20260717T171052Z
-UID:10010519-1786992300-1786998600@visityolo.com
-SUMMARY:Bat Talk and Tour
-DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
-URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-08-17/
-LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
-ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260818T184500
 DTEND;TZID=America/Los_Angeles:20260818T203000
 DTSTAMP:20260717T171052Z
@@ -447,6 +366,85 @@ UID:10014696-1787506200-1787517000@visityolo.com
 SUMMARY:Live Music at Carboni's Ristorante
 DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
 URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-08-23/
+LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
+ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260823T184500
+DTEND;TZID=America/Los_Angeles:20260823T203000
+DTSTAMP:20260717T171052Z
+CREATED:20260602T164936Z
+LAST-MODIFIED:20260717T171052Z
+UID:10010525-1787510700-1787517000@visityolo.com
+SUMMARY:Bat Talk and Tour
+DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
+URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-08-23/
+LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
+ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260824T184500
+DTEND;TZID=America/Los_Angeles:20260824T203000
+DTSTAMP:20260717T171052Z
+CREATED:20260602T164936Z
+LAST-MODIFIED:20260717T171052Z
+UID:10010526-1787597100-1787603400@visityolo.com
+SUMMARY:Bat Talk and Tour
+DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
+URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-08-24/
+LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
+ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260825T184500
+DTEND;TZID=America/Los_Angeles:20260825T203000
+DTSTAMP:20260717T171052Z
+CREATED:20260602T164936Z
+LAST-MODIFIED:20260717T171052Z
+UID:10014085-1787683500-1787689800@visityolo.com
+SUMMARY:Bat Talk and Tour
+DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
+URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-08-25/
+LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
+ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260826T160000
+DTEND;TZID=America/Los_Angeles:20260826T200000
+DTSTAMP:20260624T183412Z
+CREATED:20260624T183245Z
+LAST-MODIFIED:20260624T183412Z
+UID:10014520-1787760000-1787774400@visityolo.com
+SUMMARY:Davis Farmers Market Picnic In The Park
+DESCRIPTION:The popular Davis Farmers Market event is every Wednesday from 4 to 8 p.m.\, April through August. A local band plays each night. There’s children’s entertainment\, loads of food vendors\, and plenty of opportunity to gather as a community. October through April\, there’s a traditional farmers market on Wednesdays\, from 3 to 6 p.m. \nPicnic in the Park focuses on family-friendly children’s activities and music\, along with a wide range of food made from market ingredients. There is a clown\, face-painter and children’s activities. \nYear-round in downtown Davis\, thousands gather each week to shop for what is grown\, raised and made locally. Since 1976\, the Davis Farmers Market has connected and supported communities\, area agriculture\, farmers and artisan food producers. It educates the public about nutrition\, sustainable agriculture\, and the local economic value of buying food and products directly from the producer. \n 
+URL:https://visityolo.com/event/davis-farmers-market-picnic-in-the-park-2/2026-08-26/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/486434334_1090519546450339_214190693011889520_n-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260826T160000
+DTEND;TZID=America/Los_Angeles:20260826T200000
+DTSTAMP:20260624T183456Z
+CREATED:20260624T183454Z
+LAST-MODIFIED:20260624T183456Z
+UID:10014501-1787760000-1787774400@visityolo.com
+SUMMARY:Davis Farmers Market Picnic In The Park
+DESCRIPTION:The popular Davis Farmers Market event is every Wednesday from 4 to 8 p.m.\, April through August. A local band plays each night. There’s children’s entertainment\, loads of food vendors\, and plenty of opportunity to gather as a community. October through April\, there’s a traditional farmers market on Wednesdays\, from 3 to 6 p.m. \nPicnic in the Park focuses on family-friendly children’s activities and music\, along with a wide range of food made from market ingredients. There is a clown\, face-painter and children’s activities. \nYear-round in downtown Davis\, thousands gather each week to shop for what is grown\, raised and made locally. Since 1976\, the Davis Farmers Market has connected and supported communities\, area agriculture\, farmers and artisan food producers. It educates the public about nutrition\, sustainable agriculture\, and the local economic value of buying food and products directly from the producer. \n 
+URL:https://visityolo.com/event/davis-farmers-market-picnic-in-the-park-2-2/2026-08-26/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/486434334_1090519546450339_214190693011889520_n-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260826T173000
+DTEND;TZID=America/Los_Angeles:20260826T203000
+DTSTAMP:20260813T194113Z
+CREATED:20260813T194113Z
+LAST-MODIFIED:20260813T194113Z
+UID:10014697-1787765400-1787776200@visityolo.com
+SUMMARY:Live Music at Carboni's Ristorante
+DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
+URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-08-26/
 LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
 ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
