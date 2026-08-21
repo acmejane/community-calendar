@@ -19,20 +19,6 @@ DTSTART:20250101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=UTC:20260820T183000
-DTEND;TZID=UTC:20260820T203000
-DTSTAMP:20260812T230429Z
-CREATED:20260812T223212Z
-LAST-MODIFIED:20260812T230429Z
-UID:10000710-1787250600-1787257800@hatefreetogether.org
-SUMMARY:Hope Café: Finding Connection
-DESCRIPTION:Join us on two nights\, August 20th and September 25th\, to celebrate the start of fall with an evening at the International House Davis\, designed to build connection and community. Hope Café is a mix of a workshop and a party\, opening up a space where live music\, creative activities\, and guided conversations invite you to reflect and develop a new connection. \n  \nActivities include: community story sharing and playful creative exercises until 8:30 PM\, live world jazz by Nick Carvajal and Jim Frink\, and complimentary food and drinks provided by the Davis Food Co-Op. \n  \nTickets operate on a sliding scale of $15 – $25. Free tickets are available upon request by emailing office@internationalhousedavis.org. This event is open to community members ages 14 and older. \n  \nTo purchase tickets\, visit: https://secure.internationalhousedavis.org/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F49102
-URL:https://hatefreetogether.org/event/hope-cafe-connection/2026-08-20/
-LOCATION:International House Davis\, 10 College Park\, Davis\, 95616\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Hope-Cafe-8.20.26-9.25.26-Website-1-e1786573900885.png
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=UTC:20260827T183000
 DTEND;TZID=UTC:20260827T200000
 DTSTAMP:20260424T163204Z
@@ -410,5 +396,18 @@ DESCRIPTION:The Davis City Council provides policy direction\, establishes goals
 URL:https://hatefreetogether.org/event/davis-city-council-meetings/2027-02-25/
 LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20270225T183000
+DTEND;TZID=UTC:20270225T200000
+DTSTAMP:20260424T165540Z
+CREATED:20260424T165540Z
+LAST-MODIFIED:20260424T165540Z
+UID:10000496-1803580200-1803585600@hatefreetogether.org
+SUMMARY:Human Relations Commission Meetings
+DESCRIPTION:The Davis Human Relations Commission (HRC) meetings aim to promote mutual respect\, understanding\, justice\, and advancing the human rights of all people. The Human Relations Commission meets on the fourth Thursday of each month at 6:30 p.m. The Commission takes a recess in July (no meeting in July). \n  \nMeetings take place in the Community Chambers at City Hall\, 23 Russell Boulevard. For more information on meetings\, membership\, resolutions\, and more\, visit the Human Relations Commission site. \n  \nThe HRC makes recommendations around equity and discrimination in the City\, and supports the City in preventing and addressing discrimination while promoting diversity\, equality\, and justice relevant to the goals and policies of the City Council. \n  \nTo contact or send emails to the commission\, email: HRC@cityofdavis.org
+URL:https://hatefreetogether.org/event/human-relations-commission-meetings/2027-02-25/
+LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/humanrelations_ci_SACHA_CHICKERING-scaled-e1777049624821.webp
 END:VEVENT
 END:VCALENDAR

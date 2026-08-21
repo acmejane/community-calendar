@@ -7,88 +7,6 @@ X-WR-CALNAME:Lancaster Community Calendar
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-picnic-in-the-park-21/2026-08-19/", "Visityolo Event": "https://visityolo.com/event/davis-farmers-market-picnic-in-the-park-2-2/2026-08-19/"}
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-picnic-in-the-park-21/2026-08-19/"}
-X-SOURCE-ID:visitdavis
-X-SOURCE:Visit Davis, Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260819T160000
-DTEND;TZID=America/Los_Angeles:20260819T200000
-DTSTAMP:20260624T192743Z
-CREATED:20250825T081126Z
-LAST-MODIFIED:20260624T192743Z
-UID:10002973-1787155200-1787169600@visitdavis.org
-SUMMARY:Davis Farmers Market Picnic In The Park
-DESCRIPTION:The popular Davis Farmers Market event is every Wednesday from 4 to 8 p.m.\, April through August. A local band plays each night. There’s children’s entertainment\, loads of food vendors\, and plenty of opportunity to gather as a community. October through April\, there’s a traditional farmers market on Wednesdays\, from 3 to 6 p.m. \nPicnic in the Park focuses on family-friendly children’s activities and music\, along with a wide range of food made from market ingredients. There is a clown\, face-painter and children’s activities. \nYear-round in downtown Davis\, thousands gather each week to shop for what is grown\, raised and made locally. Since 1976\, the Davis Farmers Market has connected and supported communities\, area agriculture\, farmers and artisan food producers. It educates the public about nutrition\, sustainable agriculture\, and the local economic value of buying food and products directly from the producer.
-URL:https://visitdavis.org/event/davis-farmers-market-picnic-in-the-park-21/2026-08-19/
-LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/486434334_1090519546450339_214190693011889520_n-scaled-Ch1zBz.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/315913246/"}
-X-SOURCE-ID:meetup_yolo_county_board_game_gathering
-X-SOURCE:Meetup Yolo County Board Game Gathering
-UID:event_315913246@meetup.com
-SEQUENCE:1
-DTSTAMP:20260820T002551Z
-DTSTART;TZID=America/Los_Angeles:20260819T170000
-DTEND;TZID=America/Los_Angeles:20260819T210000
-SUMMARY:Weekly Game Night at Blue Note
-DESCRIPTION:Yolo County Board Game Gathering\nUpdate 8/14/25:\n**We're sti
- ll active**\, but we primarily use Discord to chat and plan events. (See g
- roup description for invite link.)\n\nWe still meet every Wednesday for bo
- ard games at Blue Note Brewing Company. We'll have a handful of tables res
- erved near the back\; just look for the pile of board games.\n\nPeople usu
- ally start arriving around 5pm\, and games start whenever people are ready
- . Blue Note closes at 9pm\, and although we have a 5-10 minute grace perio
- d there\, you should be in the process of final scoring by 9\, or else pac
- k it up and play again another day.\n\nGame night is open to all ages! Blu
- e Note is a brewery\, not a bar\, so there's no restriction against minors
- . In addition to their crafted-in-house beer selection\, water and sodas a
- re available.\n\nYou're not required to buy anything in order to join us\,
-  but we do encourage you to support local businesses. Blue Note's chef tea
- m makes a mean pizza\, and there are other nearby downtown restaurants and
-  businesses.
-URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
- ts/315913246/
-STATUS:CONFIRMED
-CREATED:20260731T002250Z
-LAST-MODIFIED:20260731T002250Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-08-19/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260819T173000
-DTEND;TZID=America/Los_Angeles:20260819T203000
-DTSTAMP:20260813T194113Z
-CREATED:20260813T194113Z
-LAST-MODIFIED:20260813T194113Z
-UID:10014695-1787160600-1787171400@visityolo.com
-SUMMARY:Live Music at Carboni's Ristorante
-DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
-URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-08-19/
-LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
-ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/bat-talk-and-tour-2/2026-08-19/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260819T184500
-DTEND;TZID=America/Los_Angeles:20260819T203000
-DTSTAMP:20260717T171052Z
-CREATED:20260602T164936Z
-LAST-MODIFIED:20260717T171052Z
-UID:10014083-1787165100-1787171400@visityolo.com
-SUMMARY:Bat Talk and Tour
-DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
-URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-08-19/
-LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
-ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/thursday-social-at-great-bear-vineyards-4/", "Visityolo Event": "https://visityolo.com/event/thursday-social-at-great-bear-vineyards-4/"}
 X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/thursday-social-at-great-bear-vineyards-4/"}
 X-SOURCE-ID:visitdavis
@@ -141,23 +59,6 @@ URL:https://visitdavis.org/event/silent-book-club-at-great-bear-vineyards/
 LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
 ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
 ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/hope-cafe-connection/2026-08-20/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20260820T183000
-DTEND;TZID=UTC:20260820T203000
-DTSTAMP:20260812T230429Z
-CREATED:20260812T223212Z
-LAST-MODIFIED:20260812T230429Z
-UID:10000710-1787250600-1787257800@hatefreetogether.org
-SUMMARY:Hope Café: Finding Connection
-DESCRIPTION:Join us on two nights\, August 20th and September 25th\, to celebrate the start of fall with an evening at the International House Davis\, designed to build connection and community. Hope Café is a mix of a workshop and a party\, opening up a space where live music\, creative activities\, and guided conversations invite you to reflect and develop a new connection. \n  \nActivities include: community story sharing and playful creative exercises until 8:30 PM\, live world jazz by Nick Carvajal and Jim Frink\, and complimentary food and drinks provided by the Davis Food Co-Op. \n  \nTickets operate on a sliding scale of $15 – $25. Free tickets are available upon request by emailing office@internationalhousedavis.org. This event is open to community members ages 14 and older. \n  \nTo purchase tickets\, visit: https://secure.internationalhousedavis.org/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F49102
-URL:https://hatefreetogether.org/event/hope-cafe-connection/2026-08-20/
-LOCATION:International House Davis\, 10 College Park\, Davis\, 95616\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Hope-Cafe-8.20.26-9.25.26-Website-1-e1786573900885.png
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/hope-cafe/", "Visityolo Event": "https://visityolo.com/event/hope-cafe/2026-08-20/"}
@@ -318,7 +219,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs, Visit Davis, Visityolo Event
 UID:event_315385707@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002825Z
 DTSTART;TZID=America/Los_Angeles:20260822T100000
 DTEND;TZID=America/Los_Angeles:20260822T140000
 SUMMARY:Sculptural Papermaking with Bev Barnett
@@ -365,7 +266,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315954647@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002550Z
+DTSTAMP:20260821T002824Z
 DTSTART;TZID=America/Los_Angeles:20260822T180000
 DTEND;TZID=America/Los_Angeles:20260822T190000
 SUMMARY:Mosaics Beginning Japanese on Zoom
@@ -413,7 +314,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315955276@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002550Z
+DTSTAMP:20260821T002824Z
 DTSTART;TZID=America/Los_Angeles:20260822T190000
 DTEND;TZID=America/Los_Angeles:20260822T200000
 SUMMARY:Mosaics English Learners Group on Zoom
@@ -526,7 +427,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766389@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002552Z
+DTSTAMP:20260821T002826Z
 DTSTART;TZID=America/Los_Angeles:20260824T180000
 DTEND;TZID=America/Los_Angeles:20260824T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -574,7 +475,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766436@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002552Z
+DTSTAMP:20260821T002826Z
 DTSTART;TZID=America/Los_Angeles:20260825T100000
 DTEND;TZID=America/Los_Angeles:20260825T110000
 SUMMARY:Gentle yoga
@@ -632,7 +533,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_316012211@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002825Z
 DTSTART;TZID=America/Los_Angeles:20260826T170000
 DTEND;TZID=America/Los_Angeles:20260826T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -831,7 +732,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs, Visit Davis
 UID:event_315506530@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002825Z
 DTSTART;TZID=America/Los_Angeles:20260830T130000
 DTEND;TZID=America/Los_Angeles:20260830T160000
 SUMMARY:Tote Embroidery Workshop
@@ -876,7 +777,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766392@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002552Z
+DTSTAMP:20260821T002826Z
 DTSTART;TZID=America/Los_Angeles:20260831T180000
 DTEND;TZID=America/Los_Angeles:20260831T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -908,7 +809,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766440@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002552Z
+DTSTAMP:20260821T002826Z
 DTSTART;TZID=America/Los_Angeles:20260901T100000
 DTEND;TZID=America/Los_Angeles:20260901T110000
 SUMMARY:Gentle yoga
@@ -933,7 +834,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_316022027@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002825Z
 DTSTART;TZID=America/Los_Angeles:20260901T100000
 DTEND;TZID=America/Los_Angeles:20260901T120000
 SUMMARY:Intermediate Watercolor with Misuk Goltz (5-sessions)
@@ -963,7 +864,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_316108177@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002825Z
 DTSTART;TZID=America/Los_Angeles:20260902T170000
 DTEND;TZID=America/Los_Angeles:20260902T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1005,7 +906,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_315766394@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002552Z
+DTSTAMP:20260821T002826Z
 DTSTART;TZID=America/Los_Angeles:20260907T180000
 DTEND;TZID=America/Los_Angeles:20260907T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1037,7 +938,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316052118@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002552Z
+DTSTAMP:20260821T002826Z
 DTSTART;TZID=America/Los_Angeles:20260908T100000
 DTEND;TZID=America/Los_Angeles:20260908T110000
 SUMMARY:Gentle yoga
@@ -1057,12 +958,12 @@ LAST-MODIFIED:20260810T010842Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/vwnqstyjcmbmb/"}
+X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/316206223/"}
 X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
-UID:event_vwnqstyjcmbmb@meetup.com
+UID:event_316206223@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002825Z
 DTSTART;TZID=America/Los_Angeles:20260909T170000
 DTEND;TZID=America/Los_Angeles:20260909T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1082,10 +983,10 @@ DESCRIPTION:Yolo County Board Game Gathering\nUpdate 8/14/25:\n**We're sti
  m makes a mean pizza\, and there are other nearby downtown restaurants and
   businesses.
 URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
- ts/vwnqstyjcmbmb/
+ ts/316206223/
 STATUS:CONFIRMED
-CREATED:20250814T213602Z
-LAST-MODIFIED:20250814T213602Z
+CREATED:20260821T001737Z
+LAST-MODIFIED:20260821T001737Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
@@ -1094,7 +995,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_cbwkztyjcmbnb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002552Z
+DTSTAMP:20260821T002826Z
 DTSTART;TZID=America/Los_Angeles:20260910T180000
 DTEND;TZID=America/Los_Angeles:20260910T190000
 SUMMARY:Free Yoga Practice
@@ -1138,7 +1039,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_314284343@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002550Z
+DTSTAMP:20260821T002824Z
 DTSTART;TZID=America/Los_Angeles:20260912T150000
 DTEND;TZID=America/Los_Angeles:20260912T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -1176,7 +1077,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315044978@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002550Z
+DTSTAMP:20260821T002824Z
 DTSTART;TZID=America/Los_Angeles:20260912T150000
 DTEND;TZID=America/Los_Angeles:20260912T170000
 SUMMARY:Mosaics Beginning to Intermediate Korean in Person
@@ -1214,7 +1115,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315045635@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002824Z
 DTSTART;TZID=America/Los_Angeles:20260912T160000
 DTEND;TZID=America/Los_Angeles:20260912T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1253,7 +1154,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315046291@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002550Z
+DTSTAMP:20260821T002824Z
 DTSTART;TZID=America/Los_Angeles:20260912T170000
 DTEND;TZID=America/Los_Angeles:20260912T180000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -1292,7 +1193,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_315046964@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002824Z
 DTSTART;TZID=America/Los_Angeles:20260912T180000
 DTEND;TZID=America/Los_Angeles:20260912T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1332,7 +1233,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_315047643@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002824Z
 DTSTART;TZID=America/Los_Angeles:20260912T190000
 DTEND;TZID=America/Los_Angeles:20260912T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1371,7 +1272,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_bgfpxtyjcmbsb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002552Z
+DTSTAMP:20260821T002826Z
 DTSTART;TZID=America/Los_Angeles:20260914T180000
 DTEND;TZID=America/Los_Angeles:20260914T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1403,7 +1304,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_ndpjxtyjcmbtb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002552Z
+DTSTAMP:20260821T002826Z
 DTSTART;TZID=America/Los_Angeles:20260915T100000
 DTEND;TZID=America/Los_Angeles:20260915T110000
 SUMMARY:Gentle yoga
@@ -1428,7 +1329,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjcmbvb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002825Z
 DTSTART;TZID=America/Los_Angeles:20260916T170000
 DTEND;TZID=America/Los_Angeles:20260916T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1460,7 +1361,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_cbwkztyjcmbwb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002552Z
+DTSTAMP:20260821T002826Z
 DTSTART;TZID=America/Los_Angeles:20260917T180000
 DTEND;TZID=America/Los_Angeles:20260917T190000
 SUMMARY:Free Yoga Practice
@@ -1488,7 +1389,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_bktwxtyjcmbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002550Z
+DTSTAMP:20260821T002824Z
 DTSTART;TZID=America/Los_Angeles:20260919T150000
 DTEND;TZID=America/Los_Angeles:20260919T170000
 SUMMARY:Mosaics Beginning to Intermediate Korean in Person
@@ -1526,7 +1427,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315539529@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002550Z
+DTSTAMP:20260821T002824Z
 DTSTART;TZID=America/Los_Angeles:20260919T150000
 DTEND;TZID=America/Los_Angeles:20260919T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -1564,7 +1465,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_rjtwxtyjcmbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002824Z
 DTSTART;TZID=America/Los_Angeles:20260919T160000
 DTEND;TZID=America/Los_Angeles:20260919T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1603,7 +1504,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_xktwxtyjcmbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002550Z
+DTSTAMP:20260821T002824Z
 DTSTART;TZID=America/Los_Angeles:20260919T170000
 DTEND;TZID=America/Los_Angeles:20260919T180000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -1641,7 +1542,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_tjtwxtyjcmbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002824Z
 DTSTART;TZID=America/Los_Angeles:20260919T180000
 DTEND;TZID=America/Los_Angeles:20260919T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1680,7 +1581,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315719094@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002824Z
 DTSTART;TZID=America/Los_Angeles:20260919T190000
 DTEND;TZID=America/Los_Angeles:20260919T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1719,7 +1620,7 @@ X-SOURCE-ID:meetup_art_in_action
 X-SOURCE:Meetup: Art in Action
 UID:event_315966638@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002552Z
+DTSTAMP:20260821T002826Z
 DTSTART;TZID=America/Los_Angeles:20260920T130000
 DTEND;TZID=America/Los_Angeles:20260920T150000
 SUMMARY:Art in Action: Flying Birds Mobile
@@ -1823,7 +1724,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_rjtwxtyjcmbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002824Z
 DTSTART;TZID=America/Los_Angeles:20260926T160000
 DTEND;TZID=America/Los_Angeles:20260926T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1862,7 +1763,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_tjtwxtyjcmbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002824Z
 DTSTART;TZID=America/Los_Angeles:20260926T180000
 DTEND;TZID=America/Los_Angeles:20260926T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1901,7 +1802,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_vjtwxtyjcmbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002824Z
 DTSTART;TZID=America/Los_Angeles:20260926T190000
 DTEND;TZID=America/Los_Angeles:20260926T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1940,7 +1841,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcmbnc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002825Z
 DTSTART;TZID=America/Los_Angeles:20260930T170000
 DTEND;TZID=America/Los_Angeles:20260930T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1988,7 +1889,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_rjtwxtyjcnbfb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002824Z
 DTSTART;TZID=America/Los_Angeles:20261003T160000
 DTEND;TZID=America/Los_Angeles:20261003T170000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -2043,7 +1944,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcnbkb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002825Z
 DTSTART;TZID=America/Los_Angeles:20261007T170000
 DTEND;TZID=America/Los_Angeles:20261007T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -2085,7 +1986,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_316065700@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002825Z
 DTSTART;TZID=America/Los_Angeles:20261009T100000
 DTEND;TZID=America/Los_Angeles:20261009T114500
 SUMMARY:Healing Arts 6-Session Workshop
@@ -2120,7 +2021,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_315864641@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002825Z
 DTSTART;TZID=America/Los_Angeles:20261011T130000
 DTEND;TZID=America/Los_Angeles:20261011T153000
 SUMMARY:Stained Glass Workshop with Salty Bird Glass
@@ -2148,7 +2049,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstyjcnbsb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002825Z
 DTSTART;TZID=America/Los_Angeles:20261014T170000
 DTEND;TZID=America/Los_Angeles:20261014T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2180,7 +2081,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjcnbcc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002825Z
 DTSTART;TZID=America/Los_Angeles:20261021T170000
 DTEND;TZID=America/Los_Angeles:20261021T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2244,7 +2145,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcnblc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260820T002551Z
+DTSTAMP:20260821T002825Z
 DTSTART;TZID=America/Los_Angeles:20261028T170000
 DTEND;TZID=America/Los_Angeles:20261028T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2268,6 +2169,32 @@ URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
 STATUS:CONFIRMED
 CREATED:20250814T213526Z
 LAST-MODIFIED:20250814T213526Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/mxnqstyjcpbgb/"}
+X-SOURCE-ID:meetup_yolo_county_board_game_gathering
+X-SOURCE:Meetup Yolo County Board Game Gathering
+UID:event_mxnqstyjcpbgb@meetup.com
+SEQUENCE:1
+DTSTAMP:20260821T002825Z
+DTSTART;TZID=America/Los_Angeles:20261104T170000
+DTEND;TZID=America/Los_Angeles:20261104T210000
+SUMMARY:Blood on the Clocktower at Blue Note
+DESCRIPTION:Yolo County Board Game Gathering\nThe first Wednesday of every
+  month\, we play _Blood on the Clocktower_\, a social deduction game in th
+ e vein of Werewolf/Mafia/The Resistance\, with a few twists!\n\nWe'll have
+  a circle of chairs reserved inside Blue Note\, near the back\, with a Yol
+ o County Board Game Gathering sign on the table. Just say hello\, and we'l
+ l show you some games\, pull some players together\, and get to having fun
+ !\n\nWe also usually have a few tables of players playing other board game
+ s\, if social deduction isn't your bag!\n\nGet a feel for Blood on the Clo
+ cktower here: https://youtu.be/4sfa8_kNxsQ
+URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
+ ts/mxnqstyjcpbgb/
+STATUS:CONFIRMED
+CREATED:20250814T213807Z
+LAST-MODIFIED:20250814T213807Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
@@ -2525,5 +2452,21 @@ DESCRIPTION:The Davis City Council provides policy direction\, establishes goals
 URL:https://hatefreetogether.org/event/davis-city-council-meetings/2027-02-25/
 LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/human-relations-commission-meetings/2027-02-25/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20270225T183000
+DTEND;TZID=UTC:20270225T200000
+DTSTAMP:20260424T165540Z
+CREATED:20260424T165540Z
+LAST-MODIFIED:20260424T165540Z
+UID:10000496-1803580200-1803585600@hatefreetogether.org
+SUMMARY:Human Relations Commission Meetings
+DESCRIPTION:The Davis Human Relations Commission (HRC) meetings aim to promote mutual respect\, understanding\, justice\, and advancing the human rights of all people. The Human Relations Commission meets on the fourth Thursday of each month at 6:30 p.m. The Commission takes a recess in July (no meeting in July). \n  \nMeetings take place in the Community Chambers at City Hall\, 23 Russell Boulevard. For more information on meetings\, membership\, resolutions\, and more\, visit the Human Relations Commission site. \n  \nThe HRC makes recommendations around equity and discrimination in the City\, and supports the City in preventing and addressing discrimination while promoting diversity\, equality\, and justice relevant to the goals and policies of the City Council. \n  \nTo contact or send emails to the commission\, email: HRC@cityofdavis.org
+URL:https://hatefreetogether.org/event/human-relations-commission-meetings/2027-02-25/
+LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/humanrelations_ci_SACHA_CHICKERING-scaled-e1777049624821.webp
 END:VEVENT
 END:VCALENDAR
