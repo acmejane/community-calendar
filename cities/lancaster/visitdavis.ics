@@ -49,47 +49,6 @@ DTSTART:20271107T090000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260822T080000
-DTEND;TZID=America/Los_Angeles:20260822T130000
-DTSTAMP:20260624T184342Z
-CREATED:20260103T234411Z
-LAST-MODIFIED:20260624T184342Z
-UID:10002925-1787385600-1787403600@visitdavis.org
-SUMMARY:Davis Farmers Market
-DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
-URL:https://visitdavis.org/event/davis-farmers-market-88/2026-08-22/
-LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260822T090000
-DTEND;TZID=America/Los_Angeles:20260822T100000
-DTSTAMP:20260822T173046Z
-CREATED:20260731T173030Z
-LAST-MODIFIED:20260822T173046Z
-UID:10003003-1787389200-1787392800@visitdavis.org
-SUMMARY:Beginner Yoga at the Vineyard
-DESCRIPTION:Beginner Yoga at the Vineyard in Davis Every Saturday Morning August 22 | 9–10 AMYoga Class Ticket: $10Start your weekend with fresh air\, gentle movement\, and beautiful vineyard views at Beginner Yoga at the Vineyard!Whether you’re brand new to yoga or simply looking for a relaxing way to ease into your Saturday\, this welcoming outdoor class is designed for all experience levels. Our professional instructors will guide you through the fundamentals of yoga with gentle stretches\, basic poses\, and mindful movement to help you build confidence\, improve flexibility\, and leave feeling refreshed.Set among the peaceful surroundings of Great Bear Vineyards\, it’s the perfect opportunity to slow down\, reconnect with yourself\, and enjoy a little tranquility before the weekend begins. What to Bring Yoga mat Water bottle TowelBreathe deeply\, stretch gently\, and start your weekend feeling your very best. We can’t wait to welcome you to the vineyard!
-URL:https://visitdavis.org/event/beginner-yoga-at-the-vineyard-5/
-LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
-ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260822T100000
-DTEND;TZID=America/Los_Angeles:20260822T140000
-DTSTAMP:20260822T173059Z
-CREATED:20260625T173011Z
-LAST-MODIFIED:20260822T173059Z
-UID:10002975-1787392800-1787407200@visitdavis.org
-SUMMARY:Sculptural Papermaking with Bev Barnett
-DESCRIPTION:Sculptural Papermaking with Bev Barnett in Davis \nSaturday\, August 22 | 10 AM – 2 PM \n$115 Members\, $125 Non-Members (All materials included) \n  \nWith artist Bev Barnett\, embark on a unique adventure to transform ordinary household recycling\, kitchen waste\, and foraged botanicals into textured handmade paper that tells a compelling story. In this workshop\, we’ll move beyond the notion that paper should be flat\, creating low-relief sculpture and highly textured sheets. You’ll master a simple\, low-water method using a household blender to macerate pulp and learn how to incorporate color without messy dyes. By the time you leave\, you’ll have 8 to 10 handmade papers\, a blueprint for your own home studio\, and the confidence to keep creating. \n  \nRegister here: https://pencegallery.org/education/programs/workshops-and-classes/ \n  \nAny questions? Email pencegallery@gmail.com.
-URL:https://visitdavis.org/event/sculptural-papermaking-with-bev-barnett/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Bev-Barnett-copy-scaled-IzLmic.jpg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260826T160000
 DTEND;TZID=America/Los_Angeles:20260826T200000
 DTSTAMP:20260624T192743Z
