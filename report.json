@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-26T00:32:13.930631",
+  "generated": "2026-08-27T05:11:47.075738",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34607,6 +34607,10 @@
             {
               "date": "2026-08-26",
               "count": 0
+            },
+            {
+              "date": "2026-08-27",
+              "count": 0
             }
           ]
         },
@@ -35290,6 +35294,10 @@
             },
             {
               "date": "2026-08-26",
+              "count": 30
+            },
+            {
+              "date": "2026-08-27",
               "count": 30
             }
           ]
@@ -35975,6 +35983,10 @@
             {
               "date": "2026-08-26",
               "count": 1
+            },
+            {
+              "date": "2026-08-27",
+              "count": 1
             }
           ]
         },
@@ -36658,6 +36670,10 @@
             },
             {
               "date": "2026-08-26",
+              "count": 10
+            },
+            {
+              "date": "2026-08-27",
               "count": 10
             }
           ]
@@ -37343,6 +37359,10 @@
             {
               "date": "2026-08-26",
               "count": 10
+            },
+            {
+              "date": "2026-08-27",
+              "count": 10
             }
           ]
         },
@@ -38026,6 +38046,10 @@
             },
             {
               "date": "2026-08-26",
+              "count": 10
+            },
+            {
+              "date": "2026-08-27",
               "count": 10
             }
           ]
@@ -38711,6 +38735,10 @@
             {
               "date": "2026-08-26",
               "count": 4
+            },
+            {
+              "date": "2026-08-27",
+              "count": 4
             }
           ]
         },
@@ -39394,6 +39422,10 @@
             },
             {
               "date": "2026-08-26",
+              "count": 0
+            },
+            {
+              "date": "2026-08-27",
               "count": 0
             }
           ]
@@ -40079,6 +40111,10 @@
             {
               "date": "2026-08-26",
               "count": 10
+            },
+            {
+              "date": "2026-08-27",
+              "count": 10
             }
           ]
         },
@@ -40762,6 +40798,10 @@
             },
             {
               "date": "2026-08-26",
+              "count": 0
+            },
+            {
+              "date": "2026-08-27",
               "count": 0
             }
           ]
@@ -41447,6 +41487,10 @@
             {
               "date": "2026-08-26",
               "count": 0
+            },
+            {
+              "date": "2026-08-27",
+              "count": 0
             }
           ]
         },
@@ -42131,6 +42175,10 @@
             {
               "date": "2026-08-26",
               "count": 0
+            },
+            {
+              "date": "2026-08-27",
+              "count": 10
             }
           ]
         },
@@ -42815,6 +42863,10 @@
             {
               "date": "2026-08-26",
               "count": 0
+            },
+            {
+              "date": "2026-08-27",
+              "count": 0
             }
           ]
         }
@@ -42830,7 +42882,15 @@
         },
         {
           "category": "Health / Wellness",
-          "count": 8
+          "count": 10
+        },
+        {
+          "category": "Food / Drink",
+          "count": 7
+        },
+        {
+          "category": "Music / Concerts",
+          "count": 7
         },
         {
           "category": "Education / Workshops",
@@ -42845,33 +42905,30 @@
           "count": 4
         },
         {
-          "category": "Music / Concerts",
-          "count": 4
-        },
-        {
-          "category": "Food / Drink",
-          "count": 3
-        },
-        {
           "category": "Family / Kids",
           "count": 1
         }
       ],
       "images": {
-        "total": 71,
-        "with_image": 30,
+        "total": 80,
+        "with_image": 39,
         "by_source": [
           {
             "source": "Hate-Free Together",
             "total": 30,
             "with_image": 30
+          },
+          {
+            "source": "Visit Davis",
+            "total": 9,
+            "with_image": 9
           }
         ]
       },
       "url_quality": {
-        "total_with_url": 71,
-        "total_events": 71,
-        "unique_urls": 71,
+        "total_with_url": 80,
+        "total_events": 80,
+        "unique_urls": 80,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
@@ -42884,15 +42941,21 @@
             "specificity_pct": 100
           },
           {
+            "source": "Meetup Mindful Embodied Spirituality",
+            "events": 10,
+            "unique_urls": 10,
+            "specificity_pct": 100
+          },
+          {
             "source": "Meetup Yolo County Board Game Gathering",
             "events": 10,
             "unique_urls": 10,
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Mindful Embodied Spirituality",
-            "events": 10,
-            "unique_urls": 10,
+            "source": "Visit Davis",
+            "events": 9,
+            "unique_urls": 9,
             "specificity_pct": 100
           },
           {
@@ -42908,15 +42971,21 @@
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Pence Adult Art Programs",
+            "source": "Meetup Intercultural Mosaics, Meetup: Mosaics",
             "events": 4,
             "unique_urls": 4,
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Intercultural Mosaics, Meetup: Mosaics",
-            "events": 4,
-            "unique_urls": 4,
+            "source": "Meetup Pence Adult Art Programs",
+            "events": 3,
+            "unique_urls": 3,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Meetup Pence Adult Art Programs, Visit Davis",
+            "events": 1,
+            "unique_urls": 1,
             "specificity_pct": 100
           },
           {
