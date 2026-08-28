@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-27T05:11:47.075738",
+  "generated": "2026-08-28T07:10:45.181240",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34611,6 +34611,10 @@
             {
               "date": "2026-08-27",
               "count": 0
+            },
+            {
+              "date": "2026-08-28",
+              "count": 0
             }
           ]
         },
@@ -35298,6 +35302,10 @@
             },
             {
               "date": "2026-08-27",
+              "count": 30
+            },
+            {
+              "date": "2026-08-28",
               "count": 30
             }
           ]
@@ -35987,6 +35995,10 @@
             {
               "date": "2026-08-27",
               "count": 1
+            },
+            {
+              "date": "2026-08-28",
+              "count": 1
             }
           ]
         },
@@ -36674,6 +36686,10 @@
             },
             {
               "date": "2026-08-27",
+              "count": 10
+            },
+            {
+              "date": "2026-08-28",
               "count": 10
             }
           ]
@@ -37363,6 +37379,10 @@
             {
               "date": "2026-08-27",
               "count": 10
+            },
+            {
+              "date": "2026-08-28",
+              "count": 10
             }
           ]
         },
@@ -38050,6 +38070,10 @@
             },
             {
               "date": "2026-08-27",
+              "count": 10
+            },
+            {
+              "date": "2026-08-28",
               "count": 10
             }
           ]
@@ -38739,6 +38763,10 @@
             {
               "date": "2026-08-27",
               "count": 4
+            },
+            {
+              "date": "2026-08-28",
+              "count": 4
             }
           ]
         },
@@ -39426,6 +39454,10 @@
             },
             {
               "date": "2026-08-27",
+              "count": 0
+            },
+            {
+              "date": "2026-08-28",
               "count": 0
             }
           ]
@@ -40115,6 +40147,10 @@
             {
               "date": "2026-08-27",
               "count": 10
+            },
+            {
+              "date": "2026-08-28",
+              "count": 10
             }
           ]
         },
@@ -40802,6 +40838,10 @@
             },
             {
               "date": "2026-08-27",
+              "count": 0
+            },
+            {
+              "date": "2026-08-28",
               "count": 0
             }
           ]
@@ -41491,6 +41531,10 @@
             {
               "date": "2026-08-27",
               "count": 0
+            },
+            {
+              "date": "2026-08-28",
+              "count": 0
             }
           ]
         },
@@ -42179,6 +42223,10 @@
             {
               "date": "2026-08-27",
               "count": 10
+            },
+            {
+              "date": "2026-08-28",
+              "count": 0
             }
           ]
         },
@@ -42867,6 +42915,10 @@
             {
               "date": "2026-08-27",
               "count": 0
+            },
+            {
+              "date": "2026-08-28",
+              "count": 0
             }
           ]
         }
@@ -42882,15 +42934,7 @@
         },
         {
           "category": "Health / Wellness",
-          "count": 10
-        },
-        {
-          "category": "Food / Drink",
-          "count": 7
-        },
-        {
-          "category": "Music / Concerts",
-          "count": 7
+          "count": 8
         },
         {
           "category": "Education / Workshops",
@@ -42905,30 +42949,33 @@
           "count": 4
         },
         {
+          "category": "Music / Concerts",
+          "count": 4
+        },
+        {
+          "category": "Food / Drink",
+          "count": 3
+        },
+        {
           "category": "Family / Kids",
           "count": 1
         }
       ],
       "images": {
-        "total": 80,
-        "with_image": 39,
+        "total": 71,
+        "with_image": 30,
         "by_source": [
           {
             "source": "Hate-Free Together",
             "total": 30,
             "with_image": 30
-          },
-          {
-            "source": "Visit Davis",
-            "total": 9,
-            "with_image": 9
           }
         ]
       },
       "url_quality": {
-        "total_with_url": 80,
-        "total_events": 80,
-        "unique_urls": 80,
+        "total_with_url": 71,
+        "total_events": 71,
+        "unique_urls": 71,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
@@ -42953,12 +43000,6 @@
             "specificity_pct": 100
           },
           {
-            "source": "Visit Davis",
-            "events": 9,
-            "unique_urls": 9,
-            "specificity_pct": 100
-          },
-          {
             "source": "Meetup: Mosaics",
             "events": 6,
             "unique_urls": 6,
@@ -42971,21 +43012,15 @@
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Intercultural Mosaics, Meetup: Mosaics",
+            "source": "Meetup Pence Adult Art Programs",
             "events": 4,
             "unique_urls": 4,
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Pence Adult Art Programs",
-            "events": 3,
-            "unique_urls": 3,
-            "specificity_pct": 100
-          },
-          {
-            "source": "Meetup Pence Adult Art Programs, Visit Davis",
-            "events": 1,
-            "unique_urls": 1,
+            "source": "Meetup Intercultural Mosaics, Meetup: Mosaics",
+            "events": 4,
+            "unique_urls": 4,
             "specificity_pct": 100
           },
           {
@@ -44406,6 +44441,14 @@
       "date": "2026-08-25",
       "city": "lancaster",
       "feed": "visityolo_event"
+    },
+    {
+      "type": "zero_events",
+      "message": "Feed returned 0 events (was 10)",
+      "severity": "high",
+      "date": "2026-08-28",
+      "city": "lancaster",
+      "feed": "visitdavis"
     }
   ],
   "errors": []
