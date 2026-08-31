@@ -25,34 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_315506530@meetup.com
-SEQUENCE:1
-DTSTAMP:20260830T015008Z
-DTSTART;TZID=America/Los_Angeles:20260830T130000
-DTEND;TZID=America/Los_Angeles:20260830T160000
-SUMMARY:Tote Embroidery Workshop
-DESCRIPTION:Pence Adult Art Programs\nWith instructor Katherine Klein\, le
- arn classic embroidery stitches (straight stitch\, back stitch\, french kn
- ots\, chain stitch\, satin stitch) to create a unique floral design on a P
- ence Gallery canvas tote. Each participant will receive a tote bag that fe
- atures the Pence building and logo. This workshop is open to ages 12 and u
- p and is perfect for beginners\; no prior embroidery experience is necessa
- ry.\n\nTote Embroidery Workshop\nSunday\, August 30\, 1-4 PM\n$25 Members\
- , $40 Non-Members (All materials included)\n\n**Registration is required t
- hrough the [Pence's website (CLICK HERE)](https://pencegallery.org/educati
- on/programs/workshops-and-classes/).**\n\nAny questions? Email pencegaller
- y@gmail.com.
-URL;VALUE=URI:https://www.meetup.com/pence-adult-art-programs/events/31550
- 6530/
-STATUS:CONFIRMED
-CREATED:20260701T232142Z
-LAST-MODIFIED:20260701T232142Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:event_316022027@meetup.com
 SEQUENCE:1
-DTSTAMP:20260830T015008Z
+DTSTAMP:20260831T014451Z
 DTSTART;TZID=America/Los_Angeles:20260901T100000
 DTEND;TZID=America/Los_Angeles:20260901T120000
 SUMMARY:Intermediate Watercolor with Misuk Goltz (5-sessions)
@@ -79,7 +54,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316065700@meetup.com
 SEQUENCE:1
-DTSTAMP:20260830T015008Z
+DTSTAMP:20260831T014451Z
 DTSTART;TZID=America/Los_Angeles:20261009T100000
 DTEND;TZID=America/Los_Angeles:20261009T114500
 SUMMARY:Healing Arts 6-Session Workshop
@@ -111,7 +86,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_315864641@meetup.com
 SEQUENCE:1
-DTSTAMP:20260830T015008Z
+DTSTAMP:20260831T014451Z
 DTSTART;TZID=America/Los_Angeles:20261011T130000
 DTEND;TZID=America/Los_Angeles:20261011T153000
 SUMMARY:Stained Glass Workshop with Salty Bird Glass

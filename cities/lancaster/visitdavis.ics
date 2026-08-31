@@ -49,52 +49,11 @@ DTSTART:20271107T090000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260829T080000
-DTEND;TZID=America/Los_Angeles:20260829T130000
-DTSTAMP:20260624T184342Z
-CREATED:20260103T234411Z
-LAST-MODIFIED:20260624T184342Z
-UID:10002926-1787990400-1788008400@visitdavis.org
-SUMMARY:Davis Farmers Market
-DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
-URL:https://visitdavis.org/event/davis-farmers-market-88/2026-08-29/
-LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260829T090000
-DTEND;TZID=America/Los_Angeles:20260829T100000
-DTSTAMP:20260829T180031Z
-CREATED:20260825T160037Z
-LAST-MODIFIED:20260829T180031Z
-UID:10003035-1787994000-1787997600@visitdavis.org
-SUMMARY:Beginner Yoga at the Vineyard
-DESCRIPTION:Beginner Yoga at the Vineyard in Davis Saturday\, August 29 | 9–10 AM\nTicket Includes: Yoga Class\nStart your Saturday with fresh air\, gentle movement\, and beautiful vineyard views!\nJoin us for a relaxing outdoor yoga class designed for all experience levels\, especially those new to yoga. Our professional instructors will guide you through the fundamentals with gentle stretches\, basic poses\, and mindful movement in a welcoming\, supportive setting.\nSurrounded by our organic vineyard\, wildflowers\, and peaceful morning scenery\, it’s the perfect way to stretch\, breathe\, and ease into your weekend.\nWhat to Bring:• Yoga mat• Towel• Water\nAfter class\, you’re welcome to stick around and enjoy the vineyard during regular open hours. Local cheeses\, salami\, olives\, and light bites are available for purchase\, or bring a picnic to enjoy in our designated picnic area.\nCome stretch\, breathe\, and start your weekend the Great Bear way!
-URL:https://visitdavis.org/event/beginner-yoga-at-the-vineyard-7/
-LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/great-bear-vineyards-FqKUI0.jpg
-ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260829T193000
-DTEND;TZID=America/Los_Angeles:20260829T213000
-DTSTAMP:20260829T180044Z
-CREATED:20260808T173044Z
-LAST-MODIFIED:20260829T180044Z
-UID:10003018-1788031800-1788039000@visitdavis.org
-SUMMARY:After 5 Live @ The Melon Ball
-DESCRIPTION:Live music at The Melon Ball in Davis. \nAfter5 is a Sacramento-based modern jazz group blending R&B\, Neo Soul\, and fusion into their sound. The band plays a mix of original music and their own arrangements of both modern hits and classic tunes\, giving each song a fresh feel while keeping the groove front and center. It’s a sound built for listeners who love jazz and for anyone just looking for good music to vibe to. \n$15 General Admission\n$10 Seniors (in-store or at the door only)\n$10 Students (in-store or at the door only\, w/ID)\nDoors open @ 7:00pm\nThis is a BYOB event!
-URL:https://visitdavis.org/event/after-5-live-the-melon-ball/
-LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/After5_Flyer-ct8O5C.jpg
-ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260830T130000
 DTEND;TZID=America/Los_Angeles:20260830T160000
-DTSTAMP:20260829T180025Z
+DTSTAMP:20260830T183028Z
 CREATED:20260703T163022Z
-LAST-MODIFIED:20260829T180025Z
+LAST-MODIFIED:20260830T183028Z
 UID:10002977-1788094800-1788105600@visitdavis.org
 SUMMARY:Tote Embroidery Workshop
 DESCRIPTION:Tote Embroidery Workshop in Davis \nSunday\, August 30\, 1-4 PM \n$25 Members\, $40 Non-Members (All materials included) \n  \nWith instructor Katherine Klein\, learn classic embroidery stitches (straight stitch\, back stitch\, french knots\, chain stitch\, satin stitch) to create a unique floral design on a Pence Gallery canvas tote. Each participant will receive a tote bag that features the Pence building and logo. This workshop is open to ages 12 and up and is perfect for beginners; no prior embroidery experience is necessary. \n  \nRegister here: https://pencegallery.org/education/programs/workshops-and-classes/ \n  \nAny questions? Email pencegallery@gmail.com.
@@ -106,9 +65,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260830T180000
 DTEND;TZID=America/Los_Angeles:20260830T200000
-DTSTAMP:20260829T180044Z
+DTSTAMP:20260830T183045Z
 CREATED:20260808T173045Z
-LAST-MODIFIED:20260829T180044Z
+LAST-MODIFIED:20260830T183045Z
 UID:10003019-1788112800-1788120000@visitdavis.org
 SUMMARY:August Open Mic and Music Trivia
 DESCRIPTION:August open mic and music trivia in Davis \nWhether you’re looking for a venue to share your own talents or just looking to enjoy hearing (and seeing) some local performers\, we invite you to this free monthly event. We provide the sound\, stage and lights – the rest is up to you. Play us your favorite song\, tell us some jokes\, act out a scene from your favorite play with friends. \nWe will continue to feature our Music Trivia contest throughout the evening in between acts. The winner will receive a $20 Watermelon Music gift card! \nWe ask that each performance be suitable for an all-ages venue\, and that you arrive on time and stay until the end to support your fellow performers. \nFREE!!!\nDoors open/sign-ups @ 5:30.\nFirst act @ 6:00. \nPlease help support the Watermelon Music with your purchase of a drink or a snack at Open Mic!  Non-alcoholic drinks and pre-packaged snacks are available for sale at The Melon Ball.  (Cash or Venmo only) \nWe hope to see you there!
