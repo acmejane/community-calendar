@@ -49,47 +49,6 @@ DTSTART:20271107T090000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260830T173000
-DTEND;TZID=America/Los_Angeles:20260830T203000
-DTSTAMP:20260813T194113Z
-CREATED:20260813T194113Z
-LAST-MODIFIED:20260813T194113Z
-UID:10014698-1788111000-1788121800@visityolo.com
-SUMMARY:Live Music at Carboni's Ristorante
-DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
-URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-08-30/
-LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
-ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260830T180000
-DTEND;TZID=America/Los_Angeles:20260830T200000
-DTSTAMP:20260807T225641Z
-CREATED:20260807T225641Z
-LAST-MODIFIED:20260807T225641Z
-UID:10014609-1788112800-1788120000@visityolo.com
-SUMMARY:August Open Mic and Music Trivia
-DESCRIPTION:August open mic and music trivia in Davis \nWhether you’re looking for a venue to share your own talents or just looking to enjoy hearing (and seeing) some local performers\, we invite you to this free monthly event. We provide the sound\, stage and lights – the rest is up to you. Play us your favorite song\, tell us some jokes\, act out a scene from your favorite play with friends. \nWe will continue to feature our Music Trivia contest throughout the evening in between acts. The winner will receive a $20 Watermelon Music gift card! \nWe ask that each performance be suitable for an all-ages venue\, and that you arrive on time and stay until the end to support your fellow performers. \nFREE!!!\nDoors open/sign-ups @ 5:30.\nFirst act @ 6:00. \nPlease help support the Watermelon Music with your purchase of a drink or a snack at Open Mic!  Non-alcoholic drinks and pre-packaged snacks are available for sale at The Melon Ball.  (Cash or Venmo only) \nWe hope to see you there!
-URL:https://visityolo.com/event/august-open-mic-and-music-trivia/
-LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/AugOpenMic-1.jpg
-ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260830T184500
-DTEND;TZID=America/Los_Angeles:20260830T203000
-DTSTAMP:20260717T171052Z
-CREATED:20260602T164936Z
-LAST-MODIFIED:20260717T171052Z
-UID:10010532-1788115500-1788121800@visityolo.com
-SUMMARY:Bat Talk and Tour
-DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
-URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-08-30/
-LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
-ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260831T184500
 DTEND;TZID=America/Los_Angeles:20260831T203000
 DTSTAMP:20260717T171052Z
@@ -442,5 +401,45 @@ DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is her
 URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-09-09/
 LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
 ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260910T184500
+DTEND;TZID=America/Los_Angeles:20260910T203000
+DTSTAMP:20260717T171052Z
+CREATED:20260602T164936Z
+LAST-MODIFIED:20260717T171052Z
+UID:10014093-1789065900-1789072200@visityolo.com
+SUMMARY:Bat Talk and Tour
+DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
+URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-09-10/
+LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
+ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260911T110000
+DTEND;TZID=America/Los_Angeles:20260911T180000
+DTSTAMP:20251117T171126Z
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013300-1789124400-1789149600@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-09-11/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260911T180000
+DTEND;TZID=America/Los_Angeles:20260911T210000
+DTSTAMP:20260821T191605Z
+CREATED:20260821T191605Z
+LAST-MODIFIED:20260821T191605Z
+UID:10014843-1789149600-1789160400@visityolo.com
+SUMMARY:2nd Friday ArtAbout at the Pence Gallery
+DESCRIPTION:2nd Friday ArtAbout at the Pence Gallery in Davis \nFriday\, September 11\, 6-9 PM (Free) \n  \nJoin us at the Pence Gallery for the opening reception of Art Auction 2026! This spectacular display of art features work by 100+ local & regional artists. Preview sculptures\, paintings\, photography\, textiles\, and more on display at the Pence\, as well as online for silent auction bidding at bit.ly/penceartauction. Also\, enjoy complimentary wine and an art-themed scavenger hunt at the Pence during the 2nd Friday ArtAbout. Complete all of the clues by exploring our exhibit for the chance to win a special prize. \n  \nThe Art Auction is on display from September 5th-26th. Bidding opens online at midnight on Sept. 5th and closes at 8 PM PST on Sept. 26th. \n  \n— \n  \nVisit the Pence and other venues in Downtown Davis for the 2nd Friday ArtAbout artwalk. We will have printed ArtAbout guides available that week. Follow the ArtAbout’s Facebook page for more information: https://www.facebook.com/davisartabout. \n  \nImages: \nMarsha Godoy Schindler\, “Grounded” (detail) \nBeth Savidge\, “Allium” (detail) \nMohamed Abdelbaki\, “Cache Creek” (detail) \nAmy Teutemacher\, “Urban Mosaic” (detail)
+URL:https://visityolo.com/event/2nd-friday-artabout-at-the-pence-gallery-19/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Pence-Reception-Banners-1-1.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
 END:VEVENT
 END:VCALENDAR
