@@ -1,1 +1,240 @@
-<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fevents%2F%3Fical%3D1&y=ipr:40.76.238.180:1788312701.237"></meta></head></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Visit Davis - ECPv6.17.3.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Visit Davis
+X-ORIGINAL-URL:https://visitdavis.org
+X-WR-CALDESC:Events for Visit Davis
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20270314T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20271107T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260904T173000
+DTEND;TZID=America/Los_Angeles:20260904T200000
+DTSTAMP:20260902T190023Z
+CREATED:20260721T183012Z
+LAST-MODIFIED:20260902T190023Z
+UID:10002993-1788543000-1788552000@visitdavis.org
+SUMMARY:4th Annual Family Fun Fest
+DESCRIPTION:Davis Chamber of Commerce presents the 4th Annual Family Fun Fest Friday\, September 5\, 2026 \nPack a blanket and bring the family! Enjoy live music\, hands-on games\, face painting\, roaming photos\, delicious food trucks\, and fun activities for all ages while connecting with dozens of local businesses and nonprofits—all during one joyful\, free evening together.
+URL:https://visitdavis.org/event/4th-annual-family-fun-fest/
+ATTACH;FMTTYPE=image/png:https://visitdavis.org/wp-content/uploads/FFF-Save-the-Date-2026-scaled-c177YH.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260904T193000
+DTEND;TZID=America/Los_Angeles:20260927T140000
+DTSTAMP:20260902T190056Z
+CREATED:20260811T173044Z
+LAST-MODIFIED:20260902T190056Z
+UID:10003028-1788550200-1790517600@visitdavis.org
+SUMMARY:Davis Musical Theatre Presents The Addams Family
+DESCRIPTION:Davis Musical Theatre Presents: The Addams Family Musical \nA comical feast that embraces the wackiness in every family\, features an original story and a dilemma that’s every father’s nightmare: Wednesday Addams\, the ultimate princess of darkness\, has grown up and fallen in love with a sweet\, smart young man from a respectable family whom her parents have never met. She confides in her father and begs him not to tell her mother. Now\, Gomez Addams must do something he’s never done before– keep a secret from his beloved wife\, Morticia. Everything will change for the whole family on the fateful night they host a dinner for Wednesday’s “normal” boyfriend and his parents.
+URL:https://visitdavis.org/event/the-addams-family-musical/
+ATTACH;FMTTYPE=image/png:https://visitdavis.org/wp-content/uploads/Addams-Family-nBaMM2.png
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260905T080000
+DTEND;TZID=America/Los_Angeles:20260905T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002927-1788595200-1788613200@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-09-05/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260911T180000
+DTEND;TZID=America/Los_Angeles:20260911T210000
+DTSTAMP:20260902T190044Z
+CREATED:20260822T173059Z
+LAST-MODIFIED:20260902T190044Z
+UID:10003034-1789149600-1789160400@visitdavis.org
+SUMMARY:2nd Friday ArtAbout at the Pence Gallery
+DESCRIPTION:2nd Friday ArtAbout at the Pence Gallery in Davis \nFriday\, September 11\, 6-9 PM (Free) \n  \nJoin us at the Pence Gallery for the opening reception of Art Auction 2026! This spectacular display of art features work by 100+ local & regional artists. Preview sculptures\, paintings\, photography\, textiles\, and more on display at the Pence\, as well as online for silent auction bidding at bit.ly/penceartauction. Also\, enjoy complimentary wine and an art-themed scavenger hunt at the Pence during the 2nd Friday ArtAbout. Complete all of the clues by exploring our exhibit for the chance to win a special prize. \n  \nThe Art Auction is on display from September 5th-26th. Bidding opens online at midnight on Sept. 5th and closes at 8 PM PST on Sept. 26th. \n  \n— \n  \nVisit the Pence and other venues in Downtown Davis for the 2nd Friday ArtAbout artwalk. We will have printed ArtAbout guides available that week. Follow the ArtAbout’s Facebook page for more information: https://www.facebook.com/davisartabout. \n  \nImages: \nMarsha Godoy Schindler\, “Grounded” (detail) \nBeth Savidge\, “Allium” (detail) \nMohamed Abdelbaki\, “Cache Creek” (detail) \nAmy Teutemacher\, “Urban Mosaic” (detail)
+URL:https://visitdavis.org/event/2nd-friday-artabout-at-the-pence-gallery-17/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Pence-Reception-Banners-1-1-g8PbzN.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260912T080000
+DTEND;TZID=America/Los_Angeles:20260912T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002928-1789200000-1789218000@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-09-12/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260912T140000
+DTEND;TZID=America/Los_Angeles:20260912T160000
+DTSTAMP:20260902T190056Z
+CREATED:20260811T173112Z
+LAST-MODIFIED:20260902T190056Z
+UID:10003029-1789221600-1789228800@visitdavis.org
+SUMMARY:Davis Musical Theatre Presents Aladdin Jr
+DESCRIPTION:Davis Musical Theatre Presents Aladdin Jr. \nBased on the iconic animated film\, with an Academy Award-winning score by Alan Menken\, Howard Ashman and Tim Rice\, Disney’s Aladdin Jr. is sure to send audiences soaring on a flying carpet ride filled with romance and adventure. \nWhen the street urchin\, Aladdin\, vies for the attention of the beautiful princess\, Jasmine\, he uses a genie’s magic power to become a prince in order to marry her. Iago\, Jafar\, the Genie and more are here in Disney’s Aladdin JR.\, a musical adventure filled with magic\, mayhem and the power of love.
+URL:https://visitdavis.org/event/davis-musical-theatre-presents-aladdin-jr/
+LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Aladdin-og3arm.jpg
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260918T173000
+DTEND;TZID=America/Los_Angeles:20260918T210000
+DTSTAMP:20260902T190015Z
+CREATED:20260620T173028Z
+LAST-MODIFIED:20260902T190015Z
+UID:10002892-1789752600-1789765200@visitdavis.org
+SUMMARY:Bomba Fried Rice Live at The HIVE
+DESCRIPTION:Live at The HIVE presents Bomba Fried Rice during an outdoor concert. Doors at 5:30pm; Music at 6:30pm. \nBomba Fried Rice is a diverse ensemble from people all around the world and the community of Davis. Recognized as a prominent local and unique music ensemble\, they play Latin genres ranging from Salsa\, Rock\, Reggae\, Spoken Word\, Cumbia\, Mambo\, and Ska\, merging cultures and styles of music. In 2015\, Bomba Fried Rice won a SAMMIE (Sacramento Music Award) for Best World Music Ensemble. \nEnjoy a seasonal menu\, craft beverages and complimentary honey tasting at northern California’s largest honey and mead tasting room. \nPay what you can cover charge: $0-$20/person. Family and dog friendly. All ages welcome. No outside food or drinks.
+URL:https://visitdavis.org/event/bomba-fried-rice-live-at-the-hive/
+LOCATION:The HIVE / Z Specialty Food\, The HIVE Tasting Room and Kitchen
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/bomba-poster_small-Il1iaC.jpg
+ORGANIZER;CN="The HIVE / Z Specialty Food":MAILTO:events@zspecialtyfood.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260918T200000
+DTEND;TZID=America/Los_Angeles:20260918T220000
+DTSTAMP:20260902T190043Z
+CREATED:20260623T173049Z
+LAST-MODIFIED:20260902T190043Z
+UID:10002901-1789761600-1789768800@visitdavis.org
+SUMMARY:The Black Feathers Live @ The Melon Ball
+DESCRIPTION:The Black Feathers at The Melon Ball in Davis \nThe Black Feathers\, Irish and English-born singer-songwriters Ray Hughes and Sian Chandler are currently residing in Wales\, UK — married in life and to the stage since 2012. Over the last few years\, they have been spreading their wings across the US and western Canada. \nAmericana\, Folk\, and Acoustic Indie Rock sensibilities coexist comfortably in their musical world\, with Hughes’ guitar work buoying the kind of harmonies often only heard in family bands. Their music quickly draws the interest of listeners\, but it is the stage chemistry that will keep them riveted. \n”…stunning harmonies that were so good it reminded me of seeing Gillian Welch and David Rawlings” – No Depression \n“They are one of the finest harmony duos in the UK\, writers of gloriously sad ear-worms\, and heavenly harmonisers with a telepathic understanding” – Gavin McNamara (Bristol24/7) \n“These guys sing like conjoined angels” – John Cowan \ntheblackfeathers.com \nYouTube  –  Spotify  –  Apple Music  –  Instagram \n$20 General Admission Advanced Purchase\n$25 General Admission At The Door\nDoors open at 7:30pm\nThis is a BYOB Event
+URL:https://visitdavis.org/event/the-black-feathers-live-the-melon-ball/
+LOCATION:Watermelon Music\, 1970 Lake Blvd\, DAVIS\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/091826TICKET-2-fa7pjn.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260919T080000
+DTEND;TZID=America/Los_Angeles:20260919T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002929-1789804800-1789822800@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-09-19/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260920T150000
+DTEND;TZID=America/Los_Angeles:20260920T170000
+DTSTAMP:20260902T190043Z
+CREATED:20260819T190058Z
+LAST-MODIFIED:20260902T190043Z
+UID:10003032-1789916400-1789923600@visitdavis.org
+SUMMARY:A Hands-On Collaborative Ceramic Installation
+DESCRIPTION:Join ceramic artist Pinar Brummer for a hands-on\, community-led gathering at International House Davis\, in two parts. Together\, we’ll shape a collaborative tree sculpture\, then slow down to hand-build our own small ceramic pieces. No experience needed\, just a willingness to show up\, get elemental\, and tap into some childlike joy. \nPinar opens the gathering with her own story\, her journey from Türkiye to Davis\, and how it inspired this project\, before inviting you to get your hands in the clay and be your childlike self. \nPart One: The Tree. Everything you touch\, touches you is a reflection on togetherness\, on how we’re not just observers but active participants in a shared experience\, connected to each other and the world around us. At the heart of the gathering is an incomplete ceramic tree\, hand-built by Pinar\, waiting for your mark. You’ll shape a clay leaf to join it\, no skill required\, each one becoming part of a lasting\, collective piece. \nPart Two: The Tea Cup. Pinar will guide you through hand-building a small\, imperfect tea cup\, a slow\, meditative practice that celebrates flaws rather than smoothing them away. \nThe finished tree will be on display at International House for several weeks\, then celebrated at a Reveal Party where you’ll see how everyone’s marks came together into one collective piece. \nCome ready to get your hands dirty and leave a piece of yourself behind. This is a sensory\, emotional experience that gets you in touch with your childlike core\, and with each other.  Ages 16 and up.
+URL:https://visitdavis.org/event/a-hands-on-collaborative-ceramic-installation/
+LOCATION:International House Davis\, 10 College Park\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/png:https://visitdavis.org/wp-content/uploads/WT-2026-Everything-You-Touch-Touches-You-9.29.26-Social-3-pb3HvG.png
+ORGANIZER;CN="International House Davis":MAILTO:shahzana@ihousedavis.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260925T200000
+DTEND;TZID=America/Los_Angeles:20260925T220000
+DTSTAMP:20260902T190043Z
+CREATED:20260808T173046Z
+LAST-MODIFIED:20260902T190043Z
+UID:10003020-1790366400-1790373600@visitdavis.org
+SUMMARY:Live @ The Melon Ball
+DESCRIPTION:Live music at The Melon Ball in Davis. \nJoin Laurin Hunter\, Brandon “someguyBran” Dominguez and David J. Brown for an evening of original music\, storytelling and collaboration. Blending influences that span jazz\, folk\, Americana\, pop\, rock\, soul and beyond\, each artist brings a distinct musical voice while sharing a passion for authentic live performance. Together\, they’ll present an evening of original songs\, fresh interpretations of timeless classics\, creativity and connection where every performance offers something unique.
+URL:https://visitdavis.org/event/live-the-melon-ball/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/DavidBrown-bHBMWs.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260926T080000
+DTEND;TZID=America/Los_Angeles:20260926T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002930-1790409600-1790427600@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-09-26/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260927T180000
+DTEND;TZID=America/Los_Angeles:20260927T200000
+DTSTAMP:20260902T190056Z
+CREATED:20260805T180105Z
+LAST-MODIFIED:20260902T190056Z
+UID:10003015-1790532000-1790539200@visitdavis.org
+SUMMARY:Taste of Davis and Yolo
+DESCRIPTION:Enjoy a variety of outstanding foods\, wines\, desserts\, beer\, and more from multiple purveyors from throughout Yolo County! \nPlease join the Davis Odd Fellows as we host the popular “A Taste of Davis and Yolo.” This year’s event will feature an excellent collection of local purveyors of fine food\, wine\, beer\, and desserts all under one roof at one low price! The cost is just $20 in advance. Tickets are limited and this event will sell out\, so be sure to get yours ASAP! Note that you must be at least 21 years old to consume any alcoholic beverages. \nYour ticket allows you to sample eclectic and tasty food and beverages from purveyors on both floors of our beautiful hall. Our full list of purveyors is still being finalized\, but so far includes: Buckhorn Meat Co.\, Curry Kabab Paradise\, Davis Creamery\, Dunloe Brewing\, Great Bear Vineyards\, Hunan Bar & Restaurant\, L&L Hawaiian BBQ\, Mercado Davis\, Tommy J’s Grill & Catering\, and Turkovich Family Wines \nIn addition to showcasing local fare\, “A Taste of Davis and Yolo” is a fund-raising event to support the Davis Odd Fellows Lodge\, Meals on Wheels Yolo County  and STEAC. \nTickets on sale Now! \nhttps://davisoddfellowstoday2026.eventbrite.com/ \nWe thank Edward Jones and its employees as our Major Sponsor for the event\, as well as our many other individual and corporate sponsors for making this event possible!
+URL:https://visitdavis.org/event/taste-of-davis-and-yolo/
+LOCATION:Davis Odd Fellows Hall\, 415 2nd Street\, Davis\, 95616\, United States
+ATTACH;FMTTYPE=image/png:https://visitdavis.org/wp-content/uploads/2026-T-O-D-A-Y-FLYER-DRAFT-5-small-CxOJb6.png
+ORGANIZER;CN="Davis Odd Fellows":MAILTO:smartzgraphics@yahoo.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260927T180000
+DTEND;TZID=America/Los_Angeles:20260927T200000
+DTSTAMP:20260902T190043Z
+CREATED:20260808T173047Z
+LAST-MODIFIED:20260902T190043Z
+UID:10003021-1790532000-1790539200@visitdavis.org
+SUMMARY:September Open Mic and Music Trivia
+DESCRIPTION:Welcome in the Fall with Watermelon Music’s September Open Mic & Music Trivia in Davis! \nWhether you’re looking for a venue to share your own talents or just looking to enjoy hearing (and seeing) some local performers\, we invite you to this free monthly event. We provide the sound\, stage and lights – the rest is up to you. Play us your favorite song\, tell us some jokes\, act out a scene from your favorite play with friends. \nWe will continue to feature our Music Trivia contest throughout the evening in between acts. The winner will receive a $20 Watermelon Music gift card! \nWe ask that each performance be suitable for an all-ages venue\, and that you arrive on time and stay until the end to support your fellow performers. \nFREE!!!\nDoors open/sign-ups @ 5:30.\nFirst act @ 6:00. \nPlease help support the Watermelon Music with your purchase of a drink or a snack at Open Mic!  Non-alcoholic drinks and pre-packaged snacks are available for sale at The Melon Ball.  (Cash or Venmo only) \nWe hope to see you there!
+URL:https://visitdavis.org/event/september-open-mic-and-music-trivia/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/watermelon-Music-Open-Mic-740-x-546-px-E7CTl2.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+END:VCALENDAR
