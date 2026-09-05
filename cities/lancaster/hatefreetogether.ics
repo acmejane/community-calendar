@@ -19,20 +19,6 @@ DTSTART:20250101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=UTC:20260904T173000
-DTEND;TZID=UTC:20260904T200000
-DTSTAMP:20260901T215340Z
-CREATED:20260901T215340Z
-LAST-MODIFIED:20260901T215340Z
-UID:10000722-1788543000-1788552000@hatefreetogether.org
-SUMMARY:Family Fun Fest
-DESCRIPTION:As the sun drops over Nugget Fields\, hundreds of Davis families spread across the grass for one of the Chamber’s most-loved traditions. Live music\, hands-on games\, face painting\, roaming photos\, food trucks\, and dozens of local businesses and nonprofits\, all in one joyful\, free evening.
-URL:https://hatefreetogether.org/event/family-fun-fest/
-LOCATION:Nugget Field\, 1801 Moore Blvd.\, Davis\, CA\, 95616\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Family-Fun-Fest-2026.jpeg
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=UTC:20260910T183000
 DTEND;TZID=UTC:20260910T200000
 DTSTAMP:20260424T163204Z
@@ -44,6 +30,20 @@ DESCRIPTION:The Davis City Council provides policy direction\, establishes goals
 URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-09-10/
 LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20260915T173000
+DTEND;TZID=UTC:20260915T193000
+DTSTAMP:20260904T152425Z
+CREATED:20260904T152425Z
+LAST-MODIFIED:20260904T152425Z
+UID:10000725-1789493400-1789500600@hatefreetogether.org
+SUMMARY:UMOJA Mixer for Educators and Professionals
+DESCRIPTION:The Yolo County Umoja Workgroup invites educators and professionals in the Black community to join us for an evening of connection\, community\, and celebration on September 15th in Woodland. \nJoin Umoja Yolo County for an evening of community\, connection\, and celebration. We’ll catch up with old friends\, make new connections\, celebrate the talent in Yolo County\, and discuss countywide initiatives to help families prepare students for college. We’ll also recognize the 2026 Kwanzaa honorees! Light refreshments will be served. \n📅 September 15 | 🕠 5:30–7:30 p.m.\n📍 Yolo County Office of Education\, 1280 Santa Anita Court\, Woodland\, CA 95776 \nRSVP: https://forms.gle/B51Mxwm9mrbLSe9XA
+URL:https://hatefreetogether.org/event/umoja-mixer-for-educators-and-professionals/
+LOCATION:Yolo County Office of Education\, 1280 Santa Anita Court\, Woodland\, CA\, 95776
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Umoja-Mixer.png
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20260924T183000
