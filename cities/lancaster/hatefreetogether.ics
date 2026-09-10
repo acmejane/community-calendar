@@ -46,6 +46,19 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Umoja-Mixer.png
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=UTC:20260919T100000
+DTEND;TZID=UTC:20260919T120000
+DTSTAMP:20260909T184753Z
+CREATED:20260909T184753Z
+LAST-MODIFIED:20260909T184753Z
+UID:10000726-1789812000-1789819200@hatefreetogether.org
+SUMMARY:Hispanic & Latinx Heritage Month Celebration
+DESCRIPTION:Join The Yolo County Library at the Arthur F. Turner Community Library on Saturday\, September 19th from 10:00 a.m. – 12:00 p.m. for their first-ever Latinx and Hispanic Heritage Month Celebration! Enjoy mariachi and folklorico performances\, learn about Latinx artwork in our hands-on silk screen printing workshop\, take photos with classic lowrider cars and more! Come celebrate the vibrant and diverse Latinx culture where all community members are welcome.
+URL:https://hatefreetogether.org/event/hispanic-latinx-heritage-month-celebration/
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Davis-Library-Hispanic-Heritage-Month.png
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=UTC:20260924T183000
 DTEND;TZID=UTC:20260924T200000
 DTSTAMP:20260424T163204Z
@@ -122,7 +135,6 @@ UID:10000713-1791072000-1791158399@hatefreetogether.org
 SUMMARY:Davis Neighbors' Night Out
 DESCRIPTION:Join the City of Davis\, Yolo County\, ASUCD\, and UC Davis in celebrating community during Davis Neighbors’ Night Out. Davis Neighbors’ Night Out is a celebration of our community and a great opportunity for neighbors to get to know one another. Connected neighborhoods create safer and more caring places to live \n  \nEvents include potlucks\, neighborhood games and activities and gatherings of neighbors to meet in the street for good conversation. \n  \nDavis Neighbors’ Night Out is open to all ages and is free to participate in. \n  \nNeighbors\, neighborhood associations\, apartment complexes\, etc.\, are encouraged to be an “Event Sponsor.” If you’re interested in becoming an event sponsor\, visit: https://www.cityofdavis.org/city-hall/city-manager-s-office/community-events/davis-neighbors-night-out
 URL:https://hatefreetogether.org/event/davis-neighbors-night-out-community-celebration-2/
-LOCATION:CA
 CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/64b4ed28c91be.image_.webp
 END:VEVENT
@@ -163,7 +175,6 @@ UID:10000718-1792281600-1792886399@hatefreetogether.org
 SUMMARY:United Against Hate Week
 DESCRIPTION:United Against Hate Week is an annual seven-day campaign of local civic action designed to stop hate\, bigotry and implicit biases that threaten the safety and civility of neighborhoods\, towns\, and cities. To learn more and see how your community can join\, visit: https://www.unitedagainsthateweek.org/. 
 URL:https://hatefreetogether.org/event/united-against-hate-week-2/
-LOCATION:CA
 CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/United-Against-Hate-Week.png
 END:VEVENT
@@ -203,7 +214,6 @@ UID:10000720-1792713600-1792886399@hatefreetogether.org
 SUMMARY:Davis Jazz Beat Festival
 DESCRIPTION:In honor of the incredible legacy of Beat poets\, musicians\, and artists\, the John Natsoulas Gallery will host a two-day event dedicated to the arts that defined a generation in the Bay Area. Join us to experience live music\, poetry readings\, and performance painting! All events will take place at the John Natsoulas Gallery or across the street at the Davis Commons. \nAll ages are welcome and the admission is free!
 URL:https://hatefreetogether.org/event/davis-jazz-beat-festival/
-LOCATION:CA
 CATEGORIES:Season of Connection
 END:VEVENT
 BEGIN:VEVENT
@@ -216,7 +226,6 @@ UID:10000719-1792713600-1792972799@hatefreetogether.org
 SUMMARY:Imagining America National Gathering
 DESCRIPTION:Join over 500 participants from the IA network and the University of California\, Davis and Yolo Bioregion community (a geographic and cultural area that includes the cities of Davis\, Woodland\, Winters\, West Sacramento\, and surrounding areas) to engage in deep learning\, collaboration\, and transformative creativity on the theme of Tides of Transition: Restoring Collective Spirit in Troubled Times. We will activate spaces across the UC Davis campus\, in the City of Davis\, and at community-hosted site visits. \nTides of Transition: Restoring Collective Spirit in Troubled Times calls us to re-story and honor the places\, knowledges\, relationships\, and ecologies that have been made broken through centuries of violence and abandonment\, and the current intensifying fear and repression. We know that our communities are tired\, and we know that being together revives our collective spirit\, giving us the strength and inspiration we need in troubled times. In this moment of upheaval\, the 2026 IA National Gathering draws participants to Davis\, CA in the spirit of mending the roots of our connections\, and to “awaken\,” as Buddhist monk and activist Thích Nhất Hạnh teaches\, “from the illusion of our separateness.”
 URL:https://hatefreetogether.org/event/imagining-america-national-gathering/
-LOCATION:CA
 CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/IA-National-Gathering-226.jpg
 END:VEVENT
@@ -405,18 +414,5 @@ DESCRIPTION:The Davis City Council provides policy direction\, establishes goals
 URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-31/
 LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20270107T183000
-DTEND;TZID=UTC:20270107T200000
-DTSTAMP:20260424T172314Z
-CREATED:20260424T172126Z
-LAST-MODIFIED:20260424T172314Z
-UID:10000681-1799346600-1799352000@hatefreetogether.org
-SUMMARY:DJUSD Board Meetings
-DESCRIPTION:DJUSD Board meetings offer insight on how the school district remains responsive to the community’s values\, beliefs\, and priorities. The Board meetings occur on every first and third Thursday\, in the City of Davis Community Chambers. 23 Russell Boulevard. Public session starts at 6:30 PM.  Meetings are cablecast live on Channel 17 (Comcast) or streamed on the DJUSD-TV website. \n  \nThe Davis Joint Unified School District’s Board of Education is comprised of five community members\, responsible for setting district policy\, approving the budget\, and hiring the superintendent for schools in Davis\, California. The agendas for the meetings are posted at least 72 hours in advance. \n  \nFor more information on special meetings\, agendas\, public comment\, and more\, visit the DJUSD Board site.
-URL:https://hatefreetogether.org/event/djusd-board-meetings/2027-01-07/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/499036487_1275464707915844_5079899038399820181_n.jpg
 END:VEVENT
 END:VCALENDAR
