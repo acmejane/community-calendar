@@ -7,36 +7,21 @@ X-WR-CALNAME:Lancaster Community Calendar
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/316206223/"}
-X-SOURCE-ID:meetup_yolo_county_board_game_gathering
-X-SOURCE:Meetup Yolo County Board Game Gathering
-UID:event_316206223@meetup.com
-SEQUENCE:1
-DTSTAMP:20260910T013500Z
-DTSTART;TZID=America/Los_Angeles:20260909T170000
-DTEND;TZID=America/Los_Angeles:20260909T210000
-SUMMARY:Weekly Game Night at Blue Note
-DESCRIPTION:Yolo County Board Game Gathering\nUpdate 8/14/25:\n**We're sti
- ll active**\, but we primarily use Discord to chat and plan events. (See g
- roup description for invite link.)\n\nWe still meet every Wednesday for bo
- ard games at Blue Note Brewing Company. We'll have a handful of tables res
- erved near the back\; just look for the pile of board games.\n\nPeople usu
- ally start arriving around 5pm\, and games start whenever people are ready
- . Blue Note closes at 9pm\, and although we have a 5-10 minute grace perio
- d there\, you should be in the process of final scoring by 9\, or else pac
- k it up and play again another day.\n\nGame night is open to all ages! Blu
- e Note is a brewery\, not a bar\, so there's no restriction against minors
- . In addition to their crafted-in-house beer selection\, water and sodas a
- re available.\n\nYou're not required to buy anything in order to join us\,
-  but we do encourage you to support local businesses. Blue Note's chef tea
- m makes a mean pizza\, and there are other nearby downtown restaurants and
-  businesses.
-URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
- ts/316206223/
-STATUS:CONFIRMED
-CREATED:20260821T001737Z
-LAST-MODIFIED:20260821T001737Z
-CLASS:PUBLIC
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/thursday-social-at-great-bear-vineyards-6/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260910T170000
+DTEND;TZID=America/Los_Angeles:20260910T200000
+DTSTAMP:20260910T173031Z
+CREATED:20260903T173028Z
+LAST-MODIFIED:20260910T173031Z
+UID:10003039-1789059600-1789070400@visitdavis.org
+SUMMARY:Thursday Social at Great Bear Vineyards
+DESCRIPTION:Thursday Social at Great Bear Vineyards in Davis  Thursday\, September 10 | 5–8 PMTicket Includes: Your First Glass of WineWe’re excited to kick off our new Thursday Socials—the perfect way to ease into the weekend a little early!Gather your friends\, leave work behind\, and join us for a relaxed summer evening of award-winning wine\, great conversation\, and a little friendly competition in the beautiful setting of Great Bear Vineyards.For $15\, your ticket includes your first glass of wine\, so all you have to do is find your favorite spot among the vines and settle in for the evening.Feeling competitive? We’ve got you covered! We’ll have a selection of classic board games available\, including chess\, draughts\, Bananagrams\, and dominos. Challenge your friends to a game\, meet someone new\, or simply sit back\, sip your wine\, and enjoy the vineyard atmosphere. Cheese and light snacks will be available for purchase\, or you’re welcome to bring your own picnic and make an evening of it.Whether you’re catching up with friends\, planning a casual date night\, or looking for a new weekly tradition\, Thursday Social is all about slowing down\, sharing good company\, and enjoying summer evenings at the vineyard.Good wine. Great friends. Beautiful vineyard views. We can’t wait to welcome you to Thursday Social!
+URL:https://visitdavis.org/event/thursday-social-at-great-bear-vineyards-6/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/wine-tours-in-yolo-county-6GEsNP.tmp_.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/316222082/"}
@@ -44,7 +29,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316222082@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013501Z
+DTSTAMP:20260911T013416Z
 DTSTART;TZID=America/Los_Angeles:20260910T180000
 DTEND;TZID=America/Los_Angeles:20260910T190000
 SUMMARY:Free Yoga Practice
@@ -67,20 +52,139 @@ LAST-MODIFIED:20260822T011611Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-city-council-meetings/2026-09-10/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20260910T183000
-DTEND;TZID=UTC:20260910T200000
-DTSTAMP:20260424T163204Z
-CREATED:20260424T163204Z
-LAST-MODIFIED:20260424T163204Z
-UID:10000366-1789065000-1789070400@hatefreetogether.org
-SUMMARY:Davis City Council Meetings
-DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
-URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-09-10/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/live-music-and-food-truck-night-at-great-bear-vineyard/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260911T170000
+DTEND;TZID=America/Los_Angeles:20260911T203000
+DTSTAMP:20260910T173025Z
+CREATED:20260903T173035Z
+LAST-MODIFIED:20260910T173025Z
+UID:10003044-1789146000-1789158600@visitdavis.org
+SUMMARY:Live Music and Food Truck Night at Great Bear Vineyard
+DESCRIPTION:Live Music & Food Truck Night in Davis Friday\, September 11 | 5–8:30 PM\nTicket Includes: Glass of Wine & Live Music\nStart your weekend the Great Bear way with live music\, wood-fired pizza\, estate-grown wine\, and beautiful vineyard views!\nJoin us for a relaxed Friday evening among the vines with The Teds bringing the tunes from 6–7:30 PM and Italian Brother’s Pizza serving fresh\, wood-fired pizza from 5–8:30 PM. Grab a glass of wine\, enjoy some delicious food\, and let the weekend begin!\n Music by The Teds\nWe’re excited to welcome The Teds back to the winery! This fun-loving four-piece band plays favorite oldies with plenty of upbeat\, danceable tunes. Whether you want to kick back with a glass of wine or get up and dance\, The Teds have the perfect soundtrack for your Friday night.\n Food by Italian Brother’s Pizza\nCome hungry! Italian Brother’s Pizza serves authentic wood-fired pizza made with fresh\, high-quality ingredients. Choose from a variety of classic and specialty pizzas\, all cooked to perfection in their traditional wood-fired oven.\nPlease help us support this local food truck by purchasing your dinner onsite and leaving outside food at home.\n Great wine Live music Wood-fired pizza Vineyard views\nGood food\, great music\, and a relaxing evening among the vines—what better way to kick off your weekend?
+URL:https://visitdavis.org/event/live-music-and-food-truck-night-at-great-bear-vineyard/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/2nd-friday-artabout-at-the-pence-gallery-17/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260911T180000
+DTEND;TZID=America/Los_Angeles:20260911T210000
+DTSTAMP:20260910T173033Z
+CREATED:20260822T173059Z
+LAST-MODIFIED:20260910T173033Z
+UID:10003034-1789149600-1789160400@visitdavis.org
+SUMMARY:2nd Friday ArtAbout at the Pence Gallery
+DESCRIPTION:2nd Friday ArtAbout at the Pence Gallery in Davis \nFriday\, September 11\, 6-9 PM (Free) \n  \nJoin us at the Pence Gallery for the opening reception of Art Auction 2026! This spectacular display of art features work by 100+ local & regional artists. Preview sculptures\, paintings\, photography\, textiles\, and more on display at the Pence\, as well as online for silent auction bidding at bit.ly/penceartauction. Also\, enjoy complimentary wine and an art-themed scavenger hunt at the Pence during the 2nd Friday ArtAbout. Complete all of the clues by exploring our exhibit for the chance to win a special prize. \n  \nThe Art Auction is on display from September 5th-26th. Bidding opens online at midnight on Sept. 5th and closes at 8 PM PST on Sept. 26th. \n  \n— \n  \nVisit the Pence and other venues in Downtown Davis for the 2nd Friday ArtAbout artwalk. We will have printed ArtAbout guides available that week. Follow the ArtAbout’s Facebook page for more information: https://www.facebook.com/davisartabout. \n  \nImages: \nMarsha Godoy Schindler\, “Grounded” (detail) \nBeth Savidge\, “Allium” (detail) \nMohamed Abdelbaki\, “Cache Creek” (detail) \nAmy Teutemacher\, “Urban Mosaic” (detail)
+URL:https://visitdavis.org/event/2nd-friday-artabout-at-the-pence-gallery-17/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Pence-Reception-Banners-1-1-g8PbzN.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/tai-chi-basics-at-great-bear-vineyards-9/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260912T080000
+DTEND;TZID=America/Los_Angeles:20260912T090000
+DTSTAMP:20260910T173030Z
+CREATED:20260903T173036Z
+LAST-MODIFIED:20260910T173030Z
+UID:10003045-1789200000-1789203600@visitdavis.org
+SUMMARY:Tai Chi Basics at Great Bear Vineyards
+DESCRIPTION:Tai Chi Basics Course at Great Bear Vineyards in Davis Saturday\, September 12 | 8–9am\nStart your Saturday with movement\, mindfulness\, and a little vineyard tranquility! \nJoin us every Saturday morning for our Tai Chi Basics Course\, a beginner-friendly introduction to this beautiful\, slow-moving martial art. Tai Chi combines mindful movement\, balance\, strength\, and fluidity to help you feel more grounded and connected. \nThis introductory class focuses on foundational drills and postures designed to build balance\, leg strength\, coordination\, and body awareness while preparing you for a deeper Tai Chi practice. \nLeading the class is Daniel Pfister\, who has practiced Tai Chi for nearly 30 years! Daniel received intensive training while living in Taiwan for five years and later completed his master’s thesis studying the effects of Tai Chi stance training on blood pressure. \nWhether you’re completely new to Tai Chi or looking to strengthen your foundation\, come move\, breathe\, and start your weekend feeling refreshed! \n Ticket Includes: Tai Chi Class Every Saturday Morning 8–9am Great Bear Vineyards\nCome for the movement\, stay for the peaceful vineyard setting!
+URL:https://visitdavis.org/event/tai-chi-basics-at-great-bear-vineyards-9/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-88/2026-09-12/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260912T080000
+DTEND;TZID=America/Los_Angeles:20260912T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002928-1789200000-1789218000@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-09-12/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/beginner-yoga-at-the-vineyard-9/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260912T090000
+DTEND;TZID=America/Los_Angeles:20260912T100000
+DTSTAMP:20260910T173030Z
+CREATED:20260903T173036Z
+LAST-MODIFIED:20260910T173030Z
+UID:10003046-1789203600-1789207200@visitdavis.org
+SUMMARY:Beginner Yoga at the Vineyard
+DESCRIPTION:Beginner Yoga at the Vineyard at Great Bear Vineyards in Davis Saturday\, September 12 | 9–10 AMTicket Includes: Yoga ClassStart your Saturday with fresh air\, gentle movement\, and beautiful vineyard views!Join us for a relaxing outdoor yoga class designed for all experience levels\, especially those new to yoga. Our professional instructors will guide you through the fundamentals with gentle stretches\, basic poses\, and mindful movement in a welcoming\, supportive setting.Surrounded by our organic vineyard\, wildflowers\, and peaceful morning scenery\, it’s the perfect way to stretch\, breathe\, and ease into your weekend.What to Bring:• Yoga mat• Towel• WaterAfter class\, you’re welcome to stick around and enjoy the vineyard during regular open hours. Local cheeses\, salami\, olives\, and light bites are available for purchase\, or bring a picnic to enjoy in our designated picnic area.Come stretch\, breathe\, and start your weekend the Great Bear way!
+URL:https://visitdavis.org/event/beginner-yoga-at-the-vineyard-9/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/join-the-harvest-reds-edition-2/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260912T100000
+DTEND;TZID=America/Los_Angeles:20260912T123000
+DTSTAMP:20260910T173032Z
+CREATED:20260903T173036Z
+LAST-MODIFIED:20260910T173032Z
+UID:10003047-1789207200-1789216200@visitdavis.org
+SUMMARY:Join the Harvest: Reds Edition
+DESCRIPTION:Join the Harvest – Reds Edition at Great Bear Vineyards in Davis  Saturday\, September 12 | 10:00 AM\n Ticket:$30 – Includes welcome glass of sparkling\, harvest activities\, barrel tour & tasting.\nWine Club Members: Don’t forget to log in to receive your exclusive member discount at checkout!\nSip. Stomp. Savor. Smile.\nExperience harvest the way winemakers do!\nJoin us for one of the most exciting days of the year as we harvest the grapes that will become our 2026 red wines. This isn’t just a winery tour—it’s your chance to step into the vineyard\, pick the fruit\, stomp the grapes\, and celebrate the season alongside our winemaking team.\nWhether you’ve always wanted to channel your inner Lucille Ball\, capture the ultimate vineyard photo\, or simply experience the magic of harvest firsthand\, this unforgettable day is for you.\nWe’ll begin with a sparkling wine toast before heading into the vineyard to harvest grapes straight from the vines. Then it’s time for everyone’s favorite tradition—a lively grape stomp\, complete with a porrón for a little extra fun (and plenty of laughs!).\nNext\, we’ll take you behind the scenes for an exclusive winery tour and barrel tasting. We’ll have a food truck and live music to enjoy after the harvest so stick around and spend the afternoon with us! Keep an eye out to see which band and food truck will be joining us.\nYour Harvest Experience\n 10:00 AM – Sparkling welcome toast & vineyard introduction\n 10:30 AM – Hand-pick grapes for our 2026 red wines\n 11:00 AM – Grape stomp & porrón fun\n 12:00 PM – Behind-the-scenes winery tour & exclusive barrel tasting\n 12:30 PM – Stay and relax with an optional seated tasting or enjoy wine by the bottle in the vineyard while enjoying live music by Ericka Davis and food from the Greek Wagon!\nWhat to Bring\n Comfortable vineyard-ready shoes for harvesting Hat and sunscreen Flip-flops or bare feet for grape stomping A fully charged phone or camera for plenty of harvest photos\nHarvest only comes once a year\, and there’s no better way to experience it than by becoming part of the process. Come laugh\, learn\, sip\, stomp\, and celebrate the season with us at Great Bear Vineyards.\nThis isn’t just a wine event—it’s a memory you’ll be talking about long after the last grapes have been picked.
+URL:https://visitdavis.org/event/join-the-harvest-reds-edition-2/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/live-music-and-food-truck-21/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260912T110000
+DTEND;TZID=America/Los_Angeles:20260912T170000
+DTSTAMP:20260910T173033Z
+CREATED:20260909T180120Z
+LAST-MODIFIED:20260910T173033Z
+UID:10003061-1789210800-1789232400@visitdavis.org
+SUMMARY:Live Music and Food Truck
+DESCRIPTION:Live Music & Food Truck at Great Bear Vineyards in Davis  Saturday\, September 12 | 11am–5pm\nSpend your Saturday soaking up the vineyard views\, sipping award-winning wines\, enjoying delicious Mediterranean-inspired food\, and listening to live music! Sounds like a pretty perfect afternoon to us. \nYour ticket includes a glass of wine + live music featuring the fabulous Ericka Davis! \n Live Music: Ericka Davis | 12:30–3pmNamed Northern California’s hottest musician by Fringe Magazine\, Ericka Davis brings powerhouse vocals and vibrant energy to the vineyard. Her set blends classic pop favorites with original songs\, creating the perfect soundtrack for sipping\, relaxing\, and maybe even a little dancing! \n Food: The Greek Wagon | 12–4pmWe’re excited to welcome The Greek Wagon back to Great Bear! Dig into delicious Greek-inspired favorites including gyros\, falafel\, Greek-inspired burgers\, and fries. \n Ticket Includes:• Glass of wine• Live music• An afternoon at the vineyard!\nBring your friends\, grab a seat on the lawn\, and make a Saturday of it! \nPlease note: Food is available for purchase from The Greek Wagon. To support our local food truck partner\, please do not bring outside food.\nWe’ll see you at the vineyard!
+URL:https://visitdavis.org/event/live-music-and-food-truck-21/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Highway128PressTrip_GreatBearVineyards_2024_MaxWhittaker_12-Copy-scaled-OoIRnT.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-musical-theatre-presents-aladdin-jr/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260912T140000
+DTEND;TZID=America/Los_Angeles:20260912T160000
+DTSTAMP:20260910T173033Z
+CREATED:20260811T173112Z
+LAST-MODIFIED:20260910T173033Z
+UID:10003029-1789221600-1789228800@visitdavis.org
+SUMMARY:Davis Musical Theatre Presents Aladdin Jr
+DESCRIPTION:Davis Musical Theatre Presents Aladdin Jr. \nBased on the iconic animated film\, with an Academy Award-winning score by Alan Menken\, Howard Ashman and Tim Rice\, Disney’s Aladdin Jr. is sure to send audiences soaring on a flying carpet ride filled with romance and adventure. \nWhen the street urchin\, Aladdin\, vies for the attention of the beautiful princess\, Jasmine\, he uses a genie’s magic power to become a prince in order to marry her. Iago\, Jafar\, the Genie and more are here in Disney’s Aladdin JR.\, a musical adventure filled with magic\, mayhem and the power of love.
+URL:https://visitdavis.org/event/davis-musical-theatre-presents-aladdin-jr/
+LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Aladdin-og3arm.jpg
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/314284343/"}
@@ -88,7 +192,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_314284343@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013458Z
+DTSTAMP:20260911T013414Z
 DTSTART;TZID=America/Los_Angeles:20260912T150000
 DTEND;TZID=America/Los_Angeles:20260912T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -126,7 +230,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315044978@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013458Z
+DTSTAMP:20260911T013414Z
 DTSTART;TZID=America/Los_Angeles:20260912T150000
 DTEND;TZID=America/Los_Angeles:20260912T170000
 SUMMARY:Mosaics Beginning to Intermediate Korean in Person
@@ -164,7 +268,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315046291@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013458Z
+DTSTAMP:20260911T013414Z
 DTSTART;TZID=America/Los_Angeles:20260912T160000
 DTEND;TZID=America/Los_Angeles:20260912T170000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -202,7 +306,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315045635@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013459Z
+DTSTAMP:20260911T013415Z
 DTSTART;TZID=America/Los_Angeles:20260912T170000
 DTEND;TZID=America/Los_Angeles:20260912T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -241,7 +345,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316451311@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013458Z
+DTSTAMP:20260911T013414Z
 DTSTART;TZID=America/Los_Angeles:20260912T170000
 DTEND;TZID=America/Los_Angeles:20260912T180000
 SUMMARY:Mosaics Beginning Spanish in Person
@@ -280,7 +384,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_315046964@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013459Z
+DTSTAMP:20260911T013415Z
 DTSTART;TZID=America/Los_Angeles:20260912T180000
 DTEND;TZID=America/Los_Angeles:20260912T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -320,7 +424,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_315047643@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013459Z
+DTSTAMP:20260911T013415Z
 DTSTART;TZID=America/Los_Angeles:20260912T190000
 DTEND;TZID=America/Los_Angeles:20260912T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -359,7 +463,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316248662@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013501Z
+DTSTAMP:20260911T013416Z
 DTSTART;TZID=America/Los_Angeles:20260914T180000
 DTEND;TZID=America/Los_Angeles:20260914T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -386,12 +490,28 @@ LAST-MODIFIED:20260824T024438Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/latinx-heritage-month-2026/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20261016
+DTSTAMP:20260910T214225Z
+CREATED:20260910T210210Z
+LAST-MODIFIED:20260910T214225Z
+UID:10000728-1789430400-1792108799@hatefreetogether.org
+SUMMARY:Latinx Heritage Month 2026
+DESCRIPTION:September 15th to October 15th marks the national celebration of Latinx Heritage Month! Join UC Davis in celebrating the cultural\, linguistic and historical diversity of the community. For programming\, visit: https://excellence.ucdavis.edu/events/latinx-heritage-month-2026.
+URL:https://hatefreetogether.org/event/latinx-heritage-month-2026/
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Ballet-Folklorico-UCD.png
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/316284019/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316284019@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013501Z
+DTSTAMP:20260911T013416Z
 DTSTART;TZID=America/Los_Angeles:20260915T100000
 DTEND;TZID=America/Los_Angeles:20260915T110000
 SUMMARY:Gentle yoga
@@ -428,12 +548,29 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Umoja-Mixer.png
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/yoga-at-the-vineyard/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260915T174500
+DTEND;TZID=America/Los_Angeles:20260915T184500
+DTSTAMP:20260910T173030Z
+CREATED:20260909T180050Z
+LAST-MODIFIED:20260910T173030Z
+UID:10003050-1789494300-1789497900@visitdavis.org
+SUMMARY:Yoga at the Vineyard
+DESCRIPTION:Beginner Yoga at the Vineyard in Davis  Tuesday\, September 15 | 5:45–6:45 PMTicket Includes: Yoga ClassStart your week with fresh air\, gentle movement\, and beautiful vineyard views!Join us for a relaxing outdoor yoga class designed for all experience levels\, especially those new to yoga. Our professional instructors will guide you through the fundamentals with gentle stretches\, basic poses\, and mindful movement in a welcoming\, supportive setting.Surrounded by our organic vineyard\, wildflowers\, and peaceful morning scenery\, it’s the perfect way to stretch\, breathe\, and ease into your week.What to Bring:• Yoga mat• Towel• WaterCome stretch\, breathe\, and start your week the Great Bear way!
+URL:https://visitdavis.org/event/yoga-at-the-vineyard/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/316305783/"}
 X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_316305783@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013500Z
+DTSTAMP:20260911T013415Z
 DTSTART;TZID=America/Los_Angeles:20260916T170000
 DTEND;TZID=America/Los_Angeles:20260916T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -460,12 +597,46 @@ LAST-MODIFIED:20260828T002631Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/yoga-night-at-great-bear-vineyards-3/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260916T180000
+DTEND;TZID=America/Los_Angeles:20260916T200000
+DTSTAMP:20260910T173032Z
+CREATED:20260909T180120Z
+LAST-MODIFIED:20260910T173032Z
+UID:10003060-1789581600-1789588800@visitdavis.org
+SUMMARY:Yoga Night at Great Bear Vineyards
+DESCRIPTION:Yoga & Wine Night at Great Bear Vineyards in Davis Wednesday\, September 16 | 6–8pm\nOne Wednesday a month\, we’re trading the usual evening routine for yoga\, wine\, vineyard views\, and good company! \nJoin Fit4Mom Davis-Woodland and Great Bear Vineyards for a relaxing evening of movement and fun. Our talented Fit4Mom instructors will guide you through an easy-to-moderate Vinyasa flow set to groovy tunes and tailored to your skill level. \nAs class winds down\, take a moment to slow down with an inspirational\, original meditation. Then comes the best part… \nWine time! Sit back\, relax\, and enjoy your included glass of Great Bear wine while soaking up the beautiful vineyard setting. Take a stroll through the lavender fields\, spread out a picnic\, or simply hang out and connect with friends—old and new. \nBecause honestly… a little yoga followed by a glass of wine sounds like the perfect way to spend a Wednesday evening! \n Ticket Includes: Yoga Class First Glass of Wine\nWhat to Bring: Yoga mat Water Picnic goodies if you’d like Towel Card or cash for an extra glass or bottle Light jacket or sweater\nCome stretch\, sip\, unwind\, and enjoy a beautiful evening at the vineyard! \nPresented by Fit4Mom Davis-Woodland & Great Bear Vineyards
+URL:https://visitdavis.org/event/yoga-night-at-great-bear-vineyards-3/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/thursday-social-at-great-bear-vineyards-7/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260917T170000
+DTEND;TZID=America/Los_Angeles:20260917T200000
+DTSTAMP:20260910T173030Z
+CREATED:20260909T180050Z
+LAST-MODIFIED:20260910T173030Z
+UID:10003051-1789664400-1789675200@visitdavis.org
+SUMMARY:Thursday Social at Great Bear Vineyards
+DESCRIPTION:Thursday Social at Great Bear Vineyards in Davis   Thursday\, September 17 | 5–8 PMTicket Includes: Your First Glass of WineWe’re excited to kick off our new Thursday Socials—the perfect way to ease into the weekend a little early!Gather your friends\, leave work behind\, and join us for a relaxed summer evening of award-winning wine\, great conversation\, and a little friendly competition in the beautiful setting of Great Bear Vineyards.For $15\, your ticket includes your first glass of wine\, so all you have to do is find your favorite spot among the vines and settle in for the evening.Feeling competitive? We’ve got you covered! We’ll have a selection of classic board games available\, including chess\, draughts\, Bananagrams\, and dominos. Challenge your friends to a game\, meet someone new\, or simply sit back\, sip your wine\, and enjoy the vineyard atmosphere. Cheese and light snacks will be available for purchase\, or you’re welcome to bring your own picnic and make an evening of it.Whether you’re catching up with friends\, planning a casual date night\, or looking for a new weekly tradition\, Thursday Social is all about slowing down\, sharing good company\, and enjoying summer evenings at the vineyard.Good wine. Great friends. Beautiful vineyard views. We can’t wait to welcome you to Thursday Social!
+URL:https://visitdavis.org/event/thursday-social-at-great-bear-vineyards-7/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Highway128PressTrip_GreatBearVineyards_2024_MaxWhittaker_12-Copy-scaled-OoIRnT.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/316321063/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316321063@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013501Z
+DTSTAMP:20260911T013416Z
 DTSTART;TZID=America/Los_Angeles:20260917T180000
 DTEND;TZID=America/Los_Angeles:20260917T190000
 SUMMARY:Free Yoga Practice
@@ -486,6 +657,90 @@ STATUS:CONFIRMED
 CREATED:20260829T011303Z
 LAST-MODIFIED:20260829T011303Z
 CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/the-vinyl-tones-and-fry-boys/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260918T170000
+DTEND;TZID=America/Los_Angeles:20260918T203000
+DTSTAMP:20260910T173030Z
+CREATED:20260909T180051Z
+LAST-MODIFIED:20260910T173030Z
+UID:10003052-1789750800-1789763400@visitdavis.org
+SUMMARY:The Vinyl Tones and Fry Boys
+DESCRIPTION:Live Music & Food Truck Friday in Davis  Friday\, September 18 | 5–8:30pm\nKick off your weekend the right way—with live music\, delicious burgers\, loaded fries\, and a glass of wine at the vineyard! \nJoin us for an easygoing Friday evening featuring The Vinyl Tones and The Fry Boys. Grab your friends\, find a spot on the lawn\, sip your favorite wine\, and settle in for a night of good food and great tunes. \n Live Music by The Vinyl Tones | 6–7:30pmGet ready to groove! This Sacramento-based 3-piece rock band brings the best hits from the ’60s and ’70s\, creating the perfect soundtrack for a night of wine\, dancing\, and vineyard vibes. \n Food by The Fry Boys | 5–8:30pmWe’re excited to welcome The Fry Boys back to Great Bear! Dig into fresh\, gourmet burgers made with juicy\, hand-pressed patties\, plus their crave-worthy loaded fries. \n Your Ticket Includes: A glass of wine Live music A relaxing evening at the vineyard\nBring your friends\, bring your appetite\, and leave the workweek behind! Good food + great music + wine = the perfect Friday night. \nPlease note: Food is available for purchase from The Fry Boys. To support our local food truck partner\, please do not bring outside food.
+URL:https://visitdavis.org/event/the-vinyl-tones-and-fry-boys/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Highway128PressTrip_GreatBearVineyards_2024_MaxWhittaker_12-Copy-scaled-OoIRnT.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/bomba-fried-rice-live-at-the-hive/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260918T173000
+DTEND;TZID=America/Los_Angeles:20260918T210000
+DTSTAMP:20260910T173022Z
+CREATED:20260620T173028Z
+LAST-MODIFIED:20260910T173022Z
+UID:10002892-1789752600-1789765200@visitdavis.org
+SUMMARY:Bomba Fried Rice Live at The HIVE
+DESCRIPTION:Live at The HIVE presents Bomba Fried Rice during an outdoor concert. Doors at 5:30pm; Music at 6:30pm. \nBomba Fried Rice is a diverse ensemble from people all around the world and the community of Davis. Recognized as a prominent local and unique music ensemble\, they play Latin genres ranging from Salsa\, Rock\, Reggae\, Spoken Word\, Cumbia\, Mambo\, and Ska\, merging cultures and styles of music. In 2015\, Bomba Fried Rice won a SAMMIE (Sacramento Music Award) for Best World Music Ensemble. \nEnjoy a seasonal menu\, craft beverages and complimentary honey tasting at northern California’s largest honey and mead tasting room. \nPay what you can cover charge: $0-$20/person. Family and dog friendly. All ages welcome. No outside food or drinks.
+URL:https://visitdavis.org/event/bomba-fried-rice-live-at-the-hive/
+LOCATION:The HIVE / Z Specialty Food\, The HIVE Tasting Room and Kitchen
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/bomba-poster_small-Il1iaC.jpg
+ORGANIZER;CN="The HIVE / Z Specialty Food":MAILTO:events@zspecialtyfood.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/the-black-feathers-live-the-melon-ball/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260918T200000
+DTEND;TZID=America/Los_Angeles:20260918T220000
+DTSTAMP:20260910T173031Z
+CREATED:20260623T173049Z
+LAST-MODIFIED:20260910T173031Z
+UID:10002901-1789761600-1789768800@visitdavis.org
+SUMMARY:The Black Feathers Live @ The Melon Ball
+DESCRIPTION:The Black Feathers at The Melon Ball in Davis \nThe Black Feathers\, Irish and English-born singer-songwriters Ray Hughes and Sian Chandler are currently residing in Wales\, UK — married in life and to the stage since 2012. Over the last few years\, they have been spreading their wings across the US and western Canada. \nAmericana\, Folk\, and Acoustic Indie Rock sensibilities coexist comfortably in their musical world\, with Hughes’ guitar work buoying the kind of harmonies often only heard in family bands. Their music quickly draws the interest of listeners\, but it is the stage chemistry that will keep them riveted. \n”…stunning harmonies that were so good it reminded me of seeing Gillian Welch and David Rawlings” – No Depression \n“They are one of the finest harmony duos in the UK\, writers of gloriously sad ear-worms\, and heavenly harmonisers with a telepathic understanding” – Gavin McNamara (Bristol24/7) \n“These guys sing like conjoined angels” – John Cowan \ntheblackfeathers.com \nYouTube  –  Spotify  –  Apple Music  –  Instagram \n$20 General Admission Advanced Purchase\n$25 General Admission At The Door\nDoors open at 7:30pm\nThis is a BYOB Event
+URL:https://visitdavis.org/event/the-black-feathers-live-the-melon-ball/
+LOCATION:Watermelon Music\, 1970 Lake Blvd\, DAVIS\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/091826TICKET-2-fa7pjn.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-88/2026-09-19/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260919T080000
+DTEND;TZID=America/Los_Angeles:20260919T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002929-1789804800-1789822800@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-09-19/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/yoga-at-the-vineyard-2/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260919T090000
+DTEND;TZID=America/Los_Angeles:20260919T100000
+DTSTAMP:20260910T173030Z
+CREATED:20260909T180051Z
+LAST-MODIFIED:20260910T173030Z
+UID:10003053-1789808400-1789812000@visitdavis.org
+SUMMARY:Yoga at the Vineyard
+DESCRIPTION:Beginner Yoga at the Vineyard in Davis  Saturday\, September 19 | 9:00–10:00 AMTicket Includes: Yoga ClassStart your weekend with fresh air\, gentle movement\, and beautiful vineyard views!Join us for a relaxing outdoor yoga class designed for all experience levels\, especially those new to yoga. Our professional instructors will guide you through the fundamentals with gentle stretches\, basic poses\, and mindful movement in a welcoming\, supportive setting.Surrounded by our organic vineyard\, wildflowers\, and peaceful morning scenery\, it’s the perfect way to stretch\, breathe\, and ease into your weekend.What to Bring:• Yoga mat• Towel• WaterCome stretch\, breathe\, and start your weekend the Great Bear way!
+URL:https://visitdavis.org/event/yoga-at-the-vineyard-2/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/hispanic-latinx-heritage-month-celebration/"}
@@ -509,7 +764,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_315539529@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013458Z
+DTSTAMP:20260911T013414Z
 DTSTART;TZID=America/Los_Angeles:20260919T150000
 DTEND;TZID=America/Los_Angeles:20260919T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -547,7 +802,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316344897@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013458Z
+DTSTAMP:20260911T013414Z
 DTSTART;TZID=America/Los_Angeles:20260919T150000
 DTEND;TZID=America/Los_Angeles:20260919T170000
 SUMMARY:Mosaics Beginning to Intermediate Korean in Person
@@ -585,7 +840,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316346309@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013458Z
+DTSTAMP:20260911T013414Z
 DTSTART;TZID=America/Los_Angeles:20260919T160000
 DTEND;TZID=America/Los_Angeles:20260919T170000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -623,7 +878,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_316345518@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013459Z
+DTSTAMP:20260911T013415Z
 DTSTART;TZID=America/Los_Angeles:20260919T170000
 DTEND;TZID=America/Los_Angeles:20260919T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -662,7 +917,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_jlccbvyjcmbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013458Z
+DTSTAMP:20260911T013414Z
 DTSTART;TZID=America/Los_Angeles:20260919T170000
 DTEND;TZID=America/Los_Angeles:20260919T180000
 SUMMARY:Mosaics Beginning Spanish in Person
@@ -700,7 +955,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_316346919@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013459Z
+DTSTAMP:20260911T013415Z
 DTSTART;TZID=America/Los_Angeles:20260919T180000
 DTEND;TZID=America/Los_Angeles:20260919T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -734,12 +989,29 @@ LAST-MODIFIED:20260831T011438Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/paired-to-perfection-a-five-course-wine-and-culinary-experience/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260919T180000
+DTEND;TZID=America/Los_Angeles:20260919T210000
+DTSTAMP:20260910T173032Z
+CREATED:20260909T180119Z
+LAST-MODIFIED:20260910T173032Z
+UID:10003059-1789840800-1789851600@visitdavis.org
+SUMMARY:Paired to Perfection: A Five Course Wine and Culinary Experience
+DESCRIPTION:Paired to Perfection: A Five-Course Wine & Culinary Experience in Davis   Saturday\, September 19 | 6:00 PM\nTicket Includes: A Five-Course Chef-Crafted Menu with Curated Wine or Mocktail Pairings\nJoin us for an evening of exceptional food\, award-winning wine\, and connection. Paired to Perfection is an elevated dining experience celebrating the very best of Great Bear Vineyards. Over the course of five thoughtfully crafted dishes\, you’ll discover how carefully selected seasonal ingredients and estate-grown wines can transform a meal into something truly memorable.\nEach course has been expertly designed to complement the next\, creating a seamless journey through flavor\, texture\, and aroma. Whether you’re a devoted foodie\, passionate wine lover\, or simply looking for a special evening out\, this is an experience to be savored.\nTicket Options\n Dinner Only – $78\n Dinner + Mocktail Pairings – $108\n Dinner + Curated Wine Pairings – $120All prices include gratuity.\nMenu 1 — Full MenuA five-course menu featuring seafood\, seasonal produce\, American Wagyu and a sweet corn dessert.\nMenu 2 — VegetarianA five-course vegetarian menu showcasing fresh produce\, burrata\, braised leeks\, grilled oyster mushrooms and sweet corn cake.\nPlease email greatbearvineyards@gmail.com your menu preference.\nGather your favorite people and join us for an unforgettable evening where every sip and every bite tells a story. Saturday\, September 19 | 6pm Great Bear Vineyards\, Davis\nReservations required — email greatbearvineyards@gmail.com to select your preferred menu.
+URL:https://visitdavis.org/event/paired-to-perfection-a-five-course-wine-and-culinary-experience/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/24ECC9DA-EEE3-4A1F-B1F3-C87C3867E85A_4_5005_c-e1788970358194-gKniWW.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/315719094/"}
 X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_315719094@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013459Z
+DTSTAMP:20260911T013415Z
 DTSTART;TZID=America/Los_Angeles:20260919T190000
 DTEND;TZID=America/Los_Angeles:20260919T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -778,7 +1050,7 @@ X-SOURCE-ID:meetup_art_in_action
 X-SOURCE:Meetup: Art in Action
 UID:event_315966638@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013500Z
+DTSTAMP:20260911T013416Z
 DTSTART;TZID=America/Los_Angeles:20260920T130000
 DTEND;TZID=America/Los_Angeles:20260920T150000
 SUMMARY:Art in Action: Flying Birds Mobile
@@ -811,12 +1083,29 @@ LAST-MODIFIED:20260803T204408Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/a-hands-on-collaborative-ceramic-installation/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260920T150000
+DTEND;TZID=America/Los_Angeles:20260920T170000
+DTSTAMP:20260910T173032Z
+CREATED:20260819T190058Z
+LAST-MODIFIED:20260910T173032Z
+UID:10003032-1789916400-1789923600@visitdavis.org
+SUMMARY:A Hands-On Collaborative Ceramic Installation
+DESCRIPTION:Join ceramic artist Pinar Brummer for a hands-on\, community-led gathering at International House Davis\, in two parts. Together\, we’ll shape a collaborative tree sculpture\, then slow down to hand-build our own small ceramic pieces. No experience needed\, just a willingness to show up\, get elemental\, and tap into some childlike joy. \nPinar opens the gathering with her own story\, her journey from Türkiye to Davis\, and how it inspired this project\, before inviting you to get your hands in the clay and be your childlike self. \nPart One: The Tree. Everything you touch\, touches you is a reflection on togetherness\, on how we’re not just observers but active participants in a shared experience\, connected to each other and the world around us. At the heart of the gathering is an incomplete ceramic tree\, hand-built by Pinar\, waiting for your mark. You’ll shape a clay leaf to join it\, no skill required\, each one becoming part of a lasting\, collective piece. \nPart Two: The Tea Cup. Pinar will guide you through hand-building a small\, imperfect tea cup\, a slow\, meditative practice that celebrates flaws rather than smoothing them away. \nThe finished tree will be on display at International House for several weeks\, then celebrated at a Reveal Party where you’ll see how everyone’s marks came together into one collective piece. \nCome ready to get your hands dirty and leave a piece of yourself behind. This is a sensory\, emotional experience that gets you in touch with your childlike core\, and with each other.  Ages 16 and up.
+URL:https://visitdavis.org/event/a-hands-on-collaborative-ceramic-installation/
+LOCATION:International House Davis\, 10 College Park\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/png:https://visitdavis.org/wp-content/uploads/WT-2026-Everything-You-Touch-Touches-You-9.29.26-Social-3-pb3HvG.png
+ORGANIZER;CN="International House Davis":MAILTO:shahzana@ihousedavis.org
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-ID:gcal_davisbikeclubwww
 X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20260921T090000
 DTEND;TZID=America/Los_Angeles:20260921T120000
 RRULE:FREQ=WEEKLY;BYDAY=MO
-DTSTAMP:20260910T013504Z
+DTSTAMP:20260911T013421Z
 UID:kuflo7ouh5pln6j4moukadrlqj@google.com
 CREATED:20231017T162124Z
 DESCRIPTION:<a href="https://davisbikeclub.org/woodland-or-esparto/">https:
@@ -835,7 +1124,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316379339@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013501Z
+DTSTAMP:20260911T013416Z
 DTSTART;TZID=America/Los_Angeles:20260921T180000
 DTEND;TZID=America/Los_Angeles:20260921T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -867,7 +1156,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20260922T090000
 DTEND;TZID=America/Los_Angeles:20260922T120000
 RRULE:FREQ=WEEKLY;BYDAY=TU
-DTSTAMP:20260910T013504Z
+DTSTAMP:20260911T013421Z
 UID:5getqsjecs90d9ampqs7jmgepl@google.com
 CREATED:20240829T225511Z
 DESCRIPTION:Ride description: <a href="https://davisbikeclub.org/south-of-s
@@ -886,7 +1175,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20260922T090000
 DTEND;TZID=America/Los_Angeles:20260922T120000
 RRULE:FREQ=WEEKLY;BYDAY=TU
-DTSTAMP:20260910T013504Z
+DTSTAMP:20260911T013421Z
 UID:9vh519se3edmpt142rghu7gac2@google.com
 CREATED:20240829T230232Z
 DESCRIPTION:<a href="https://davisbikeclub.org/tuesday-bakery-easy-ride/">h
@@ -904,7 +1193,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316388049@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013501Z
+DTSTAMP:20260911T013416Z
 DTSTART;TZID=America/Los_Angeles:20260922T100000
 DTEND;TZID=America/Los_Angeles:20260922T110000
 SUMMARY:Gentle yoga
@@ -924,12 +1213,29 @@ LAST-MODIFIED:20260902T172313Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/yoga-at-the-vineyard-3/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260922T174500
+DTEND;TZID=America/Los_Angeles:20260922T184500
+DTSTAMP:20260910T173031Z
+CREATED:20260909T180051Z
+LAST-MODIFIED:20260910T173031Z
+UID:10003054-1790099100-1790102700@visitdavis.org
+SUMMARY:Yoga at the Vineyard
+DESCRIPTION:Beginner Yoga at the Vineyard in Davis Tuesday\, September 22 | 5:45–6:45 PMTicket Includes: Yoga ClassStart your week with fresh air\, gentle movement\, and beautiful vineyard views!Join us for a relaxing outdoor yoga class designed for all experience levels\, especially those new to yoga. Our professional instructors will guide you through the fundamentals with gentle stretches\, basic poses\, and mindful movement in a welcoming\, supportive setting.Surrounded by our organic vineyard\, wildflowers\, and peaceful morning scenery\, it’s the perfect way to stretch\, breathe\, and ease into your week.What to Bring:• Yoga mat• Towel• WaterCome stretch\, breathe\, and start your week the Great Bear way!
+URL:https://visitdavis.org/event/yoga-at-the-vineyard-3/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-ID:gcal_davisbikeclubwww
 X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20260923T090000
 DTEND;TZID=America/Los_Angeles:20260923T120000
 RRULE:FREQ=WEEKLY;BYDAY=WE
-DTSTAMP:20260910T013504Z
+DTSTAMP:20260911T013421Z
 UID:g9nqu9lm3td6tkhhpr4c97p4vo@google.com
 CREATED:20240829T224714Z
 DESCRIPTION:<a href="https://davisbikeclub.org/winters/">https://davisbikec
@@ -947,7 +1253,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20260924T090000
 DTEND;TZID=America/Los_Angeles:20260924T120000
 RRULE:FREQ=WEEKLY;BYDAY=TH
-DTSTAMP:20260910T013504Z
+DTSTAMP:20260911T013421Z
 UID:oka7s21j0q0n43c51u6m1a011d@google.com
 CREATED:20231017T210115Z
 DESCRIPTION:Ride Description: <a href="https://davisbikeclub.org/woodland-r
@@ -961,12 +1267,29 @@ SUMMARY:Woodland Ride
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/thursday-social-at-great-bear-vineyards-8/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260924T170000
+DTEND;TZID=America/Los_Angeles:20260924T200000
+DTSTAMP:20260910T173031Z
+CREATED:20260909T180051Z
+LAST-MODIFIED:20260910T173031Z
+UID:10003055-1790269200-1790280000@visitdavis.org
+SUMMARY:Thursday Social at Great Bear Vineyards
+DESCRIPTION:Thursday Social at Great Bear Vineyards in Davis   Thursday\, September 24 | 5–8 PMTicket Includes: Your First Glass of WineWe’re excited to kick off our new Thursday Socials—the perfect way to ease into the weekend a little early!Gather your friends\, leave work behind\, and join us for a relaxed summer evening of award-winning wine\, great conversation\, and a little friendly competition in the beautiful setting of Great Bear Vineyards.For $15\, your ticket includes your first glass of wine\, so all you have to do is find your favorite spot among the vines and settle in for the evening.Feeling competitive? We’ve got you covered! We’ll have a selection of classic board games available\, including chess\, draughts\, Bananagrams\, and dominos. Challenge your friends to a game\, meet someone new\, or simply sit back\, sip your wine\, and enjoy the vineyard atmosphere. Cheese and light snacks will be available for purchase\, or you’re welcome to bring your own picnic and make an evening of it.Whether you’re catching up with friends\, planning a casual date night\, or looking for a new weekly tradition\, Thursday Social is all about slowing down\, sharing good company\, and enjoying summer evenings at the vineyard.Good wine. Great friends. Beautiful vineyard views. We can’t wait to welcome you to Thursday Social!
+URL:https://visitdavis.org/event/thursday-social-at-great-bear-vineyards-8/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Highway128PressTrip_GreatBearVineyards_2024_MaxWhittaker_12-Copy-scaled-OoIRnT.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/316425793/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316425793@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013501Z
+DTSTAMP:20260911T013416Z
 DTSTART;TZID=America/Los_Angeles:20260924T180000
 DTEND;TZID=America/Los_Angeles:20260924T190000
 SUMMARY:Free Yoga Practice
@@ -1026,7 +1349,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20260925T090000
 DTEND;TZID=America/Los_Angeles:20260925T120000
 RRULE:FREQ=WEEKLY;BYDAY=FR
-DTSTAMP:20260910T013504Z
+DTSTAMP:20260911T013421Z
 UID:326g7l4hv9fr7qaqdk4jkn87v3@google.com
 CREATED:20240829T223911Z
 DESCRIPTION:<a href="https://davisbikeclub.org/dixon-donut-ride/">https://d
@@ -1044,7 +1367,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20260925T090000
 DTEND;TZID=America/Los_Angeles:20260925T113000
 RRULE:FREQ=WEEKLY;BYDAY=FR
-DTSTAMP:20260910T013504Z
+DTSTAMP:20260911T013421Z
 UID:altllj0a8uo5bv932vdvh26ulb@google.com
 CREATED:20241119T225931Z
 DESCRIPTION:Ride Description and contacts info page <a href="https://davisb
@@ -1059,6 +1382,40 @@ SEQUENCE:6
 STATUS:CONFIRMED
 SUMMARY:SOFT Ride
 TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/california-native-american-day/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20260925T100000
+DTEND;TZID=UTC:20260925T140000
+DTSTAMP:20260910T214309Z
+CREATED:20260910T210604Z
+LAST-MODIFIED:20260910T214309Z
+UID:10000729-1790330400-1790344800@hatefreetogether.org
+SUMMARY:California Native American Day
+DESCRIPTION:California Native American Day is an annual observance celebrating the cultures\, histories\, contributions and enduring presence of California’s Native peoples and Tribal Nations. UC Davis Native Affairs\, The Nest and UC Davis students will be participating and tabling at the California Native American Day celebration at the State Capitol. UC Davis Gorman Museum event page  California Native American Day . This is shared on our calendar as part of our collaboration with community partners who contribute to campus life.
+URL:https://hatefreetogether.org/event/california-native-american-day/
+LOCATION:California State Capitol\, 10th and L Street\, Sacramento\, CA\, 95814\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/2026-CNAD-Poster-scaled-1.png
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/the-folk-music-folks-and-cousins-maine-lobster/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260925T170000
+DTEND;TZID=America/Los_Angeles:20260925T203000
+DTSTAMP:20260910T173031Z
+CREATED:20260909T180051Z
+LAST-MODIFIED:20260910T173031Z
+UID:10003056-1790355600-1790368200@visitdavis.org
+SUMMARY:The Folk Music Folks and Cousins Maine Lobster
+DESCRIPTION:Live Music & Food Truck Friday in Davis  Friday\, September 25 | 5–8:30 PM\nThe weekend starts here! \nJoin us at the vineyard for an easygoing Friday evening filled with award-winning wines\, live music\, delicious seafood\, and beautiful vineyard views. Grab your friends\, grab a glass\, and settle in for a night of good food\, great music\, and plenty of time to relax. \n LIVE MUSIC | Folk Music Folks | 6–7:30 PMTake a musical journey around the world with Folk Music Folks\, playing lively folk tunes from different cultures and corners of the globe.  Their unique sound is the perfect soundtrack for a glass of wine and an evening under the vineyard sky.\n FOOD | Cousins Maine Lobster | 5–8:30 PMGet ready for a seafood feast! Cousins Maine Lobster will be serving up delicious lobster rolls and other seafood favorites.  Come hungry and make dinner part of your vineyard experience!\n MORE TO SNACK ONLooking for something to nibble on with your wine? We’ll also have cheese\, salami\, olives\, crackers\, and other snacks available for purchase.\n TICKET INCLUDES: One glass of wine Live music A beautiful evening at the vineyard\nBring your friends\, enjoy the views\, sip something delicious\, and let the weekend begin! Friday nights were made for wine\, music\, and good company.
+URL:https://visitdavis.org/event/the-folk-music-folks-and-cousins-maine-lobster/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Highway128PressTrip_GreatBearVineyards_2024_MaxWhittaker_12-Copy-scaled-OoIRnT.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/hope-cafe-connection/2026-09-25/"}
@@ -1078,12 +1435,62 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Hope-Cafe-8.20.26-9.25.26-Website-1-e1786573900885.png
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/live-the-melon-ball/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260925T200000
+DTEND;TZID=America/Los_Angeles:20260925T220000
+DTSTAMP:20260910T173031Z
+CREATED:20260808T173046Z
+LAST-MODIFIED:20260910T173031Z
+UID:10003020-1790366400-1790373600@visitdavis.org
+SUMMARY:Live @ The Melon Ball
+DESCRIPTION:Live music at The Melon Ball in Davis. \nJoin Laurin Hunter\, Brandon “someguyBran” Dominguez and David J. Brown for an evening of original music\, storytelling and collaboration. Blending influences that span jazz\, folk\, Americana\, pop\, rock\, soul and beyond\, each artist brings a distinct musical voice while sharing a passion for authentic live performance. Together\, they’ll present an evening of original songs\, fresh interpretations of timeless classics\, creativity and connection where every performance offers something unique.
+URL:https://visitdavis.org/event/live-the-melon-ball/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/DavidBrown-bHBMWs.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-88/2026-09-26/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260926T080000
+DTEND;TZID=America/Los_Angeles:20260926T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002930-1790409600-1790427600@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-09-26/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/yoga-at-the-vineyard-4/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260926T090000
+DTEND;TZID=America/Los_Angeles:20260926T100000
+DTSTAMP:20260910T173031Z
+CREATED:20260909T180051Z
+LAST-MODIFIED:20260910T173031Z
+UID:10003057-1790413200-1790416800@visitdavis.org
+SUMMARY:Yoga at the Vineyard
+DESCRIPTION:Beginner Yoga at the Vineyard in Davis  Saturday\, September 26 | 9:00–10:00 AMTicket Includes: Yoga ClassStart your weekend with fresh air\, gentle movement\, and beautiful vineyard views!Join us for a relaxing outdoor yoga class designed for all experience levels\, especially those new to yoga. Our professional instructors will guide you through the fundamentals with gentle stretches\, basic poses\, and mindful movement in a welcoming\, supportive setting.Surrounded by our organic vineyard\, wildflowers\, and peaceful morning scenery\, it’s the perfect way to stretch\, breathe\, and ease into your weekend.What to Bring:• Yoga mat• Towel• WaterCome stretch\, breathe\, and start your weekend the Great Bear way!
+URL:https://visitdavis.org/event/yoga-at-the-vineyard-4/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-ID:gcal_davisbikeclubwww
 X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20260926T100000
 DTEND;TZID=America/Los_Angeles:20260926T123000
 RRULE:FREQ=WEEKLY;BYDAY=SA
-DTSTAMP:20260910T013504Z
+DTSTAMP:20260911T013421Z
 UID:bvt9mhfc6aeiej4nm89f0c9glp@google.com
 CREATED:20260325T034347Z
 DESCRIPTION:<a href="https://www.google.com/url?q=https://davisbikeclub.org
@@ -1120,7 +1527,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316464090@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013501Z
+DTSTAMP:20260911T013416Z
 DTSTART;TZID=America/Los_Angeles:20260926T130000
 DTEND;TZID=America/Los_Angeles:20260926T143000
 SUMMARY:Healing Movement Practice
@@ -1157,7 +1564,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_316450801@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013459Z
+DTSTAMP:20260911T013415Z
 DTSTART;TZID=America/Los_Angeles:20260926T170000
 DTEND;TZID=America/Los_Angeles:20260926T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1196,7 +1603,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_316451309@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013459Z
+DTSTAMP:20260911T013415Z
 DTSTART;TZID=America/Los_Angeles:20260926T180000
 DTEND;TZID=America/Los_Angeles:20260926T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1235,7 +1642,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_316451765@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013459Z
+DTSTAMP:20260911T013415Z
 DTSTART;TZID=America/Los_Angeles:20260926T190000
 DTEND;TZID=America/Los_Angeles:20260926T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1274,7 +1681,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20260927T093000
 DTEND;TZID=America/Los_Angeles:20260927T120000
 RRULE:FREQ=WEEKLY;BYDAY=SU
-DTSTAMP:20260910T013504Z
+DTSTAMP:20260911T013421Z
 UID:gu903q1lhd8773bd8omu091c1l@google.com
 CREATED:20231017T161146Z
 DESCRIPTION:<a href="https://davisbikeclub.org/sunday-morning-no-drop-ride/
@@ -1288,12 +1695,46 @@ SUMMARY:Sunday No Drop Ride
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/taste-of-davis-and-yolo/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260927T180000
+DTEND;TZID=America/Los_Angeles:20260927T200000
+DTSTAMP:20260910T173033Z
+CREATED:20260805T180105Z
+LAST-MODIFIED:20260910T173033Z
+UID:10003015-1790532000-1790539200@visitdavis.org
+SUMMARY:Taste of Davis and Yolo
+DESCRIPTION:Enjoy a variety of outstanding foods\, wines\, desserts\, beer\, and more from multiple purveyors from throughout Yolo County! \nPlease join the Davis Odd Fellows as we host the popular “A Taste of Davis and Yolo.” This year’s event will feature an excellent collection of local purveyors of fine food\, wine\, beer\, and desserts all under one roof at one low price! The cost is just $20 in advance. Tickets are limited and this event will sell out\, so be sure to get yours ASAP! Note that you must be at least 21 years old to consume any alcoholic beverages. \nYour ticket allows you to sample eclectic and tasty food and beverages from purveyors on both floors of our beautiful hall. Our full list of purveyors is still being finalized\, but so far includes: Buckhorn Meat Co.\, Curry Kabab Paradise\, Davis Creamery\, Dunloe Brewing\, Great Bear Vineyards\, Hunan Bar & Restaurant\, L&L Hawaiian BBQ\, Mercado Davis\, Tommy J’s Grill & Catering\, and Turkovich Family Wines \nIn addition to showcasing local fare\, “A Taste of Davis and Yolo” is a fund-raising event to support the Davis Odd Fellows Lodge\, Meals on Wheels Yolo County  and STEAC. \nTickets on sale Now! \nhttps://davisoddfellowstoday2026.eventbrite.com/ \nWe thank Edward Jones and its employees as our Major Sponsor for the event\, as well as our many other individual and corporate sponsors for making this event possible!
+URL:https://visitdavis.org/event/taste-of-davis-and-yolo/
+LOCATION:Davis Odd Fellows Hall\, 415 2nd Street\, Davis\, 95616\, United States
+ATTACH;FMTTYPE=image/png:https://visitdavis.org/wp-content/uploads/2026-T-O-D-A-Y-FLYER-DRAFT-5-small-CxOJb6.png
+ORGANIZER;CN="Davis Odd Fellows":MAILTO:smartzgraphics@yahoo.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/september-open-mic-and-music-trivia/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis
+DTSTART;TZID=America/Los_Angeles:20260927T180000
+DTEND;TZID=America/Los_Angeles:20260927T200000
+DTSTAMP:20260910T173031Z
+CREATED:20260808T173047Z
+LAST-MODIFIED:20260910T173031Z
+UID:10003021-1790532000-1790539200@visitdavis.org
+SUMMARY:September Open Mic and Music Trivia
+DESCRIPTION:Welcome in the Fall with Watermelon Music’s September Open Mic & Music Trivia in Davis! \nWhether you’re looking for a venue to share your own talents or just looking to enjoy hearing (and seeing) some local performers\, we invite you to this free monthly event. We provide the sound\, stage and lights – the rest is up to you. Play us your favorite song\, tell us some jokes\, act out a scene from your favorite play with friends. \nWe will continue to feature our Music Trivia contest throughout the evening in between acts. The winner will receive a $20 Watermelon Music gift card! \nWe ask that each performance be suitable for an all-ages venue\, and that you arrive on time and stay until the end to support your fellow performers. \nFREE!!!\nDoors open/sign-ups @ 5:30.\nFirst act @ 6:00. \nPlease help support the Watermelon Music with your purchase of a drink or a snack at Open Mic!  Non-alcoholic drinks and pre-packaged snacks are available for sale at The Melon Ball.  (Cash or Venmo only) \nWe hope to see you there!
+URL:https://visitdavis.org/event/september-open-mic-and-music-trivia/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/watermelon-Music-Open-Mic-740-x-546-px-E7CTl2.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/316478012/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316478012@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013501Z
+DTSTAMP:20260911T013416Z
 DTSTART;TZID=America/Los_Angeles:20260928T180000
 DTEND;TZID=America/Los_Angeles:20260928T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1325,7 +1766,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316486343@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013501Z
+DTSTAMP:20260911T013416Z
 DTSTART;TZID=America/Los_Angeles:20260929T100000
 DTEND;TZID=America/Los_Angeles:20260929T110000
 SUMMARY:Gentle yoga
@@ -1345,12 +1786,12 @@ LAST-MODIFIED:20260909T173258Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/rwnqstyjcmbnc/"}
+X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/316507260/"}
 X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
-UID:event_rwnqstyjcmbnc@meetup.com
+UID:event_316507260@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013500Z
+DTSTAMP:20260911T013415Z
 DTSTART;TZID=America/Los_Angeles:20260930T170000
 DTEND;TZID=America/Los_Angeles:20260930T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1370,11 +1811,42 @@ DESCRIPTION:Yolo County Board Game Gathering\nUpdate 8/14/25:\n**We're sti
  m makes a mean pizza\, and there are other nearby downtown restaurants and
   businesses.
 URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
- ts/rwnqstyjcmbnc/
+ ts/316507260/
 STATUS:CONFIRMED
-CREATED:20250814T213526Z
-LAST-MODIFIED:20250814T213526Z
+CREATED:20260911T002727Z
+LAST-MODIFIED:20260911T002727Z
 CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/uc-davis-multicutural-calendar-october/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20260910T210734Z
+CREATED:20260910T210734Z
+LAST-MODIFIED:20260910T210734Z
+UID:10000730-1790812800-1793491199@hatefreetogether.org
+SUMMARY:UC Davis Multicutural Calendar - October
+DESCRIPTION:The Multicultural Calendar is a valuable tool for enhancing understanding\, and respect for religious and cultural observances.  It serves as a resource for students\, staff\, and faculty to plan events\, activities\, meetings\, retreats\, and courses throughout the year. Developed by the Office of Campus and Community Relations through research and community input\, we welcome contributions from community members to ensure its accuracy and comprehensiveness. 
+URL:https://hatefreetogether.org/event/uc-davis-multicutural-calendar-october/
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Candle.png
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/national-disability-employment-awareness-month-2026/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20260910T214400Z
+CREATED:20260910T214400Z
+LAST-MODIFIED:20260910T214400Z
+UID:10000731-1790812800-1793491199@hatefreetogether.org
+SUMMARY:National Disability Employment Awareness Month 2026
+DESCRIPTION:Since the 1970s\, National Disability Employment Awareness Month (NDEAM) has taken place every October. NDEAM reinforces the message across the U.S. that people with disabilities provide invaluable roles and perspectives to our diverse American workforce. \nThe Centers for Disease Control and Prevention (CDC) reports that one in four adults (at least 60 million) in the U.S. live with a disability. This statistic is based on what is reported\, however. So\, it’s possible that the number is higher than what is stated.
+URL:https://hatefreetogether.org/event/national-disability-employment-awareness-month-2026/
+CATEGORIES:Season of Connection
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/djusd-board-meetings/2026-10-01/"}
@@ -1398,7 +1870,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261003T090000
 DTEND;TZID=America/Los_Angeles:20261003T130000
 RRULE:FREQ=MONTHLY;BYDAY=1SA
-DTSTAMP:20260910T013504Z
+DTSTAMP:20260911T013421Z
 UID:kk3rtldg31tr45jc120vcm7vn4@google.com
 CREATED:20231017T204709Z
 DESCRIPTION:Ride Description <a href="https://davisbikeclub.org/3-bumps/">h
@@ -1416,7 +1888,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_vkccbvyjcnbfb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013459Z
+DTSTAMP:20260911T013415Z
 DTSTART;TZID=America/Los_Angeles:20261003T170000
 DTEND;TZID=America/Los_Angeles:20261003T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1471,7 +1943,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcnbkb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013500Z
+DTSTAMP:20260911T013415Z
 DTSTART;TZID=America/Los_Angeles:20261007T170000
 DTEND;TZID=America/Los_Angeles:20261007T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1530,7 +2002,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_316065700@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013500Z
+DTSTAMP:20260911T013416Z
 DTSTART;TZID=America/Los_Angeles:20261009T100000
 DTEND;TZID=America/Los_Angeles:20261009T114500
 SUMMARY:Healing Arts 6-Session Workshop
@@ -1565,7 +2037,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261010T090000
 DTEND;TZID=America/Los_Angeles:20261010T130000
 RRULE:FREQ=MONTHLY;BYDAY=2SA
-DTSTAMP:20260910T013504Z
+DTSTAMP:20260911T013421Z
 UID:no2an62sdfnbv3lbl0dk4l37so@google.com
 CREATED:20251104T152227Z
 DESCRIPTION:Check the DBC discussion group for updated start location and r
@@ -1583,7 +2055,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_315864641@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013500Z
+DTSTAMP:20260911T013416Z
 DTSTART;TZID=America/Los_Angeles:20261011T130000
 DTEND;TZID=America/Los_Angeles:20261011T153000
 SUMMARY:Stained Glass Workshop with Salty Bird Glass
@@ -1611,7 +2083,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstyjcnbsb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013500Z
+DTSTAMP:20260911T013415Z
 DTSTART;TZID=America/Los_Angeles:20261014T170000
 DTEND;TZID=America/Los_Angeles:20261014T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1643,7 +2115,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261017T090000
 DTEND;TZID=America/Los_Angeles:20261017T140000
 RRULE:FREQ=MONTHLY;BYDAY=3SA
-DTSTAMP:20260910T013504Z
+DTSTAMP:20260911T013421Z
 UID:50q7jpr6vmca2rgsqa3ltejtoe@google.com
 CREATED:20241017T171351Z
 DESCRIPTION:<a href="https://davisbikeclub.org/3rd-saturday-road-ride/" tar
@@ -1677,7 +2149,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjcnbcc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013500Z
+DTSTAMP:20260911T013415Z
 DTSTART;TZID=America/Los_Angeles:20261021T170000
 DTEND;TZID=America/Los_Angeles:20261021T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1767,12 +2239,29 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/IA-National-Gathering-226.jpg
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/voting-from-different-perspectives-studying-elections-across-disciplines/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261027T150000
+DTEND;TZID=UTC:20261027T160000
+DTSTAMP:20260910T205942Z
+CREATED:20260910T205942Z
+LAST-MODIFIED:20260910T205942Z
+UID:10000727-1793113200-1793116800@hatefreetogether.org
+SUMMARY:Voting from Different Perspectives: Studying Elections across Disciplines
+DESCRIPTION:Presented by Inclusive Excellence (Campus Community Book Project) \nThis panel brings together faculty from across UC Davis and UC Davis Health discuss their research on voting and elections within and between different disciplines as well as national and international contexts. The panel aims to share research\, advance research literacy\, and explore scholarly boundaries of expertise as well as areas for cross-pollination. \nPanelists will include: \n\nVikram D. Amar\, Daniel J. Dykstra Distinguished Professor of Law\nRuth Shim\, Director of Cultural Psychiatry and Luke & Grace Kim Professor in Cultural Psychiatry\, Psychiatry and Behavioral Sciences\nLauren Young\, Associate Professor and Director of Graduate Studies\, Political Science\nMegan Macklin (moderator)\, Director of Campus Climate and Inclusion Initiatives\, Office of Campus and Community Relations/Inclusive Excellence\n\nYou must register in advance for this event.
+URL:https://hatefreetogether.org/event/voting-from-different-perspectives-studying-elections-across-disciplines/
+LOCATION:Virtual
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Books.jpg
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/rwnqstyjcnblc/"}
 X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcnblc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013500Z
+DTSTAMP:20260911T013415Z
 DTSTART;TZID=America/Los_Angeles:20261028T170000
 DTEND;TZID=America/Los_Angeles:20261028T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1832,12 +2321,27 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Dia-De-Muertos-2026.jpg
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/uc-davis-multicultural-calendar-november-2026/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20260910T214501Z
+CREATED:20260910T214501Z
+LAST-MODIFIED:20260910T214501Z
+UID:10000732-1793491200-1796083199@hatefreetogether.org
+SUMMARY:UC Davis Multicultural Calendar - November 2026
+DESCRIPTION:The Multicultural Calendar is a valuable tool for enhancing understanding\, and respect for religious and cultural observances.  It serves as a resource for students\, staff\, and faculty to plan events\, activities\, meetings\, retreats\, and courses throughout the year. Developed by the Office of Campus and Community Relations through research and community input\, we welcome contributions from community members to ensure its accuracy and comprehensiveness.  \nFor the list\, visit: https://excellence.ucdavis.edu/events/multicultural-calendar-november-2026.
+URL:https://hatefreetogether.org/event/uc-davis-multicultural-calendar-november-2026/
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Candle.png
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/mxnqstyjcpbgb/"}
 X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcpbgb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013500Z
+DTSTAMP:20260911T013415Z
 DTSTART;TZID=America/Los_Angeles:20261104T170000
 DTEND;TZID=America/Los_Angeles:20261104T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1946,7 +2450,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstyjcpbpb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013500Z
+DTSTAMP:20260911T013415Z
 DTSTART;TZID=America/Los_Angeles:20261111T170000
 DTEND;TZID=America/Los_Angeles:20261111T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1978,7 +2482,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjcpbxb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260910T013500Z
+DTSTAMP:20260911T013415Z
 DTSTART;TZID=America/Los_Angeles:20261118T170000
 DTEND;TZID=America/Los_Angeles:20261118T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2021,6 +2525,38 @@ LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, U
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/rwnqstyjcpbhc/"}
+X-SOURCE-ID:meetup_yolo_county_board_game_gathering
+X-SOURCE:Meetup Yolo County Board Game Gathering
+UID:event_rwnqstyjcpbhc@meetup.com
+SEQUENCE:1
+DTSTAMP:20260911T013415Z
+DTSTART;TZID=America/Los_Angeles:20261125T170000
+DTEND;TZID=America/Los_Angeles:20261125T210000
+SUMMARY:Weekly Game Night at Blue Note
+DESCRIPTION:Yolo County Board Game Gathering\nUpdate 8/14/25:\n**We're sti
+ ll active**\, but we primarily use Discord to chat and plan events. (See g
+ roup description for invite link.)\n\nWe still meet every Wednesday for bo
+ ard games at Blue Note Brewing Company. We'll have a handful of tables res
+ erved near the back\; just look for the pile of board games.\n\nPeople usu
+ ally start arriving around 5pm\, and games start whenever people are ready
+ . Blue Note closes at 9pm\, and although we have a 5-10 minute grace perio
+ d there\, you should be in the process of final scoring by 9\, or else pac
+ k it up and play again another day.\n\nGame night is open to all ages! Blu
+ e Note is a brewery\, not a bar\, so there's no restriction against minors
+ . In addition to their crafted-in-house beer selection\, water and sodas a
+ re available.\n\nYou're not required to buy anything in order to join us\,
+  but we do encourage you to support local businesses. Blue Note's chef tea
+ m makes a mean pizza\, and there are other nearby downtown restaurants and
+  businesses.
+URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
+ ts/rwnqstyjcpbhc/
+STATUS:CONFIRMED
+CREATED:20250814T213526Z
+LAST-MODIFIED:20250814T213526Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/human-relations-commission-meetings/2026-11-26/"}
 X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
@@ -2035,85 +2571,5 @@ DESCRIPTION:The Davis Human Relations Commission (HRC) meetings aim to promote m
 URL:https://hatefreetogether.org/event/human-relations-commission-meetings/2026-11-26/
 LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/humanrelations_ci_SACHA_CHICKERING-scaled-e1777049624821.webp
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-03/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261203T183000
-DTEND;TZID=UTC:20261203T200000
-DTSTAMP:20260424T163204Z
-CREATED:20260424T163204Z
-LAST-MODIFIED:20260424T163204Z
-UID:10000372-1796322600-1796328000@hatefreetogether.org
-SUMMARY:Davis City Council Meetings
-DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
-URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-03/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/djusd-board-meetings/2026-12-03/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261203T183000
-DTEND;TZID=UTC:20261203T200000
-DTSTAMP:20260424T172314Z
-CREATED:20260424T172126Z
-LAST-MODIFIED:20260424T172314Z
-UID:10000563-1796322600-1796328000@hatefreetogether.org
-SUMMARY:DJUSD Board Meetings
-DESCRIPTION:DJUSD Board meetings offer insight on how the school district remains responsive to the community’s values\, beliefs\, and priorities. The Board meetings occur on every first and third Thursday\, in the City of Davis Community Chambers. 23 Russell Boulevard. Public session starts at 6:30 PM.  Meetings are cablecast live on Channel 17 (Comcast) or streamed on the DJUSD-TV website. \n  \nThe Davis Joint Unified School District’s Board of Education is comprised of five community members\, responsible for setting district policy\, approving the budget\, and hiring the superintendent for schools in Davis\, California. The agendas for the meetings are posted at least 72 hours in advance. \n  \nFor more information on special meetings\, agendas\, public comment\, and more\, visit the DJUSD Board site.
-URL:https://hatefreetogether.org/event/djusd-board-meetings/2026-12-03/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/499036487_1275464707915844_5079899038399820181_n.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-17/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261217T183000
-DTEND;TZID=UTC:20261217T200000
-DTSTAMP:20260424T163204Z
-CREATED:20260424T163204Z
-LAST-MODIFIED:20260424T163204Z
-UID:10000373-1797532200-1797537600@hatefreetogether.org
-SUMMARY:Davis City Council Meetings
-DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
-URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-17/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/human-relations-commission-meetings/2026-12-24/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261224T183000
-DTEND;TZID=UTC:20261224T200000
-DTSTAMP:20260424T165540Z
-CREATED:20260424T165540Z
-LAST-MODIFIED:20260424T165540Z
-UID:10000494-1798137000-1798142400@hatefreetogether.org
-SUMMARY:Human Relations Commission Meetings
-DESCRIPTION:The Davis Human Relations Commission (HRC) meetings aim to promote mutual respect\, understanding\, justice\, and advancing the human rights of all people. The Human Relations Commission meets on the fourth Thursday of each month at 6:30 p.m. The Commission takes a recess in July (no meeting in July). \n  \nMeetings take place in the Community Chambers at City Hall\, 23 Russell Boulevard. For more information on meetings\, membership\, resolutions\, and more\, visit the Human Relations Commission site. \n  \nThe HRC makes recommendations around equity and discrimination in the City\, and supports the City in preventing and addressing discrimination while promoting diversity\, equality\, and justice relevant to the goals and policies of the City Council. \n  \nTo contact or send emails to the commission\, email: HRC@cityofdavis.org
-URL:https://hatefreetogether.org/event/human-relations-commission-meetings/2026-12-24/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/humanrelations_ci_SACHA_CHICKERING-scaled-e1777049624821.webp
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-31/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261231T183000
-DTEND;TZID=UTC:20261231T200000
-DTSTAMP:20260424T163204Z
-CREATED:20260424T163204Z
-LAST-MODIFIED:20260424T163204Z
-UID:10000374-1798741800-1798747200@hatefreetogether.org
-SUMMARY:Davis City Council Meetings
-DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
-URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-31/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
 END:VEVENT
 END:VCALENDAR

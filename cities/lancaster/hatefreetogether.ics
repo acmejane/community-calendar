@@ -19,17 +19,17 @@ DTSTART:20250101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=UTC:20260910T183000
-DTEND;TZID=UTC:20260910T200000
-DTSTAMP:20260424T163204Z
-CREATED:20260424T163204Z
-LAST-MODIFIED:20260424T163204Z
-UID:10000366-1789065000-1789070400@hatefreetogether.org
-SUMMARY:Davis City Council Meetings
-DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
-URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-09-10/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20261016
+DTSTAMP:20260910T214225Z
+CREATED:20260910T210210Z
+LAST-MODIFIED:20260910T214225Z
+UID:10000728-1789430400-1792108799@hatefreetogether.org
+SUMMARY:Latinx Heritage Month 2026
+DESCRIPTION:September 15th to October 15th marks the national celebration of Latinx Heritage Month! Join UC Davis in celebrating the cultural\, linguistic and historical diversity of the community. For programming\, visit: https://excellence.ucdavis.edu/events/latinx-heritage-month-2026.
+URL:https://hatefreetogether.org/event/latinx-heritage-month-2026/
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Ballet-Folklorico-UCD.png
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20260915T173000
@@ -85,6 +85,20 @@ LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, U
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/humanrelations_ci_SACHA_CHICKERING-scaled-e1777049624821.webp
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=UTC:20260925T100000
+DTEND;TZID=UTC:20260925T140000
+DTSTAMP:20260910T214309Z
+CREATED:20260910T210604Z
+LAST-MODIFIED:20260910T214309Z
+UID:10000729-1790330400-1790344800@hatefreetogether.org
+SUMMARY:California Native American Day
+DESCRIPTION:California Native American Day is an annual observance celebrating the cultures\, histories\, contributions and enduring presence of California’s Native peoples and Tribal Nations. UC Davis Native Affairs\, The Nest and UC Davis students will be participating and tabling at the California Native American Day celebration at the State Capitol. UC Davis Gorman Museum event page  California Native American Day . This is shared on our calendar as part of our collaboration with community partners who contribute to campus life.
+URL:https://hatefreetogether.org/event/california-native-american-day/
+LOCATION:California State Capitol\, 10th and L Street\, Sacramento\, CA\, 95814\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/2026-CNAD-Poster-scaled-1.png
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=UTC:20260925T183000
 DTEND;TZID=UTC:20260925T210000
 DTSTAMP:20260812T230429Z
@@ -111,6 +125,31 @@ URL:https://hatefreetogether.org/event/peace-picnic/
 LOCATION:Fern Park\, 750 West Southwood Drive\, Woodland\, 95695\, United States
 CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/avif:https://hatefreetogether.org/wp-content/uploads/peace-picnic-3-J9prwNf86BatX8gk-e1786575310940.avif
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20260910T210734Z
+CREATED:20260910T210734Z
+LAST-MODIFIED:20260910T210734Z
+UID:10000730-1790812800-1793491199@hatefreetogether.org
+SUMMARY:UC Davis Multicutural Calendar - October
+DESCRIPTION:The Multicultural Calendar is a valuable tool for enhancing understanding\, and respect for religious and cultural observances.  It serves as a resource for students\, staff\, and faculty to plan events\, activities\, meetings\, retreats\, and courses throughout the year. Developed by the Office of Campus and Community Relations through research and community input\, we welcome contributions from community members to ensure its accuracy and comprehensiveness. 
+URL:https://hatefreetogether.org/event/uc-davis-multicutural-calendar-october/
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Candle.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20260910T214400Z
+CREATED:20260910T214400Z
+LAST-MODIFIED:20260910T214400Z
+UID:10000731-1790812800-1793491199@hatefreetogether.org
+SUMMARY:National Disability Employment Awareness Month 2026
+DESCRIPTION:Since the 1970s\, National Disability Employment Awareness Month (NDEAM) has taken place every October. NDEAM reinforces the message across the U.S. that people with disabilities provide invaluable roles and perspectives to our diverse American workforce. \nThe Centers for Disease Control and Prevention (CDC) reports that one in four adults (at least 60 million) in the U.S. live with a disability. This statistic is based on what is reported\, however. So\, it’s possible that the number is higher than what is stated.
+URL:https://hatefreetogether.org/event/national-disability-employment-awareness-month-2026/
+CATEGORIES:Season of Connection
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20261001T183000
@@ -230,6 +269,20 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/IA-National-Gathering-226.jpg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=UTC:20261027T150000
+DTEND;TZID=UTC:20261027T160000
+DTSTAMP:20260910T205942Z
+CREATED:20260910T205942Z
+LAST-MODIFIED:20260910T205942Z
+UID:10000727-1793113200-1793116800@hatefreetogether.org
+SUMMARY:Voting from Different Perspectives: Studying Elections across Disciplines
+DESCRIPTION:Presented by Inclusive Excellence (Campus Community Book Project) \nThis panel brings together faculty from across UC Davis and UC Davis Health discuss their research on voting and elections within and between different disciplines as well as national and international contexts. The panel aims to share research\, advance research literacy\, and explore scholarly boundaries of expertise as well as areas for cross-pollination. \nPanelists will include: \n\nVikram D. Amar\, Daniel J. Dykstra Distinguished Professor of Law\nRuth Shim\, Director of Cultural Psychiatry and Luke & Grace Kim Professor in Cultural Psychiatry\, Psychiatry and Behavioral Sciences\nLauren Young\, Associate Professor and Director of Graduate Studies\, Political Science\nMegan Macklin (moderator)\, Director of Campus Climate and Inclusion Initiatives\, Office of Campus and Community Relations/Inclusive Excellence\n\nYou must register in advance for this event.
+URL:https://hatefreetogether.org/event/voting-from-different-perspectives-studying-elections-across-disciplines/
+LOCATION:Virtual
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Books.jpg
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261103
 DTSTAMP:20260901T215508Z
@@ -255,6 +308,18 @@ URL:https://hatefreetogether.org/event/dia-de-muertos/
 LOCATION:Hansen Family Health Center\, 215 W. Beamer Street\, Woodland\, CA\, 95695
 CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Dia-De-Muertos-2026.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20260910T214501Z
+CREATED:20260910T214501Z
+LAST-MODIFIED:20260910T214501Z
+UID:10000732-1793491200-1796083199@hatefreetogether.org
+SUMMARY:UC Davis Multicultural Calendar - November 2026
+DESCRIPTION:The Multicultural Calendar is a valuable tool for enhancing understanding\, and respect for religious and cultural observances.  It serves as a resource for students\, staff\, and faculty to plan events\, activities\, meetings\, retreats\, and courses throughout the year. Developed by the Office of Campus and Community Relations through research and community input\, we welcome contributions from community members to ensure its accuracy and comprehensiveness.  \nFor the list\, visit: https://excellence.ucdavis.edu/events/multicultural-calendar-november-2026.
+URL:https://hatefreetogether.org/event/uc-davis-multicultural-calendar-november-2026/
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Candle.png
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20261105T183000
@@ -349,70 +414,5 @@ DESCRIPTION:The Davis Human Relations Commission (HRC) meetings aim to promote m
 URL:https://hatefreetogether.org/event/human-relations-commission-meetings/2026-11-26/
 LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/humanrelations_ci_SACHA_CHICKERING-scaled-e1777049624821.webp
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261203T183000
-DTEND;TZID=UTC:20261203T200000
-DTSTAMP:20260424T163204Z
-CREATED:20260424T163204Z
-LAST-MODIFIED:20260424T163204Z
-UID:10000372-1796322600-1796328000@hatefreetogether.org
-SUMMARY:Davis City Council Meetings
-DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
-URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-03/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261203T183000
-DTEND;TZID=UTC:20261203T200000
-DTSTAMP:20260424T172314Z
-CREATED:20260424T172126Z
-LAST-MODIFIED:20260424T172314Z
-UID:10000563-1796322600-1796328000@hatefreetogether.org
-SUMMARY:DJUSD Board Meetings
-DESCRIPTION:DJUSD Board meetings offer insight on how the school district remains responsive to the community’s values\, beliefs\, and priorities. The Board meetings occur on every first and third Thursday\, in the City of Davis Community Chambers. 23 Russell Boulevard. Public session starts at 6:30 PM.  Meetings are cablecast live on Channel 17 (Comcast) or streamed on the DJUSD-TV website. \n  \nThe Davis Joint Unified School District’s Board of Education is comprised of five community members\, responsible for setting district policy\, approving the budget\, and hiring the superintendent for schools in Davis\, California. The agendas for the meetings are posted at least 72 hours in advance. \n  \nFor more information on special meetings\, agendas\, public comment\, and more\, visit the DJUSD Board site.
-URL:https://hatefreetogether.org/event/djusd-board-meetings/2026-12-03/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/499036487_1275464707915844_5079899038399820181_n.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261217T183000
-DTEND;TZID=UTC:20261217T200000
-DTSTAMP:20260424T163204Z
-CREATED:20260424T163204Z
-LAST-MODIFIED:20260424T163204Z
-UID:10000373-1797532200-1797537600@hatefreetogether.org
-SUMMARY:Davis City Council Meetings
-DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
-URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-17/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261224T183000
-DTEND;TZID=UTC:20261224T200000
-DTSTAMP:20260424T165540Z
-CREATED:20260424T165540Z
-LAST-MODIFIED:20260424T165540Z
-UID:10000494-1798137000-1798142400@hatefreetogether.org
-SUMMARY:Human Relations Commission Meetings
-DESCRIPTION:The Davis Human Relations Commission (HRC) meetings aim to promote mutual respect\, understanding\, justice\, and advancing the human rights of all people. The Human Relations Commission meets on the fourth Thursday of each month at 6:30 p.m. The Commission takes a recess in July (no meeting in July). \n  \nMeetings take place in the Community Chambers at City Hall\, 23 Russell Boulevard. For more information on meetings\, membership\, resolutions\, and more\, visit the Human Relations Commission site. \n  \nThe HRC makes recommendations around equity and discrimination in the City\, and supports the City in preventing and addressing discrimination while promoting diversity\, equality\, and justice relevant to the goals and policies of the City Council. \n  \nTo contact or send emails to the commission\, email: HRC@cityofdavis.org
-URL:https://hatefreetogether.org/event/human-relations-commission-meetings/2026-12-24/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/humanrelations_ci_SACHA_CHICKERING-scaled-e1777049624821.webp
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261231T183000
-DTEND;TZID=UTC:20261231T200000
-DTSTAMP:20260424T163204Z
-CREATED:20260424T163204Z
-LAST-MODIFIED:20260424T163204Z
-UID:10000374-1798741800-1798747200@hatefreetogether.org
-SUMMARY:Davis City Council Meetings
-DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
-URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-31/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
 END:VEVENT
 END:VCALENDAR
