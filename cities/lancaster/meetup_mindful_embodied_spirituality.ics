@@ -25,34 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_316222082@meetup.com
-SEQUENCE:1
-DTSTAMP:20260911T013416Z
-DTSTART;TZID=America/Los_Angeles:20260910T180000
-DTEND;TZID=America/Los_Angeles:20260910T190000
-SUMMARY:Free Yoga Practice
-DESCRIPTION:Iama Embodied Community\n🌀 **Move with intention. Connect w
- ith your body. Celebrate community.**\n\nJoin us every **Thursday at 6 PM*
- * for an embodied yoga practice designed to help you release tension\, gro
- und yourself\, and cultivate presence. This is a trauma-informed\, all-lev
- els class\, no prior yoga experience needed. Expect a Hatha-Vinyasa flow\,
-  breathwork\, and a space to listen to your body’s wisdom.\n\n🌿 **Eve
- ry last Thursday of the month\, stay after class for a community potluck d
- inner!**\n\n📍 **Location**: 727 T St. Sacramento CA 95811\n✨ **All ou
- r events are free. Donations are welcome.**\n📩 **Questions? Reach out a
- t** embody.iama@gmail.com\n🔗 **Follow us on Instagram:** [@embody.iama]
- (https://www.instagram.com/embody.iama)
-URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
- 316222082/
-STATUS:CONFIRMED
-CREATED:20260822T011611Z
-LAST-MODIFIED:20260822T011611Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:event_316248662@meetup.com
 SEQUENCE:1
-DTSTAMP:20260911T013416Z
+DTSTAMP:20260912T014024Z
 DTSTART;TZID=America/Los_Angeles:20260914T180000
 DTEND;TZID=America/Los_Angeles:20260914T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -81,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316284019@meetup.com
 SEQUENCE:1
-DTSTAMP:20260911T013416Z
+DTSTAMP:20260912T014024Z
 DTSTART;TZID=America/Los_Angeles:20260915T100000
 DTEND;TZID=America/Los_Angeles:20260915T110000
 SUMMARY:Gentle yoga
@@ -103,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316321063@meetup.com
 SEQUENCE:1
-DTSTAMP:20260911T013416Z
+DTSTAMP:20260912T014024Z
 DTSTART;TZID=America/Los_Angeles:20260917T180000
 DTEND;TZID=America/Los_Angeles:20260917T190000
 SUMMARY:Free Yoga Practice
@@ -128,7 +103,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316379339@meetup.com
 SEQUENCE:1
-DTSTAMP:20260911T013416Z
+DTSTAMP:20260912T014024Z
 DTSTART;TZID=America/Los_Angeles:20260921T180000
 DTEND;TZID=America/Los_Angeles:20260921T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -157,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316388049@meetup.com
 SEQUENCE:1
-DTSTAMP:20260911T013416Z
+DTSTAMP:20260912T014024Z
 DTSTART;TZID=America/Los_Angeles:20260922T100000
 DTEND;TZID=America/Los_Angeles:20260922T110000
 SUMMARY:Gentle yoga
@@ -179,7 +154,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316425793@meetup.com
 SEQUENCE:1
-DTSTAMP:20260911T013416Z
+DTSTAMP:20260912T014024Z
 DTSTART;TZID=America/Los_Angeles:20260924T180000
 DTEND;TZID=America/Los_Angeles:20260924T190000
 SUMMARY:Free Yoga Practice
@@ -204,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316464090@meetup.com
 SEQUENCE:1
-DTSTAMP:20260911T013416Z
+DTSTAMP:20260912T014024Z
 DTSTART;TZID=America/Los_Angeles:20260926T130000
 DTEND;TZID=America/Los_Angeles:20260926T143000
 SUMMARY:Healing Movement Practice
@@ -238,7 +213,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316478012@meetup.com
 SEQUENCE:1
-DTSTAMP:20260911T013416Z
+DTSTAMP:20260912T014024Z
 DTSTART;TZID=America/Los_Angeles:20260928T180000
 DTEND;TZID=America/Los_Angeles:20260928T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -267,7 +242,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316486343@meetup.com
 SEQUENCE:1
-DTSTAMP:20260911T013416Z
+DTSTAMP:20260912T014024Z
 DTSTART;TZID=America/Los_Angeles:20260929T100000
 DTEND;TZID=America/Los_Angeles:20260929T110000
 SUMMARY:Gentle yoga
@@ -284,6 +259,44 @@ URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
 STATUS:CONFIRMED
 CREATED:20260909T173258Z
 LAST-MODIFIED:20260909T173258Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:event_316464111@meetup.com
+SEQUENCE:1
+DTSTAMP:20260912T014024Z
+DTSTART;TZID=America/Los_Angeles:20260929T180000
+DTEND;TZID=America/Los_Angeles:20260929T200000
+SUMMARY:Talk Theology to Me: Questions about Faith & Life
+DESCRIPTION:Iama Embodied Community\nWhat questions about faith\, God\, Sc
+ ripture\, or spirituality have you been carrying around?\n\n**Talk Theolog
+ y to Me** is an informal\, discussion-based gathering for anyone who is cu
+ rious about faith and the questions that shape our lives. No theological d
+ egree—or even a fully formed belief system—is required. Just bring you
+ r questions and your willingness to listen and explore.\nTogether\, we’l
+ l have a facilitated conversation drawing from **Scripture\, theology\, an
+ d lived experience**. We’ll make room for curiosity\, uncertainty\, diff
+ erent perspectives\, and the kinds of questions that don’t always have e
+ asy answers.\n\n### What to expect\n\n* A welcoming\, low-pressure convers
+ ation\n* Space to ask honest questions about faith and spirituality\n* Ref
+ lection on Scripture and our own lived experiences\n* Respect for differen
+ t perspectives and places in the faith journey\n* An opportunity to connec
+ t with others in a meaningful way\n\nThis is a space for exploration rathe
+ r than debate. You don’t need to have all the answers—in fact\, questi
+ ons are encouraged.\n**📅 Tuesday\, September 29**\n**🕕 6:00–8:00 P
+ M**\n\nCome curious. Come as you are. Bring a question—or just come list
+ en.\n\n### About the Facilitator\n\n**Rola** is an ordained Presbyterian m
+ inister\, yoga teacher\, and trauma-informed practitioner whose approach t
+ o spirituality is progressive\, universalist\, and inclusive. She believes
+  faith should serve the growth and flourishing of human beings—not limit
+  them—and is passionate about creating spaces where people can bring the
+ ir questions\, experiences\, doubts\, and hopes without fear of judgment.\
+ nP.S. This meeting is not about teaching any particular faith.
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ 316464111/
+STATUS:CONFIRMED
+CREATED:20260908T001524Z
+LAST-MODIFIED:20260908T001524Z
 CLASS:PUBLIC
 END:VEVENT
 X-ORIGINAL-URL:https://www.meetup.com/mindful-embodied-spirituality/events
