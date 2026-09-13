@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T01:40:29.153476",
+  "generated": "2026-09-13T01:30:56.093145",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34675,6 +34675,10 @@
             {
               "date": "2026-09-12",
               "count": 12
+            },
+            {
+              "date": "2026-09-13",
+              "count": 13
             }
           ]
         },
@@ -35426,6 +35430,10 @@
             },
             {
               "date": "2026-09-12",
+              "count": 30
+            },
+            {
+              "date": "2026-09-13",
               "count": 30
             }
           ]
@@ -36179,6 +36187,10 @@
             {
               "date": "2026-09-12",
               "count": 1
+            },
+            {
+              "date": "2026-09-13",
+              "count": 1
             }
           ]
         },
@@ -36930,6 +36942,10 @@
             },
             {
               "date": "2026-09-12",
+              "count": 10
+            },
+            {
+              "date": "2026-09-13",
               "count": 10
             }
           ]
@@ -37683,6 +37699,10 @@
             {
               "date": "2026-09-12",
               "count": 10
+            },
+            {
+              "date": "2026-09-13",
+              "count": 10
             }
           ]
         },
@@ -38434,6 +38454,10 @@
             },
             {
               "date": "2026-09-12",
+              "count": 10
+            },
+            {
+              "date": "2026-09-13",
               "count": 10
             }
           ]
@@ -39187,6 +39211,10 @@
             {
               "date": "2026-09-12",
               "count": 2
+            },
+            {
+              "date": "2026-09-13",
+              "count": 2
             }
           ]
         },
@@ -39938,6 +39966,10 @@
             },
             {
               "date": "2026-09-12",
+              "count": 0
+            },
+            {
+              "date": "2026-09-13",
               "count": 0
             }
           ]
@@ -40691,6 +40723,10 @@
             {
               "date": "2026-09-12",
               "count": 10
+            },
+            {
+              "date": "2026-09-13",
+              "count": 10
             }
           ]
         },
@@ -41442,6 +41478,10 @@
             },
             {
               "date": "2026-09-12",
+              "count": 0
+            },
+            {
+              "date": "2026-09-13",
               "count": 0
             }
           ]
@@ -42195,6 +42235,10 @@
             {
               "date": "2026-09-12",
               "count": 0
+            },
+            {
+              "date": "2026-09-13",
+              "count": 0
             }
           ]
         },
@@ -42946,6 +42990,10 @@
             },
             {
               "date": "2026-09-12",
+              "count": 0
+            },
+            {
+              "date": "2026-09-13",
               "count": 0
             }
           ]
@@ -43699,6 +43747,10 @@
             {
               "date": "2026-09-12",
               "count": 0
+            },
+            {
+              "date": "2026-09-13",
+              "count": 0
             }
           ]
         }
@@ -43709,16 +43761,16 @@
           "count": 23
         },
         {
-          "category": "Education / Workshops",
-          "count": 12
-        },
-        {
           "category": "Nature / Outdoors / Recreation",
           "count": 12
         },
         {
           "category": "Government / Civic",
           "count": 11
+        },
+        {
+          "category": "Education / Workshops",
+          "count": 10
         },
         {
           "category": "Health / Wellness",
@@ -43729,16 +43781,20 @@
           "count": 5
         },
         {
-          "category": "Music / Concerts",
-          "count": 4
-        },
-        {
           "category": "Religion / Spirituality",
           "count": 4
         },
         {
           "category": "Food / Drink",
-          "count": 2
+          "count": 3
+        },
+        {
+          "category": "Music / Concerts",
+          "count": 3
+        },
+        {
+          "category": "Sports / Fitness",
+          "count": 1
         },
         {
           "category": "Family / Kids",
@@ -43750,7 +43806,7 @@
         }
       ],
       "images": {
-        "total": 83,
+        "total": 82,
         "with_image": 27,
         "by_source": [
           {
@@ -43761,9 +43817,9 @@
         ]
       },
       "url_quality": {
-        "total_with_url": 71,
-        "total_events": 83,
-        "unique_urls": 71,
+        "total_with_url": 69,
+        "total_events": 82,
+        "unique_urls": 69,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
@@ -43789,20 +43845,20 @@
           },
           {
             "source": "Meetup: Mosaics",
-            "events": 8,
-            "unique_urls": 8,
+            "events": 6,
+            "unique_urls": 6,
             "specificity_pct": 100
           },
           {
             "source": "Meetup Intercultural Mosaics",
-            "events": 8,
-            "unique_urls": 8,
+            "events": 6,
+            "unique_urls": 6,
             "specificity_pct": 100
           },
           {
             "source": "Meetup Intercultural Mosaics, Meetup: Mosaics",
-            "events": 2,
-            "unique_urls": 2,
+            "events": 4,
+            "unique_urls": 4,
             "specificity_pct": 100
           },
           {
