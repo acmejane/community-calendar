@@ -63,33 +63,6 @@ ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Great-Bear-Vi
 ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260913T173000
-DTEND;TZID=America/Los_Angeles:20260913T203000
-DTSTAMP:20260813T194113Z
-CREATED:20260813T194113Z
-LAST-MODIFIED:20260813T194113Z
-UID:10014702-1789320600-1789331400@visityolo.com
-SUMMARY:Live Music at Carboni's Ristorante
-DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
-URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-09-13/
-LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
-ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260913T184500
-DTEND;TZID=America/Los_Angeles:20260913T203000
-DTSTAMP:20260717T171052Z
-CREATED:20260602T164936Z
-LAST-MODIFIED:20260717T171052Z
-UID:10010546-1789325100-1789331400@visityolo.com
-SUMMARY:Bat Talk and Tour
-DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
-URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-09-13/
-LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
-ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260914T184500
 DTEND;TZID=America/Los_Angeles:20260914T203000
 DTSTAMP:20260717T171052Z
@@ -453,5 +426,33 @@ URL:https://visityolo.com/event/art-in-action-flying-birds-mobile/
 LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Art-in-Action-Banner-MB.jpg
 ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260920T140000
+DTEND;TZID=America/Los_Angeles:20260920T163000
+DTSTAMP:20260811T230944Z
+CREATED:20260810T230052Z
+LAST-MODIFIED:20260811T230944Z
+UID:10014629-1789912800-1789921800@visityolo.com
+SUMMARY:Davis Musical Theatre Presents The Addams Family
+DESCRIPTION:Davis Musical Theatre Presents: The Addams Family Musical \nA comical feast that embraces the wackiness in every family\, features an original story and a dilemma that’s every father’s nightmare: Wednesday Addams\, the ultimate princess of darkness\, has grown up and fallen in love with a sweet\, smart young man from a respectable family whom her parents have never met. She confides in her father and begs him not to tell her mother. Now\, Gomez Addams must do something he’s never done before– keep a secret from his beloved wife\, Morticia. Everything will change for the whole family on the fateful night they host a dinner for Wednesday’s “normal” boyfriend and his parents.
+URL:https://visityolo.com/event/the-addams-family-musical/2026-09-20/
+LOCATION:CA
+ATTACH;FMTTYPE=image/png:https://visityolo.com/wp-content/uploads/Addams-Family.png
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260920T150000
+DTEND;TZID=America/Los_Angeles:20260920T170000
+DTSTAMP:20260818T195105Z
+CREATED:20260818T195105Z
+LAST-MODIFIED:20260818T195105Z
+UID:10014693-1789916400-1789923600@visityolo.com
+SUMMARY:A Hands-On Collaborative Ceramic Installation
+DESCRIPTION:Join ceramic artist Pinar Brummer for a hands-on\, community-led gathering at International House Davis\, in two parts. Together\, we’ll shape a collaborative tree sculpture\, then slow down to hand-build our own small ceramic pieces. No experience needed\, just a willingness to show up\, get elemental\, and tap into some childlike joy. \nPinar opens the gathering with her own story\, her journey from Türkiye to Davis\, and how it inspired this project\, before inviting you to get your hands in the clay and be your childlike self. \nPart One: The Tree. Everything you touch\, touches you is a reflection on togetherness\, on how we’re not just observers but active participants in a shared experience\, connected to each other and the world around us. At the heart of the gathering is an incomplete ceramic tree\, hand-built by Pinar\, waiting for your mark. You’ll shape a clay leaf to join it\, no skill required\, each one becoming part of a lasting\, collective piece. \nPart Two: The Tea Cup. Pinar will guide you through hand-building a small\, imperfect tea cup\, a slow\, meditative practice that celebrates flaws rather than smoothing them away. \nThe finished tree will be on display at International House for several weeks\, then celebrated at a Reveal Party where you’ll see how everyone’s marks came together into one collective piece. \nCome ready to get your hands dirty and leave a piece of yourself behind. This is a sensory\, emotional experience that gets you in touch with your childlike core\, and with each other.  Ages 16 and up.
+URL:https://visityolo.com/event/a-hands-on-collaborative-ceramic-installation/
+LOCATION:International House Davis\, 10 College Park\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/png:https://visityolo.com/wp-content/uploads/WT-2026-Everything-You-Touch-Touches-You-9.29.26-Social-3.png
+ORGANIZER;CN="International House Davis":MAILTO:shahzana@ihousedavis.org
 END:VEVENT
 END:VCALENDAR
