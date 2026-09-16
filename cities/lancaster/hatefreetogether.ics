@@ -32,20 +32,6 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Ballet-Folklorico-UCD.png
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC:20260915T173000
-DTEND;TZID=UTC:20260915T193000
-DTSTAMP:20260904T152425Z
-CREATED:20260904T152425Z
-LAST-MODIFIED:20260904T152425Z
-UID:10000725-1789493400-1789500600@hatefreetogether.org
-SUMMARY:UMOJA Mixer for Educators and Professionals
-DESCRIPTION:The Yolo County Umoja Workgroup invites educators and professionals in the Black community to join us for an evening of connection\, community\, and celebration on September 15th in Woodland. \nJoin Umoja Yolo County for an evening of community\, connection\, and celebration. We’ll catch up with old friends\, make new connections\, celebrate the talent in Yolo County\, and discuss countywide initiatives to help families prepare students for college. We’ll also recognize the 2026 Kwanzaa honorees! Light refreshments will be served. \n📅 September 15 | 🕠 5:30–7:30 p.m.\n📍 Yolo County Office of Education\, 1280 Santa Anita Court\, Woodland\, CA 95776 \nRSVP: https://forms.gle/B51Mxwm9mrbLSe9XA
-URL:https://hatefreetogether.org/event/umoja-mixer-for-educators-and-professionals/
-LOCATION:Yolo County Office of Education\, 1280 Santa Anita Court\, Woodland\, CA\, 95776
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Umoja-Mixer.png
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=UTC:20260919T100000
 DTEND;TZID=UTC:20260919T120000
 DTSTAMP:20260909T184753Z
@@ -414,5 +400,18 @@ DESCRIPTION:The Davis Human Relations Commission (HRC) meetings aim to promote m
 URL:https://hatefreetogether.org/event/human-relations-commission-meetings/2026-11-26/
 LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/humanrelations_ci_SACHA_CHICKERING-scaled-e1777049624821.webp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261203T183000
+DTEND;TZID=UTC:20261203T200000
+DTSTAMP:20260424T163204Z
+CREATED:20260424T163204Z
+LAST-MODIFIED:20260424T163204Z
+UID:10000372-1796322600-1796328000@hatefreetogether.org
+SUMMARY:Davis City Council Meetings
+DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
+URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-03/
+LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
 END:VEVENT
 END:VCALENDAR
