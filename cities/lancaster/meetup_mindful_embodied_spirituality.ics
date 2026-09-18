@@ -25,38 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_316557745@meetup.com
-SEQUENCE:1
-DTSTAMP:20260917T015314Z
-DTSTART;TZID=America/Los_Angeles:20260916T180000
-DTEND;TZID=America/Los_Angeles:20260916T200000
-SUMMARY:Grounded Together: Building Resilience\, Connection\, and Communit
- y
-DESCRIPTION:Iama Embodied Community\n***P.S. this is part of a 5 week seri
- es\, though not required\, you are highly encouraged to attend all - No me
- eting on Oct 7***\n\nJoin **Rev. Rola Al-Ashkar** for a five-week journey 
- exploring how our life experiences shape the way we respond to stress\, co
- nflict\, belonging\, and relationships. Through storytelling\, guided refl
- ection\, and gentle body-centered (somatic) practices\, participants will 
- develop tools for greater self-awareness\, emotional resilience\, and comp
- assionate listening.\nWhether you're seeking personal growth\, healthier r
- elationships\, or a deeper sense of connection within our community\, this
-  series offers a welcoming and supportive space. No prior experience is ne
- cessary. Please register using the following link: [[LINK](https://docs.go
- ogle.com/forms/d/e/1FAIpQLSdxWVImvnFcRLw5on8gH2WFGQfoMnVmNowpxZd9FHajblr2I
- w/viewform?usp=send_form)].\n**Wednesdays:** Sept. 16\, 23\, 30\; Oct. 14 
- & 21 6:00 – 8:00 pm
-URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
- 316557745/
-STATUS:CONFIRMED
-CREATED:20260914T183623Z
-LAST-MODIFIED:20260914T183623Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:event_316321063@meetup.com
 SEQUENCE:1
-DTSTAMP:20260917T015314Z
+DTSTAMP:20260918T014029Z
 DTSTART;TZID=America/Los_Angeles:20260917T180000
 DTEND;TZID=America/Los_Angeles:20260917T190000
 SUMMARY:Free Yoga Practice
@@ -81,7 +52,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316379339@meetup.com
 SEQUENCE:1
-DTSTAMP:20260917T015314Z
+DTSTAMP:20260918T014029Z
 DTSTART;TZID=America/Los_Angeles:20260921T180000
 DTEND;TZID=America/Los_Angeles:20260921T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -110,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316388049@meetup.com
 SEQUENCE:1
-DTSTAMP:20260917T015314Z
+DTSTAMP:20260918T014029Z
 DTSTART;TZID=America/Los_Angeles:20260922T100000
 DTEND;TZID=America/Los_Angeles:20260922T110000
 SUMMARY:Gentle yoga
@@ -132,7 +103,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_rzfgbvyjcmbfc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260917T015314Z
+DTSTAMP:20260918T014029Z
 DTSTART;TZID=America/Los_Angeles:20260923T180000
 DTEND;TZID=America/Los_Angeles:20260923T200000
 SUMMARY:Grounded Together: Building Resilience\, Connection\, and Communit
@@ -161,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316425793@meetup.com
 SEQUENCE:1
-DTSTAMP:20260917T015314Z
+DTSTAMP:20260918T014029Z
 DTSTART;TZID=America/Los_Angeles:20260924T180000
 DTEND;TZID=America/Los_Angeles:20260924T190000
 SUMMARY:Free Yoga Practice
@@ -186,7 +157,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316464090@meetup.com
 SEQUENCE:1
-DTSTAMP:20260917T015314Z
+DTSTAMP:20260918T014029Z
 DTSTART;TZID=America/Los_Angeles:20260926T130000
 DTEND;TZID=America/Los_Angeles:20260926T143000
 SUMMARY:Healing Movement Practice
@@ -220,7 +191,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316478012@meetup.com
 SEQUENCE:1
-DTSTAMP:20260917T015314Z
+DTSTAMP:20260918T014029Z
 DTSTART;TZID=America/Los_Angeles:20260928T180000
 DTEND;TZID=America/Los_Angeles:20260928T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -249,7 +220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316486343@meetup.com
 SEQUENCE:1
-DTSTAMP:20260917T015314Z
+DTSTAMP:20260918T014029Z
 DTSTART;TZID=America/Los_Angeles:20260929T100000
 DTEND;TZID=America/Los_Angeles:20260929T110000
 SUMMARY:Gentle yoga
@@ -271,7 +242,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316464111@meetup.com
 SEQUENCE:1
-DTSTAMP:20260917T015314Z
+DTSTAMP:20260918T014029Z
 DTSTART;TZID=America/Los_Angeles:20260929T180000
 DTEND;TZID=America/Los_Angeles:20260929T200000
 SUMMARY:Talk Theology to Me: Questions about Faith & Life
@@ -304,6 +275,35 @@ URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
 STATUS:CONFIRMED
 CREATED:20260908T001524Z
 LAST-MODIFIED:20260908T001524Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:event_rzfgbvyjcmbnc@meetup.com
+SEQUENCE:1
+DTSTAMP:20260918T014029Z
+DTSTART;TZID=America/Los_Angeles:20260930T180000
+DTEND;TZID=America/Los_Angeles:20260930T200000
+SUMMARY:Grounded Together: Building Resilience\, Connection\, and Communit
+ y
+DESCRIPTION:Iama Embodied Community\n***P.S. this is part of a 5 week seri
+ es\, though not required\, you are highly encouraged to attend all - No me
+ eting on Oct 7***\n\nJoin **Rev. Rola Al-Ashkar** for a five-week journey 
+ exploring how our life experiences shape the way we respond to stress\, co
+ nflict\, belonging\, and relationships. Through storytelling\, guided refl
+ ection\, and gentle body-centered (somatic) practices\, participants will 
+ develop tools for greater self-awareness\, emotional resilience\, and comp
+ assionate listening.\nWhether you're seeking personal growth\, healthier r
+ elationships\, or a deeper sense of connection within our community\, this
+  series offers a welcoming and supportive space. No prior experience is ne
+ cessary. Please register using the following link: [[LINK](https://docs.go
+ ogle.com/forms/d/e/1FAIpQLSdxWVImvnFcRLw5on8gH2WFGQfoMnVmNowpxZd9FHajblr2I
+ w/viewform?usp=send_form)].\n**Wednesdays:** Sept. 16\, 23\, 30\; Oct. 14 
+ & 21 6:00 – 8:00 pm
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ rzfgbvyjcmbnc/
+STATUS:CONFIRMED
+CREATED:20260914T184050Z
+LAST-MODIFIED:20260914T184050Z
 CLASS:PUBLIC
 END:VEVENT
 X-ORIGINAL-URL:https://www.meetup.com/mindful-embodied-spirituality/events
