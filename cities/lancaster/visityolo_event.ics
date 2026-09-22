@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Visit Yolo County California, Davis, Winters, Clarksburg, Capay Valley, Woodland - ECPv6.17.4//NONSGML v1.0//EN
+PRODID:-//Visit Yolo County California, Davis, Winters, Clarksburg, Capay Valley, Woodland - ECPv6.17.5//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Visit Yolo County California, Davis, Winters, Clarksburg, Capay Valley, Woodland
@@ -61,33 +61,6 @@ URL:https://visityolo.com/event/yoga-at-the-vineyard/
 LOCATION:Great Bear Vineyards\, Great Bear Vineyards  24800 Co Rd 101A\, Davis\, CA 95616
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled.jpg
 ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260920T173000
-DTEND;TZID=America/Los_Angeles:20260920T203000
-DTSTAMP:20260813T194113Z
-CREATED:20260813T194113Z
-LAST-MODIFIED:20260813T194113Z
-UID:10014704-1789925400-1789936200@visityolo.com
-SUMMARY:Live Music at Carboni's Ristorante
-DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
-URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-09-20/
-LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
-ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260920T184500
-DTEND;TZID=America/Los_Angeles:20260920T203000
-DTSTAMP:20260717T171052Z
-CREATED:20260602T164936Z
-LAST-MODIFIED:20260717T171052Z
-UID:10010553-1789929900-1789936200@visityolo.com
-SUMMARY:Bat Talk and Tour
-DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
-URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-09-20/
-LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
-ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260921T184500
@@ -452,5 +425,31 @@ DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is her
 URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-09-26/
 LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
 ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260926T193000
+DTEND;TZID=America/Los_Angeles:20260926T220000
+DTSTAMP:20260811T230944Z
+CREATED:20260810T230052Z
+LAST-MODIFIED:20260811T230944Z
+UID:10014631-1790451000-1790460000@visityolo.com
+SUMMARY:Davis Musical Theatre Presents The Addams Family
+DESCRIPTION:Davis Musical Theatre Presents: The Addams Family Musical \nA comical feast that embraces the wackiness in every family\, features an original story and a dilemma that’s every father’s nightmare: Wednesday Addams\, the ultimate princess of darkness\, has grown up and fallen in love with a sweet\, smart young man from a respectable family whom her parents have never met. She confides in her father and begs him not to tell her mother. Now\, Gomez Addams must do something he’s never done before– keep a secret from his beloved wife\, Morticia. Everything will change for the whole family on the fateful night they host a dinner for Wednesday’s “normal” boyfriend and his parents.
+URL:https://visityolo.com/event/the-addams-family-musical/2026-09-26/
+ATTACH;FMTTYPE=image/png:https://visityolo.com/wp-content/uploads/Addams-Family.png
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260927T090000
+DTEND;TZID=America/Los_Angeles:20260927T130000
+DTSTAMP:20260409T224625Z
+CREATED:20260409T224549Z
+LAST-MODIFIED:20260409T224625Z
+UID:10013688-1790499600-1790514000@visityolo.com
+SUMMARY:Pick Your Own Bouquet at Park Winters
+DESCRIPTION:This seasonal farm hospitality experience\, offered most Saturdays and Sundays\, includes everything you need to create a beautiful farm-grown bouquet. Wander through the flower rows and enjoy a peaceful countryside outing while our team guides you on how to clip and gather your blooms. \nYour freshly picked flowers will be wrapped in a moisture-soaked paper wrap to keep them fresh until they are placed in a vase at home. \nWhile we will accommodate walk-in guests when availability allows\, reservations are recommended. On the booking page\, simply select the number of bouquets you would like to create. \nAs this experience is guided by nature\, flower varieties change throughout the season. If field conditions do not meet expectations\, a full refund is available upon request.
+URL:https://visityolo.com/event/pick-your-own-bouquet-at-park-winters/2026-09-27/
+LOCATION:Park Winters\, Park Winters\, 27850 County Road 26 Winters\, CA 95694
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/ES0A7883-1-scaled.jpg
 END:VEVENT
 END:VCALENDAR
