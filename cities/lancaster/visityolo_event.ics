@@ -63,47 +63,6 @@ ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Great-Bear-Vi
 ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260921T184500
-DTEND;TZID=America/Los_Angeles:20260921T203000
-DTSTAMP:20260717T171052Z
-CREATED:20260602T164936Z
-LAST-MODIFIED:20260717T171052Z
-UID:10010554-1790016300-1790022600@visityolo.com
-SUMMARY:Bat Talk and Tour
-DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
-URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-09-21/
-LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
-ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260922T100000
-DTEND;TZID=America/Los_Angeles:20260922T120000
-DTSTAMP:20260807T230003Z
-CREATED:20260807T230003Z
-LAST-MODIFIED:20260807T230003Z
-UID:10014605-1790071200-1790078400@visityolo.com
-SUMMARY:Intermediate Watercolor with Misuk Goltz
-DESCRIPTION:Intermediate Watercolor with Misuk Goltz in Davis \nTuesdays\, 10 AM – 12 PM | September 1\, 8\, 15\, 22\, 29 \n$170 Members\, $190 Non-Members (Materials not included) \n  \nThis 5-week workshop with Misuk Goltz will focus on using your brushes to their full potential and practicing diverse hand motions to achieve painterly\, expressive watercolor paintings. Students will learn how to distribute different values to create balanced and sophisticated artwork while painting various subjects. Please note that this class is intended for participants who have previous experience with watercolor techniques and color blending. The use of high-quality watercolor materials is strongly recommended to achieve the best results. \n  \nRegister here: https://pencegallery.org/education/programs/workshops-and-classes/ \n  \nAny questions? Email pencegallery@gmail.com.
-URL:https://visityolo.com/event/intermediate-watercolor-with-misuk-goltz/2026-09-22/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/png:https://visityolo.com/wp-content/uploads/Misuk-1-copy.png
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260922T174500
-DTEND;TZID=America/Los_Angeles:20260922T184500
-DTSTAMP:20260909T160933Z
-CREATED:20260909T160933Z
-LAST-MODIFIED:20260909T160933Z
-UID:10014872-1790099100-1790102700@visityolo.com
-SUMMARY:Yoga at the Vineyard
-DESCRIPTION:Beginner Yoga at the Vineyard in Davis Tuesday\, September 22 | 5:45–6:45 PMTicket Includes: Yoga ClassStart your week with fresh air\, gentle movement\, and beautiful vineyard views!Join us for a relaxing outdoor yoga class designed for all experience levels\, especially those new to yoga. Our professional instructors will guide you through the fundamentals with gentle stretches\, basic poses\, and mindful movement in a welcoming\, supportive setting.Surrounded by our organic vineyard\, wildflowers\, and peaceful morning scenery\, it’s the perfect way to stretch\, breathe\, and ease into your week.What to Bring:• Yoga mat• Towel• WaterCome stretch\, breathe\, and start your week the Great Bear way!
-URL:https://visityolo.com/event/yoga-at-the-vineyard-3/
-LOCATION:Great Bear Vineyards\, Great Bear Vineyards  24800 Co Rd 101A\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled.jpg
-ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260922T184500
 DTEND;TZID=America/Los_Angeles:20260922T203000
 DTSTAMP:20260717T171052Z
@@ -451,5 +410,46 @@ DESCRIPTION:This seasonal farm hospitality experience\, offered most Saturdays a
 URL:https://visityolo.com/event/pick-your-own-bouquet-at-park-winters/2026-09-27/
 LOCATION:Park Winters\, Park Winters\, 27850 County Road 26 Winters\, CA 95694
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/ES0A7883-1-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260927T100000
+DTEND;TZID=America/Los_Angeles:20260927T130000
+DTSTAMP:20260421T184432Z
+CREATED:20260417T163323Z
+LAST-MODIFIED:20260421T184432Z
+UID:10013731-1790503200-1790514000@visityolo.com
+SUMMARY:Winters Farmers Market
+DESCRIPTION:Join us Downtown Winters every Sunday for the Winters Farmers Market. \nLOCATION: Downtown Main Street between Railroad & 1st Street\nDATE & TIME: Every Sunday 9am-1pm (April 26th-October 25th) \nEnjoy local produce\, fresh flowers\, food vendors & more! \nInterested in being a vendor? \nEmail: Simba at simbasheirloomfarm@gmail.com \nwww.wintersfarmersmarket.com
+URL:https://visityolo.com/event/winters-farmers-market-3/2026-09-27/
+LOCATION:Downtown Winters\, Main Street\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Winters-Farmers-Market_01-scaled.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260927T103000
+DTEND;TZID=America/Los_Angeles:20260927T113000
+DTSTAMP:20260618T225030Z
+CREATED:20260618T225030Z
+LAST-MODIFIED:20260618T225030Z
+UID:10014403-1790505000-1790508600@visityolo.com
+SUMMARY:Apple and Honey Tasting
+DESCRIPTION:The perfect start to fall\, this event is inspired by the Jewish tradition to dip apples in honey\, in celebration of a sweet new year. Join Queen Bee\, Amina Harris\, for an immersive apples and varietal honey tasting. During this family-friendly event you’ll: \n🍎 Taste Different Types of Apples\n🐝 Learn all about Varietal Honeys\n🍯 Experience the Unique Flavors and Aromas of Varietal Honeys\n🍏 Make Your Own Apple and Honey Combinations\n🍹 Enjoy an Iced Honey Beverage \nAll ages welcome. FREE for kids 10 and under.
+URL:https://visityolo.com/event/apple-and-honey-tasting/
+LOCATION:The HIVE / Z Specialty Food\, The HIVE Tasting Room and Kitchen
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Apple-and-Honey-e1470633453239-scaled.jpg
+ORGANIZER;CN="The HIVE / Z Specialty Food":MAILTO:events@zspecialtyfood.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260927T103000
+DTEND;TZID=America/Los_Angeles:20260927T113000
+DTSTAMP:20260710T183905Z
+CREATED:20260710T183905Z
+LAST-MODIFIED:20260710T183905Z
+UID:10014524-1790505000-1790508600@visityolo.com
+SUMMARY:Apple and Honey Tasting
+DESCRIPTION:The perfect start to fall\, this event is inspired by the Jewish tradition to dip apples in honey\, in celebration of a sweet new year. Join Queen Bee\, Amina Harris\, for an immersive apples and varietal honey tasting. During this family-friendly event you’ll: \n🍎 Taste Different Types of Apples\n🐝 Learn all about Varietal Honeys\n🍯 Experience the Unique Flavors and Aromas of Varietal Honeys\n🍏 Make Your Own Apple and Honey Combinations\n🍹 Enjoy an Iced Honey Beverage \nAll ages welcome. FREE for kids 10 and under. \n\n\nRegister at https://thehivewoodland.com/event/apple-honey-tasting/
+URL:https://visityolo.com/event/apple-and-honey-tasting-2/
+LOCATION:The HIVE / Z Specialty Food\, The HIVE Tasting Room and Kitchen
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Apple-and-Honey-e1470633453239-1-scaled.jpg
+ORGANIZER;CN="The HIVE / Z Specialty Food":MAILTO:events@zspecialtyfood.com
 END:VEVENT
 END:VCALENDAR
