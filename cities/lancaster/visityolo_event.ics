@@ -63,19 +63,6 @@ ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Great-Bear-Vi
 ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260922T184500
-DTEND;TZID=America/Los_Angeles:20260922T203000
-DTSTAMP:20260717T171052Z
-CREATED:20260602T164936Z
-LAST-MODIFIED:20260717T171052Z
-UID:10014097-1790102700-1790109000@visityolo.com
-SUMMARY:Bat Talk and Tour
-DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
-URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-09-22/
-LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
-ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260923T173000
 DTEND;TZID=America/Los_Angeles:20260923T203000
 DTSTAMP:20260813T194113Z
@@ -267,13 +254,13 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260926T090000
 DTEND;TZID=America/Los_Angeles:20260926T100000
-DTSTAMP:20260909T160109Z
-CREATED:20260909T160109Z
-LAST-MODIFIED:20260909T160109Z
-UID:10014876-1790413200-1790416800@visityolo.com
-SUMMARY:Yoga at the Vineyard
-DESCRIPTION:Beginner Yoga at the Vineyard in Davis  Saturday\, September 26 | 9:00–10:00 AMTicket Includes: Yoga ClassStart your weekend with fresh air\, gentle movement\, and beautiful vineyard views!Join us for a relaxing outdoor yoga class designed for all experience levels\, especially those new to yoga. Our professional instructors will guide you through the fundamentals with gentle stretches\, basic poses\, and mindful movement in a welcoming\, supportive setting.Surrounded by our organic vineyard\, wildflowers\, and peaceful morning scenery\, it’s the perfect way to stretch\, breathe\, and ease into your weekend.What to Bring:• Yoga mat• Towel• WaterCome stretch\, breathe\, and start your weekend the Great Bear way!
-URL:https://visityolo.com/event/yoga-at-the-vineyard-2/
+DTSTAMP:20260923T162632Z
+CREATED:20260923T162632Z
+LAST-MODIFIED:20260923T162632Z
+UID:10014896-1790413200-1790416800@visityolo.com
+SUMMARY:Tai Chi Basics at Great Bear Vineyards
+DESCRIPTION:Tai Chi Basics Course in Davis  Saturday\, September 26 | 9–10am\nSlow down\, breathe deep\, and start your Saturday with some mindful movement at the vineyard! \nJoin us for Tai Chi Basics\, a beginner-friendly introduction to this beautiful\, slow-moving martial art. Tai Chi focuses on balance\, leg strength\, coordination\, and fluid movement\, making it a wonderful way to get your body moving while calming the mind. \nThis introductory class focuses on fundamental drills and postures that provide the foundation for deeper Tai Chi practice and its many benefits. Whether you’re completely new to Tai Chi or looking to strengthen your fundamentals\, you’re welcome to join us!\n Meet Your Instructor: Daniel PfisterDaniel has practiced Tai Chi for nearly 30 years\, including five years of intensive training while living in Taiwan. He later completed his master’s thesis researching the effects of Tai Chi stance training on blood pressure. \nCome stretch\, move\, breathe\, and enjoy a peaceful morning surrounded by the vineyard. \n Ticket Includes: Tai Chi Class Saturday\, September 26 9–10am Great Bear Vineyards\nStart your weekend feeling refreshed\, balanced\, and ready for the day!
+URL:https://visityolo.com/event/tai-chi-basics-at-great-bear-vineyards-12/
 LOCATION:Great Bear Vineyards\, Great Bear Vineyards  24800 Co Rd 101A\, Davis\, CA 95616
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled.jpg
 ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
@@ -451,5 +438,18 @@ URL:https://visityolo.com/event/apple-and-honey-tasting-2/
 LOCATION:The HIVE / Z Specialty Food\, The HIVE Tasting Room and Kitchen
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Apple-and-Honey-e1470633453239-1-scaled.jpg
 ORGANIZER;CN="The HIVE / Z Specialty Food":MAILTO:events@zspecialtyfood.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260927T110000
+DTEND;TZID=America/Los_Angeles:20260927T180000
+DTSTAMP:20251117T171126Z
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013308-1790506800-1790532000@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-09-27/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
 END:VEVENT
 END:VCALENDAR
