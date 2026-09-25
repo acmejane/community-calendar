@@ -9,93 +9,10 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 X-SOURCE-ID:gcal_davisbikeclubwww
 X-SOURCE:Gcal Davisbikeclubwww
-DTSTART;TZID=America/Los_Angeles:20260923T090000
-DTEND;TZID=America/Los_Angeles:20260923T120000
-RRULE:FREQ=WEEKLY;BYDAY=WE
-DTSTAMP:20260924T014428Z
-UID:g9nqu9lm3td6tkhhpr4c97p4vo@google.com
-CREATED:20240829T224714Z
-DESCRIPTION:<a href="https://davisbikeclub.org/winters/">https://davisbikec
- lub.org/winters/</a>
-LAST-MODIFIED:20260905T004000Z
-LOCATION:Westlake Market\, 1260 Lake Blvd\, Davis\, CA 95616\, USA
-SEQUENCE:10
-STATUS:CONFIRMED
-SUMMARY:Winters
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-09-23/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260923T173000
-DTEND;TZID=America/Los_Angeles:20260923T203000
-DTSTAMP:20260813T194113Z
-CREATED:20260813T194113Z
-LAST-MODIFIED:20260813T194113Z
-UID:10014705-1790184600-1790195400@visityolo.com
-SUMMARY:Live Music at Carboni's Ristorante
-DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
-URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-09-23/
-LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
-ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/316606067/"}
-X-SOURCE-ID:meetup_mindful_embodied_spirituality
-X-SOURCE:Meetup Mindful Embodied Spirituality
-UID:event_316606067@meetup.com
-SEQUENCE:1
-DTSTAMP:20260924T014417Z
-DTSTART;TZID=America/Los_Angeles:20260923T180000
-DTEND;TZID=America/Los_Angeles:20260923T200000
-SUMMARY:Grounded Together: Building Resilience\, Connection\, and Communit
- y
-DESCRIPTION:Iama Embodied Community\n***P.S. this is part of a 5 week seri
- es\, though not required\, you are highly encouraged to attend all - No me
- eting on Oct 7***\n\nJoin **Rev. Rola Al-Ashkar** for a five-week journey 
- exploring how our life experiences shape the way we respond to stress\, co
- nflict\, belonging\, and relationships. Through storytelling\, guided refl
- ection\, and gentle body-centered (somatic) practices\, participants will 
- develop tools for greater self-awareness\, emotional resilience\, and comp
- assionate listening.\nWhether you're seeking personal growth\, healthier r
- elationships\, or a deeper sense of connection within our community\, this
-  series offers a welcoming and supportive space. No prior experience is ne
- cessary. Please register using the following link: [[LINK](https://docs.go
- ogle.com/forms/d/e/1FAIpQLSdxWVImvnFcRLw5on8gH2WFGQfoMnVmNowpxZd9FHajblr2I
- w/viewform?usp=send_form)].\n**Wednesdays:** Sept. 16\, 23\, 30\; Oct. 14 
- & 21 6:00 – 8:00 pm
-URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
- 316606067/
-STATUS:CONFIRMED
-CREATED:20260918T022847Z
-LAST-MODIFIED:20260918T022847Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/bat-talk-and-tour-2/2026-09-23/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260923T184500
-DTEND;TZID=America/Los_Angeles:20260923T203000
-DTSTAMP:20260717T171052Z
-CREATED:20260602T164936Z
-LAST-MODIFIED:20260717T171052Z
-UID:10014098-1790189100-1790195400@visityolo.com
-SUMMARY:Bat Talk and Tour
-DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
-URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-09-23/
-LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
-ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-ID:gcal_davisbikeclubwww
-X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20260924T090000
 DTEND;TZID=America/Los_Angeles:20260924T120000
 RRULE:FREQ=WEEKLY;BYDAY=TH
-DTSTAMP:20260924T014428Z
+DTSTAMP:20260925T020105Z
 UID:oka7s21j0q0n43c51u6m1a011d@google.com
 CREATED:20231017T210115Z
 DESCRIPTION:Ride Description: <a href="https://davisbikeclub.org/woodland-r
@@ -109,106 +26,12 @@ SUMMARY:Woodland Ride
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/thursday-social-at-great-bear-vineyards-8/", "Visityolo Event": "https://visityolo.com/event/thursday-social-at-great-bear-vineyards-7/"}
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/thursday-social-at-great-bear-vineyards-8/"}
-X-SOURCE-ID:visitdavis
-X-SOURCE:Visit Davis, Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260924T170000
-DTEND;TZID=America/Los_Angeles:20260924T200000
-DTSTAMP:20260922T183033Z
-CREATED:20260909T180051Z
-LAST-MODIFIED:20260922T183033Z
-UID:10003055-1790269200-1790280000@visitdavis.org
-SUMMARY:Thursday Social at Great Bear Vineyards
-DESCRIPTION:Thursday Social at Great Bear Vineyards in Davis   Thursday\, September 24 | 5–8 PMTicket Includes: Your First Glass of WineWe’re excited to kick off our new Thursday Socials—the perfect way to ease into the weekend a little early!Gather your friends\, leave work behind\, and join us for a relaxed summer evening of award-winning wine\, great conversation\, and a little friendly competition in the beautiful setting of Great Bear Vineyards.For $15\, your ticket includes your first glass of wine\, so all you have to do is find your favorite spot among the vines and settle in for the evening.Feeling competitive? We’ve got you covered! We’ll have a selection of classic board games available\, including chess\, draughts\, Bananagrams\, and dominos. Challenge your friends to a game\, meet someone new\, or simply sit back\, sip your wine\, and enjoy the vineyard atmosphere. Cheese and light snacks will be available for purchase\, or you’re welcome to bring your own picnic and make an evening of it.Whether you’re catching up with friends\, planning a casual date night\, or looking for a new weekly tradition\, Thursday Social is all about slowing down\, sharing good company\, and enjoying summer evenings at the vineyard.Good wine. Great friends. Beautiful vineyard views. We can’t wait to welcome you to Thursday Social!
-URL:https://visitdavis.org/event/thursday-social-at-great-bear-vineyards-8/
-LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Highway128PressTrip_GreatBearVineyards_2024_MaxWhittaker_12-Copy-scaled-OoIRnT.jpg
-ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/316425793/"}
-X-SOURCE-ID:meetup_mindful_embodied_spirituality
-X-SOURCE:Meetup Mindful Embodied Spirituality
-UID:event_316425793@meetup.com
-SEQUENCE:1
-DTSTAMP:20260924T014417Z
-DTSTART;TZID=America/Los_Angeles:20260924T180000
-DTEND;TZID=America/Los_Angeles:20260924T190000
-SUMMARY:Free Yoga Practice
-DESCRIPTION:Iama Embodied Community\n🌀 **Move with intention. Connect w
- ith your body. Celebrate community.**\n\nJoin us every **Thursday at 6 PM*
- * for an embodied yoga practice designed to help you release tension\, gro
- und yourself\, and cultivate presence. This is a trauma-informed\, all-lev
- els class\, no prior yoga experience needed. Expect a Hatha-Vinyasa flow\,
-  breathwork\, and a space to listen to your body’s wisdom.\n\n🌿 **Eve
- ry last Thursday of the month\, stay after class for a community potluck d
- inner!**\n\n📍 **Location**: 727 T St. Sacramento CA 95811\n✨ **All ou
- r events are free. Donations are welcome.**\n📩 **Questions? Reach out a
- t** embody.iama@gmail.com\n🔗 **Follow us on Instagram:** [@embody.iama]
- (https://www.instagram.com/embody.iama)
-URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
- 316425793/
-STATUS:CONFIRMED
-CREATED:20260905T011429Z
-LAST-MODIFIED:20260905T011429Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-city-council-meetings/2026-09-24/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20260924T183000
-DTEND;TZID=UTC:20260924T200000
-DTSTAMP:20260424T163204Z
-CREATED:20260424T163204Z
-LAST-MODIFIED:20260424T163204Z
-UID:10000367-1790274600-1790280000@hatefreetogether.org
-SUMMARY:Davis City Council Meetings
-DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
-URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-09-24/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/human-relations-commission-meetings/2026-09-24/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20260924T183000
-DTEND;TZID=UTC:20260924T200000
-DTSTAMP:20260424T165540Z
-CREATED:20260424T165540Z
-LAST-MODIFIED:20260424T165540Z
-UID:10000491-1790274600-1790280000@hatefreetogether.org
-SUMMARY:Human Relations Commission Meetings
-DESCRIPTION:The Davis Human Relations Commission (HRC) meetings aim to promote mutual respect\, understanding\, justice\, and advancing the human rights of all people. The Human Relations Commission meets on the fourth Thursday of each month at 6:30 p.m. The Commission takes a recess in July (no meeting in July). \n  \nMeetings take place in the Community Chambers at City Hall\, 23 Russell Boulevard. For more information on meetings\, membership\, resolutions\, and more\, visit the Human Relations Commission site. \n  \nThe HRC makes recommendations around equity and discrimination in the City\, and supports the City in preventing and addressing discrimination while promoting diversity\, equality\, and justice relevant to the goals and policies of the City Council. \n  \nTo contact or send emails to the commission\, email: HRC@cityofdavis.org
-URL:https://hatefreetogether.org/event/human-relations-commission-meetings/2026-09-24/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/humanrelations_ci_SACHA_CHICKERING-scaled-e1777049624821.webp
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/bat-talk-and-tour-2/2026-09-24/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260924T184500
-DTEND;TZID=America/Los_Angeles:20260924T203000
-DTSTAMP:20260717T171052Z
-CREATED:20260602T164936Z
-LAST-MODIFIED:20260717T171052Z
-UID:10014099-1790275500-1790281800@visityolo.com
-SUMMARY:Bat Talk and Tour
-DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
-URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-09-24/
-LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
-ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-ID:gcal_davisbikeclubwww
 X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20260925T090000
 DTEND;TZID=America/Los_Angeles:20260925T113000
 RRULE:FREQ=WEEKLY;BYDAY=FR
-DTSTAMP:20260924T014428Z
+DTSTAMP:20260925T020105Z
 UID:altllj0a8uo5bv932vdvh26ulb@google.com
 CREATED:20241119T225931Z
 DESCRIPTION:Ride Description and contacts info page <a href="https://davisb
@@ -230,7 +53,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20260925T090000
 DTEND;TZID=America/Los_Angeles:20260925T120000
 RRULE:FREQ=WEEKLY;BYDAY=FR
-DTSTAMP:20260924T014428Z
+DTSTAMP:20260925T020105Z
 UID:326g7l4hv9fr7qaqdk4jkn87v3@google.com
 CREATED:20240829T223911Z
 DESCRIPTION:<a href="https://davisbikeclub.org/dixon-donut-ride/">https://d
@@ -260,90 +83,6 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/2026-CNAD-Poster-scaled-1.png
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-09-25/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260925T110000
-DTEND;TZID=America/Los_Angeles:20260925T180000
-DTSTAMP:20251117T171126Z
-CREATED:20251117T171126Z
-LAST-MODIFIED:20251117T171126Z
-UID:10013306-1790334000-1790359200@visityolo.com
-SUMMARY:Sip Yolo with Yolo County Wines
-DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
-URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-09-25/
-LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/the-folk-music-folks-and-cousins-maine-lobster/", "Visityolo Event": "https://visityolo.com/event/the-folk-music-folks-and-cousins-maine-lobster/"}
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/the-folk-music-folks-and-cousins-maine-lobster/"}
-X-SOURCE-ID:visitdavis
-X-SOURCE:Visit Davis, Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260925T170000
-DTEND;TZID=America/Los_Angeles:20260925T203000
-DTSTAMP:20260922T183033Z
-CREATED:20260909T180051Z
-LAST-MODIFIED:20260922T183033Z
-UID:10003056-1790355600-1790368200@visitdavis.org
-SUMMARY:The Folk Music Folks and Cousins Maine Lobster
-DESCRIPTION:Live Music & Food Truck Friday in Davis  Friday\, September 25 | 5–8:30 PM\nThe weekend starts here! \nJoin us at the vineyard for an easygoing Friday evening filled with award-winning wines\, live music\, delicious seafood\, and beautiful vineyard views. Grab your friends\, grab a glass\, and settle in for a night of good food\, great music\, and plenty of time to relax. \n LIVE MUSIC | Folk Music Folks | 6–7:30 PMTake a musical journey around the world with Folk Music Folks\, playing lively folk tunes from different cultures and corners of the globe.  Their unique sound is the perfect soundtrack for a glass of wine and an evening under the vineyard sky.\n FOOD | Cousins Maine Lobster | 5–8:30 PMGet ready for a seafood feast! Cousins Maine Lobster will be serving up delicious lobster rolls and other seafood favorites.  Come hungry and make dinner part of your vineyard experience!\n MORE TO SNACK ONLooking for something to nibble on with your wine? We’ll also have cheese\, salami\, olives\, crackers\, and other snacks available for purchase.\n TICKET INCLUDES: One glass of wine Live music A beautiful evening at the vineyard\nBring your friends\, enjoy the views\, sip something delicious\, and let the weekend begin! Friday nights were made for wine\, music\, and good company.
-URL:https://visitdavis.org/event/the-folk-music-folks-and-cousins-maine-lobster/
-LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Highway128PressTrip_GreatBearVineyards_2024_MaxWhittaker_12-Copy-scaled-OoIRnT.jpg
-ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/4th-friday-kickback-classic-car-show/2026-09-25/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260925T173000
-DTEND;TZID=America/Los_Angeles:20260925T213000
-DTSTAMP:20260601T174333Z
-CREATED:20260601T174333Z
-LAST-MODIFIED:20260601T174333Z
-UID:10013884-1790357400-1790371800@visityolo.com
-SUMMARY:4th Friday Kickback & Classic Car Show
-DESCRIPTION:Join us in Downtown Winters for our 4th Friday Kickback & Classic Car Show\, happening every 4th Friday from March through October! \nEnjoy an evening filled with live music\, classic cars\, local shopping\, outdoor dining\, family-friendly fun\, and the small-town charm that makes Winters so special. \nStroll Main Street\, grab dinner or a drink from your favorite local spots\, and check out an incredible lineup of classic cars throughout downtown. \nWhether you’re a car enthusiast or simply looking for a fun night out\, there’s something for everyone at 4th Fridays in Winters! \nLOCATION: Downtown Main Street\nDATE & TIME: 4th Friday March – October\, 5:30PM-9:30PM
-URL:https://visityolo.com/event/4th-friday-kickback-classic-car-show/2026-09-25/
-LOCATION:Downtown Winters\, Main Street\, Winters\, CA\, 95694\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/4th-friday.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/music-in-the-park-at-grindstone-2/2026-09-25/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260925T180000
-DTEND;TZID=America/Los_Angeles:20260925T210000
-DTSTAMP:20260522T181450Z
-CREATED:20260522T181356Z
-LAST-MODIFIED:20260522T181450Z
-UID:10013842-1790359200-1790370000@visityolo.com
-SUMMARY:Music in the Park at Grindstone
-DESCRIPTION:Every 4th Friday of the month May through October\, we host Music in the Park\, our summer series with music\, food trucks and wine. \nBest of all\, this event is family-friendly\, so bring the whole gang along and enjoy an evening at Grindstone under our market lights. Pack those lawn chairs\, mark your calendars\, and join us for a night of wine & local live music! \n Select wines by the glass and our full bottle selection. \nOur FIRST Music in the Park of the year! \n\n\nMay 22nd from 6-9 pm \n\n\nJune 26th from 6-9 pm \n\n\nJuly 24th from 6-9 pm \n\n\nAugust 28th from 6-9 pm \n\n\nSeptember 25th from 6-9 pm \n\n\nOctober 23rd from 6-9 pm \n\n\nSee the full concert & food truck schedule here!
-URL:https://visityolo.com/event/music-in-the-park-at-grindstone-2/2026-09-25/
-LOCATION:Grindstone Wines\, 12700 County Road 89\, Esparto\, CA\, 95627\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Musicinthepark.jpeg
-ORGANIZER;CN="Grindstone Wines":MAILTO:molly@grindstonewines.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/fourth-friday-berryessa-gap-paella/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260925T180000
-DTEND;TZID=America/Los_Angeles:20260925T210000
-DTSTAMP:20260918T160626Z
-CREATED:20260918T160626Z
-LAST-MODIFIED:20260918T160626Z
-UID:10014892-1790359200-1790370000@visityolo.com
-SUMMARY:Fourth Friday - Berryessa Gap Paella
-DESCRIPTION:Join us for Fourth Friday in Downtown Winters on Sept. 25th\, and enjoy delicious paella made fresh!
-URL:https://visityolo.com/event/fourth-friday-berryessa-gap-paella/
-LOCATION:Berryessa Gap Downtown Tasting Room\, 15 Main Street\, Winters\, 95694\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Fourth-Friday-2.jpg
-ORGANIZER;CN="Berryessa Gap Vineyards":MAILTO:events@berryessagap.com
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/hope-cafe-connection/2026-09-25/"}
 X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
@@ -361,140 +100,6 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Hope-Cafe-8.20.26-9.25.26-Website-1-e1786573900885.png
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/hope-cafe/2026-09-25/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260925T183000
-DTEND;TZID=America/Los_Angeles:20260925T210000
-DTSTAMP:20260717T175146Z
-CREATED:20260717T175146Z
-LAST-MODIFIED:20260717T175146Z
-UID:10014562-1790361000-1790370000@visityolo.com
-SUMMARY:Hope Café
-DESCRIPTION:Come celebrate the end of summer and the start of fall with an evening designed to build connection and community in Davis. Hope Café is a little bit workshop\, a little bit party — a warm\, welcoming space where live music\, creative activities\, and guided conversations invite you to pause\, reconnet\, and feel like you belong. All you need to do is show up with a curious mind and an open heart. \nWhat to Expect: \nDoors open at 6:30 PM with live world jazz by Nick Carvajal and Jim Frink. Local vendors Jumi Shrub\, Enamora Empanadas\, and Upper Crust Baking will have snacks and drinks available. Community story sharing and playful creative exercises continue through 8:30 PM\, after which guests are encouraged to linger and connect.
-URL:https://visityolo.com/event/hope-cafe/2026-09-25/
-LOCATION:International House Davis\, 10 College Park\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/png:https://visityolo.com/wp-content/uploads/Hope-Cafe-8.20.26-9.25.26-Website.png
-ORGANIZER;CN="International House Davis":MAILTO:shahzana@ihousedavis.org
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/bat-talk-and-tour-2/2026-09-25/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260925T184500
-DTEND;TZID=America/Los_Angeles:20260925T203000
-DTSTAMP:20260717T171052Z
-CREATED:20260602T164936Z
-LAST-MODIFIED:20260717T171052Z
-UID:10010558-1790361900-1790368200@visityolo.com
-SUMMARY:Bat Talk and Tour
-DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
-URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-09-25/
-LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
-ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/the-addams-family-musical/2026-09-25/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260925T193000
-DTEND;TZID=America/Los_Angeles:20260925T220000
-DTSTAMP:20260811T230944Z
-CREATED:20260810T230052Z
-LAST-MODIFIED:20260811T230944Z
-UID:10014630-1790364600-1790373600@visityolo.com
-SUMMARY:Davis Musical Theatre Presents The Addams Family
-DESCRIPTION:Davis Musical Theatre Presents: The Addams Family Musical \nA comical feast that embraces the wackiness in every family\, features an original story and a dilemma that’s every father’s nightmare: Wednesday Addams\, the ultimate princess of darkness\, has grown up and fallen in love with a sweet\, smart young man from a respectable family whom her parents have never met. She confides in her father and begs him not to tell her mother. Now\, Gomez Addams must do something he’s never done before– keep a secret from his beloved wife\, Morticia. Everything will change for the whole family on the fateful night they host a dinner for Wednesday’s “normal” boyfriend and his parents.
-URL:https://visityolo.com/event/the-addams-family-musical/2026-09-25/
-ATTACH;FMTTYPE=image/png:https://visityolo.com/wp-content/uploads/Addams-Family.png
-ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/live-the-melon-ball/", "Visityolo Event": "https://visityolo.com/event/live-the-melon-ball/"}
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/live-the-melon-ball/"}
-X-SOURCE-ID:visitdavis
-X-SOURCE:Visit Davis, Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260925T200000
-DTEND;TZID=America/Los_Angeles:20260925T220000
-DTSTAMP:20260922T183047Z
-CREATED:20260808T173046Z
-LAST-MODIFIED:20260922T183047Z
-UID:10003020-1790366400-1790373600@visitdavis.org
-SUMMARY:Live @ The Melon Ball
-DESCRIPTION:Live music at The Melon Ball in Davis. \nJoin Laurin Hunter\, Brandon “someguyBran” Dominguez and David J. Brown for an evening of original music\, storytelling and collaboration. Blending influences that span jazz\, folk\, Americana\, pop\, rock\, soul and beyond\, each artist brings a distinct musical voice while sharing a passion for authentic live performance. Together\, they’ll present an evening of original songs\, fresh interpretations of timeless classics\, creativity and connection where every performance offers something unique.
-URL:https://visitdavis.org/event/live-the-melon-ball/
-LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/DavidBrown-bHBMWs.jpg
-ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-88/2026-09-26/", "Visityolo Event": "https://visityolo.com/event/davis-farmers-market-2/2026-09-26/"}
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-88/2026-09-26/"}
-X-SOURCE-ID:visitdavis
-X-SOURCE:Visit Davis, Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260926T080000
-DTEND;TZID=America/Los_Angeles:20260926T130000
-DTSTAMP:20260624T184342Z
-CREATED:20260103T234411Z
-LAST-MODIFIED:20260624T184342Z
-UID:10002930-1790409600-1790427600@visitdavis.org
-SUMMARY:Davis Farmers Market
-DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
-URL:https://visitdavis.org/event/davis-farmers-market-88/2026-09-26/
-LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/yoga-at-the-vineyard-4/"}
-X-SOURCE-ID:visitdavis
-X-SOURCE:Visit Davis
-DTSTART;TZID=America/Los_Angeles:20260926T090000
-DTEND;TZID=America/Los_Angeles:20260926T100000
-DTSTAMP:20260922T183031Z
-CREATED:20260909T180051Z
-LAST-MODIFIED:20260922T183031Z
-UID:10003057-1790413200-1790416800@visitdavis.org
-SUMMARY:Yoga at the Vineyard
-DESCRIPTION:Beginner Yoga at the Vineyard in Davis  Saturday\, September 26 | 9:00–10:00 AMTicket Includes: Yoga ClassStart your weekend with fresh air\, gentle movement\, and beautiful vineyard views!Join us for a relaxing outdoor yoga class designed for all experience levels\, especially those new to yoga. Our professional instructors will guide you through the fundamentals with gentle stretches\, basic poses\, and mindful movement in a welcoming\, supportive setting.Surrounded by our organic vineyard\, wildflowers\, and peaceful morning scenery\, it’s the perfect way to stretch\, breathe\, and ease into your weekend.What to Bring:• Yoga mat• Towel• WaterCome stretch\, breathe\, and start your weekend the Great Bear way!
-URL:https://visitdavis.org/event/yoga-at-the-vineyard-4/
-LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
-ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/tai-chi-basics-at-great-bear-vineyards-12/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260926T090000
-DTEND;TZID=America/Los_Angeles:20260926T100000
-DTSTAMP:20260923T162632Z
-CREATED:20260923T162632Z
-LAST-MODIFIED:20260923T162632Z
-UID:10014896-1790413200-1790416800@visityolo.com
-SUMMARY:Tai Chi Basics at Great Bear Vineyards
-DESCRIPTION:Tai Chi Basics Course in Davis  Saturday\, September 26 | 9–10am\nSlow down\, breathe deep\, and start your Saturday with some mindful movement at the vineyard! \nJoin us for Tai Chi Basics\, a beginner-friendly introduction to this beautiful\, slow-moving martial art. Tai Chi focuses on balance\, leg strength\, coordination\, and fluid movement\, making it a wonderful way to get your body moving while calming the mind. \nThis introductory class focuses on fundamental drills and postures that provide the foundation for deeper Tai Chi practice and its many benefits. Whether you’re completely new to Tai Chi or looking to strengthen your fundamentals\, you’re welcome to join us!\n Meet Your Instructor: Daniel PfisterDaniel has practiced Tai Chi for nearly 30 years\, including five years of intensive training while living in Taiwan. He later completed his master’s thesis researching the effects of Tai Chi stance training on blood pressure. \nCome stretch\, move\, breathe\, and enjoy a peaceful morning surrounded by the vineyard. \n Ticket Includes: Tai Chi Class Saturday\, September 26 9–10am Great Bear Vineyards\nStart your weekend feeling refreshed\, balanced\, and ready for the day!
-URL:https://visityolo.com/event/tai-chi-basics-at-great-bear-vineyards-12/
-LOCATION:Great Bear Vineyards\, Great Bear Vineyards  24800 Co Rd 101A\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled.jpg
-ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/pick-your-own-bouquet-at-park-winters/2026-09-26/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260926T090000
-DTEND;TZID=America/Los_Angeles:20260926T130000
-DTSTAMP:20260409T224625Z
-CREATED:20260409T224549Z
-LAST-MODIFIED:20260409T224625Z
-UID:10013687-1790413200-1790427600@visityolo.com
-SUMMARY:Pick Your Own Bouquet at Park Winters
-DESCRIPTION:This seasonal farm hospitality experience\, offered most Saturdays and Sundays\, includes everything you need to create a beautiful farm-grown bouquet. Wander through the flower rows and enjoy a peaceful countryside outing while our team guides you on how to clip and gather your blooms. \nYour freshly picked flowers will be wrapped in a moisture-soaked paper wrap to keep them fresh until they are placed in a vase at home. \nWhile we will accommodate walk-in guests when availability allows\, reservations are recommended. On the booking page\, simply select the number of bouquets you would like to create. \nAs this experience is guided by nature\, flower varieties change throughout the season. If field conditions do not meet expectations\, a full refund is available upon request.
-URL:https://visityolo.com/event/pick-your-own-bouquet-at-park-winters/2026-09-26/
-LOCATION:Park Winters\, Park Winters\, 27850 County Road 26 Winters\, CA 95694
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/ES0A7883-1-scaled.jpg
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-ID:gcal_davisbikeclubwww
 X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20260926T100000
@@ -502,7 +107,7 @@ DTEND;TZID=America/Los_Angeles:20260926T123000
 RRULE:FREQ=WEEKLY;BYDAY=SA
 EXDATE;TZID=America/Los_Angeles:20260926T100000
 EXDATE;TZID=America/Los_Angeles:20261003T100000
-DTSTAMP:20260924T014428Z
+DTSTAMP:20260925T020105Z
 UID:bvt9mhfc6aeiej4nm89f0c9glp@google.com
 CREATED:20260325T034347Z
 DESCRIPTION:<a href="https://www.google.com/url?q=https://davisbikeclub.org
@@ -515,23 +120,6 @@ SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:Saturday Joy Ride
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/pilates-in-the-pollinator-garden-2/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260926T100000
-DTEND;TZID=America/Los_Angeles:20260926T110000
-DTSTAMP:20260821T191751Z
-CREATED:20260821T191751Z
-LAST-MODIFIED:20260821T191751Z
-UID:10014841-1790416800-1790420400@visityolo.com
-SUMMARY:Pilates in the Pollinator Garden
-DESCRIPTION:Build strength\, improve flexibility\, and reconnect with your body in this pilates mat class in the pollinator garden. This energizing\, full-body workout combines mindful movement\, core-focused exercises\, and controlled breathing to leave you feeling stronger\, balanced\, and refreshed. All ages and abilities welcome! \nAfter class\, each participant receives a refreshing glass of Honey Hibiscus Cooler or a sparkling mead beverage. \nBring your yoga mat\, water and wear comfortable clothes. If the weather is too cool or too hot\, we’ll practice indoors\, among the honey drums. \n 
-URL:https://visityolo.com/event/pilates-in-the-pollinator-garden-2/
-LOCATION:The HIVE / Z Specialty Food\, The HIVE Tasting Room and Kitchen
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/pilates.jpg
-ORGANIZER;CN="The HIVE / Z Specialty Food":MAILTO:events@zspecialtyfood.com
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/peace-picnic/"}
@@ -551,61 +139,12 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/avif:https://hatefreetogether.org/wp-content/uploads/peace-picnic-3-J9prwNf86BatX8gk-e1786575310940.avif
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/yocha-dehe-ranch-tri-tip-cook-off/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260926T110000
-DTEND;TZID=America/Los_Angeles:20260926T160000
-DTSTAMP:20260915T225651Z
-CREATED:20260915T225651Z
-LAST-MODIFIED:20260915T225651Z
-UID:10014880-1790420400-1790438400@visityolo.com
-SUMMARY:Yocha Dehe Ranch Tri-tip Cook off
-DESCRIPTION:Fire up your appetite and join us for the first Yocha Dehe Ranch Tri-Tip Cook-Off! \nTen teams will put their grilling skills to the test as they compete for the title of Tri-Tip Champion. Guests will get in on the action with tri-tip tastings from competing teams and a People’s Choice vote to help crown a crowd favorite.
-URL:https://visityolo.com/event/yocha-dehe-ranch-tri-tip-cook-off/
-LOCATION:Seka Hills\, 19326 Road 78\, Brooks\, 95606\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Credit_Seka-Hills.jpeg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-09-26/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260926T110000
-DTEND;TZID=America/Los_Angeles:20260926T180000
-DTSTAMP:20251117T171126Z
-CREATED:20251117T171126Z
-LAST-MODIFIED:20251117T171126Z
-UID:10013307-1790420400-1790445600@visityolo.com
-SUMMARY:Sip Yolo with Yolo County Wines
-DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
-URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-09-26/
-LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sample-sundays-at-berryessa-gap-vineyards/2026-09-26/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260926T113000
-DTEND;TZID=America/Los_Angeles:20260926T180000
-DTSTAMP:20260918T161638Z
-CREATED:20260918T160804Z
-LAST-MODIFIED:20260918T161638Z
-UID:10014891-1790422200-1790445600@visityolo.com
-SUMMARY:Sample Sundays at Berryessa Gap Vineyards
-DESCRIPTION:Introducing our new Sample Sundays Series! \nJoin us every Sunday at our Downtown Tasting Room for a complimentary taste from one of the local producers featured in our shop. \nCome sip\, sample\, and support local with us every Sunday! \nAvailable exclusively at our Downtown Tasting Room.
-URL:https://visityolo.com/event/sample-sundays-at-berryessa-gap-vineyards/2026-09-26/
-LOCATION:Berryessa Gap Downtown Tasting Room\, 15 Main Street\, Winters\, 95694\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Sample-Sunday.jpeg
-ORGANIZER;CN="Berryessa Gap Vineyards":MAILTO:events@berryessagap.com
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/316464090/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316464090@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014417Z
+DTSTAMP:20260925T020102Z
 DTSTART;TZID=America/Los_Angeles:20260926T130000
 DTEND;TZID=America/Los_Angeles:20260926T143000
 SUMMARY:Healing Movement Practice
@@ -637,29 +176,12 @@ LAST-MODIFIED:20260908T001043Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/davis-musical-theatre-presents-aladdin-jr/2026-09-26/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260926T140000
-DTEND;TZID=America/Los_Angeles:20260926T160000
-DTSTAMP:20260811T231045Z
-CREATED:20260810T225930Z
-LAST-MODIFIED:20260811T231045Z
-UID:10014636-1790431200-1790438400@visityolo.com
-SUMMARY:Davis Musical Theatre Presents Aladdin Jr
-DESCRIPTION:Davis Musical Theatre Presents Aladdin Jr. \nBased on the iconic animated film\, with an Academy Award-winning score by Alan Menken\, Howard Ashman and Tim Rice\, Disney’s Aladdin Jr. is sure to send audiences soaring on a flying carpet ride filled with romance and adventure. \nWhen the street urchin\, Aladdin\, vies for the attention of the beautiful princess\, Jasmine\, he uses a genie’s magic power to become a prince in order to marry her. Iago\, Jafar\, the Genie and more are here in Disney’s Aladdin JR.\, a musical adventure filled with magic\, mayhem and the power of love.
-URL:https://visityolo.com/event/davis-musical-theatre-presents-aladdin-jr/2026-09-26/
-LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Aladdin.jpg
-ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/316449516/"}
 X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316449516@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014415Z
+DTSTAMP:20260925T020059Z
 DTSTART;TZID=America/Los_Angeles:20260926T150000
 DTEND;TZID=America/Los_Angeles:20260926T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -697,7 +219,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316449517@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014415Z
+DTSTAMP:20260925T020059Z
 DTSTART;TZID=America/Los_Angeles:20260926T150000
 DTEND;TZID=America/Los_Angeles:20260926T170000
 SUMMARY:Mosaics Beginning to Intermediate Korean in Person
@@ -735,7 +257,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316450123@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014415Z
+DTSTAMP:20260925T020059Z
 DTSTART;TZID=America/Los_Angeles:20260926T160000
 DTEND;TZID=America/Los_Angeles:20260926T170000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -768,28 +290,12 @@ LAST-MODIFIED:20260906T231706Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/festival-de-la-comunidad-carnitas-festival/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260926T160000
-DTEND;TZID=America/Los_Angeles:20260926T220000
-DTSTAMP:20260916T223320Z
-CREATED:20260916T220936Z
-LAST-MODIFIED:20260916T223320Z
-UID:10014887-1790438400-1790460000@visityolo.com
-SUMMARY:Festival de la Comunidad (Carnitas Festival)
-DESCRIPTION:September 26\, 4-10PM\, Free fun community event with carnitas plates\, food trucks \, live entertainment at Rotary Park in Winters! \n\nThe Festival de la Comunidad is a free community event that features live music\, food trucks\, folkloric dance\, mariachi music\, Banda\, and a very large Children’s Area. We sell beverages and a limited number of Carnitas Plates to help fund the event.
-URL:https://visityolo.com/event/festival-de-la-comunidad-carnitas-festival/
-LOCATION:Rotary Park – Winters\, 201 Railroad Ave\, Winters\, CA\, 95694
-ATTACH;FMTTYPE=image/png:https://visityolo.com/wp-content/uploads/Screenshot-2026-09-16-145137.png
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/316450801/"}
 X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_316450801@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014415Z
+DTSTAMP:20260925T020059Z
 DTSTART;TZID=America/Los_Angeles:20260926T170000
 DTEND;TZID=America/Los_Angeles:20260926T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -828,7 +334,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316450800@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014415Z
+DTSTAMP:20260925T020059Z
 DTSTART;TZID=America/Los_Angeles:20260926T170000
 DTEND;TZID=America/Los_Angeles:20260926T180000
 SUMMARY:Mosaics Beginning Spanish in Person
@@ -867,7 +373,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_316451309@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014415Z
+DTSTAMP:20260925T020059Z
 DTSTART;TZID=America/Los_Angeles:20260926T180000
 DTEND;TZID=America/Los_Angeles:20260926T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -901,29 +407,13 @@ LAST-MODIFIED:20260907T011616Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/bat-talk-and-tour-2/2026-09-26/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260926T184500
-DTEND;TZID=America/Los_Angeles:20260926T203000
-DTSTAMP:20260717T171052Z
-CREATED:20260602T164936Z
-LAST-MODIFIED:20260717T171052Z
-UID:10010559-1790448300-1790454600@visityolo.com
-SUMMARY:Bat Talk and Tour
-DESCRIPTION:The Bats are Back at the Yolo Causeway in Davis \n  \nSummer is here\, and the bats are back!  \n  \nJoin Yolo Basin Foundation this summer on a Bat Talk and Tour. Learn about these amazing flying mammals that do so much to help reduce insect pests throughout the area. Live native bat species are displayed as part of the presentation. The program culminates in watching the bats as they emerge from under the freeway. \n  \nThe maternity Mexican free-tailed bat colony under the I-80 Yolo Causeway is growing daily as they return from wherever they spent the winter. Although many of the bats over-winter in the bridge\, most seem to leave. As the weather warms\, crops grow and insect populations explode\, the bats return to the Causeway.  \n  \nThese amazing\, winged wonders are mammals that fly. Each summer the females give birth\, in late June\, to one pup. She nurses that pup for about 5 to 6 weeks\, and then it joins her as she flies throughout the Central Valley to consume crop pests and mosquitos. There also are males that live in the Yolo Causeway bridge. \n  \nThroughout the summer\, Yolo Basin Foundation offers many opportunities to learn more about the bats. Registration is now open.  \n  \nChildren who are interested in bats are encouraged to join Yolo Basin Foundation for a morning of “Bats and Crafts”.  Meet live bats from our local area then have fun creating crafts and playing bat games. This special event is aimed at young children\, especially those that are too young to stay up late to watch the bats fly. \n  \nAll events and some fun fact videos about our programs and the bats can be found at https://yolobasin.org/battalkandtour/ . \n  \nYolo Basin Foundation offers environmental education programs for all ages related to wetlands and wildlife.    \n 
-URL:https://visityolo.com/event/bat-talk-and-tour-2/2026-09-26/
-LOCATION:Yolo Basin Foundation\, Yolo Bypass Wildlife Area
-ORGANIZER;CN="Yolo Basin Foundation":MAILTO:cquirk@yolobasin.org
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/316451765/", "Meetup: Mosaics": "https://www.meetup.com/mosaics/events/316451764/"}
 X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/316451765/"}
 X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_316451765@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014415Z
+DTSTAMP:20260925T020059Z
 DTSTART;TZID=America/Los_Angeles:20260926T190000
 DTEND;TZID=America/Los_Angeles:20260926T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -957,44 +447,12 @@ LAST-MODIFIED:20260907T021155Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/the-addams-family-musical/2026-09-26/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260926T193000
-DTEND;TZID=America/Los_Angeles:20260926T220000
-DTSTAMP:20260811T230944Z
-CREATED:20260810T230052Z
-LAST-MODIFIED:20260811T230944Z
-UID:10014631-1790451000-1790460000@visityolo.com
-SUMMARY:Davis Musical Theatre Presents The Addams Family
-DESCRIPTION:Davis Musical Theatre Presents: The Addams Family Musical \nA comical feast that embraces the wackiness in every family\, features an original story and a dilemma that’s every father’s nightmare: Wednesday Addams\, the ultimate princess of darkness\, has grown up and fallen in love with a sweet\, smart young man from a respectable family whom her parents have never met. She confides in her father and begs him not to tell her mother. Now\, Gomez Addams must do something he’s never done before– keep a secret from his beloved wife\, Morticia. Everything will change for the whole family on the fateful night they host a dinner for Wednesday’s “normal” boyfriend and his parents.
-URL:https://visityolo.com/event/the-addams-family-musical/2026-09-26/
-ATTACH;FMTTYPE=image/png:https://visityolo.com/wp-content/uploads/Addams-Family.png
-ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/pick-your-own-bouquet-at-park-winters/2026-09-27/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260927T090000
-DTEND;TZID=America/Los_Angeles:20260927T130000
-DTSTAMP:20260409T224625Z
-CREATED:20260409T224549Z
-LAST-MODIFIED:20260409T224625Z
-UID:10013688-1790499600-1790514000@visityolo.com
-SUMMARY:Pick Your Own Bouquet at Park Winters
-DESCRIPTION:This seasonal farm hospitality experience\, offered most Saturdays and Sundays\, includes everything you need to create a beautiful farm-grown bouquet. Wander through the flower rows and enjoy a peaceful countryside outing while our team guides you on how to clip and gather your blooms. \nYour freshly picked flowers will be wrapped in a moisture-soaked paper wrap to keep them fresh until they are placed in a vase at home. \nWhile we will accommodate walk-in guests when availability allows\, reservations are recommended. On the booking page\, simply select the number of bouquets you would like to create. \nAs this experience is guided by nature\, flower varieties change throughout the season. If field conditions do not meet expectations\, a full refund is available upon request.
-URL:https://visityolo.com/event/pick-your-own-bouquet-at-park-winters/2026-09-27/
-LOCATION:Park Winters\, Park Winters\, 27850 County Road 26 Winters\, CA 95694
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/ES0A7883-1-scaled.jpg
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-ID:gcal_davisbikeclubwww
 X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20260927T093000
 DTEND;TZID=America/Los_Angeles:20260927T120000
 RRULE:FREQ=WEEKLY;BYDAY=SU
-DTSTAMP:20260924T014428Z
+DTSTAMP:20260925T020105Z
 UID:gu903q1lhd8773bd8omu091c1l@google.com
 CREATED:20231017T161146Z
 DESCRIPTION:<a href="https://davisbikeclub.org/sunday-morning-no-drop-ride/
@@ -1008,96 +466,12 @@ SUMMARY:Sunday No Drop Ride
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/winters-farmers-market-3/2026-09-27/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260927T100000
-DTEND;TZID=America/Los_Angeles:20260927T130000
-DTSTAMP:20260421T184432Z
-CREATED:20260417T163323Z
-LAST-MODIFIED:20260421T184432Z
-UID:10013731-1790503200-1790514000@visityolo.com
-SUMMARY:Winters Farmers Market
-DESCRIPTION:Join us Downtown Winters every Sunday for the Winters Farmers Market. \nLOCATION: Downtown Main Street between Railroad & 1st Street\nDATE & TIME: Every Sunday 9am-1pm (April 26th-October 25th) \nEnjoy local produce\, fresh flowers\, food vendors & more! \nInterested in being a vendor? \nEmail: Simba at simbasheirloomfarm@gmail.com \nwww.wintersfarmersmarket.com
-URL:https://visityolo.com/event/winters-farmers-market-3/2026-09-27/
-LOCATION:Downtown Winters\, Main Street\, Winters\, CA\, 95694\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Winters-Farmers-Market_01-scaled.jpeg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/apple-and-honey-tasting-2/"}
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/apple-and-honey-tasting/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260927T103000
-DTEND;TZID=America/Los_Angeles:20260927T113000
-DTSTAMP:20260618T225030Z
-CREATED:20260618T225030Z
-LAST-MODIFIED:20260618T225030Z
-UID:10014403-1790505000-1790508600@visityolo.com
-SUMMARY:Apple and Honey Tasting
-DESCRIPTION:The perfect start to fall\, this event is inspired by the Jewish tradition to dip apples in honey\, in celebration of a sweet new year. Join Queen Bee\, Amina Harris\, for an immersive apples and varietal honey tasting. During this family-friendly event you’ll: \n🍎 Taste Different Types of Apples\n🐝 Learn all about Varietal Honeys\n🍯 Experience the Unique Flavors and Aromas of Varietal Honeys\n🍏 Make Your Own Apple and Honey Combinations\n🍹 Enjoy an Iced Honey Beverage \nAll ages welcome. FREE for kids 10 and under.
-URL:https://visityolo.com/event/apple-and-honey-tasting/
-LOCATION:The HIVE / Z Specialty Food\, The HIVE Tasting Room and Kitchen
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Apple-and-Honey-e1470633453239-scaled.jpg
-ORGANIZER;CN="The HIVE / Z Specialty Food":MAILTO:events@zspecialtyfood.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-09-27/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20260927T110000
-DTEND;TZID=America/Los_Angeles:20260927T180000
-DTSTAMP:20251117T171126Z
-CREATED:20251117T171126Z
-LAST-MODIFIED:20251117T171126Z
-UID:10013308-1790506800-1790532000@visityolo.com
-SUMMARY:Sip Yolo with Yolo County Wines
-DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
-URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-09-27/
-LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/taste-of-davis-and-yolo/"}
-X-SOURCE-ID:visitdavis
-X-SOURCE:Visit Davis
-DTSTART;TZID=America/Los_Angeles:20260927T180000
-DTEND;TZID=America/Los_Angeles:20260927T200000
-DTSTAMP:20260922T183100Z
-CREATED:20260805T180105Z
-LAST-MODIFIED:20260922T183100Z
-UID:10003015-1790532000-1790539200@visitdavis.org
-SUMMARY:Taste of Davis and Yolo
-DESCRIPTION:Enjoy a variety of outstanding foods\, wines\, desserts\, beer\, and more from multiple purveyors from throughout Yolo County! \nPlease join the Davis Odd Fellows as we host the popular “A Taste of Davis and Yolo.” This year’s event will feature an excellent collection of local purveyors of fine food\, wine\, beer\, and desserts all under one roof at one low price! The cost is just $20 in advance. Tickets are limited and this event will sell out\, so be sure to get yours ASAP! Note that you must be at least 21 years old to consume any alcoholic beverages. \nYour ticket allows you to sample eclectic and tasty food and beverages from purveyors on both floors of our beautiful hall. Our full list of purveyors is still being finalized\, but so far includes: Buckhorn Meat Co.\, Curry Kabab Paradise\, Davis Creamery\, Dunloe Brewing\, Great Bear Vineyards\, Hunan Bar & Restaurant\, L&L Hawaiian BBQ\, Mercado Davis\, Tommy J’s Grill & Catering\, and Turkovich Family Wines \nIn addition to showcasing local fare\, “A Taste of Davis and Yolo” is a fund-raising event to support the Davis Odd Fellows Lodge\, Meals on Wheels Yolo County  and STEAC. \nTickets on sale Now! \nhttps://davisoddfellowstoday2026.eventbrite.com/ \nWe thank Edward Jones and its employees as our Major Sponsor for the event\, as well as our many other individual and corporate sponsors for making this event possible!
-URL:https://visitdavis.org/event/taste-of-davis-and-yolo/
-LOCATION:Davis Odd Fellows Hall\, 415 2nd Street\, Davis\, 95616\, United States
-ATTACH;FMTTYPE=image/png:https://visitdavis.org/wp-content/uploads/2026-T-O-D-A-Y-FLYER-DRAFT-5-small-CxOJb6.png
-ORGANIZER;CN="Davis Odd Fellows":MAILTO:smartzgraphics@yahoo.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/september-open-mic-and-music-trivia/"}
-X-SOURCE-ID:visitdavis
-X-SOURCE:Visit Davis
-DTSTART;TZID=America/Los_Angeles:20260927T180000
-DTEND;TZID=America/Los_Angeles:20260927T200000
-DTSTAMP:20260922T183047Z
-CREATED:20260808T173047Z
-LAST-MODIFIED:20260922T183047Z
-UID:10003021-1790532000-1790539200@visitdavis.org
-SUMMARY:September Open Mic and Music Trivia
-DESCRIPTION:Welcome in the Fall with Watermelon Music’s September Open Mic & Music Trivia in Davis! \nWhether you’re looking for a venue to share your own talents or just looking to enjoy hearing (and seeing) some local performers\, we invite you to this free monthly event. We provide the sound\, stage and lights – the rest is up to you. Play us your favorite song\, tell us some jokes\, act out a scene from your favorite play with friends. \nWe will continue to feature our Music Trivia contest throughout the evening in between acts. The winner will receive a $20 Watermelon Music gift card! \nWe ask that each performance be suitable for an all-ages venue\, and that you arrive on time and stay until the end to support your fellow performers. \nFREE!!!\nDoors open/sign-ups @ 5:30.\nFirst act @ 6:00. \nPlease help support the Watermelon Music with your purchase of a drink or a snack at Open Mic!  Non-alcoholic drinks and pre-packaged snacks are available for sale at The Melon Ball.  (Cash or Venmo only) \nWe hope to see you there!
-URL:https://visitdavis.org/event/september-open-mic-and-music-trivia/
-LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/watermelon-Music-Open-Mic-740-x-546-px-E7CTl2.jpg
-ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/316478012/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316478012@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014417Z
+DTSTAMP:20260925T020102Z
 DTSTART;TZID=America/Los_Angeles:20260928T180000
 DTEND;TZID=America/Los_Angeles:20260928T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1129,7 +503,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20260929T090000
 DTEND;TZID=America/Los_Angeles:20260929T120000
 RRULE:FREQ=WEEKLY;BYDAY=TU
-DTSTAMP:20260924T014428Z
+DTSTAMP:20260925T020105Z
 UID:5getqsjecs90d9ampqs7jmgepl_R20260929T160000@google.com
 CREATED:20240829T225511Z
 DESCRIPTION:There is a shorter &amp\; slower version by skipping 1 or 2 loo
@@ -1150,7 +524,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316486343@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014417Z
+DTSTAMP:20260925T020102Z
 DTSTART;TZID=America/Los_Angeles:20260929T100000
 DTEND;TZID=America/Los_Angeles:20260929T110000
 SUMMARY:Gentle yoga
@@ -1175,7 +549,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316464111@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014417Z
+DTSTAMP:20260925T020102Z
 DTSTART;TZID=America/Los_Angeles:20260929T180000
 DTEND;TZID=America/Los_Angeles:20260929T200000
 SUMMARY:Talk Theology to Me: Questions about Faith & Life
@@ -1216,7 +590,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_316507260@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014416Z
+DTSTAMP:20260925T020100Z
 DTSTART;TZID=America/Los_Angeles:20260930T170000
 DTEND;TZID=America/Los_Angeles:20260930T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1248,7 +622,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_rzfgbvyjcmbnc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014417Z
+DTSTAMP:20260925T020102Z
 DTSTART;TZID=America/Los_Angeles:20260930T180000
 DTEND;TZID=America/Los_Angeles:20260930T200000
 SUMMARY:Grounded Together: Building Resilience\, Connection\, and Communit
@@ -1311,7 +685,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316521903@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014417Z
+DTSTAMP:20260925T020102Z
 DTSTART;TZID=America/Los_Angeles:20261001T180000
 DTEND;TZID=America/Los_Angeles:20261001T190000
 SUMMARY:Free Yoga Practice
@@ -1355,7 +729,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261003T090000
 DTEND;TZID=America/Los_Angeles:20261003T130000
 RRULE:FREQ=MONTHLY;BYDAY=1SA
-DTSTAMP:20260924T014428Z
+DTSTAMP:20260925T020105Z
 UID:kk3rtldg31tr45jc120vcm7vn4@google.com
 CREATED:20231017T204709Z
 DESCRIPTION:Ride Description <a href="https://davisbikeclub.org/3-bumps/">h
@@ -1373,7 +747,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316545629@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014415Z
+DTSTAMP:20260925T020059Z
 DTSTART;TZID=America/Los_Angeles:20261003T150000
 DTEND;TZID=America/Los_Angeles:20261003T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -1411,7 +785,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316545630@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014415Z
+DTSTAMP:20260925T020059Z
 DTSTART;TZID=America/Los_Angeles:20261003T150000
 DTEND;TZID=America/Los_Angeles:20261003T170000
 SUMMARY:Mosaics Beginning to Intermediate Korean in Person
@@ -1449,7 +823,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316546245@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014415Z
+DTSTAMP:20260925T020059Z
 DTSTART;TZID=America/Los_Angeles:20261003T160000
 DTEND;TZID=America/Los_Angeles:20261003T170000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -1487,7 +861,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_316546893@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014415Z
+DTSTAMP:20260925T020059Z
 DTSTART;TZID=America/Los_Angeles:20261003T170000
 DTEND;TZID=America/Los_Angeles:20261003T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1526,7 +900,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316546892@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014415Z
+DTSTAMP:20260925T020059Z
 DTSTART;TZID=America/Los_Angeles:20261003T170000
 DTEND;TZID=America/Los_Angeles:20261003T180000
 SUMMARY:Mosaics Beginning Spanish in Person
@@ -1564,7 +938,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_316547422@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014415Z
+DTSTAMP:20260925T020059Z
 DTSTART;TZID=America/Los_Angeles:20261003T180000
 DTEND;TZID=America/Los_Angeles:20261003T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1603,7 +977,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_316548062@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014415Z
+DTSTAMP:20260925T020059Z
 DTSTART;TZID=America/Los_Angeles:20261003T190000
 DTEND;TZID=America/Los_Angeles:20261003T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1658,7 +1032,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_316604379@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014416Z
+DTSTAMP:20260925T020100Z
 DTSTART;TZID=America/Los_Angeles:20261007T170000
 DTEND;TZID=America/Los_Angeles:20261007T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1717,7 +1091,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_316065700@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014416Z
+DTSTAMP:20260925T020100Z
 DTSTART;TZID=America/Los_Angeles:20261009T100000
 DTEND;TZID=America/Los_Angeles:20261009T114500
 SUMMARY:Healing Arts 6-Session Workshop
@@ -1752,7 +1126,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261010T090000
 DTEND;TZID=America/Los_Angeles:20261010T113000
 RRULE:FREQ=MONTHLY;BYDAY=2SA
-DTSTAMP:20260924T014428Z
+DTSTAMP:20260925T020105Z
 UID:37nm95mpc2a5cge6ije6pth35q@google.com
 CREATED:20260923T154127Z
 DESCRIPTION:Ride description: <a href="https://davisbikeclub.org/3-bumps-fr
@@ -1770,7 +1144,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261010T090000
 DTEND;TZID=America/Los_Angeles:20261010T130000
 RRULE:FREQ=MONTHLY;BYDAY=2SA
-DTSTAMP:20260924T014428Z
+DTSTAMP:20260925T020105Z
 UID:no2an62sdfnbv3lbl0dk4l37so@google.com
 CREATED:20251104T152227Z
 DESCRIPTION:Check the DBC discussion group for updated start location and r
@@ -1788,7 +1162,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_316643300@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014415Z
+DTSTAMP:20260925T020059Z
 DTSTART;TZID=America/Los_Angeles:20261010T170000
 DTEND;TZID=America/Los_Angeles:20261010T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1827,7 +1201,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_316643848@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014415Z
+DTSTAMP:20260925T020059Z
 DTSTART;TZID=America/Los_Angeles:20261010T180000
 DTEND;TZID=America/Los_Angeles:20261010T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1866,7 +1240,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_316644433@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014415Z
+DTSTAMP:20260925T020059Z
 DTSTART;TZID=America/Los_Angeles:20261010T190000
 DTEND;TZID=America/Los_Angeles:20261010T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1905,7 +1279,7 @@ X-SOURCE-ID:meetup_pence_adult_art_programs
 X-SOURCE:Meetup Pence Adult Art Programs
 UID:event_315864641@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014416Z
+DTSTAMP:20260925T020100Z
 DTSTART;TZID=America/Los_Angeles:20261011T130000
 DTEND;TZID=America/Los_Angeles:20261011T153000
 SUMMARY:Stained Glass Workshop with Salty Bird Glass
@@ -1933,7 +1307,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316672685@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014417Z
+DTSTAMP:20260925T020102Z
 DTSTART;TZID=America/Los_Angeles:20261012T180000
 DTEND;TZID=America/Los_Angeles:20261012T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1965,7 +1339,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316681553@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014417Z
+DTSTAMP:20260925T020102Z
 DTSTART;TZID=America/Los_Angeles:20261013T100000
 DTEND;TZID=America/Los_Angeles:20261013T110000
 SUMMARY:Gentle yoga
@@ -1985,12 +1359,12 @@ LAST-MODIFIED:20260923T173425Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/vwnqstyjcnbsb/"}
+X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/316702180/"}
 X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
-UID:event_vwnqstyjcnbsb@meetup.com
+UID:event_316702180@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014416Z
+DTSTAMP:20260925T020100Z
 DTSTART;TZID=America/Los_Angeles:20261014T170000
 DTEND;TZID=America/Los_Angeles:20261014T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2010,10 +1384,70 @@ DESCRIPTION:Yolo County Board Game Gathering\nUpdate 8/14/25:\n**We're sti
  m makes a mean pizza\, and there are other nearby downtown restaurants and
   businesses.
 URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
- ts/vwnqstyjcnbsb/
+ ts/316702180/
 STATUS:CONFIRMED
-CREATED:20250814T213602Z
-LAST-MODIFIED:20250814T213602Z
+CREATED:20260925T002447Z
+LAST-MODIFIED:20260925T002447Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/316703182/"}
+X-SOURCE-ID:meetup_mindful_embodied_spirituality
+X-SOURCE:Meetup Mindful Embodied Spirituality
+UID:event_316703182@meetup.com
+SEQUENCE:1
+DTSTAMP:20260925T020102Z
+DTSTART;TZID=America/Los_Angeles:20261014T180000
+DTEND;TZID=America/Los_Angeles:20261014T200000
+SUMMARY:Grounded Together: Building Resilience\, Connection\, and Communit
+ y
+DESCRIPTION:Iama Embodied Community\n***P.S. this is part of a 5 week seri
+ es\, though not required\, you are highly encouraged to attend all - No me
+ eting on Oct 7***\n\nJoin **Rev. Rola Al-Ashkar** for a five-week journey 
+ exploring how our life experiences shape the way we respond to stress\, co
+ nflict\, belonging\, and relationships. Through storytelling\, guided refl
+ ection\, and gentle body-centered (somatic) practices\, participants will 
+ develop tools for greater self-awareness\, emotional resilience\, and comp
+ assionate listening.\nWhether you're seeking personal growth\, healthier r
+ elationships\, or a deeper sense of connection within our community\, this
+  series offers a welcoming and supportive space. No prior experience is ne
+ cessary. Please register using the following link: [[LINK](https://docs.go
+ ogle.com/forms/d/e/1FAIpQLSdxWVImvnFcRLw5on8gH2WFGQfoMnVmNowpxZd9FHajblr2I
+ w/viewform?usp=send_form)].\n**Wednesdays:** Sept. 16\, 23\, 30\; Oct. 14 
+ & 21 6:00 – 8:00 pm
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ 316703182/
+STATUS:CONFIRMED
+CREATED:20260925T013759Z
+LAST-MODIFIED:20260925T013759Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/cbwkztyjcnbtb/"}
+X-SOURCE-ID:meetup_mindful_embodied_spirituality
+X-SOURCE:Meetup Mindful Embodied Spirituality
+UID:event_cbwkztyjcnbtb@meetup.com
+SEQUENCE:1
+DTSTAMP:20260925T020102Z
+DTSTART;TZID=America/Los_Angeles:20261015T180000
+DTEND;TZID=America/Los_Angeles:20261015T190000
+SUMMARY:Free Yoga Practice
+DESCRIPTION:Iama Embodied Community\n🌀 **Move with intention. Connect w
+ ith your body. Celebrate community.**\n\nJoin us every **Thursday at 6 PM*
+ * for an embodied yoga practice designed to help you release tension\, gro
+ und yourself\, and cultivate presence. This is a trauma-informed\, all-lev
+ els class\, no prior yoga experience needed. Expect a Hatha-Vinyasa flow\,
+  breathwork\, and a space to listen to your body’s wisdom.\n\n🌿 **Eve
+ ry last Thursday of the month\, stay after class for a community potluck d
+ inner!**\n\n📍 **Location**: 727 T St. Sacramento CA 95811\n✨ **All ou
+ r events are free. Donations are welcome.**\n📩 **Questions? Reach out a
+ t** embody.iama@gmail.com\n🔗 **Follow us on Instagram:** [@embody.iama]
+ (https://www.instagram.com/embody.iama)
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ cbwkztyjcnbtb/
+STATUS:CONFIRMED
+CREATED:20260720T204641Z
+LAST-MODIFIED:20260720T204641Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
@@ -2022,7 +1456,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261017T090000
 DTEND;TZID=America/Los_Angeles:20261017T140000
 RRULE:FREQ=MONTHLY;UNTIL=20261121T075959Z;BYDAY=3SA
-DTSTAMP:20260924T014428Z
+DTSTAMP:20260925T020105Z
 UID:50q7jpr6vmca2rgsqa3ltejtoe@google.com
 CREATED:20241017T171351Z
 DESCRIPTION:<a href="https://davisbikeclub.org/3rd-saturday-road-ride/" tar
@@ -2040,7 +1474,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_vkccbvyjcnbwb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014415Z
+DTSTAMP:20260925T020059Z
 DTSTART;TZID=America/Los_Angeles:20261017T170000
 DTEND;TZID=America/Los_Angeles:20261017T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -2095,7 +1529,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjcnbcc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014416Z
+DTSTAMP:20260925T020100Z
 DTSTART;TZID=America/Los_Angeles:20261021T170000
 DTEND;TZID=America/Los_Angeles:20261021T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2207,7 +1641,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcnblc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014416Z
+DTSTAMP:20260925T020100Z
 DTSTART;TZID=America/Los_Angeles:20261028T170000
 DTEND;TZID=America/Los_Angeles:20261028T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2287,7 +1721,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcpbgb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014416Z
+DTSTAMP:20260925T020100Z
 DTSTART;TZID=America/Los_Angeles:20261104T170000
 DTEND;TZID=America/Los_Angeles:20261104T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -2396,7 +1830,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstyjcpbpb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014416Z
+DTSTAMP:20260925T020100Z
 DTSTART;TZID=America/Los_Angeles:20261111T170000
 DTEND;TZID=America/Los_Angeles:20261111T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2428,7 +1862,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjcpbxb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014416Z
+DTSTAMP:20260925T020100Z
 DTSTART;TZID=America/Los_Angeles:20261118T170000
 DTEND;TZID=America/Los_Angeles:20261118T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2476,7 +1910,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261121T090000
 DTEND;TZID=America/Los_Angeles:20261121T140000
 RRULE:FREQ=MONTHLY;BYDAY=3SA
-DTSTAMP:20260924T014428Z
+DTSTAMP:20260925T020105Z
 UID:50q7jpr6vmca2rgsqa3ltejtoe_R20261121T170000@google.com
 CREATED:20241017T171351Z
 DESCRIPTION:<a href="https://davisbikeclub.org/3rd-saturday-road-ride/" tar
@@ -2494,7 +1928,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcpbhc@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014416Z
+DTSTAMP:20260925T020100Z
 DTSTART;TZID=America/Los_Angeles:20261125T170000
 DTEND;TZID=America/Los_Angeles:20261125T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2542,7 +1976,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcqbdb@meetup.com
 SEQUENCE:1
-DTSTAMP:20260924T014416Z
+DTSTAMP:20260925T020100Z
 DTSTART;TZID=America/Los_Angeles:20261202T170000
 DTEND;TZID=America/Los_Angeles:20261202T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -2593,5 +2027,37 @@ DESCRIPTION:DJUSD Board meetings offer insight on how the school district remain
 URL:https://hatefreetogether.org/event/djusd-board-meetings/2026-12-03/
 LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/499036487_1275464707915844_5079899038399820181_n.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-17/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261217T183000
+DTEND;TZID=UTC:20261217T200000
+DTSTAMP:20260424T163204Z
+CREATED:20260424T163204Z
+LAST-MODIFIED:20260424T163204Z
+UID:10000373-1797532200-1797537600@hatefreetogether.org
+SUMMARY:Davis City Council Meetings
+DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
+URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-17/
+LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/human-relations-commission-meetings/2026-12-24/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261224T183000
+DTEND;TZID=UTC:20261224T200000
+DTSTAMP:20260424T165540Z
+CREATED:20260424T165540Z
+LAST-MODIFIED:20260424T165540Z
+UID:10000494-1798137000-1798142400@hatefreetogether.org
+SUMMARY:Human Relations Commission Meetings
+DESCRIPTION:The Davis Human Relations Commission (HRC) meetings aim to promote mutual respect\, understanding\, justice\, and advancing the human rights of all people. The Human Relations Commission meets on the fourth Thursday of each month at 6:30 p.m. The Commission takes a recess in July (no meeting in July). \n  \nMeetings take place in the Community Chambers at City Hall\, 23 Russell Boulevard. For more information on meetings\, membership\, resolutions\, and more\, visit the Human Relations Commission site. \n  \nThe HRC makes recommendations around equity and discrimination in the City\, and supports the City in preventing and addressing discrimination while promoting diversity\, equality\, and justice relevant to the goals and policies of the City Council. \n  \nTo contact or send emails to the commission\, email: HRC@cityofdavis.org
+URL:https://hatefreetogether.org/event/human-relations-commission-meetings/2026-12-24/
+LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/humanrelations_ci_SACHA_CHICKERING-scaled-e1777049624821.webp
 END:VEVENT
 END:VCALENDAR
