@@ -1,1 +1,175 @@
-<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fevents%2F%3Fical%3D1&y=ipr:74.235.134.163:1790301663.528"></meta></head></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Visit Davis - ECPv6.17.5//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Visit Davis
+X-ORIGINAL-URL:https://visitdavis.org
+X-WR-CALDESC:Events for Visit Davis
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20270314T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20271107T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260904T193000
+DTEND;TZID=America/Los_Angeles:20260927T140000
+DTSTAMP:20260904T173112Z
+CREATED:20260811T173044Z
+LAST-MODIFIED:20260904T173112Z
+UID:10003028-1788550200-1790517600@visitdavis.org
+SUMMARY:Davis Musical Theatre Presents The Addams Family
+DESCRIPTION:Davis Musical Theatre Presents: The Addams Family Musical \nA comical feast that embraces the wackiness in every family\, features an original story and a dilemma that’s every father’s nightmare: Wednesday Addams\, the ultimate princess of darkness\, has grown up and fallen in love with a sweet\, smart young man from a respectable family whom her parents have never met. She confides in her father and begs him not to tell her mother. Now\, Gomez Addams must do something he’s never done before– keep a secret from his beloved wife\, Morticia. Everything will change for the whole family on the fateful night they host a dinner for Wednesday’s “normal” boyfriend and his parents.
+URL:https://visitdavis.org/event/the-addams-family-musical/
+ATTACH;FMTTYPE=image/png:https://visitdavis.org/wp-content/uploads/Addams-Family-nBaMM2.png
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260909T174500
+DTEND;TZID=America/Los_Angeles:20260929T184500
+DTSTAMP:20260909T180052Z
+CREATED:20260909T180052Z
+LAST-MODIFIED:20260909T180052Z
+UID:10003058-1788975900-1790707500@visitdavis.org
+SUMMARY:Yoga at the Vineyard
+DESCRIPTION:Beginner Yoga at the Vineyard in Davis  Tuesday\, September 29 | 5:45–6:45 PMTicket Includes: Yoga ClassStart your week with fresh air\, gentle movement\, and beautiful vineyard views!Join us for a relaxing outdoor yoga class designed for all experience levels\, especially those new to yoga. Our professional instructors will guide you through the fundamentals with gentle stretches\, basic poses\, and mindful movement in a welcoming\, supportive setting.Surrounded by our organic vineyard\, wildflowers\, and peaceful morning scenery\, it’s the perfect way to stretch\, breathe\, and ease into your week.What to Bring:• Yoga mat• Towel• WaterCome stretch\, breathe\, and start your week the Great Bear way!
+URL:https://visitdavis.org/event/yoga-at-the-vineyard-5/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260925T170000
+DTEND;TZID=America/Los_Angeles:20260925T203000
+DTSTAMP:20260925T173036Z
+CREATED:20260909T180051Z
+LAST-MODIFIED:20260925T173036Z
+UID:10003056-1790355600-1790368200@visitdavis.org
+SUMMARY:The Folk Music Folks and Cousins Maine Lobster
+DESCRIPTION:Live Music & Food Truck Friday in Davis  Friday\, September 25 | 5–8:30 PM\nThe weekend starts here! \nJoin us at the vineyard for an easygoing Friday evening filled with award-winning wines\, live music\, delicious seafood\, and beautiful vineyard views. Grab your friends\, grab a glass\, and settle in for a night of good food\, great music\, and plenty of time to relax. \n LIVE MUSIC | Folk Music Folks | 6–7:30 PMTake a musical journey around the world with Folk Music Folks\, playing lively folk tunes from different cultures and corners of the globe.  Their unique sound is the perfect soundtrack for a glass of wine and an evening under the vineyard sky.\n FOOD | Cousins Maine Lobster | 5–8:30 PMGet ready for a seafood feast! Cousins Maine Lobster will be serving up delicious lobster rolls and other seafood favorites.  Come hungry and make dinner part of your vineyard experience!\n MORE TO SNACK ONLooking for something to nibble on with your wine? We’ll also have cheese\, salami\, olives\, crackers\, and other snacks available for purchase.\n TICKET INCLUDES: One glass of wine Live music A beautiful evening at the vineyard\nBring your friends\, enjoy the views\, sip something delicious\, and let the weekend begin! Friday nights were made for wine\, music\, and good company.
+URL:https://visitdavis.org/event/the-folk-music-folks-and-cousins-maine-lobster/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Highway128PressTrip_GreatBearVineyards_2024_MaxWhittaker_12-Copy-scaled-OoIRnT.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260925T200000
+DTEND;TZID=America/Los_Angeles:20260925T220000
+DTSTAMP:20260925T173101Z
+CREATED:20260808T173046Z
+LAST-MODIFIED:20260925T173101Z
+UID:10003020-1790366400-1790373600@visitdavis.org
+SUMMARY:Live @ The Melon Ball
+DESCRIPTION:Live music at The Melon Ball in Davis. \nJoin Laurin Hunter\, Brandon “someguyBran” Dominguez and David J. Brown for an evening of original music\, storytelling and collaboration. Blending influences that span jazz\, folk\, Americana\, pop\, rock\, soul and beyond\, each artist brings a distinct musical voice while sharing a passion for authentic live performance. Together\, they’ll present an evening of original songs\, fresh interpretations of timeless classics\, creativity and connection where every performance offers something unique.
+URL:https://visitdavis.org/event/live-the-melon-ball/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/DavidBrown-bHBMWs.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260926T080000
+DTEND;TZID=America/Los_Angeles:20260926T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002930-1790409600-1790427600@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-09-26/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260926T090000
+DTEND;TZID=America/Los_Angeles:20260926T100000
+DTSTAMP:20260922T183031Z
+CREATED:20260909T180051Z
+LAST-MODIFIED:20260922T183031Z
+UID:10003057-1790413200-1790416800@visitdavis.org
+SUMMARY:Yoga at the Vineyard
+DESCRIPTION:Beginner Yoga at the Vineyard in Davis  Saturday\, September 26 | 9:00–10:00 AMTicket Includes: Yoga ClassStart your weekend with fresh air\, gentle movement\, and beautiful vineyard views!Join us for a relaxing outdoor yoga class designed for all experience levels\, especially those new to yoga. Our professional instructors will guide you through the fundamentals with gentle stretches\, basic poses\, and mindful movement in a welcoming\, supportive setting.Surrounded by our organic vineyard\, wildflowers\, and peaceful morning scenery\, it’s the perfect way to stretch\, breathe\, and ease into your weekend.What to Bring:• Yoga mat• Towel• WaterCome stretch\, breathe\, and start your weekend the Great Bear way!
+URL:https://visitdavis.org/event/yoga-at-the-vineyard-4/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260926T090000
+DTEND;TZID=America/Los_Angeles:20260926T100000
+DTSTAMP:20260925T173047Z
+CREATED:20260924T160045Z
+LAST-MODIFIED:20260925T173047Z
+UID:10003067-1790413200-1790416800@visitdavis.org
+SUMMARY:Tai Chi Basics at Great Bear Vineyards
+DESCRIPTION:Tai Chi Basics Course in Davis  Saturday\, September 26 | 9–10am\nSlow down\, breathe deep\, and start your Saturday with some mindful movement at the vineyard! \nJoin us for Tai Chi Basics\, a beginner-friendly introduction to this beautiful\, slow-moving martial art. Tai Chi focuses on balance\, leg strength\, coordination\, and fluid movement\, making it a wonderful way to get your body moving while calming the mind. \nThis introductory class focuses on fundamental drills and postures that provide the foundation for deeper Tai Chi practice and its many benefits. Whether you’re completely new to Tai Chi or looking to strengthen your fundamentals\, you’re welcome to join us!\n Meet Your Instructor: Daniel PfisterDaniel has practiced Tai Chi for nearly 30 years\, including five years of intensive training while living in Taiwan. He later completed his master’s thesis researching the effects of Tai Chi stance training on blood pressure. \nCome stretch\, move\, breathe\, and enjoy a peaceful morning surrounded by the vineyard. \n Ticket Includes: Tai Chi Class Saturday\, September 26 9–10am Great Bear Vineyards\nStart your weekend feeling refreshed\, balanced\, and ready for the day!
+URL:https://visitdavis.org/event/tai-chi-basics-at-great-bear-vineyards-10/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260927T180000
+DTEND;TZID=America/Los_Angeles:20260927T200000
+DTSTAMP:20260925T173113Z
+CREATED:20260805T180105Z
+LAST-MODIFIED:20260925T173113Z
+UID:10003015-1790532000-1790539200@visitdavis.org
+SUMMARY:Taste of Davis and Yolo
+DESCRIPTION:Enjoy a variety of outstanding foods\, wines\, desserts\, beer\, and more from multiple purveyors from throughout Yolo County! \nPlease join the Davis Odd Fellows as we host the popular “A Taste of Davis and Yolo.” This year’s event will feature an excellent collection of local purveyors of fine food\, wine\, beer\, and desserts all under one roof at one low price! The cost is just $20 in advance. Tickets are limited and this event will sell out\, so be sure to get yours ASAP! Note that you must be at least 21 years old to consume any alcoholic beverages. \nYour ticket allows you to sample eclectic and tasty food and beverages from purveyors on both floors of our beautiful hall. Our full list of purveyors is still being finalized\, but so far includes: Buckhorn Meat Co.\, Curry Kabab Paradise\, Davis Creamery\, Dunloe Brewing\, Great Bear Vineyards\, Hunan Bar & Restaurant\, L&L Hawaiian BBQ\, Mercado Davis\, Tommy J’s Grill & Catering\, and Turkovich Family Wines \nIn addition to showcasing local fare\, “A Taste of Davis and Yolo” is a fund-raising event to support the Davis Odd Fellows Lodge\, Meals on Wheels Yolo County  and STEAC. \nTickets on sale Now! \nhttps://davisoddfellowstoday2026.eventbrite.com/ \nWe thank Edward Jones and its employees as our Major Sponsor for the event\, as well as our many other individual and corporate sponsors for making this event possible!
+URL:https://visitdavis.org/event/taste-of-davis-and-yolo/
+LOCATION:Davis Odd Fellows Hall\, 415 2nd Street\, Davis\, 95616\, United States
+ATTACH;FMTTYPE=image/png:https://visitdavis.org/wp-content/uploads/2026-T-O-D-A-Y-FLYER-DRAFT-5-small-CxOJb6.png
+ORGANIZER;CN="Davis Odd Fellows":MAILTO:smartzgraphics@yahoo.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20260927T180000
+DTEND;TZID=America/Los_Angeles:20260927T200000
+DTSTAMP:20260925T173101Z
+CREATED:20260808T173047Z
+LAST-MODIFIED:20260925T173101Z
+UID:10003021-1790532000-1790539200@visitdavis.org
+SUMMARY:September Open Mic and Music Trivia
+DESCRIPTION:Welcome in the Fall with Watermelon Music’s September Open Mic & Music Trivia in Davis! \nWhether you’re looking for a venue to share your own talents or just looking to enjoy hearing (and seeing) some local performers\, we invite you to this free monthly event. We provide the sound\, stage and lights – the rest is up to you. Play us your favorite song\, tell us some jokes\, act out a scene from your favorite play with friends. \nWe will continue to feature our Music Trivia contest throughout the evening in between acts. The winner will receive a $20 Watermelon Music gift card! \nWe ask that each performance be suitable for an all-ages venue\, and that you arrive on time and stay until the end to support your fellow performers. \nFREE!!!\nDoors open/sign-ups @ 5:30.\nFirst act @ 6:00. \nPlease help support the Watermelon Music with your purchase of a drink or a snack at Open Mic!  Non-alcoholic drinks and pre-packaged snacks are available for sale at The Melon Ball.  (Cash or Venmo only) \nWe hope to see you there!
+URL:https://visitdavis.org/event/september-open-mic-and-music-trivia/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/watermelon-Music-Open-Mic-740-x-546-px-E7CTl2.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+END:VCALENDAR

@@ -32,34 +32,6 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Ballet-Folklorico-UCD.png
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC:20260925T100000
-DTEND;TZID=UTC:20260925T140000
-DTSTAMP:20260910T214309Z
-CREATED:20260910T210604Z
-LAST-MODIFIED:20260910T214309Z
-UID:10000729-1790330400-1790344800@hatefreetogether.org
-SUMMARY:California Native American Day
-DESCRIPTION:California Native American Day is an annual observance celebrating the cultures\, histories\, contributions and enduring presence of California’s Native peoples and Tribal Nations. UC Davis Native Affairs\, The Nest and UC Davis students will be participating and tabling at the California Native American Day celebration at the State Capitol. UC Davis Gorman Museum event page  California Native American Day . This is shared on our calendar as part of our collaboration with community partners who contribute to campus life.
-URL:https://hatefreetogether.org/event/california-native-american-day/
-LOCATION:California State Capitol\, 10th and L Street\, Sacramento\, CA\, 95814\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/2026-CNAD-Poster-scaled-1.png
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20260925T183000
-DTEND;TZID=UTC:20260925T210000
-DTSTAMP:20260812T230429Z
-CREATED:20260812T223212Z
-LAST-MODIFIED:20260812T230429Z
-UID:10000711-1790361000-1790370000@hatefreetogether.org
-SUMMARY:Hope Café: Finding Connection
-DESCRIPTION:Join us on two nights\, August 20th and September 25th\, to celebrate the start of fall with an evening at the International House Davis\, designed to build connection and community. Hope Café is a mix of a workshop and a party\, opening up a space where live music\, creative activities\, and guided conversations invite you to reflect and develop a new connection. \n  \nActivities include: community story sharing and playful creative exercises until 8:30 PM\, live world jazz by Nick Carvajal and Jim Frink\, and complimentary food and drinks provided by the Davis Food Co-Op. \n  \nTickets operate on a sliding scale of $15 – $25. Free tickets are available upon request by emailing office@internationalhousedavis.org. This event is open to community members ages 14 and older. \n  \nTo purchase tickets\, visit: https://secure.internationalhousedavis.org/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F49102
-URL:https://hatefreetogether.org/event/hope-cafe-connection/2026-09-25/
-LOCATION:International House Davis\, 10 College Park\, Davis\, 95616\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Hope-Cafe-8.20.26-9.25.26-Website-1-e1786573900885.png
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=UTC:20260926T110000
 DTEND;TZID=UTC:20260926T140000
 DTSTAMP:20260812T230351Z
@@ -413,5 +385,31 @@ DESCRIPTION:The Davis Human Relations Commission (HRC) meetings aim to promote m
 URL:https://hatefreetogether.org/event/human-relations-commission-meetings/2026-12-24/
 LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/humanrelations_ci_SACHA_CHICKERING-scaled-e1777049624821.webp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261231T183000
+DTEND;TZID=UTC:20261231T200000
+DTSTAMP:20260424T163204Z
+CREATED:20260424T163204Z
+LAST-MODIFIED:20260424T163204Z
+UID:10000374-1798741800-1798747200@hatefreetogether.org
+SUMMARY:Davis City Council Meetings
+DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
+URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-31/
+LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20270107T183000
+DTEND;TZID=UTC:20270107T200000
+DTSTAMP:20260424T172314Z
+CREATED:20260424T172126Z
+LAST-MODIFIED:20260424T172314Z
+UID:10000681-1799346600-1799352000@hatefreetogether.org
+SUMMARY:DJUSD Board Meetings
+DESCRIPTION:DJUSD Board meetings offer insight on how the school district remains responsive to the community’s values\, beliefs\, and priorities. The Board meetings occur on every first and third Thursday\, in the City of Davis Community Chambers. 23 Russell Boulevard. Public session starts at 6:30 PM.  Meetings are cablecast live on Channel 17 (Comcast) or streamed on the DJUSD-TV website. \n  \nThe Davis Joint Unified School District’s Board of Education is comprised of five community members\, responsible for setting district policy\, approving the budget\, and hiring the superintendent for schools in Davis\, California. The agendas for the meetings are posted at least 72 hours in advance. \n  \nFor more information on special meetings\, agendas\, public comment\, and more\, visit the DJUSD Board site.
+URL:https://hatefreetogether.org/event/djusd-board-meetings/2027-01-07/
+LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/499036487_1275464707915844_5079899038399820181_n.jpg
 END:VEVENT
 END:VCALENDAR
