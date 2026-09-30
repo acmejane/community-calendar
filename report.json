@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29T02:50:45.769143",
+  "generated": "2026-09-30T02:31:55.151901",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34743,6 +34743,10 @@
             {
               "date": "2026-09-29",
               "count": 6
+            },
+            {
+              "date": "2026-09-30",
+              "count": 6
             }
           ]
         },
@@ -35562,6 +35566,10 @@
             },
             {
               "date": "2026-09-29",
+              "count": 28
+            },
+            {
+              "date": "2026-09-30",
               "count": 28
             }
           ]
@@ -36383,6 +36391,10 @@
             {
               "date": "2026-09-29",
               "count": 0
+            },
+            {
+              "date": "2026-09-30",
+              "count": 0
             }
           ]
         },
@@ -37202,6 +37214,10 @@
             },
             {
               "date": "2026-09-29",
+              "count": 10
+            },
+            {
+              "date": "2026-09-30",
               "count": 10
             }
           ]
@@ -38023,6 +38039,10 @@
             {
               "date": "2026-09-29",
               "count": 10
+            },
+            {
+              "date": "2026-09-30",
+              "count": 10
             }
           ]
         },
@@ -38842,6 +38862,10 @@
             },
             {
               "date": "2026-09-29",
+              "count": 10
+            },
+            {
+              "date": "2026-09-30",
               "count": 10
             }
           ]
@@ -39663,6 +39687,10 @@
             {
               "date": "2026-09-29",
               "count": 2
+            },
+            {
+              "date": "2026-09-30",
+              "count": 2
             }
           ]
         },
@@ -40482,6 +40510,10 @@
             },
             {
               "date": "2026-09-29",
+              "count": 0
+            },
+            {
+              "date": "2026-09-30",
               "count": 0
             }
           ]
@@ -41303,6 +41335,10 @@
             {
               "date": "2026-09-29",
               "count": 10
+            },
+            {
+              "date": "2026-09-30",
+              "count": 10
             }
           ]
         },
@@ -42122,6 +42158,10 @@
             },
             {
               "date": "2026-09-29",
+              "count": 0
+            },
+            {
+              "date": "2026-09-30",
               "count": 0
             }
           ]
@@ -42943,6 +42983,10 @@
             {
               "date": "2026-09-29",
               "count": 0
+            },
+            {
+              "date": "2026-09-30",
+              "count": 0
             }
           ]
         },
@@ -43762,6 +43806,10 @@
             },
             {
               "date": "2026-09-29",
+              "count": 0
+            },
+            {
+              "date": "2026-09-30",
               "count": 0
             }
           ]
@@ -44583,6 +44631,10 @@
             {
               "date": "2026-09-29",
               "count": 29
+            },
+            {
+              "date": "2026-09-30",
+              "count": 0
             }
           ]
         }
@@ -44590,50 +44642,46 @@
       "categories": [
         {
           "category": "Community / Social",
-          "count": 25
-        },
-        {
-          "category": "Education / Workshops",
-          "count": 12
-        },
-        {
-          "category": "Music / Concerts",
-          "count": 12
+          "count": 21
         },
         {
           "category": "Government / Civic",
           "count": 10
         },
         {
+          "category": "Education / Workshops",
+          "count": 10
+        },
+        {
           "category": "Health / Wellness",
-          "count": 9
+          "count": 7
         },
         {
           "category": "Arts / Culture",
-          "count": 8
-        },
-        {
-          "category": "Food / Drink",
           "count": 7
         },
         {
           "category": "Religion / Spirituality",
-          "count": 5
+          "count": 4
+        },
+        {
+          "category": "Music / Concerts",
+          "count": 4
         },
         {
           "category": "Sports / Fitness",
-          "count": 4
+          "count": 3
         },
         {
           "category": "Nature / Outdoors / Recreation",
-          "count": 4
-        },
-        {
-          "category": "Dance / Performance",
           "count": 3
         },
         {
           "category": "Books / Literature / Poetry",
+          "count": 1
+        },
+        {
+          "category": "Food / Drink",
           "count": 1
         },
         {
@@ -44642,14 +44690,9 @@
         }
       ],
       "images": {
-        "total": 101,
-        "with_image": 52,
+        "total": 72,
+        "with_image": 25,
         "by_source": [
-          {
-            "source": "Visityolo Event",
-            "total": 29,
-            "with_image": 27
-          },
           {
             "source": "Hate-Free Together",
             "total": 28,
@@ -44658,20 +44701,14 @@
         ]
       },
       "url_quality": {
-        "total_with_url": 95,
-        "total_events": 101,
-        "unique_urls": 95,
+        "total_with_url": 66,
+        "total_events": 72,
+        "unique_urls": 66,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
         "http_domains": 0,
         "source_specificity": [
-          {
-            "source": "Visityolo Event",
-            "events": 29,
-            "unique_urls": 29,
-            "specificity_pct": 100
-          },
           {
             "source": "Hate-Free Together",
             "events": 28,
@@ -46244,6 +46281,14 @@
       "message": "Feed returned 0 events (was 29)",
       "severity": "high",
       "date": "2026-09-27",
+      "city": "lancaster",
+      "feed": "visityolo_event"
+    },
+    {
+      "type": "zero_events",
+      "message": "Feed returned 0 events (was 29)",
+      "severity": "high",
+      "date": "2026-09-30",
       "city": "lancaster",
       "feed": "visityolo_event"
     }
