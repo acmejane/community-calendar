@@ -1,1 +1,460 @@
-<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fevents%2F%3Fical%3D1&y=ipr:172.208.154.7:1790822035.399"></meta></head></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Visit Davis - ECPv6.17.5//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Visit Davis
+X-ORIGINAL-URL:https://visitdavis.org
+X-WR-CALDESC:Events for Visit Davis
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20270314T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20271107T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261001T170000
+DTEND;TZID=America/Los_Angeles:20261001T200000
+DTSTAMP:20261001T173033Z
+CREATED:20260924T160046Z
+LAST-MODIFIED:20261001T173033Z
+UID:10003068-1790874000-1790884800@visitdavis.org
+SUMMARY:Thursday Social
+DESCRIPTION:Thursday Social at Great Bear Vineyards in Davis   Thursday\, October 1 | 5–8 PMTicket Includes: Your First Glass of WineWe’re excited to kick off our new Thursday Socials—the perfect way to ease into the weekend a little early!Gather your friends\, leave work behind\, and join us for a relaxed summer evening of award-winning wine\, great conversation\, and a little friendly competition in the beautiful setting of Great Bear Vineyards.For $15\, your ticket includes your first glass of wine\, so all you have to do is find your favorite spot among the vines and settle in for the evening.Feeling competitive? We’ve got you covered! We’ll have a selection of classic board games available\, including chess\, draughts\, Bananagrams\, and dominos. Challenge your friends to a game\, meet someone new\, or simply sit back\, sip your wine\, and enjoy the vineyard atmosphere. Cheese and light snacks will be available for purchase\, or you’re welcome to bring your own picnic and make an evening of it.Whether you’re catching up with friends\, planning a casual date night\, or looking for a new weekly tradition\, Thursday Social is all about slowing down\, sharing good company\, and enjoying summer evenings at the vineyard.Good wine. Great friends. Beautiful vineyard views. We can’t wait to welcome you to Thursday Social!
+URL:https://visitdavis.org/event/thursday-social/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261002T083000
+DTEND;TZID=America/Los_Angeles:20261002T093000
+DTSTAMP:20261001T173033Z
+CREATED:20260924T160046Z
+LAST-MODIFIED:20261001T173033Z
+UID:10003069-1790929800-1790933400@visitdavis.org
+SUMMARY:Beginner Yoga at the Vineyard
+DESCRIPTION:Beginner Yoga at the Vineyard in Davis Friday\, October 2 | 8:30–9:30 AMTicket Includes: Yoga ClassStart your weekend with fresh air\, gentle movement\, and beautiful vineyard views!Join us for a relaxing outdoor yoga class designed for all experience levels\, especially those new to yoga. Our professional instructors will guide you through the fundamentals with gentle stretches\, basic poses\, and mindful movement in a welcoming\, supportive setting.Surrounded by our organic vineyard\, wildflowers\, and peaceful morning scenery\, it’s the perfect way to stretch\, breathe\, and ease into your weekend.What to Bring:• Yoga mat• Towel• WaterCome stretch\, breathe\, and start your week the Great Bear way!
+URL:https://visitdavis.org/event/beginner-yoga-at-the-vineyard-11/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/GreatBearVineyards-EQylAv.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261002T170000
+DTEND;TZID=America/Los_Angeles:20261002T203000
+DTSTAMP:20261001T173033Z
+CREATED:20260924T160046Z
+LAST-MODIFIED:20261001T173033Z
+UID:10003070-1790960400-1790973000@visitdavis.org
+SUMMARY:Live Music and Food Truck
+DESCRIPTION:Live Music & Food Truck Friday in Davis Friday\, October 2 | 5–8:30 PM\nKick off your weekend with award-winning wine\, live classic rock & blues\, delicious Cajun food\, and a beautiful vineyard setting! \nGrab your friends\, grab a glass of wine\, and settle in for a relaxing Friday night at Great Bear Vineyards. Enjoy the vineyard views\, soak up the music\, and let the weekend begin! \n LIVE MUSIC | DNA Mechanics | 6–7:30 PMGet ready to turn up the tunes with DNA Mechanics\, bringing live classic rock & blues to the vineyard.  Their energetic set is the perfect soundtrack for sipping wine\, enjoying dinner\, and maybe getting up for a little dancing!\n FOOD | Soul Ona Roll | 5–8:30 PMCome hungry! Soul Ona Roll will be serving up delicious Cajun classics\, including their famous Voodoo Fries.  Pair them with a glass of wine and you’ve got yourself one seriously tasty Friday night.\n TICKET INCLUDES: One glass of wine Live music An evening at the vineyard\nBring your crew\, your appetite\, and your Friday-night energy! Good wine + great music + Cajun comfort food = a pretty perfect way to start the weekend. \nPlease note: Food is available for purchase from Soul Ona Roll. To support our local food truck partner\, please do not bring outside food.
+URL:https://visitdavis.org/event/live-music-and-food-truck-22/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261002T200000
+DTEND;TZID=America/Los_Angeles:20261002T220000
+DTSTAMP:20261001T173034Z
+CREATED:20260704T163044Z
+LAST-MODIFIED:20261001T173034Z
+UID:10002978-1790971200-1790978400@visitdavis.org
+SUMMARY:Gráinne Hunt and Jules Stewart Live @ The Melon Ball
+DESCRIPTION:Gráinne Hunt & Jules Stewart – Bi-Continental Queer Folk Duo in Davis \nA queer\, nu-folk singer-songwriter with a voice like complex coffee\, Gráinne Hunt is one of Ireland’s most compelling vocalists and songwriters – blending raw emotion\, commanding power\, and a voice that stops audiences in their tracks. \nTogether\, Gráinne and Jules deliver an intimate yet powerful live experience – soaring harmonies\, emotional storytelling\, and connection that transcends borders. \nLet Go (Live\, with Ger O’Donnell)\nSomewhere I Call Home (Live) \nFacebook\nInstagram\nSpotify \n$20 General Admission\n$15 Seniors (in-store or at the door only)\n$15 Students w/ ID (in-store or at the door only)\nKids under 12 are FREE \nThis is a BYOB event!
+URL:https://visitdavis.org/event/grainne-hunt-jules-stewart-live-the-melon-ball/
+LOCATION:Watermelon Music\, 1970 Lake Blvd\, DAVIS\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/100226_Website-2-X5L0Ww.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261107
+DTSTAMP:20261001T173034Z
+CREATED:20260903T173029Z
+LAST-MODIFIED:20261001T173034Z
+UID:10003040-1790985600-1794009599@visitdavis.org
+SUMMARY:Mercy Hawkins: Waltz of Life and Limb
+DESCRIPTION:Mercy Hawkins: Waltz of Life & Limb in Davis \nExhibit: October 3 – November 6\, 2026 \nReception: October 9\, 6-9 PM (Free) \n  \nWaltz of Life & Limb pairs recent sculptural paintings by artist Mercy Hawkins\, with her vibrant\, large-scale watercolors on paper. With this work\, Hawkins seeks to answer the internal call\, to encounter what the body already knows\, from our own inner rhythms\, heartbeat\, and breath\, to dancing with wild arms. Her biomorphic shapes\, formed of intersecting dots\, dashes\, and lines\, speak to a sensory play of color\, light\, and movement. Her imagery evokes seed pods\, flower buds\, or microscopic creatures\, immersing the viewer in an all-encompassing perception of nature.  \n  \nArtist Talk: Saturday\, October 17\, 2-3:30 PM (Free) \nMercy Hawkins will speak about the development and trajectory of several bodies of recent work\, including its connection to craft. She will also explore the intersection of painting and music.  \n  \nSponsored by HF Richardson \n  \nImage: Mercy Hawkins\, “Melting Ice”
+URL:https://visitdavis.org/event/mercy-hawkins-waltz-of-life-and-limb/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Mercy-Hawkins-Melting-Ice-500kb-84lWET.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261003T080000
+DTEND;TZID=America/Los_Angeles:20261003T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002931-1791014400-1791032400@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-10-03/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261003T090000
+DTEND;TZID=America/Los_Angeles:20261003T100000
+DTSTAMP:20261001T173033Z
+CREATED:20260924T160046Z
+LAST-MODIFIED:20261001T173033Z
+UID:10003071-1791018000-1791021600@visitdavis.org
+SUMMARY:Tai Chi Basics at Great Bear Vineyards
+DESCRIPTION:Tai Chi Basics Course in Davis Saturday\, October 3 | 9–10am\nSlow down\, breathe deep\, and start your Saturday with some mindful movement at the vineyard! \nJoin us for Tai Chi Basics\, a beginner-friendly introduction to this beautiful\, slow-moving martial art. Tai Chi focuses on balance\, leg strength\, coordination\, and fluid movement\, making it a wonderful way to get your body moving while calming the mind. \nThis introductory class focuses on fundamental drills and postures that provide the foundation for deeper Tai Chi practice and its many benefits. Whether you’re completely new to Tai Chi or looking to strengthen your fundamentals\, you’re welcome to join us!\n Meet Your Instructor: Daniel PfisterDaniel has practiced Tai Chi for nearly 30 years\, including five years of intensive training while living in Taiwan. He later completed his master’s thesis researching the effects of Tai Chi stance training on blood pressure. \nCome stretch\, move\, breathe\, and enjoy a peaceful morning surrounded by the vineyard. \n Ticket Includes: Tai Chi Class Saturday\, October 3 9–10am Great Bear Vineyards\nStart your weekend feeling refreshed\, balanced\, and ready for the day!
+URL:https://visitdavis.org/event/tai-chi-basics-at-great-bear-vineyards-11/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261003T110000
+DTEND;TZID=America/Los_Angeles:20261003T123000
+DTSTAMP:20261001T173030Z
+CREATED:20260924T160046Z
+LAST-MODIFIED:20261001T173030Z
+UID:10003072-1791025200-1791030600@visitdavis.org
+SUMMARY:Homemade Gnocchi and Squash Cooking Class
+DESCRIPTION:Homemade Gnocchi & Squash Cooking Class in Davis Saturday\, October 3 | 11am\nGet ready to roll up your sleeves and cook up something delicious! Join us at Great Bear Vineyards for a hands-on\, plant-based cooking class celebrating the warm\, comforting flavors of the season. \nLearn how to make soft\, pillowy vegan gnocchi from scratch\, paired with a rich mushroom and seasonal squash sauce. Along the way\, you’ll pick up practical kitchen skills and plenty of tips for creating flavorful\, restaurant-worthy plant-based meals at home.\n In This Hands-On Class\, You’ll Learn: How to make fresh gnocchi from scratch How to select and cook seasonal vegetables How to create a flavorful squash & mushroom sauce Essential knife and ingredient-prep techniques Tips for building a balanced\, delicious plant-based meal\n On the Menu:\n Massaged Kale SaladFresh kale with cherry tomatoes\, red onion\, dried cranberries\, and vegan Parmesan\, tossed in a light dressing.\n Handmade Gnocchi with Seasonal Squash & Mushroom SaucePillowy homemade potato gnocchi served with roasted seasonal squash in a savory mushroom sauce\, finished with fresh herbs and vegan Parmesan. \nWhether you’re new to cooking or already love spending time in the kitchen\, this class is a fun way to learn new skills\, enjoy seasonal ingredients\, and discover just how delicious plant-based cooking can be!\n Ticket Includes: Cooking Class All ingredients Equipment A glass of Great Bear wine\nCome hungry\, get hands-on\, and leave with new skills and plenty of inspiration for your next dinner party!
+URL:https://visitdavis.org/event/homemade-gnocchi-and-squash-cooking-class/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Great-Bear-Vineyards_23GBV-drone-scaled-zK0eUQ.jpg
+ORGANIZER;CN="Great Bear Vineyards":MAILTO:greatbearvineyards@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261003T200000
+DTEND;TZID=America/Los_Angeles:20261003T220000
+DTSTAMP:20261001T173034Z
+CREATED:20260808T173049Z
+LAST-MODIFIED:20261001T173034Z
+UID:10003022-1791057600-1791064800@visitdavis.org
+SUMMARY:Nacho and the Dollar Menu Live @ The Melon Ball
+DESCRIPTION:Live music at The Melon Ball in Davis. \nNacho and the Dollar Menu was originally formed by Thomas Ignacio Molina in 2014. The mission of Nacho and The Dollar Menu is to help keep Northern Californian Latino music alive and well.  The band plays a mix of original music\, classic covers and new music reimagined through the lens of Latino musical styles.  Heavily influenced by the bands from the Mission in San Francisco and especially fond of cumbia and Chicano oldies\, the band functions as a creative outlet for its members and a cultural preservation organization. \nWhether you’re in dancing shoes or you just want to enjoy some classic NorCal vibes\, Nacho and the Dollar Menu has something for you. \nInstagram\nLittle Sunflower (Video Clip)\nDidn’t Cha Know (Video Clip) \n$20 General Admission\nThis is BYOB event\n7:30 Doors\n8:00 Show
+URL:https://visitdavis.org/event/nacho-and-the-dollar-menu-live-the-melon-ball/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Nacho2-1-mD3M3q.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261004T130000
+DTEND;TZID=America/Los_Angeles:20261004T150000
+DTSTAMP:20261001T173035Z
+CREATED:20260901T183046Z
+LAST-MODIFIED:20261001T173035Z
+UID:10003037-1791118800-1791126000@visitdavis.org
+SUMMARY:Wisdom of Women Symposium – Unstoppable: Power\, Investment & the Future of Women’s Professional Sports
+DESCRIPTION:Wisdom of Women Symposium in Davis – Unstoppable: Power\, Investment & the Future of Women’s Professional Sports\n\n\nA Conversation with Brandi Chastain & Candace Parker\nJoin us for a double-gold day featuring an exclusive conversation with two Olympics gold medalists: soccer legend Brandi Chastain and basketball phenom Candace Parker. They will share their wins and challenges – how they have cultivated success as industry leaders\, authors and champions for women in all aspects of life. Following\, we’ll talk with a panel of Bay Area leaders to continue the conversation about women thriving in a competitive world. \n  \nBrandi Chastain \nBrandi Chastain is an iconic American athlete\, a retired soccer player\, two-time Olympic gold-medalist\, broadcaster and two-time FIFA Women’s World Cup champion. California-born Chastain has had a fantastic career\, playing professionally for several major teams\, including Shiroki FC in the Japan Women’s Football League\, the San Jose CyberRays of the Women’s United Soccer Association\, FC Gold Pride of Women’s Professional Soccer\, and California Storm of Women’s Premier Soccer League. Between the 1988 and 2004\, Chastain played for the U.S. Women’s National Team; it was during this time that the squad won two Olympic gold medals and two World Cups. \nIn sports broadcasting\, Chastain has worked as a commentator for soccer matches both with NBC Sports during the 2008 and 2012 Summer Olympics and with ABC/ESPN covering Major League Soccer and the 2011 FIFA Women’s World Cup. A champion of girls’ health\, Chastain co-founded the Bay Area Women’s Sports Initiative in 2005 with a mission to create programs and partnerships through which women athletes bring health\, hope\, and wholeness to the community. She is the author of the 2005 book\, “It’s Not About the Bra: Play Hard\, Play Fair\, and Put the Fun Back Into Competitive Sports.” \n  \nCandace Parker \nCandace Parker has already solidified herself as one of the most influential athletes of this generation. After being selected as the No. 1 overall pick in the 2008 WNBA Draft by the Los Angeles Sparks\, following a champion career at Tennessee\, Parker went on to become the first player to earn WNBA MVP and Rookie of the Year honors in the same season. Over the course of her illustrious career\, Parker won three WNBA championship titles\, and took home two Olympic gold medals\, helping redefine versatility and excellence in women’s basketball. \nIn 2026\, she was named a headlining inductee into the Naismith Memorial Basketball Hall of Fame. Off the court\, first and foremost\, she is a wife\, mother of three children and three dogs. Since retired\, she serves as an author\, public speaker\, activist\, entrepreneur\, and studio broadcaster for men’s and women’s basketball. Her recent book\, “The Can-Do Mindset: How to Cultivate Resilience\, Follow Your Heart\, and Fight for Your Passion” breaks down her recipe for success which has helped her success on and off the court. \n  \nAlso Speaking:\nRyann Greenberg\, vice president of guest experience and venue operations\, Bay FC \nRyann Greenberg is vice president of guest experience and venue operations at Bay FC\, responsible for delivering world-class experience for players\, fans\, and partners across the club’s operations. She leads match day operations and guest experience for the club and as a member of the club’s executive leadership team has helped Bay FC quickly establish itself as a commercial powerhouse by leading the NWSL in merchandise sales and finishing in the top five for average home attendance. Building on that business momentum\, the club shattered records by drawing a sellout crowd of 40\,091 fans to Oracle Park in their second season\, establishing the highest single-game attendance record in U.S. women’s professional sports league history. \nJess Smith\, president\, Golden State Valkyries  \nJess Smith began her first season as president of the Golden State Valkyries ahead of the team’s inaugural 2025 season. Smith\, who has over 18 years of experience in professional sports\, oversees all WNBA business operations. Under Smith’s leadership\, the Valkyries have built a winning culture on and off the court. During their inaugural season\, the Valkyries set all-time WNBA records for both average attendance (18\,064) and total attendance (397\,408)\, selling out all 22 regular-season home games. \nAdditional speakers to be announced. \nModerator: \nPamela Wu ’95\, director of news and media relations\, UC Davis Health \nPamela Wu’s career spans the fields of broadcast journalism\, public relations\, and communications training.
+URL:https://visitdavis.org/event/wisdom-of-women-symposium-unstoppable-power-investment-the-future-of-womens-professional-sports/
+LOCATION:Mondavi Center\, 523 Mrak Hall Dr\, Davis\, CA\, 95616\, United States
+ORGANIZER;CN="Women &amp%3B Philanthropy at UC Davis":MAILTO:mnbains@ucdavis.edu
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261008T193000
+DTEND;TZID=America/Los_Angeles:20261008T213000
+DTSTAMP:20260807T173056Z
+CREATED:20260710T173031Z
+LAST-MODIFIED:20260807T173056Z
+UID:10002980-1791487800-1791495000@visitdavis.org
+SUMMARY:Anya Hinkle feat. Mike Witcher Live @ The Melon Ball
+DESCRIPTION:Watermelon Music in Davis presents… \nAsheville\, NC-based award-winning songwriter and internationally-touring artist Anya Hinkle and Grammy-nominated Dobro master Mike Witcher team up for an intimate exploration of hand-crafted\, acoustic music. \nRooted in the sounds of Appalachia and seasoned by travels across the globe\, Anya’s songs have won the MerleFest Chris Austin and USA Songwriting Competitions and been No. 1 hits at Folk Radio. Mike is a Southern California native who has recorded with some of the genre’s top artists\, including Dolly Parton\, Dwight Yoakam\, and many more. This powerful duo brings a surprisingly dynamic range of styles and influences to the stage. \nHills of Swannanoa (Live)\nCalifornia I Been Gone (Live)\nBound Away\nDevil Chasin’ Me\nWhy Women Need Wine \nAnya’s Social Media: \nWebsite\nSpotify\nInstagram\nFacebook \n$20 General Admission\nThis is a BYOB Event!
+URL:https://visitdavis.org/event/anya-hinkle-feat-mike-witcher-live-the-melon-ball/
+LOCATION:Watermelon Music\, 1970 Lake Blvd\, DAVIS\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/100826TICKET-2-Mu53r3.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261008T193000
+DTEND;TZID=America/Los_Angeles:20261008T213000
+DTSTAMP:20261001T173034Z
+CREATED:20260811T173030Z
+LAST-MODIFIED:20261001T173034Z
+UID:10003027-1791487800-1791495000@visitdavis.org
+SUMMARY:Anya Hinkle and Billy Cardine Live @ The Melon Ball
+DESCRIPTION:Anya Hinkle and Billy Cardine Live @ The Melon Ball in Davis \nAsheville\, NC-based roots artists Anya Hinkle (vocals\, guitar) and Billy Cardine (Dobro) team up for an intimate exploration of acoustic music rooted in the sounds of Appalachia and seasoned by their travels around the globe. Following international tours in Japan\, Denmark\, Sweden\, the Netherlands\, and throughout the US and Hawai’i over the past year\, they were recipients of the prestigious USArtist International grant from the National Endowment for the Arts to bring their surprisingly dynamic range of styles and influences to France in 2025. \nOriginally from the Appalachian Mountains of Virginia\, Anya Hinkle’s music is steeped in the tones of folk and mountain music\, featuring award-winning songwriting\, vibrant musicianship\, and striking honesty. About Oceania\, Americana Highways writes\, “This North Carolina singer-songwriter has an engagingly smooth-toned classic vocal… She’s the real deal – melodic with rich traditional instincts… one of the year’s best.” \nBilly Cardine is recognized as a pioneer of slide guitar\, taking the Dobro into uncharted genres. Billy’s unique voice on all things slide has led him to collaborate with Led Zeppelin’s own John Paul Jones\, world-renowned Edgar Meyer in his Porous Borders of Music\, and dobro king Jerry Douglas\, who stated\, “Billy Cardine is an amazing Dobro player. He is fluent in everything that I do\, and Josh Graves\, and everybody that has come before. I couldn’t have picked a better example for them of where the Dobro is now or what the possibilities are with the instrument.” \nHills of Swannanoa (Live)\nBound Away\nDevil Chasin’ Me (Music Video)\nDevil Chasin Me (Live) \nAnya’s Social Media: \nWebsite\nSpotify\nInstagram\nFacebook \n$20 General Admission\nThis is a BYOB Event!
+URL:https://visitdavis.org/event/anya-hinkle-and-billy-cardine-live-the-melon-ball/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/AnyaBillyWebPage-3-1a7f9b.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261009T113000
+DTEND;TZID=America/Los_Angeles:20261009T170000
+DTSTAMP:20261001T173033Z
+CREATED:20260929T180052Z
+LAST-MODIFIED:20261001T173033Z
+UID:10003074-1791545400-1791565200@visitdavis.org
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visitdavis.org/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy-FzJXUg.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261009T180000
+DTEND;TZID=America/Los_Angeles:20261009T210000
+DTSTAMP:20261001T173035Z
+CREATED:20260917T173037Z
+LAST-MODIFIED:20261001T173035Z
+UID:10003065-1791568800-1791579600@visitdavis.org
+SUMMARY:2nd Friday ArtAbout at the Pence Gallery
+DESCRIPTION:Join us at the Pence Gallery in Davis for our 2nd Friday ArtAbout reception on October 9\, 6-9 PM. Enjoy browsing all new exhibits\, complimentary wine\, and an art-themed scavenger hunt. Free admission! \n  \nPortraits of Things: Paintings by Gioia Fonda and Charlie Gill | Oct. 9 – Nov. 29\, 2026 \nThis series features Gioia Fonda’s new paintings of arrangements of toys and found objects\, alongside paintings by her advisor Charlie Gill based on her past still-life photographs. \n  \nMercy Hawkins: Waltz of Life & Limb | Oct. 3 – Nov. 6\, 2026  \nPairing her sculptural paintings and vibrant\, large-scale watercolors on paper\, Mercy Hawkins’ biomorphic shapes speak to a sensory play of color\, light\, and movement. Her imagery evokes seed pods\, flower buds\, or microscopic creatures.  \n  \nDanilo Campos: Out and About | Oct. 9 – Nov. 29\, 2026 \nDanilo Campos’ paintings explore his love of new places and experiences\, reflecting his way of seeming to mindlessly go ‘out and about\,’ but coming back with gems of resources. \n  \nMisuk Goltz’s Class: Expressive Watercolor | Oct. 2 – Nov. 15\, 2026 \nThis stairway show illustrates what Misuk Goltz’s watercolor students have achieved during the course of her workshops and reflects the community of painting\, encouragement\, and friendship that she has fostered while teaching at the Pence since 2020.  \n  \nScavenger Hunt: Join us for a fun\, art-themed scavenger hunt at the Pence during the 2nd Friday ArtAbout. Complete all of the clues by exploring our exhibits for the chance to win a special prize. \n  \n— \n  \nVisit the Pence and other venues in Downtown Davis for the 2nd Friday ArtAbout art walk. We will have printed ArtAbout guides available that week. Follow the ArtAbout’s Facebook page for more information: https://www.facebook.com/davisartabout. \n  \nImages: \nGioia Fonda\, “Holding It Together” \nMercy Hawkins\, “Melting Ice” \nDanilo Campos\, “Sunday Market” \nFrances Burke\, “Star Gazer”
+URL:https://visitdavis.org/event/2nd-friday-artabout-at-the-pence-gallery-18/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Pence-Reception-Banners-1-2-42fpB1.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261009T200000
+DTEND;TZID=America/Los_Angeles:20261009T220000
+DTSTAMP:20261001T173034Z
+CREATED:20260808T173102Z
+LAST-MODIFIED:20261001T173034Z
+UID:10003023-1791576000-1791583200@visitdavis.org
+SUMMARY:Anton Barbeau Album Release Concert Live @ The Melon Ball
+DESCRIPTION:Live music at the Melon Ball in Davis. \nOctober 9th is the release date for Anton Barbeau’s latest album\, Come Home To Me.  The record features performances from Colin Moulding and Dave Gregory (XTC) as well as Andy Metcalfe\, Donald Ross Skinner and Terry Edwards. \nAnton is pleased to bring his All Time Xmas Band to the Melon Ball to launch the album. Watch out Steinway! \nAnton Barbeau\, a Sacramento native and lifelong songwriter\, has released nearly 40 albums\, including his latest\, Come Home To Me\, a joint release between Gare du Nord (UK)\, Rock Indiana (Spain) and Think Like A Key (USA). After 2025’s “Dad death\, DMT and Steely Dan” trilogy\, Come Home To Me is a *somewhat* more straightforward affair\, with clean\, jangly pop songs like “World Calls Love” and the title track demanding attention. Still\, there’s always room for musical mischief on an Anton album\, as the floppy P-Funk of “I Touched The Butter” demonstrates. \nBarbeau has worked with members of XTC\, Cake\, The Pretenders\, The Soft Boys and the Bevis Frond. In Sacramento\, the local newspaper might struggle to spell his name correctly\, but in England\, Stewart Lee stands in the front row at his gigs. Popmatters says of him\, simply\, “Anton Barbeau is one of the best unknown pop singer-songwriters in the world\, period.” After living abroad for 15 years\, first in the UK and then in Berlin\, Barbeau has returned to California\, and now lives on his wife’s small town family farm. \n“Bop” video \nInterview with Anton Barbeau in It’s Psychedelic Baby magazine \n$20 General Admission\nDoors open at 7:30pm\nThis is a BYOB event!
+URL:https://visitdavis.org/event/anton-barbeau-album-release-concert-live-the-melon-ball/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Barbeau_WebPage-2-p6Ceht.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261010T080000
+DTEND;TZID=America/Los_Angeles:20261010T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002932-1791619200-1791637200@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-10-10/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261010T140000
+DTEND;TZID=America/Los_Angeles:20261010T170000
+DTSTAMP:20261001T173026Z
+CREATED:20260712T173029Z
+LAST-MODIFIED:20261001T173026Z
+UID:10002982-1791640800-1791651600@visitdavis.org
+SUMMARY:Jim Bruno’s Songwriting Workshop
+DESCRIPTION:Jim Bruno Workshop in Davis. \nJim Bruno is a San Francisco Bay Area based published songwriter. He taught Songwriting at the Freight and Salvage in Berkeley and at Foothill College in Los Altos Hills both for 11 years. \nHe’s also taught Songwriting Workshops at Chicago’s Old Town School of Folk Music\, at Far-West Music Conference\, at San Francisco State University’s High Sierra Campus and more. \nSongs he’s written have been recorded and released by Shawn Colvin\, Chuck Prophet\, Mary Lou Lord\, Cliff Eberhardt\, Thad Cockrell\, Maurice Tani and Laurie MacAlister. \nAs a performing songwriter he has performed with or opened shows for the following artists: Shawn Colvin\, Timothy B Schmidt of the Eagles\, Graham Parker\, John Gorka\, Charlie Musselwhite\, Joe Ely\, Greg Brown\, Steve Forbert\, Bill Morrissey\, Big Twist\, and Cliff Eberhardt.  He’s performed at the Greenwich Village Folk Festival\, the Udine Folk Festival in Udine\, Italy and has toured five times in Europe. He also played bass\, guitar and sang in the Shawn Colvin Band for several years and often performed with Shawn as a duet. \nHe has signed numerous song publishing agreements including Largo Music in New York and Bug Music in Los Angeles. \nEnrollment is $20\nParticipants are asked to bring a printed lyric sheet to the event
+URL:https://visitdavis.org/event/jim-brunos-songwriting-workshop/
+LOCATION:Watermelon Music\, 1970 Lake Blvd\, DAVIS\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/JimBruno_Wkshop_New-Duhcj9.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261010T180000
+DTEND;TZID=America/Los_Angeles:20261010T210000
+DTSTAMP:20261001T173034Z
+CREATED:20260822T173044Z
+LAST-MODIFIED:20261001T173034Z
+UID:10003033-1791655200-1791666000@visitdavis.org
+SUMMARY:Barn Dance in Central Park
+DESCRIPTION:Get your boots ready for a fun night at the Yolo Crisis Nursery Barn Dance in Davis! Enjoy live music from high-energy country band MoonShine Crazy\, free line dancing with Yolo Line Dance\, cold beer on tap\, local wine\, Buckhorn BBQ\, games\, raffles and more. Gather your friends\, hit the dance floor and enjoy a great night out\, all while supporting Yolo Crisis Nursery and local children and families!
+URL:https://visitdavis.org/event/barn-dance-in-central-park/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/png:https://visitdavis.org/wp-content/uploads/Screenshot-2026-08-19-at-5.31.15-PM-biNVYL.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261011T130000
+DTEND;TZID=America/Los_Angeles:20261011T153000
+DTSTAMP:20261001T173020Z
+CREATED:20260731T173017Z
+LAST-MODIFIED:20261001T173020Z
+UID:10003002-1791723600-1791732600@visitdavis.org
+SUMMARY:Stained Glass Workshop with Salty Bird Glass
+DESCRIPTION:Stained Glass Workshop with Salty Bird Glass in Davis \nSunday\, October 11 | 1-3:30 PM \n$125 Members\, $140 Non-Members (All materials included) \n  \nJoin instructor Tiara Nixon with Salty Bird Glass to learn the timeless art of Tiffany-style stained glass. In this workshop\, you will learn how to apply copper foil\, solder\, and finish your own beautiful 5” pumpkin. No prior stained glass experience is needed\, and this workshop is open to artists ages 14 and above. Space is limited! \n  \nPlease read the safety & liability form on our website before registering for this workshop. \n  \nRegister here: https://pencegallery.org/education/programs/workshops-and-classes/ \n  \nAny questions? Email pencegallery@gmail.com.
+URL:https://visitdavis.org/event/stained-glass-workshop-with-salty-bird-glass/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Pumpkin-with-pinecones-500kb-1cPpGn.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261015T183000
+DTEND;TZID=America/Los_Angeles:20261015T203000
+DTSTAMP:20261001T173035Z
+CREATED:20261001T173035Z
+LAST-MODIFIED:20261001T173035Z
+UID:10003076-1792089000-1792096200@visitdavis.org
+SUMMARY:Bat Week Screening of “The Invisible Mammal” and Davis Premiere
+DESCRIPTION:Join cast\, crew and our screening partners on Thursday\, October 15\, 2026 for a special Bat Week event: the Davis\, CA Premiere of The Invisible Mammal\, the award-winning feature documentary about bat conservation.\nAgainst the backdrop of the sixth mass extinction\, an all-woman team of biologists set out to save bats from a deadly fungal disease. But when the COVID-19 pandemic interrupts their work\, they are sent down a path of discovery that illuminates the connections between bat conservation and preventing the spread of infectious disease. \nMeet director Kristin Tièche and castmember Corky Quirk and her ambassador bats! \nCOME IN COSTUME! It’s Bat Week after all! Bat and vampire attire are encouraged! \n  \nSchedule:\n6:00 pm – Doors open \n6:30 pm – Screening begins \n8:00 pm – Q&A with cast and crew \n8:30 pm – Tabling in lobby \n  \nTicketing:\nPlease purchase tickets in advance\, and take advantage of our early bird pricing: \nNow to Oct 15\, 2026: $15 + fees \nOct 16-30\, 2026: $18 + fees
+URL:https://visitdavis.org/event/bat-week-screening-of-the-invisible-mammal-and-davis-premiere/
+LOCATION:Davis Veterans Memorial Theater\, 277 E. 14th Street\, Davis CA\, Davis\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/The-Invisible-Mammal-Davis-Flyer-scaled-3kLtcv.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261016T193000
+DTEND;TZID=America/Los_Angeles:20261016T213000
+DTSTAMP:20261001T173034Z
+CREATED:20260808T173103Z
+LAST-MODIFIED:20261001T173034Z
+UID:10003024-1792179000-1792186200@visitdavis.org
+SUMMARY:Live Music at the Melon Ball
+DESCRIPTION:Live Music at the Melon Ball in Davis \nThis past April\, Jim Bruno\, Rita Hosking\, and Richard March took stage for one of the most amazing and memorable shows ever to hit the Melon Ball stage.  All three return for ROUND 2!  Not to be missed! \n$25 General Admission\nDoors open at 7:00pm\nThis is a BYOB event!
+URL:https://visitdavis.org/event/live-music-at-the-melon-ball/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/RoundRobin2_New-RjQXR2.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261017T080000
+DTEND;TZID=America/Los_Angeles:20261017T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002933-1792224000-1792242000@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-10-17/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261017T140000
+DTEND;TZID=America/Los_Angeles:20261017T153000
+DTSTAMP:20261001T173034Z
+CREATED:20260903T173023Z
+LAST-MODIFIED:20261001T173034Z
+UID:10003038-1792245600-1792251000@visitdavis.org
+SUMMARY:Artist Talk with Mercy Hawkins
+DESCRIPTION:Artist Talk with Mercy Hawkins in Davis \nSaturday\, October 17\, 2-3:30 PM (Free) \n  \nMercy Hawkins will speak about the development and trajectory of several bodies of recent work\, including its connection to craft. She will also explore the intersection of painting and music.  \n  \nWaltz of Life & Limb pairs Hawkins’ recent sculptural paintings with her vibrant\, large-scale watercolors on paper. Her imagery evokes seed pods\, flower buds\, or microscopic creatures\, immersing the viewer in an all-encompassing perception of nature. The exhibit is on display at the Pence Gallery from October 3 – November 6\, 2026.
+URL:https://visitdavis.org/event/artist-talk-with-mercy-hawkins/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Mercy-Hawkins-portrait-copy-8Ql0Ky.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261024T080000
+DTEND;TZID=America/Los_Angeles:20261024T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002934-1792828800-1792846800@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-10-24/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261024T173000
+DTEND;TZID=America/Los_Angeles:20261024T200000
+DTSTAMP:20261001T173023Z
+CREATED:20260726T183014Z
+LAST-MODIFIED:20261001T173023Z
+UID:10003001-1792863000-1792872000@visitdavis.org
+SUMMARY:Yolo Wine & Food Affair
+DESCRIPTION:A unique opportunity to experience our Yolo County Wines wineries pouring their very best. Tickets are limited\, don’t miss out on this elevated evening. \nThe Yolo Wine & Food Affair is a celebration of the best of Yolo County’s food and wine. Join us on October 24th from 5:30-8 pm at Great Bear Vineyards in Davis. \nThe event will feature a dozen Yolo County wineries and their 90+ point wines\, Best of Class wines\, Double Gold wines\, and small-lot wines paired with small bites from local chefs. \nFor more info\, visit www.yolocountywines.com/winefoodaffair
+URL:https://visitdavis.org/event/yolo-wine-food-affair/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards 24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/VD-Great-Bear-Vineyards-270-1-scaled-YGPTQE.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261025T130000
+DTEND;TZID=America/Los_Angeles:20261025T150000
+DTSTAMP:20261001T173019Z
+CREATED:20260916T183030Z
+LAST-MODIFIED:20261001T173019Z
+UID:10003062-1792933200-1792940400@visitdavis.org
+SUMMARY:Art in Action: Lovely Landscapes
+DESCRIPTION:Art in Action: Lovely Landscapes in Davis \nSunday\, October 25\, 1-3 PM \n$5 Members\, $10 Non-Members (per person\, all materials included) \nCreate the landscape of your dreams! Inspired by Danilo Campos’ exhibit\, draw and paint your very own landscape on canvas and craft a decorative frame for your painting with cardstock\, gold paint\, and ribbon. \n  \nHow it works: \nArt in Action engages kids in art projects that are fun\, creative\, and collaborative with their family members. This is a drop-in program for ages 5-12. No registration in advance is required\, but space and supplies are limited to the first 25 participants and are available on a first come\, first served basis. When you arrive\, pay with cash or card at the front desk. A parent or adult caregiver is required to stay\, but only has to pay for the project for themselves if they are also doing art. Stay as long or as short as you like over the two hour period.  \n  \nWe have a different Art in Action family workshop every month. Learn more at https://pencegallery.org/art-in-action/. \n  \nThis monthly program is generously sponsored by Mary Stephens DeWall & Les DeWall.
+URL:https://visitdavis.org/event/art-in-action-lovely-landscapes/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Art-in-Action-logo-18-j1ixtp.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261026T100000
+DTEND;TZID=America/Los_Angeles:20261026T114500
+DTSTAMP:20261001T173014Z
+CREATED:20260909T180022Z
+LAST-MODIFIED:20261001T173014Z
+UID:10003049-1793008800-1793015100@visitdavis.org
+SUMMARY:Healing Arts One-Time Workshop
+DESCRIPTION:Healing Arts One-Time Workshop in Davis \nMonday\, October 26\, 10-11:45 AM \n$5 Members\, $10 Non-Members (all materials included) \n  \nPart of the Pence’s Healing Arts Program and run by facilitator Amy Vidra\, this one-time workshop focuses more broadly on themes related to depression\, anxiety\, or major life changes. Through the process of art making\, participants will have opportunities for discussion\, education\, and connecting with peers in a safe and supportive space. \n  \nRegistration is required in advance through our website\, and space is limited to the first 8 participants who register. Participants must be 18 or older\, and no art experience is necessary. This program is generously sponsored by Bob & Joanne Andresen. \n  \nRegister here (REQUIRED): https://pencegallery.org/education/programs/workshops-and-classes/ \n  \nIf you register for this session and are unable to attend\, please let us know in advance. \n  \nAny questions? Email pencegallery@gmail.com.
+URL:https://visitdavis.org/event/healing-arts-one-time-workshop-8/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Healing_Arts-copy-22-OAr19D.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261026T190000
+DTEND;TZID=America/Los_Angeles:20261026T210000
+DTSTAMP:20261001T173041Z
+CREATED:20260916T183120Z
+LAST-MODIFIED:20261001T173041Z
+UID:10003064-1793041200-1793048400@visitdavis.org
+SUMMARY:Renegade Orchestra at Davis Odd Fellows
+DESCRIPTION:Renegade Orchestra in Davis – The Beauty of a Symphony\, the Soul of a Rock Band \nThe Renegade Orchestra is the bay area’s most rock and roll symphony. Is it a rock band? Is it an orchestra? Who knows? But it’s definitely the best of both worlds. The pure unbridled fury of some of the bay area’s top orchestra players unleashed on classic rock songs backed up by a hard-hitting rhythm section. \nThe Renegade Orchestra will be performing at Davis Odd Fellows\, which is located right in downtown\, and is a comfortable and casual hall with great views of the stage. The Renegade Orchestra will rock out to classic songs from Hendrix to Metallica and from Bowie to Zeppelin. \nAt this show\, the Renegade Orchestra will present a comfortable\, but lively show featuring around top bay area string players combined with a driving rhythm section\, all committed to having a relaxed and rocking time. If there is something you hate about orchestra concerts\, this is the opposite. \n“Classical Rebels.” The Bohemian \n“The Renegade Orchestra would rather tackle Hendrix than Handel.” Mercury News \n  \nRenegade Orchestra at Davis Odd Fellows \n415 2nd Street \nDavis\, CA 95616 \nOct 16 at 7 pm \nTickets: $25 at RenegadeOrchestra.com
+URL:https://visitdavis.org/event/renegade-orchestra-at-davis-odd-fellows/
+LOCATION:Davis Odd Fellows Hall\, 415 2nd Street\, Davis\, 95616\, United States
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261029T193000
+DTEND;TZID=America/Los_Angeles:20261029T213000
+DTSTAMP:20261001T173034Z
+CREATED:20260808T173104Z
+LAST-MODIFIED:20261001T173034Z
+UID:10003025-1793302200-1793309400@visitdavis.org
+SUMMARY:Tim McNary Live @ The Melon Ball
+DESCRIPTION:Tim McNary Live @ The Melon Ball in Davis \nTim McNary is a Cinematic Folk Artist from the Southern United States. He found his passion for songwriting while backpacking throughout South America after college. The Nashville based songwriter traverses emotional and geographical borders with multi-dimensional songwriting and evocative  vocals. Some of his musical influences include Ben Howard\, Foy Vance\, & Leif Vollebekk. He’s had dozens of  film & tv placements\, collaborated with a host of recognized songwriters\, and toured extensively around the United States & Canada. \nListen to Tim on Spotify or Soundcloud\nLive Performance Snippets (YouTube)\nBack to the Beginning (Live – YouTube) \nTim’s Website and Instagram \n$20 General Admission\n$15 Students (in-store or at the door only\, w/ID)\n$15 Kids under 12 (in-store or at the door only) \nDoors open at 7:00pm\nThis is a BYOB event!
+URL:https://visitdavis.org/event/tim-mcnary-live-the-melon-ball/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/TimMcNaryWeb-1myOTC.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261031T080000
+DTEND;TZID=America/Los_Angeles:20261031T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002935-1793433600-1793451600@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-10-31/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+END:VCALENDAR
