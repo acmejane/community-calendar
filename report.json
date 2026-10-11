@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T02:51:25.550477",
+  "generated": "2026-10-11T02:20:29.878996",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34787,6 +34787,10 @@
             {
               "date": "2026-10-10",
               "count": 4
+            },
+            {
+              "date": "2026-10-11",
+              "count": 4
             }
           ]
         },
@@ -35651,6 +35655,10 @@
             {
               "date": "2026-10-10",
               "count": 25
+            },
+            {
+              "date": "2026-10-11",
+              "count": 26
             }
           ]
         },
@@ -36514,6 +36522,10 @@
             },
             {
               "date": "2026-10-10",
+              "count": 0
+            },
+            {
+              "date": "2026-10-11",
               "count": 0
             }
           ]
@@ -37379,6 +37391,10 @@
             {
               "date": "2026-10-10",
               "count": 10
+            },
+            {
+              "date": "2026-10-11",
+              "count": 10
             }
           ]
         },
@@ -38242,6 +38258,10 @@
             },
             {
               "date": "2026-10-10",
+              "count": 10
+            },
+            {
+              "date": "2026-10-11",
               "count": 10
             }
           ]
@@ -39107,6 +39127,10 @@
             {
               "date": "2026-10-10",
               "count": 10
+            },
+            {
+              "date": "2026-10-11",
+              "count": 10
             }
           ]
         },
@@ -39970,6 +39994,10 @@
             },
             {
               "date": "2026-10-10",
+              "count": 1
+            },
+            {
+              "date": "2026-10-11",
               "count": 1
             }
           ]
@@ -40835,6 +40863,10 @@
             {
               "date": "2026-10-10",
               "count": 0
+            },
+            {
+              "date": "2026-10-11",
+              "count": 0
             }
           ]
         },
@@ -41698,6 +41730,10 @@
             },
             {
               "date": "2026-10-10",
+              "count": 10
+            },
+            {
+              "date": "2026-10-11",
               "count": 10
             }
           ]
@@ -42563,6 +42599,10 @@
             {
               "date": "2026-10-10",
               "count": 0
+            },
+            {
+              "date": "2026-10-11",
+              "count": 0
             }
           ]
         },
@@ -43426,6 +43466,10 @@
             },
             {
               "date": "2026-10-10",
+              "count": 0
+            },
+            {
+              "date": "2026-10-11",
               "count": 0
             }
           ]
@@ -44291,6 +44335,10 @@
             {
               "date": "2026-10-10",
               "count": 26
+            },
+            {
+              "date": "2026-10-11",
+              "count": 23
             }
           ]
         },
@@ -45155,25 +45203,33 @@
             {
               "date": "2026-10-10",
               "count": 29
+            },
+            {
+              "date": "2026-10-11",
+              "count": 29
             }
           ]
         }
       },
       "categories": [
         {
-          "category": "Arts / Culture",
+          "category": "Community / Social",
           "count": 19
         },
         {
-          "category": "Community / Social",
-          "count": 18
+          "category": "Food / Drink",
+          "count": 16
+        },
+        {
+          "category": "Arts / Culture",
+          "count": 15
         },
         {
           "category": "Music / Concerts",
           "count": 14
         },
         {
-          "category": "Food / Drink",
+          "category": "Government / Civic",
           "count": 14
         },
         {
@@ -45181,12 +45237,8 @@
           "count": 11
         },
         {
-          "category": "Government / Civic",
-          "count": 11
-        },
-        {
           "category": "Health / Wellness",
-          "count": 8
+          "count": 7
         },
         {
           "category": "Religion / Spirituality",
@@ -45218,18 +45270,18 @@
         }
       ],
       "images": {
-        "total": 109,
-        "with_image": 62,
+        "total": 110,
+        "with_image": 64,
         "by_source": [
           {
             "source": "Hate-Free Together",
-            "total": 24,
-            "with_image": 23
+            "total": 25,
+            "with_image": 24
           },
           {
             "source": "Visityolo Event",
-            "total": 19,
-            "with_image": 17
+            "total": 22,
+            "with_image": 21
           },
           {
             "source": "Visit Davis",
@@ -45238,15 +45290,15 @@
           },
           {
             "source": "Visit Davis, Visityolo Event",
-            "total": 9,
-            "with_image": 8
+            "total": 6,
+            "with_image": 5
           }
         ]
       },
       "url_quality": {
-        "total_with_url": 105,
-        "total_events": 109,
-        "unique_urls": 105,
+        "total_with_url": 106,
+        "total_events": 110,
+        "unique_urls": 106,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
@@ -45254,14 +45306,14 @@
         "source_specificity": [
           {
             "source": "Hate-Free Together",
-            "events": 24,
-            "unique_urls": 24,
+            "events": 25,
+            "unique_urls": 25,
             "specificity_pct": 100
           },
           {
             "source": "Visityolo Event",
-            "events": 19,
-            "unique_urls": 19,
+            "events": 22,
+            "unique_urls": 22,
             "specificity_pct": 100
           },
           {
@@ -45284,8 +45336,8 @@
           },
           {
             "source": "Visit Davis, Visityolo Event",
-            "events": 9,
-            "unique_urls": 9,
+            "events": 6,
+            "unique_urls": 6,
             "specificity_pct": 100
           },
           {
