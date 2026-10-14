@@ -63,20 +63,6 @@ ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Mercy-Hawkins
 ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20261013T113000
-DTEND;TZID=America/Los_Angeles:20261013T170000
-DTSTAMP:20260928T180906Z
-CREATED:20260928T180906Z
-LAST-MODIFIED:20260928T180906Z
-UID:10014915-1791891000-1791910800@visityolo.com
-SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
-DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
-URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-10-13/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20261014T113000
 DTEND;TZID=America/Los_Angeles:20261014T170000
 DTSTAMP:20260928T180906Z
@@ -197,20 +183,6 @@ URL:https://visityolo.com/event/ideateam-live-at-the-hive/
 LOCATION:The HIVE / Z Specialty Food\, The HIVE Tasting Room and Kitchen
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Ideateam-small.jpg
 ORGANIZER;CN="The HIVE / Z Specialty Food":MAILTO:events@zspecialtyfood.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20261016T193000
-DTEND;TZID=America/Los_Angeles:20261016T213000
-DTSTAMP:20260807T225136Z
-CREATED:20260807T225136Z
-LAST-MODIFIED:20260807T225136Z
-UID:10014614-1792179000-1792186200@visityolo.com
-SUMMARY:Live Music at the Melon Ball
-DESCRIPTION:Live Music at the Melon Ball in Davis \nThis past April\, Jim Bruno\, Rita Hosking\, and Richard March took stage for one of the most amazing and memorable shows ever to hit the Melon Ball stage.  All three return for ROUND 2!  Not to be missed! \n$25 General Admission\nDoors open at 7:00pm\nThis is a BYOB event!
-URL:https://visityolo.com/event/live-music-at-the-melon-ball/
-LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/RoundRobin2_New.jpg
-ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20261017T080000
@@ -456,5 +428,31 @@ URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and
 LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
 ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261023T173000
+DTEND;TZID=America/Los_Angeles:20261023T193000
+DTSTAMP:20261008T174025Z
+CREATED:20261008T173945Z
+LAST-MODIFIED:20261008T174025Z
+UID:10015294-1792776600-1792783800@visityolo.com
+SUMMARY:Davis Jazz Beat Festival
+DESCRIPTION:Davis Jazz Beat Festival October 23 & 24\, 2026 \nIn honor of the incredible legacy of Beat poets\, musicians\, and artists\, the John Natsoulas Gallery will host a two-day event dedicated to the arts that defined a generation in the Bay Area. Join us to experience live music\, poetry readings\, and performance painting! All events will take place at the John Natsoulas Gallery or across the street at the Davis Commons. \nAll ages are welcome and the admission is free!
+URL:https://visityolo.com/event/davis-jazz-beat-festival-2/2026-10-23/
+LOCATION:John Natsoulas Center for the Arts\, 521 First Street\, Davis\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/manuel-luikenga-yZMwJGn-iqQ-unsplash-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261023T173000
+DTEND;TZID=America/Los_Angeles:20261023T213000
+DTSTAMP:20260601T174333Z
+CREATED:20260601T174333Z
+LAST-MODIFIED:20260601T174333Z
+UID:10013885-1792776600-1792791000@visityolo.com
+SUMMARY:4th Friday Kickback & Classic Car Show
+DESCRIPTION:Join us in Downtown Winters for our 4th Friday Kickback & Classic Car Show\, happening every 4th Friday from March through October! \nEnjoy an evening filled with live music\, classic cars\, local shopping\, outdoor dining\, family-friendly fun\, and the small-town charm that makes Winters so special. \nStroll Main Street\, grab dinner or a drink from your favorite local spots\, and check out an incredible lineup of classic cars throughout downtown. \nWhether you’re a car enthusiast or simply looking for a fun night out\, there’s something for everyone at 4th Fridays in Winters! \nLOCATION: Downtown Main Street\nDATE & TIME: 4th Friday March – October\, 5:30PM-9:30PM
+URL:https://visityolo.com/event/4th-friday-kickback-classic-car-show/2026-10-23/
+LOCATION:Downtown Winters\, Main Street\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/4th-friday.jpg
 END:VEVENT
 END:VCALENDAR
