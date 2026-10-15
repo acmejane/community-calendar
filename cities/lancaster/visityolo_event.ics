@@ -63,20 +63,6 @@ ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Mercy-Hawkins
 ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20261014T113000
-DTEND;TZID=America/Los_Angeles:20261014T170000
-DTSTAMP:20260928T180906Z
-CREATED:20260928T180906Z
-LAST-MODIFIED:20260928T180906Z
-UID:10014916-1791977400-1791997200@visityolo.com
-SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
-DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
-URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-10-14/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20261014T173000
 DTEND;TZID=America/Los_Angeles:20261014T203000
 DTSTAMP:20260813T194113Z
@@ -454,5 +440,18 @@ DESCRIPTION:Join us in Downtown Winters for our 4th Friday Kickback & Classic Ca
 URL:https://visityolo.com/event/4th-friday-kickback-classic-car-show/2026-10-23/
 LOCATION:Downtown Winters\, Main Street\, Winters\, CA\, 95694\, United States
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/4th-friday.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261023T173000
+DTEND;TZID=America/Los_Angeles:20261023T213000
+DTSTAMP:20260730T224421Z
+CREATED:20260730T224421Z
+LAST-MODIFIED:20260730T224421Z
+UID:10014591-1792776600-1792791000@visityolo.com
+SUMMARY:Winters Harvest Fest
+DESCRIPTION:Join us in Downtown Winters to celebrate the Fall Harvest. Enjoy live music\, classic car show\, food & drink specials\, a local vendor fair\, our annual Spooktacular Fun Run\, and other fun activities for the whole family! \nFriday\, October 23rd\, 5:30-9:30PM: Downtown activities include live music\, food & drinks\, trick or treating\, pumpkin painting\, kids games and more. \nSaturday\, October 24th\, 10AM-2PM: Open air street market with local merchants\, live music and food. \nSunday\, October 25th\, 9AM-1PM: Farmers market\, live music and Spooktacular Fun Run \nFor more information click here.
+URL:https://visityolo.com/event/winters-harvest-fest/2026-10-23/
+LOCATION:Downtown Winters\, Main Street\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/IMG_8660-scaled.jpeg
 END:VEVENT
 END:VCALENDAR
