@@ -7,84 +7,6 @@ X-WR-CALNAME:Lancaster Community Calendar
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/316718330/"}
-X-SOURCE-ID:meetup_mindful_embodied_spirituality
-X-SOURCE:Meetup Mindful Embodied Spirituality
-UID:event_316718330@meetup.com
-SEQUENCE:1
-DTSTAMP:20261016T014714Z
-DTSTART;TZID=America/Los_Angeles:20261015T180000
-DTEND;TZID=America/Los_Angeles:20261015T190000
-SUMMARY:Free Yoga Practice
-DESCRIPTION:Iama Embodied Community\n🌀 **Move with intention. Connect w
- ith your body. Celebrate community.**\n\nJoin us every **Thursday at 6 PM*
- * for an embodied yoga practice designed to help you release tension\, gro
- und yourself\, and cultivate presence. This is a trauma-informed\, all-lev
- els class\, no prior yoga experience needed. Expect a Hatha-Vinyasa flow\,
-  breathwork\, and a space to listen to your body’s wisdom.\n\n🌿 **Eve
- ry last Thursday of the month\, stay after class for a community potluck d
- inner!**\n\n📍 **Location**: 727 T St. Sacramento CA 95811\n✨ **All ou
- r events are free. Donations are welcome.**\n📩 **Questions? Reach out a
- t** embody.iama@gmail.com\n🔗 **Follow us on Instagram:** [@embody.iama]
- (https://www.instagram.com/embody.iama)
-URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
- 316718330/
-STATUS:CONFIRMED
-CREATED:20260926T011723Z
-LAST-MODIFIED:20260926T011723Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/bat-week-screening-of-the-invisible-mammal-and-davis-premiere/", "Visityolo Event": "https://visityolo.com/event/bat-week-screening-of-the-invisible-mammal-and-davis-premiere/"}
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/bat-week-screening-of-the-invisible-mammal-and-davis-premiere/"}
-X-SOURCE-ID:visitdavis
-X-SOURCE:Visit Davis, Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261015T183000
-DTEND;TZID=America/Los_Angeles:20261015T203000
-DTSTAMP:20261015T173035Z
-CREATED:20261001T173035Z
-LAST-MODIFIED:20261015T173035Z
-UID:10003076-1792089000-1792096200@visitdavis.org
-SUMMARY:Bat Week Screening of “The Invisible Mammal” and Davis Premiere
-DESCRIPTION:Join cast\, crew and our screening partners on Thursday\, October 15\, 2026 for a special Bat Week event: the Davis\, CA Premiere of The Invisible Mammal\, the award-winning feature documentary about bat conservation.\nAgainst the backdrop of the sixth mass extinction\, an all-woman team of biologists set out to save bats from a deadly fungal disease. But when the COVID-19 pandemic interrupts their work\, they are sent down a path of discovery that illuminates the connections between bat conservation and preventing the spread of infectious disease. \nMeet director Kristin Tièche and castmember Corky Quirk and her ambassador bats! \nCOME IN COSTUME! It’s Bat Week after all! Bat and vampire attire are encouraged! \n  \nSchedule:\n6:00 pm – Doors open \n6:30 pm – Screening begins \n8:00 pm – Q&A with cast and crew \n8:30 pm – Tabling in lobby \n  \nTicketing:\nPlease purchase tickets in advance\, and take advantage of our early bird pricing: \nNow to Oct 15\, 2026: $15 + fees \nOct 16-30\, 2026: $18 + fees
-URL:https://visitdavis.org/event/bat-week-screening-of-the-invisible-mammal-and-davis-premiere/
-LOCATION:Davis Veterans Memorial Theater\, 277 E. 14th Street\, Davis CA\, Davis\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/The-Invisible-Mammal-Davis-Flyer-scaled-3kLtcv.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-10-16/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261016T110000
-DTEND;TZID=America/Los_Angeles:20261016T180000
-DTSTAMP:20251117T171126Z
-CREATED:20251117T171126Z
-LAST-MODIFIED:20251117T171126Z
-UID:10013315-1792148400-1792173600@visityolo.com
-SUMMARY:Sip Yolo with Yolo County Wines
-DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
-URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-10-16/
-LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-10-16/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261016T113000
-DTEND;TZID=America/Los_Angeles:20261016T170000
-DTSTAMP:20260928T180906Z
-CREATED:20260928T180906Z
-LAST-MODIFIED:20260928T180906Z
-UID:10014918-1792150200-1792170000@visityolo.com
-SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
-DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
-URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-10-16/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/hispanic-heritage-celebration/"}
 X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
@@ -140,12 +62,13 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261017T090000
 DTEND;TZID=America/Los_Angeles:20261017T140000
 RRULE:FREQ=MONTHLY;UNTIL=20261121T075959Z;BYDAY=3SA
-DTSTAMP:20261016T014719Z
+EXDATE;TZID=America/Los_Angeles:20261017T090000
+DTSTAMP:20261017T014137Z
 UID:50q7jpr6vmca2rgsqa3ltejtoe@google.com
 CREATED:20241017T171351Z
 DESCRIPTION:<a href="https://davisbikeclub.org/3rd-saturday-road-ride/" tar
  get="_blank">Ride description link</a>
-LAST-MODIFIED:20260923T154351Z
+LAST-MODIFIED:20261016T222503Z
 LOCATION:John Jones\, 2068 John Jones Rd\, Davis\, CA 95616\, USA
 SEQUENCE:4
 STATUS:CONFIRMED
@@ -202,6 +125,22 @@ ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-H
 ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-ID:gcal_davisbikeclubwww
+X-SOURCE:Gcal Davisbikeclubwww
+DTSTART:20261017T140000Z
+DTEND:20261018T010000Z
+DTSTAMP:20261017T014137Z
+UID:c8q62e9j61j66b9kc8s6cb9k64s3abb160pj4bb674p64phh6cqm4opjcg@google.com
+CREATED:20261016T222729Z
+DESCRIPTION:https://www.signupgenius.com/go/4090F4BAEAC22A6FC1-64041213-202
+ 6#/
+LAST-MODIFIED:20261016T222729Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Volunteer for Foxy's support
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-sings-together/"}
 X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
@@ -225,9 +164,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20261017T140000
 DTEND;TZID=America/Los_Angeles:20261017T153000
-DTSTAMP:20261015T173034Z
+DTSTAMP:20261016T173103Z
 CREATED:20260903T173023Z
-LAST-MODIFIED:20261015T173034Z
+LAST-MODIFIED:20261016T173103Z
 UID:10003038-1792245600-1792251000@visitdavis.org
 SUMMARY:Artist Talk with Mercy Hawkins
 DESCRIPTION:Artist Talk with Mercy Hawkins in Davis \nSaturday\, October 17\, 2-3:30 PM (Free) \n  \nMercy Hawkins will speak about the development and trajectory of several bodies of recent work\, including its connection to craft. She will also explore the intersection of painting and music.  \n  \nWaltz of Life & Limb pairs Hawkins’ recent sculptural paintings with her vibrant\, large-scale watercolors on paper. Her imagery evokes seed pods\, flower buds\, or microscopic creatures\, immersing the viewer in an all-encompassing perception of nature. The exhibit is on display at the Pence Gallery from October 3 – November 6\, 2026.
@@ -242,7 +181,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316741088@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014712Z
+DTSTAMP:20261017T014131Z
 DTSTART;TZID=America/Los_Angeles:20261017T150000
 DTEND;TZID=America/Los_Angeles:20261017T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -280,7 +219,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316741633@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014712Z
+DTSTAMP:20261017T014131Z
 DTSTART;TZID=America/Los_Angeles:20261017T160000
 DTEND;TZID=America/Los_Angeles:20261017T170000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -318,7 +257,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_316742343@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014712Z
+DTSTAMP:20261017T014131Z
 DTSTART;TZID=America/Los_Angeles:20261017T170000
 DTEND;TZID=America/Los_Angeles:20261017T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -357,7 +296,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316742342@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014712Z
+DTSTAMP:20261017T014131Z
 DTSTART;TZID=America/Los_Angeles:20261017T170000
 DTEND;TZID=America/Los_Angeles:20261017T180000
 SUMMARY:Mosaics Beginning Spanish in Person
@@ -413,7 +352,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_316742875@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014712Z
+DTSTAMP:20261017T014131Z
 DTSTART;TZID=America/Los_Angeles:20261017T180000
 DTEND;TZID=America/Los_Angeles:20261017T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -453,7 +392,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_316743609@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014712Z
+DTSTAMP:20261017T014131Z
 DTSTART;TZID=America/Los_Angeles:20261017T190000
 DTEND;TZID=America/Los_Angeles:20261017T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -574,9 +513,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20261018T143000
 DTEND;TZID=America/Los_Angeles:20261018T163000
-DTSTAMP:20261015T173033Z
+DTSTAMP:20261016T173050Z
 CREATED:20261005T173052Z
-LAST-MODIFIED:20261015T173033Z
+LAST-MODIFIED:20261016T173050Z
 UID:10003082-1792333800-1792341000@visitdavis.org
 SUMMARY:Living Arts Playback Theatre Ensemble Live @ The Melon Ball
 DESCRIPTION:Live music at The Melon Ball in Davis \nThe Living Arts Playback Theatre Ensemble is a troupe of improvisational actors and musicians who “play back” personal stories shared by audience members in ways that both honor and illuminate the original experience. \nAbount Playback Theatre – Website Link \nDoors open at 2:00pm \n$25 General Admission\n$20 Seniors (in-store or at the door only)\n$20 Students (w/ID\, in the store or at the door only)\n$20 Kids 12 and under (in the store or at the door only) \nCash or Venmo at the door only (no Credit Card)
@@ -608,7 +547,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316773587@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014714Z
+DTSTAMP:20261017T014132Z
 DTSTART;TZID=America/Los_Angeles:20261019T180000
 DTEND;TZID=America/Los_Angeles:20261019T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -640,7 +579,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316782554@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014714Z
+DTSTAMP:20261017T014132Z
 DTSTART;TZID=America/Los_Angeles:20261020T094500
 DTEND;TZID=America/Los_Angeles:20261020T104500
 SUMMARY:Gentle yoga
@@ -699,7 +638,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_316806054@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014713Z
+DTSTAMP:20261017T014132Z
 DTSTART;TZID=America/Los_Angeles:20261021T170000
 DTEND;TZID=America/Los_Angeles:20261021T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -748,7 +687,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316806765@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014714Z
+DTSTAMP:20261017T014132Z
 DTSTART;TZID=America/Los_Angeles:20261021T180000
 DTEND;TZID=America/Los_Angeles:20261021T200000
 SUMMARY:Grounded Together: Building Resilience\, Connection\, and Communit
@@ -797,7 +736,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316821950@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014714Z
+DTSTAMP:20261017T014132Z
 DTSTART;TZID=America/Los_Angeles:20261022T180000
 DTEND;TZID=America/Los_Angeles:20261022T190000
 SUMMARY:Free Yoga Practice
@@ -972,9 +911,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20261023T193000
 DTEND;TZID=America/Los_Angeles:20261023T223000
-DTSTAMP:20261015T173017Z
+DTSTAMP:20261016T173023Z
 CREATED:20261005T173016Z
-LAST-MODIFIED:20261015T173017Z
+LAST-MODIFIED:20261016T173023Z
 UID:10003077-1792783800-1792794600@visitdavis.org
 SUMMARY:Halloween Dance Party @ Watermelon Music!
 DESCRIPTION:That California Sound! + Left of the Dial LIVE! Presents: That Halloween Costume Dance Party ft. The Sugar Pushers in Davis \nThe Sugar Pushers will de-liver their playfully paranormal themed Rock & Roll and phantasmic antics at Watermelon Music\, Friday\, October 23rd!  Step through the creaking doors of The Melon Ball as it transforms into a Spooktacular Dance Haunt for JUST ONE NIGHT! Come dressed to kill for the Spooky Photo Wall\, Monster Mash Dance Off\, and Costume Contest\, judged by KDRT’s That California Sound! \nIt will be Ghastly! Ghoulish! and Gloriously over‑the‑top.  Don’t Ghost this Mischievously Macabre Monster Masquerade!
@@ -989,9 +928,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20261023T200000
 DTEND;TZID=America/Los_Angeles:20261023T220000
-DTSTAMP:20261015T173033Z
+DTSTAMP:20261016T173050Z
 CREATED:20261005T173051Z
-LAST-MODIFIED:20261015T173033Z
+LAST-MODIFIED:20261016T173050Z
 UID:10003081-1792785600-1792792800@visitdavis.org
 SUMMARY:That Halloween Costume Dance Party feat. The Sugar Pushers Live @ The Melon Ball
 DESCRIPTION:That Halloween Costume Dance Party feat. The Sugar Pushers Live @ The Melon Ball in Davis. \nThe Sugar Pushers will de-liver their playfully paranormal themed Rock & Roll and phantasmic antics at Watermelon Music\, Friday\, October 23rd!  Step through the creaking doors of The Melon Ball as it transforms into a Spooktacular Dance Haunt for JUST ONE NIGHT! Come dressed to kill for the Costume Contest\, judged by KDRT’s That California Sound! \nIt will be Ghastly! Ghoulish! and Gloriously over-the-top!  Don’t Ghost this Mischievously Macabre Monster Masquerade! \nAdult Centric / All Ages / 18+ Recommended\nDoors 7:30\nShow 8pm\n$20 General Admission \nCash or Venmo at the door only (no Credit Card) \nThis is a BYOB Event!
@@ -1001,9 +940,10 @@ ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Sugar_Web-2-
 ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-88/2026-10-24/", "Visityolo Event": "https://visityolo.com/event/davis-farmers-market-2/2026-10-24/"}
 X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-88/2026-10-24/"}
 X-SOURCE-ID:visitdavis
-X-SOURCE:Visit Davis
+X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20261024T080000
 DTEND;TZID=America/Los_Angeles:20261024T130000
 DTSTAMP:20260624T184342Z
@@ -1017,12 +957,65 @@ LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
 ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-ID:gcal_davisbikeclubwww
+X-SOURCE:Gcal Davisbikeclubwww
+DTSTART;TZID=America/Los_Angeles:20261024T100000
+DTEND;TZID=America/Los_Angeles:20261024T123000
+DTSTAMP:20261017T014137Z
+UID:bvt9mhfc6aeiej4nm89f0c9glp@google.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20261017T100000
+CREATED:20260325T034347Z
+DESCRIPTION:<a href="https://www.google.com/url?q=https://davisbikeclub.org
+ /saturday-joy-ride/&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvV
+ aw1mwm03xEhePsxZoaqyqbED" target="_blank">https://davisbikeclub.org/saturda
+ y-joy-ride/</a>
+LAST-MODIFIED:20261016T141615Z
+LOCATION:Westlake Market\, 1260 Lake Blvd\, Davis\, CA 95616\, USA
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Saturday Joy Ride
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/winters-harvest-fest/2026-10-24/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261024T100000
+DTEND;TZID=America/Los_Angeles:20261024T140000
+DTSTAMP:20260730T224421Z
+CREATED:20260730T224421Z
+LAST-MODIFIED:20260730T224421Z
+UID:10014592-1792836000-1792850400@visityolo.com
+SUMMARY:Winters Harvest Fest
+DESCRIPTION:Join us in Downtown Winters to celebrate the Fall Harvest. Enjoy live music\, classic car show\, food & drink specials\, a local vendor fair\, our annual Spooktacular Fun Run\, and other fun activities for the whole family! \nFriday\, October 23rd\, 5:30-9:30PM: Downtown activities include live music\, food & drinks\, trick or treating\, pumpkin painting\, kids games and more. \nSaturday\, October 24th\, 10AM-2PM: Open air street market with local merchants\, live music and food. \nSunday\, October 25th\, 9AM-1PM: Farmers market\, live music and Spooktacular Fun Run \nFor more information click here.
+URL:https://visityolo.com/event/winters-harvest-fest/2026-10-24/
+LOCATION:Downtown Winters\, Main Street\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/IMG_8660-scaled.jpeg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/firewise-fire-resilient-landscapes/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261024T110000
+DTEND;TZID=America/Los_Angeles:20261024T140000
+DTSTAMP:20260921T183411Z
+CREATED:20260921T183411Z
+LAST-MODIFIED:20260921T183411Z
+UID:10014893-1792839600-1792850400@visityolo.com
+SUMMARY:Firewise: Fire Resilient Landscapes
+DESCRIPTION:Come out to the beautiful Capay Valley to learn about fire resilient landscapes and home hardening. California native plants will be available for purchase. The Yolo County Monarch Waystation project will also have plants available. \nLunch is available for purchase.
+URL:https://visityolo.com/event/firewise-fire-resilient-landscapes/
+LOCATION:Western Yolo Grange\, 16787 Forest Ave\, Guinda\, 95637\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Toyon-Capay-Valley-1.jpg
+ORGANIZER;CN="Kristen Webster":MAILTO:kmwspa@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/316845217/"}
 X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316845217@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014712Z
+DTSTAMP:20261017T014131Z
 DTSTART;TZID=America/Los_Angeles:20261024T150000
 DTEND;TZID=America/Los_Angeles:20261024T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -1060,7 +1053,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316845888@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014712Z
+DTSTAMP:20261017T014131Z
 DTSTART;TZID=America/Los_Angeles:20261024T160000
 DTEND;TZID=America/Los_Angeles:20261024T170000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -1098,7 +1091,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_316846741@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014712Z
+DTSTAMP:20261017T014131Z
 DTSTART;TZID=America/Los_Angeles:20261024T170000
 DTEND;TZID=America/Los_Angeles:20261024T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1137,7 +1130,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316846740@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014712Z
+DTSTAMP:20261017T014131Z
 DTSTART;TZID=America/Los_Angeles:20261024T170000
 DTEND;TZID=America/Los_Angeles:20261024T180000
 SUMMARY:Mosaics Beginning Spanish in Person
@@ -1175,9 +1168,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20261024T173000
 DTEND;TZID=America/Los_Angeles:20261024T200000
-DTSTAMP:20261015T173024Z
+DTSTAMP:20261016T173030Z
 CREATED:20260726T183014Z
-LAST-MODIFIED:20261015T173024Z
+LAST-MODIFIED:20261016T173030Z
 UID:10003001-1792863000-1792872000@visitdavis.org
 SUMMARY:Yolo Wine & Food Affair
 DESCRIPTION:A unique opportunity to experience our Yolo County Wines wineries pouring their very best. Tickets are limited\, don’t miss out on this elevated evening. \nThe Yolo Wine & Food Affair is a celebration of the best of Yolo County’s food and wine. Join us on October 24th from 5:30-8 pm at Great Bear Vineyards in Davis. \nThe event will feature a dozen Yolo County wineries and their 90+ point wines\, Best of Class wines\, Double Gold wines\, and small-lot wines paired with small bites from local chefs. \nFor more info\, visit www.yolocountywines.com/winefoodaffair
@@ -1192,7 +1185,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_316847305@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014712Z
+DTSTAMP:20261017T014131Z
 DTSTART;TZID=America/Los_Angeles:20261024T180000
 DTEND;TZID=America/Los_Angeles:20261024T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1232,7 +1225,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_316847902@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014712Z
+DTSTAMP:20261017T014131Z
 DTSTART;TZID=America/Los_Angeles:20261024T190000
 DTEND;TZID=America/Los_Angeles:20261024T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1271,9 +1264,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20261025T130000
 DTEND;TZID=America/Los_Angeles:20261025T150000
-DTSTAMP:20261015T173017Z
+DTSTAMP:20261016T173023Z
 CREATED:20260916T183030Z
-LAST-MODIFIED:20261015T173017Z
+LAST-MODIFIED:20261016T173023Z
 UID:10003062-1792933200-1792940400@visitdavis.org
 SUMMARY:Art in Action: Lovely Landscapes
 DESCRIPTION:Art in Action: Lovely Landscapes in Davis \nSunday\, October 25\, 1-3 PM \n$5 Members\, $10 Non-Members (per person\, all materials included) \nCreate the landscape of your dreams! Inspired by Danilo Campos’ exhibit\, draw and paint your very own landscape on canvas and craft a decorative frame for your painting with cardstock\, gold paint\, and ribbon. \n  \nHow it works: \nArt in Action engages kids in art projects that are fun\, creative\, and collaborative with their family members. This is a drop-in program for ages 5-12. No registration in advance is required\, but space and supplies are limited to the first 25 participants and are available on a first come\, first served basis. When you arrive\, pay with cash or card at the front desk. A parent or adult caregiver is required to stay\, but only has to pay for the project for themselves if they are also doing art. Stay as long or as short as you like over the two hour period.  \n  \nWe have a different Art in Action family workshop every month. Learn more at https://pencegallery.org/art-in-action/. \n  \nThis monthly program is generously sponsored by Mary Stephens DeWall & Les DeWall.
@@ -1288,9 +1281,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20261025T180000
 DTEND;TZID=America/Los_Angeles:20261025T200000
-DTSTAMP:20261015T173025Z
+DTSTAMP:20261016T173033Z
 CREATED:20261015T173025Z
-LAST-MODIFIED:20261015T173025Z
+LAST-MODIFIED:20261016T173033Z
 UID:10003094-1792951200-1792958400@visitdavis.org
 SUMMARY:Open Mic and Music Trivia Halloween Themed
 DESCRIPTION:This month’s theme for Open Mic & Music Trivia in Davis is Halloween.  Come in costume\, sing songs about Halloween or anything else ghoulish spooky\, or witchy.  Of course\, if you don’t want to play-a-long and just do your own thing\, you are still welcome! \nWhether you’re looking for a venue to share your own talents or just looking to enjoy hearing (and seeing) some local performers\, we invite you to this free monthly event. We provide the sound\, stage and lights – the rest is up to you. Play us your favorite song\, tell us some jokes\, act out a scene from your favorite play with friends. \nWe will continue to feature our Music Trivia contest throughout the evening in between acts. The winner will receive a $20 Watermelon Music gift card! \nWe ask that each performance be suitable for an all-ages venue\, and that you arrive on time and stay until the end to support your fellow performers. \nFREE!!!\nDoors open/sign-ups @ 5:30.\nFirst act @ 6:00. \nPlease help support the Watermelon Music with your purchase of a drink or a snack at Open Mic!  Non-alcoholic drinks and pre-packaged snacks are available for sale at The Melon Ball.  (Cash or Venmo only) \nWe hope to see you there!
@@ -1305,9 +1298,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20261026T100000
 DTEND;TZID=America/Los_Angeles:20261026T114500
-DTSTAMP:20261015T173018Z
+DTSTAMP:20261016T173024Z
 CREATED:20260909T180022Z
-LAST-MODIFIED:20261015T173018Z
+LAST-MODIFIED:20261016T173024Z
 UID:10003049-1793008800-1793015100@visitdavis.org
 SUMMARY:Healing Arts One-Time Workshop
 DESCRIPTION:Healing Arts One-Time Workshop in Davis \nMonday\, October 26\, 10-11:45 AM \n$5 Members\, $10 Non-Members (all materials included) \n  \nPart of the Pence’s Healing Arts Program and run by facilitator Amy Vidra\, this one-time workshop focuses more broadly on themes related to depression\, anxiety\, or major life changes. Through the process of art making\, participants will have opportunities for discussion\, education\, and connecting with peers in a safe and supportive space. \n  \nRegistration is required in advance through our website\, and space is limited to the first 8 participants who register. Participants must be 18 or older\, and no art experience is necessary. This program is generously sponsored by Bob & Joanne Andresen. \n  \nRegister here (REQUIRED): https://pencegallery.org/education/programs/workshops-and-classes/ \n  \nIf you register for this session and are unable to attend\, please let us know in advance. \n  \nAny questions? Email pencegallery@gmail.com.
@@ -1322,7 +1315,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316877051@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014714Z
+DTSTAMP:20261017T014132Z
 DTSTART;TZID=America/Los_Angeles:20261026T180000
 DTEND;TZID=America/Los_Angeles:20261026T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1354,9 +1347,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20261026T190000
 DTEND;TZID=America/Los_Angeles:20261026T210000
-DTSTAMP:20261015T173035Z
+DTSTAMP:20261016T173104Z
 CREATED:20260916T183120Z
-LAST-MODIFIED:20261015T173035Z
+LAST-MODIFIED:20261016T173104Z
 UID:10003064-1793041200-1793048400@visitdavis.org
 SUMMARY:Renegade Orchestra at Davis Odd Fellows
 DESCRIPTION:Renegade Orchestra in Davis – The Beauty of a Symphony\, the Soul of a Rock Band \nThe Renegade Orchestra is the bay area’s most rock and roll symphony. Is it a rock band? Is it an orchestra? Who knows? But it’s definitely the best of both worlds. The pure unbridled fury of some of the bay area’s top orchestra players unleashed on classic rock songs backed up by a hard-hitting rhythm section. \nThe Renegade Orchestra will be performing at Davis Odd Fellows\, which is located right in downtown\, and is a comfortable and casual hall with great views of the stage. The Renegade Orchestra will rock out to classic songs from Hendrix to Metallica and from Bowie to Zeppelin. \nAt this show\, the Renegade Orchestra will present a comfortable\, but lively show featuring around top bay area string players combined with a driving rhythm section\, all committed to having a relaxed and rocking time. If there is something you hate about orchestra concerts\, this is the opposite. \n“Classical Rebels.” The Bohemian \n“The Renegade Orchestra would rather tackle Hendrix than Handel.” Mercury News \n  \nRenegade Orchestra at Davis Odd Fellows \n415 2nd Street \nDavis\, CA 95616 \nOct 16 at 7 pm \nTickets: $25 at RenegadeOrchestra.com
@@ -1369,7 +1362,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316884481@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014714Z
+DTSTAMP:20261017T014132Z
 DTSTART;TZID=America/Los_Angeles:20261027T094500
 DTEND;TZID=America/Los_Angeles:20261027T104500
 SUMMARY:Gentle yoga
@@ -1411,7 +1404,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_316904500@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014713Z
+DTSTAMP:20261017T014132Z
 DTSTART;TZID=America/Los_Angeles:20261028T170000
 DTEND;TZID=America/Los_Angeles:20261028T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1443,9 +1436,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20261028T183000
 DTEND;TZID=America/Los_Angeles:20261028T210000
-DTSTAMP:20261015T173027Z
+DTSTAMP:20261016T173033Z
 CREATED:20261009T160047Z
-LAST-MODIFIED:20261015T173027Z
+LAST-MODIFIED:20261016T173033Z
 UID:10003090-1793212200-1793221200@visitdavis.org
 SUMMARY:Figure Drawing Group
 DESCRIPTION:Figure Drawing Group in Davis \nWednesday\, October 28\, 6:30-9 PM \n$15 Members\, $22 Non-Members | Limited to 10 participants \nRegistration & payment is required in advance through the Pence’s website. \n  \nWe hold self-guided figure drawing sessions with a nude model every 2nd & 4th Wednesday of the month\, from 6:30–9 PM. This group is for both experienced artists and amateurs to have an opportunity to draw from the nude model. If you have never drawn from a live model before and would like to join us\, you are very welcome! People of all skill levels\, ages 18 and up\, are welcome and encouraged to join. \n  \nThis is not a class\, and no instruction is provided. The atmosphere is relaxed and non-competitive. Bring your own art materials\, and we’ll provide a comfortable place to sketch or paint live models in our upstairs classroom space. Participants will work independently through a warm up with shorter poses and longer\, twenty-minute poses. A staff member will be on-site to facilitate the group and to answer questions. \n  \nRegister here: https://pencegallery.org/education/programs/figure-drawing/ \n  \nQuestions? Email Yuuki at pencegalleryassociate@gmail.com. \n  \nImage: drawing by Deziree Seidner
@@ -1476,7 +1469,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316919045@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014714Z
+DTSTAMP:20261017T014132Z
 DTSTART;TZID=America/Los_Angeles:20261029T180000
 DTEND;TZID=America/Los_Angeles:20261029T190000
 SUMMARY:Free Yoga Practice
@@ -1504,9 +1497,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20261029T193000
 DTEND;TZID=America/Los_Angeles:20261029T213000
-DTSTAMP:20261015T173029Z
+DTSTAMP:20261016T173031Z
 CREATED:20260808T173104Z
-LAST-MODIFIED:20261015T173029Z
+LAST-MODIFIED:20261016T173031Z
 UID:10003025-1793302200-1793309400@visitdavis.org
 SUMMARY:Tim McNary Live @ The Melon Ball
 DESCRIPTION:Tim McNary Live @ The Melon Ball in Davis \nTim McNary is a Cinematic Folk Artist from the Southern United States. He found his passion for songwriting while backpacking throughout South America after college. The Nashville based songwriter traverses emotional and geographical borders with multi-dimensional songwriting and evocative  vocals. Some of his musical influences include Ben Howard\, Foy Vance\, & Leif Vollebekk. He’s had dozens of  film & tv placements\, collaborated with a host of recognized songwriters\, and toured extensively around the United States & Canada. \nListen to Tim on Spotify or Soundcloud\nLive Performance Snippets (YouTube)\nBack to the Beginning (Live – YouTube) \nTim’s Website and Instagram \n$20 General Admission\n$15 Students (in-store or at the door only\, w/ID)\n$15 Kids under 12 (in-store or at the door only) \nDoors open at 7:00pm\nThis is a BYOB event!
@@ -1538,9 +1531,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20261030T193000
 DTEND;TZID=America/Los_Angeles:20261030T213000
-DTSTAMP:20261015T173033Z
+DTSTAMP:20261016T173050Z
 CREATED:20261005T173036Z
-LAST-MODIFIED:20261015T173033Z
+LAST-MODIFIED:20261016T173050Z
 UID:10003080-1793388600-1793395800@visitdavis.org
 SUMMARY:SSRI R&B Jazz Quintet Live @ The Melon Ball
 DESCRIPTION:Live Music @ The Melon Ball in Davis \nSSRI is a modern jazz collective that is deeply influenced by artists and groups such as: Robert Glasper\, Roy Hargrove\, and Lettuce. They perform a diverse repertoire of original contemporary jazz arrangements\, standards from The American Song Book\, and covers of beloved R&B songs from the 90s and mid 2000s. Each band member has a different musical background\, but we’ve drawn together due to our shared love of Jazz\, R&B\, Gospel and Pop music. Join us as we celebrate the music of Michael Jackson\, Luther Vandross\, Stevie Wonder\, and more! \n$20 General Admission\n$15 Seniors/Students\n$10 Kids under 12 \nDoors open at 7:00pm\nCash or Venmo at the door only (no Credit Card) \nThis is a BYOB event!
@@ -1571,9 +1564,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20261031T110000
 DTEND;TZID=America/Los_Angeles:20261031T150000
-DTSTAMP:20261015T173022Z
+DTSTAMP:20261016T173028Z
 CREATED:20260904T173027Z
-LAST-MODIFIED:20261015T173022Z
+LAST-MODIFIED:20261016T173028Z
 UID:10003048-1793444400-1793458800@visitdavis.org
 SUMMARY:Zombie Bike Parade
 DESCRIPTION:A FREE\, family-friendly festival in Davis on Halloween Day\, 2026! Featuring 25+ entertainment stations\, a BMX stunt show\, thousands of costumed riders\, and zombies falling out of the sky. The bike ride itself is the main event of the day\, but it is entirely optional\, so come on wheels or on foot. Money raised goes to our beneficiary\, NorCal Trykers\, to build custom trikes for children with disabilities. For a listing of full events for the Halloween weekend visit the Zombie Bike Parade website.
@@ -1587,7 +1580,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_316941287@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014712Z
+DTSTAMP:20261017T014131Z
 DTSTART;TZID=America/Los_Angeles:20261031T170000
 DTEND;TZID=America/Los_Angeles:20261031T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1626,7 +1619,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_316941732@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014712Z
+DTSTAMP:20261017T014131Z
 DTSTART;TZID=America/Los_Angeles:20261031T180000
 DTEND;TZID=America/Los_Angeles:20261031T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1665,7 +1658,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_316942237@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014712Z
+DTSTAMP:20261017T014131Z
 DTSTART;TZID=America/Los_Angeles:20261031T190000
 DTEND;TZID=America/Los_Angeles:20261031T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1704,9 +1697,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20261031T190000
 DTEND;TZID=America/Los_Angeles:20261031T220000
-DTSTAMP:20261015T173035Z
+DTSTAMP:20261016T173104Z
 CREATED:20261015T173035Z
-LAST-MODIFIED:20261015T173035Z
+LAST-MODIFIED:20261016T173104Z
 UID:10003095-1793473200-1793484000@visitdavis.org
 SUMMARY:Goth Gala – presented by UC Davis Aggie Bats & KDVS
 DESCRIPTION:A spooky Halloween event in Davis will feature live music performances and a special opening DJ set by Ghoulie Julie. Costumes or goth wear are highly encouraged but not required. \nLive music performances by:\n-Rose Lyon\n-In Retrograde\n-Killer Couture\n-Special opening DJ set by Ghoulie Julie \nCostumes or goth wear are highly encouraged but not required. \nAdmission is $10–15 sliding scale / NOTAFLOF (No One Turned Away For Lack Of Funds).
@@ -1751,7 +1744,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316969803@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014714Z
+DTSTAMP:20261017T014132Z
 DTSTART;TZID=America/Los_Angeles:20261102T180000
 DTEND;TZID=America/Los_Angeles:20261102T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1783,7 +1776,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316977817@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014714Z
+DTSTAMP:20261017T014132Z
 DTSTART;TZID=America/Los_Angeles:20261103T094500
 DTEND;TZID=America/Los_Angeles:20261103T104500
 SUMMARY:Gentle yoga
@@ -1808,7 +1801,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_317003777@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014713Z
+DTSTAMP:20261017T014132Z
 DTSTART;TZID=America/Los_Angeles:20261104T170000
 DTEND;TZID=America/Los_Angeles:20261104T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1826,6 +1819,34 @@ URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
 STATUS:CONFIRMED
 CREATED:20261016T003209Z
 LAST-MODIFIED:20261016T003209Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/316999761/"}
+X-SOURCE-ID:meetup_mindful_embodied_spirituality
+X-SOURCE:Meetup Mindful Embodied Spirituality
+UID:event_316999761@meetup.com
+SEQUENCE:1
+DTSTAMP:20261017T014132Z
+DTSTART;TZID=America/Los_Angeles:20261105T180000
+DTEND;TZID=America/Los_Angeles:20261105T190000
+SUMMARY:Free Yoga Practice
+DESCRIPTION:Iama Embodied Community\n🌀 **Move with intention. Connect w
+ ith your body. Celebrate community.**\n\nJoin us every **Thursday at 6 PM*
+ * for an embodied yoga practice designed to help you release tension\, gro
+ und yourself\, and cultivate presence. This is a trauma-informed\, all-lev
+ els class\, no prior yoga experience needed. Expect a Hatha-Vinyasa flow\,
+  breathwork\, and a space to listen to your body’s wisdom.\n\n🌿 **Eve
+ ry last Thursday of the month\, stay after class for a community potluck d
+ inner!**\n\n📍 **Location**: 727 T St. Sacramento CA 95811\n✨ **All ou
+ r events are free. Donations are welcome.**\n📩 **Questions? Reach out a
+ t** embody.iama@gmail.com\n🔗 **Follow us on Instagram:** [@embody.iama]
+ (https://www.instagram.com/embody.iama)
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ 316999761/
+STATUS:CONFIRMED
+CREATED:20261015T200845Z
+LAST-MODIFIED:20261015T200845Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
@@ -1900,7 +1921,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_vkccbvyjcpbkb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014712Z
+DTSTAMP:20261017T014131Z
 DTSTART;TZID=America/Los_Angeles:20261107T170000
 DTEND;TZID=America/Los_Angeles:20261107T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1956,7 +1977,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstyjcpbpb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014713Z
+DTSTAMP:20261017T014132Z
 DTSTART;TZID=America/Los_Angeles:20261111T170000
 DTEND;TZID=America/Los_Angeles:20261111T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1988,7 +2009,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjcpbxb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014713Z
+DTSTAMP:20261017T014132Z
 DTSTART;TZID=America/Los_Angeles:20261118T170000
 DTEND;TZID=America/Los_Angeles:20261118T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2036,12 +2057,12 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261121T090000
 DTEND;TZID=America/Los_Angeles:20261121T140000
 RRULE:FREQ=MONTHLY;BYDAY=3SA
-DTSTAMP:20261016T014719Z
+DTSTAMP:20261017T014137Z
 UID:50q7jpr6vmca2rgsqa3ltejtoe_R20261121T170000@google.com
 CREATED:20241017T171351Z
 DESCRIPTION:<a href="https://davisbikeclub.org/3rd-saturday-road-ride/" tar
  get="_blank">Ride description link</a>
-LAST-MODIFIED:20260923T154351Z
+LAST-MODIFIED:20261016T222503Z
 LOCATION:John Jones\, 2068 John Jones Rd\, Davis\, CA 95616\, USA
 SEQUENCE:4
 STATUS:CONFIRMED
@@ -2054,7 +2075,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcpbhc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014713Z
+DTSTAMP:20261017T014132Z
 DTSTART;TZID=America/Los_Angeles:20261125T170000
 DTEND;TZID=America/Los_Angeles:20261125T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2102,7 +2123,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcqbdb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014713Z
+DTSTAMP:20261017T014132Z
 DTSTART;TZID=America/Los_Angeles:20261202T170000
 DTEND;TZID=America/Los_Angeles:20261202T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -2160,7 +2181,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstyjcqbmb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014713Z
+DTSTAMP:20261017T014132Z
 DTSTART;TZID=America/Los_Angeles:20261209T170000
 DTEND;TZID=America/Los_Angeles:20261209T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2192,7 +2213,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjcqbvb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014713Z
+DTSTAMP:20261017T014132Z
 DTSTART;TZID=America/Los_Angeles:20261216T170000
 DTEND;TZID=America/Los_Angeles:20261216T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2256,7 +2277,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcqbnc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261016T014713Z
+DTSTAMP:20261017T014132Z
 DTSTART;TZID=America/Los_Angeles:20261230T170000
 DTEND;TZID=America/Los_Angeles:20261230T210000
 SUMMARY:Weekly Game Night at Blue Note
