@@ -70,6 +70,20 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/United-Against-Hate-Week.png
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=UTC:20261021T160000
+DTEND;TZID=UTC:20261021T180000
+DTSTAMP:20261019T224323Z
+CREATED:20261019T224323Z
+LAST-MODIFIED:20261019T224323Z
+UID:10000740-1792598400-1792605600@hatefreetogether.org
+SUMMARY:UC Davis: Police Accountability Board Fall 2026 Public Meeting
+DESCRIPTION:Held each quarter during the regular academic year\, the UC Davis Police Accountability Board (PAB) public meetings provide opportunities for Davis and Sacramento campus community members and others\, including people from the surrounding communities\, to learn more about the board’s work and how to file complaints and to raise concerns. The meeting is informal and will include introductions to PAB representatives and staff in attendance and a brief presentation on the PAB’s history\, charge\, board membership and administrative structure and complaint and investigation processes. Questions and comments from members of the public in attendance are welcome.  Register here. This meeting is vertual.
+URL:https://hatefreetogether.org/event/uc-davis-police-accountability-board-fall-2026-public-meeting/
+LOCATION:Zoom
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/PAB-meeting.jpg
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=UTC:20261022T183000
 DTEND;TZID=UTC:20261022T200000
 DTSTAMP:20260424T163204Z
@@ -255,6 +269,20 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Principles-of-Community-Celebration-2026.png
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=UTC:20261116T150000
+DTEND;TZID=UTC:20261116T160000
+DTSTAMP:20261019T224654Z
+CREATED:20261019T224654Z
+LAST-MODIFIED:20261019T224654Z
+UID:10000743-1794841200-1794844800@hatefreetogether.org
+SUMMARY:Teaching about Disinformation
+DESCRIPTION:This presentation brings together Catherine Hatzakos\, Continuing Lecturer in the Writing Center\, and Matthew Conner\, Arts\, Humanities\, and Social Sciences Librarian\, to discuss tools\, pedagogies\, and learning outcomes for teaching about disinformation. Register here \n2026-2027 marks the UC Davis Campus Community Book Project’s 25th anniversary\, and our theme—civil liberties—leans into the Book Project’s legacy of promoting dialogue and engaging diverse perspectives and audiences. Our selection\, On Tyranny: Twenty Lessons from the Twentieth Century by Timothy Snyder is a call to arms and a guide to resistance\, with invaluable ideas for how we can preserve our freedoms in the uncertain years to come. The Founding Fathers tried to protect us from the threat they knew\, the tyranny that overcame ancient democracy. Today\, our political order faces new threats\, not unlike the totalitarianism of the twentieth century. We are no wiser than the Europeans who saw democracy yield to fascism\, Nazism\, or communism. Our one advantage is that we might learn from their experience. Author Timothy Snyder holds the inaugural Temerty Chair in Modern European History at the Munk School of Global Affairs and Public Policy at the University of Toronto. He is also a permanent fellow at the Institute for Human Sciences in Vienna and the head of the academic advisory council of Ukrainian History Global Initiative. You can read more about the selection here.
+URL:https://hatefreetogether.org/event/teaching-about-disinformation/
+LOCATION:Zoom
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Books.jpg
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=UTC:20261119T183000
 DTEND;TZID=UTC:20261119T200000
 DTSTAMP:20260424T163204Z
@@ -383,31 +411,5 @@ DESCRIPTION:The Davis City Council provides policy direction\, establishes goals
 URL:https://hatefreetogether.org/event/davis-city-council-meetings/2027-01-28/
 LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20270128T183000
-DTEND;TZID=UTC:20270128T200000
-DTSTAMP:20260424T165540Z
-CREATED:20260424T165540Z
-LAST-MODIFIED:20260424T165540Z
-UID:10000495-1801161000-1801166400@hatefreetogether.org
-SUMMARY:Human Relations Commission Meetings
-DESCRIPTION:The Davis Human Relations Commission (HRC) meetings aim to promote mutual respect\, understanding\, justice\, and advancing the human rights of all people. The Human Relations Commission meets on the fourth Thursday of each month at 6:30 p.m. The Commission takes a recess in July (no meeting in July). \n  \nMeetings take place in the Community Chambers at City Hall\, 23 Russell Boulevard. For more information on meetings\, membership\, resolutions\, and more\, visit the Human Relations Commission site. \n  \nThe HRC makes recommendations around equity and discrimination in the City\, and supports the City in preventing and addressing discrimination while promoting diversity\, equality\, and justice relevant to the goals and policies of the City Council. \n  \nTo contact or send emails to the commission\, email: HRC@cityofdavis.org
-URL:https://hatefreetogether.org/event/human-relations-commission-meetings/2027-01-28/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/humanrelations_ci_SACHA_CHICKERING-scaled-e1777049624821.webp
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20270204T183000
-DTEND;TZID=UTC:20270204T200000
-DTSTAMP:20260424T172314Z
-CREATED:20260424T172126Z
-LAST-MODIFIED:20260424T172314Z
-UID:10000682-1801765800-1801771200@hatefreetogether.org
-SUMMARY:DJUSD Board Meetings
-DESCRIPTION:DJUSD Board meetings offer insight on how the school district remains responsive to the community’s values\, beliefs\, and priorities. The Board meetings occur on every first and third Thursday\, in the City of Davis Community Chambers. 23 Russell Boulevard. Public session starts at 6:30 PM.  Meetings are cablecast live on Channel 17 (Comcast) or streamed on the DJUSD-TV website. \n  \nThe Davis Joint Unified School District’s Board of Education is comprised of five community members\, responsible for setting district policy\, approving the budget\, and hiring the superintendent for schools in Davis\, California. The agendas for the meetings are posted at least 72 hours in advance. \n  \nFor more information on special meetings\, agendas\, public comment\, and more\, visit the DJUSD Board site.
-URL:https://hatefreetogether.org/event/djusd-board-meetings/2027-02-04/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/499036487_1275464707915844_5079899038399820181_n.jpg
 END:VEVENT
 END:VCALENDAR
