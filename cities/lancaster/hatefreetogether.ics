@@ -28,6 +28,7 @@ UID:10000733-1789862400-1794614399@hatefreetogether.org
 SUMMARY:Good Fire\, Living Water: The Gifts of a Marsh Economy
 DESCRIPTION:This is a public exhibition on wetland stewardship featuring the eco-cultural and artistic practice of Wintun/Maidu culture-bearer Diana Almendariz and her daughters Ooti Maxine and Christina Almendariz. The multimedia exhibit also highlights Diana’s collaboration with artivists and scientists in the Yolo Bioregion. \nThe exhibition will include original paintings\, archival photographs\, a tule boat\, audio recordings\, interactive installations about wetland ecology\, guides to the Yolo Bioregion’s creeks and wetlands\, zines\, and hands-on art-making opportunities! \nFor more information visit: https://yolosol.org/goodfirelivingwaterexhibit/
 URL:https://hatefreetogether.org/event/good-fire-living-water-the-gifts-of-a-marsh-economy/
+LOCATION:CA
 CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/WetlandsExhibitFlyerFullPage-1187x1536-1.jpg
 END:VEVENT
@@ -41,20 +42,23 @@ UID:10000730-1790812800-1793491199@hatefreetogether.org
 SUMMARY:UC Davis Multicutural Calendar - October
 DESCRIPTION:The Multicultural Calendar is a valuable tool for enhancing understanding\, and respect for religious and cultural observances.  It serves as a resource for students\, staff\, and faculty to plan events\, activities\, meetings\, retreats\, and courses throughout the year. Developed by the Office of Campus and Community Relations through research and community input\, we welcome contributions from community members to ensure its accuracy and comprehensiveness. 
 URL:https://hatefreetogether.org/event/uc-davis-multicutural-calendar-october/
+LOCATION:CA
 CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Candle.png
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260910T214400Z
+DTSTAMP:20261021T202313Z
 CREATED:20260910T214400Z
-LAST-MODIFIED:20260910T214400Z
+LAST-MODIFIED:20261021T202313Z
 UID:10000731-1790812800-1793491199@hatefreetogether.org
 SUMMARY:National Disability Employment Awareness Month 2026
-DESCRIPTION:Since the 1970s\, National Disability Employment Awareness Month (NDEAM) has taken place every October. NDEAM reinforces the message across the U.S. that people with disabilities provide invaluable roles and perspectives to our diverse American workforce. \nThe Centers for Disease Control and Prevention (CDC) reports that one in four adults (at least 60 million) in the U.S. live with a disability. This statistic is based on what is reported\, however. So\, it’s possible that the number is higher than what is stated.
+DESCRIPTION:Since the 1970s\, National Disability Employment Awareness Month (NDEAM) has taken place every October. NDEAM reinforces the message across the U.S. that people with disabilities provide invaluable roles and perspectives to our diverse American workforce. \nThe Centers for Disease Control and Prevention (CDC) reports that one in four adults (at least 60 million) in the U.S. live with a disability. This statistic is based on what is reported\, however. So\, it’s possible that the number is higher than what is stated.
 URL:https://hatefreetogether.org/event/national-disability-employment-awareness-month-2026/
+LOCATION:CA
 CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/National-Disability-Employment-Awareness-v2.webp
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261018
@@ -66,22 +70,9 @@ UID:10000718-1792281600-1792886399@hatefreetogether.org
 SUMMARY:United Against Hate Week
 DESCRIPTION:United Against Hate Week is an annual seven-day campaign of local civic action designed to stop hate\, bigotry and implicit biases that threaten the safety and civility of neighborhoods\, towns\, and cities. To learn more and see how your community can join\, visit: https://www.unitedagainsthateweek.org/. 
 URL:https://hatefreetogether.org/event/united-against-hate-week-2/
+LOCATION:CA
 CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/United-Against-Hate-Week.png
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261021T160000
-DTEND;TZID=UTC:20261021T180000
-DTSTAMP:20261019T224323Z
-CREATED:20261019T224323Z
-LAST-MODIFIED:20261019T224323Z
-UID:10000740-1792598400-1792605600@hatefreetogether.org
-SUMMARY:UC Davis: Police Accountability Board Fall 2026 Public Meeting
-DESCRIPTION:Held each quarter during the regular academic year\, the UC Davis Police Accountability Board (PAB) public meetings provide opportunities for Davis and Sacramento campus community members and others\, including people from the surrounding communities\, to learn more about the board’s work and how to file complaints and to raise concerns. The meeting is informal and will include introductions to PAB representatives and staff in attendance and a brief presentation on the PAB’s history\, charge\, board membership and administrative structure and complaint and investigation processes. Questions and comments from members of the public in attendance are welcome.  Register here. This meeting is vertual.
-URL:https://hatefreetogether.org/event/uc-davis-police-accountability-board-fall-2026-public-meeting/
-LOCATION:Zoom
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/PAB-meeting.jpg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20261022T183000
@@ -112,14 +103,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20260901T214312Z
+DTSTAMP:20261021T202629Z
 CREATED:20260901T214312Z
-LAST-MODIFIED:20260901T214312Z
+LAST-MODIFIED:20261021T202629Z
 UID:10000720-1792713600-1792886399@hatefreetogether.org
 SUMMARY:Davis Jazz Beat Festival
 DESCRIPTION:In honor of the incredible legacy of Beat poets\, musicians\, and artists\, the John Natsoulas Gallery will host a two-day event dedicated to the arts that defined a generation in the Bay Area. Join us to experience live music\, poetry readings\, and performance painting! All events will take place at the John Natsoulas Gallery or across the street at the Davis Commons. \nAll ages are welcome and the admission is free!
 URL:https://hatefreetogether.org/event/davis-jazz-beat-festival/
+LOCATION:CA
 CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Davis-Jazz-Beat-Festival.jpg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261023
@@ -131,6 +124,7 @@ UID:10000719-1792713600-1792972799@hatefreetogether.org
 SUMMARY:Imagining America National Gathering
 DESCRIPTION:Join over 500 participants from the IA network and the University of California\, Davis and Yolo Bioregion community (a geographic and cultural area that includes the cities of Davis\, Woodland\, Winters\, West Sacramento\, and surrounding areas) to engage in deep learning\, collaboration\, and transformative creativity on the theme of Tides of Transition: Restoring Collective Spirit in Troubled Times. We will activate spaces across the UC Davis campus\, in the City of Davis\, and at community-hosted site visits. \nTides of Transition: Restoring Collective Spirit in Troubled Times calls us to re-story and honor the places\, knowledges\, relationships\, and ecologies that have been made broken through centuries of violence and abandonment\, and the current intensifying fear and repression. We know that our communities are tired\, and we know that being together revives our collective spirit\, giving us the strength and inspiration we need in troubled times. In this moment of upheaval\, the 2026 IA National Gathering draws participants to Davis\, CA in the spirit of mending the roots of our connections\, and to “awaken\,” as Buddhist monk and activist Thích Nhất Hạnh teaches\, “from the illusion of our separateness.”
 URL:https://hatefreetogether.org/event/imagining-america-national-gathering/
+LOCATION:CA
 CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/IA-National-Gathering-226.jpg
 END:VEVENT
@@ -151,15 +145,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20260901T215508Z
+DTSTAMP:20261021T202822Z
 CREATED:20260901T215508Z
-LAST-MODIFIED:20260901T215508Z
+LAST-MODIFIED:20261021T202822Z
 UID:10000723-1793232000-1793663999@hatefreetogether.org
 SUMMARY:Dia de los Muertos
 DESCRIPTION:On an annual basis\, the Davis Cemetery District hosts a Dia de los Muertos (Day of the Dead) celebration on our grounds. This celebration is one of the last Mesoamerican indigenous influenced rituals\, honoring mother earth and all ancestors. This celebration is part of an effort to create a community\, a sense of belonging\, and global awareness of cultural richness in our multicultural society.
 URL:https://hatefreetogether.org/event/dia-de-los-muertos/
 LOCATION:Davis Cemetery\, 820 Pole Line Rd\, Davis\, CA\, 95618\, United States
 CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/dia-de-los-muertos.png
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20261030T170000
@@ -185,6 +180,7 @@ UID:10000732-1793491200-1796083199@hatefreetogether.org
 SUMMARY:UC Davis Multicultural Calendar - November 2026
 DESCRIPTION:The Multicultural Calendar is a valuable tool for enhancing understanding\, and respect for religious and cultural observances.  It serves as a resource for students\, staff\, and faculty to plan events\, activities\, meetings\, retreats\, and courses throughout the year. Developed by the Office of Campus and Community Relations through research and community input\, we welcome contributions from community members to ensure its accuracy and comprehensiveness.  \nFor the list\, visit: https://excellence.ucdavis.edu/events/multicultural-calendar-november-2026.
 URL:https://hatefreetogether.org/event/uc-davis-multicultural-calendar-november-2026/
+LOCATION:CA
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Candle.png
 END:VEVENT
 BEGIN:VEVENT
@@ -197,6 +193,7 @@ UID:10000739-1793548800-1793559600@hatefreetogether.org
 SUMMARY:Dia de Muertos Celebration
 DESCRIPTION:Davis Pride will present an altar dedicated to trans lives lost during 2026. If you are interested in honoring an ancestor or a group of people lost this year\, submit your interest here https://forms.gle/SwrSpa7koa2gK7g49. Hosted on November 1 from 4 – 7 p.m. at E Street Plaza in Davis. There will be dance performance\, face painting and more.
 URL:https://hatefreetogether.org/event/dia-de-muertos-celebration/
+LOCATION:CA
 CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Dia-de-Muertos-Nov-2026.jpg
 END:VEVENT
@@ -225,20 +222,6 @@ DESCRIPTION:DJUSD Board meetings offer insight on how the school district remain
 URL:https://hatefreetogether.org/event/djusd-board-meetings/2026-11-05/
 LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/499036487_1275464707915844_5079899038399820181_n.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261107T090000
-DTEND;TZID=UTC:20261107T140000
-DTSTAMP:20260901T233117Z
-CREATED:20260901T233117Z
-LAST-MODIFIED:20260901T233117Z
-UID:10000724-1794042000-1794060000@hatefreetogether.org
-SUMMARY:Walnut Park Library Grand Opening
-DESCRIPTION:The Walnut Park Library Grand Opening and Ribbon-Cutting Ceremony will take place on Saturday\, November 7\, 2026\, at 9:00 AM at 2660 Lillard Drive in South Davis. Sponsored by the Friends of the Davis Public Library\, this all-ages community event marks the official opening of Yolo County’s newest 12\,000+ square-foot facility. Attendees will enjoy a celebratory multicultural morning featuring family-friendly activities\, entertainment\, giveaways\, and guided exploration of the brand-new space.
-URL:https://hatefreetogether.org/event/walnut-park-library-grand-opening/
-LOCATION:Walnut Park Library\, 2660 Lilliard Drive\, Davis\, CA\, 95618\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Walnut-Park-Library-Save-the-Date.png
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20261107T140000
@@ -411,5 +394,31 @@ DESCRIPTION:The Davis City Council provides policy direction\, establishes goals
 URL:https://hatefreetogether.org/event/davis-city-council-meetings/2027-01-28/
 LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20270128T183000
+DTEND;TZID=UTC:20270128T200000
+DTSTAMP:20260424T165540Z
+CREATED:20260424T165540Z
+LAST-MODIFIED:20260424T165540Z
+UID:10000495-1801161000-1801166400@hatefreetogether.org
+SUMMARY:Human Relations Commission Meetings
+DESCRIPTION:The Davis Human Relations Commission (HRC) meetings aim to promote mutual respect\, understanding\, justice\, and advancing the human rights of all people. The Human Relations Commission meets on the fourth Thursday of each month at 6:30 p.m. The Commission takes a recess in July (no meeting in July). \n  \nMeetings take place in the Community Chambers at City Hall\, 23 Russell Boulevard. For more information on meetings\, membership\, resolutions\, and more\, visit the Human Relations Commission site. \n  \nThe HRC makes recommendations around equity and discrimination in the City\, and supports the City in preventing and addressing discrimination while promoting diversity\, equality\, and justice relevant to the goals and policies of the City Council. \n  \nTo contact or send emails to the commission\, email: HRC@cityofdavis.org
+URL:https://hatefreetogether.org/event/human-relations-commission-meetings/2027-01-28/
+LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/humanrelations_ci_SACHA_CHICKERING-scaled-e1777049624821.webp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20270204T183000
+DTEND;TZID=UTC:20270204T200000
+DTSTAMP:20260424T172314Z
+CREATED:20260424T172126Z
+LAST-MODIFIED:20260424T172314Z
+UID:10000682-1801765800-1801771200@hatefreetogether.org
+SUMMARY:DJUSD Board Meetings
+DESCRIPTION:DJUSD Board meetings offer insight on how the school district remains responsive to the community’s values\, beliefs\, and priorities. The Board meetings occur on every first and third Thursday\, in the City of Davis Community Chambers. 23 Russell Boulevard. Public session starts at 6:30 PM.  Meetings are cablecast live on Channel 17 (Comcast) or streamed on the DJUSD-TV website. \n  \nThe Davis Joint Unified School District’s Board of Education is comprised of five community members\, responsible for setting district policy\, approving the budget\, and hiring the superintendent for schools in Davis\, California. The agendas for the meetings are posted at least 72 hours in advance. \n  \nFor more information on special meetings\, agendas\, public comment\, and more\, visit the DJUSD Board site.
+URL:https://hatefreetogether.org/event/djusd-board-meetings/2027-02-04/
+LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/499036487_1275464707915844_5079899038399820181_n.jpg
 END:VEVENT
 END:VCALENDAR

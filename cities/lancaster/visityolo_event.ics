@@ -1,1 +1,454 @@
-<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fevent%2F%3Fical%3D1&y=ipr:20.163.6.81:1792548428.759"></meta></head></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Visit Yolo County California, Davis, Winters, Clarksburg, Capay Valley, Woodland - ECPv6.18.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Visit Yolo County California, Davis, Winters, Clarksburg, Capay Valley, Woodland
+X-ORIGINAL-URL:https://visityolo.com
+X-WR-CALDESC:Events for Visit Yolo County California, Davis, Winters, Clarksburg, Capay Valley, Woodland
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20270314T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20271107T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261107
+DTSTAMP:20260903T155431Z
+CREATED:20260903T155431Z
+LAST-MODIFIED:20260903T155431Z
+UID:10014854-1790985600-1794009599@visityolo.com
+SUMMARY:Mercy Hawkins: Waltz of Life and Limb
+DESCRIPTION:Mercy Hawkins: Waltz of Life & Limb in Davis \nExhibit: October 3 – November 6\, 2026 \nReception: October 9\, 6-9 PM (Free) \n  \nWaltz of Life & Limb pairs recent sculptural paintings by artist Mercy Hawkins\, with her vibrant\, large-scale watercolors on paper. With this work\, Hawkins seeks to answer the internal call\, to encounter what the body already knows\, from our own inner rhythms\, heartbeat\, and breath\, to dancing with wild arms. Her biomorphic shapes\, formed of intersecting dots\, dashes\, and lines\, speak to a sensory play of color\, light\, and movement. Her imagery evokes seed pods\, flower buds\, or microscopic creatures\, immersing the viewer in an all-encompassing perception of nature.  \n  \nArtist Talk: Saturday\, October 17\, 2-3:30 PM (Free) \nMercy Hawkins will speak about the development and trajectory of several bodies of recent work\, including its connection to craft. She will also explore the intersection of painting and music.  \n  \nSponsored by HF Richardson \n  \nImage: Mercy Hawkins\, “Melting Ice”
+URL:https://visityolo.com/event/mercy-hawkins-waltz-of-life-and-limb/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Mercy-Hawkins-Melting-Ice-500kb.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261021T173000
+DTEND;TZID=America/Los_Angeles:20261021T203000
+DTSTAMP:20260813T194113Z
+CREATED:20260813T194113Z
+LAST-MODIFIED:20260813T194113Z
+UID:10014713-1792603800-1792614600@visityolo.com
+SUMMARY:Live Music at Carboni's Ristorante
+DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
+URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-10-21/
+LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
+ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261022T113000
+DTEND;TZID=America/Los_Angeles:20261022T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014923-1792668600-1792688400@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-10-22/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261023T110000
+DTEND;TZID=America/Los_Angeles:20261023T180000
+DTSTAMP:20251117T171126Z
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013318-1792753200-1792778400@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-10-23/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261023T113000
+DTEND;TZID=America/Los_Angeles:20261023T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014924-1792755000-1792774800@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-10-23/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261023T173000
+DTEND;TZID=America/Los_Angeles:20261023T193000
+DTSTAMP:20261008T174025Z
+CREATED:20261008T173945Z
+LAST-MODIFIED:20261008T174025Z
+UID:10015294-1792776600-1792783800@visityolo.com
+SUMMARY:Davis Jazz Beat Festival
+DESCRIPTION:Davis Jazz Beat Festival October 23 & 24\, 2026 \nIn honor of the incredible legacy of Beat poets\, musicians\, and artists\, the John Natsoulas Gallery will host a two-day event dedicated to the arts that defined a generation in the Bay Area. Join us to experience live music\, poetry readings\, and performance painting! All events will take place at the John Natsoulas Gallery or across the street at the Davis Commons. \nAll ages are welcome and the admission is free!
+URL:https://visityolo.com/event/davis-jazz-beat-festival-2/2026-10-23/
+LOCATION:John Natsoulas Center for the Arts\, 521 First Street\, Davis\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/manuel-luikenga-yZMwJGn-iqQ-unsplash-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261023T173000
+DTEND;TZID=America/Los_Angeles:20261023T213000
+DTSTAMP:20260601T174333Z
+CREATED:20260601T174333Z
+LAST-MODIFIED:20260601T174333Z
+UID:10013885-1792776600-1792791000@visityolo.com
+SUMMARY:4th Friday Kickback & Classic Car Show
+DESCRIPTION:Join us in Downtown Winters for our 4th Friday Kickback & Classic Car Show\, happening every 4th Friday from March through October! \nEnjoy an evening filled with live music\, classic cars\, local shopping\, outdoor dining\, family-friendly fun\, and the small-town charm that makes Winters so special. \nStroll Main Street\, grab dinner or a drink from your favorite local spots\, and check out an incredible lineup of classic cars throughout downtown. \nWhether you’re a car enthusiast or simply looking for a fun night out\, there’s something for everyone at 4th Fridays in Winters! \nLOCATION: Downtown Main Street\nDATE & TIME: 4th Friday March – October\, 5:30PM-9:30PM
+URL:https://visityolo.com/event/4th-friday-kickback-classic-car-show/2026-10-23/
+LOCATION:Downtown Winters\, Main Street\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/4th-friday.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261023T173000
+DTEND;TZID=America/Los_Angeles:20261023T213000
+DTSTAMP:20260730T224421Z
+CREATED:20260730T224421Z
+LAST-MODIFIED:20260730T224421Z
+UID:10014591-1792776600-1792791000@visityolo.com
+SUMMARY:Winters Harvest Fest
+DESCRIPTION:Join us in Downtown Winters to celebrate the Fall Harvest. Enjoy live music\, classic car show\, food & drink specials\, a local vendor fair\, our annual Spooktacular Fun Run\, and other fun activities for the whole family! \nFriday\, October 23rd\, 5:30-9:30PM: Downtown activities include live music\, food & drinks\, trick or treating\, pumpkin painting\, kids games and more. \nSaturday\, October 24th\, 10AM-2PM: Open air street market with local merchants\, live music and food. \nSunday\, October 25th\, 9AM-1PM: Farmers market\, live music and Spooktacular Fun Run \nFor more information click here.
+URL:https://visityolo.com/event/winters-harvest-fest/2026-10-23/
+LOCATION:Downtown Winters\, Main Street\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/IMG_8660-scaled.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261023T180000
+DTEND;TZID=America/Los_Angeles:20261023T210000
+DTSTAMP:20260522T181450Z
+CREATED:20260522T181356Z
+LAST-MODIFIED:20260522T181450Z
+UID:10013843-1792778400-1792789200@visityolo.com
+SUMMARY:Music in the Park at Grindstone
+DESCRIPTION:Every 4th Friday of the month May through October\, we host Music in the Park\, our summer series with music\, food trucks and wine. \nBest of all\, this event is family-friendly\, so bring the whole gang along and enjoy an evening at Grindstone under our market lights. Pack those lawn chairs\, mark your calendars\, and join us for a night of wine & local live music! \n Select wines by the glass and our full bottle selection. \nOur FIRST Music in the Park of the year! \n\n\nMay 22nd from 6-9 pm \n\n\nJune 26th from 6-9 pm \n\n\nJuly 24th from 6-9 pm \n\n\nAugust 28th from 6-9 pm \n\n\nSeptember 25th from 6-9 pm \n\n\nOctober 23rd from 6-9 pm \n\n\nSee the full concert & food truck schedule here!
+URL:https://visityolo.com/event/music-in-the-park-at-grindstone-2/2026-10-23/
+LOCATION:Grindstone Wines\, 12700 County Road 89\, Esparto\, CA\, 95627\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Musicinthepark.jpeg
+ORGANIZER;CN="Grindstone Wines":MAILTO:molly@grindstonewines.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261023T200000
+DTEND;TZID=America/Los_Angeles:20261023T220000
+DTSTAMP:20261005T172616Z
+CREATED:20261005T172616Z
+LAST-MODIFIED:20261005T172616Z
+UID:10015277-1792785600-1792792800@visityolo.com
+SUMMARY:That Halloween Costume Dance Party feat. The Sugar Pushers Live @ The Melon Ball
+DESCRIPTION:That Halloween Costume Dance Party feat. The Sugar Pushers Live @ The Melon Ball in Davis. \nThe Sugar Pushers will de-liver their playfully paranormal themed Rock & Roll and phantasmic antics at Watermelon Music\, Friday\, October 23rd!  Step through the creaking doors of The Melon Ball as it transforms into a Spooktacular Dance Haunt for JUST ONE NIGHT! Come dressed to kill for the Costume Contest\, judged by KDRT’s That California Sound! \nIt will be Ghastly! Ghoulish! and Gloriously over-the-top!  Don’t Ghost this Mischievously Macabre Monster Masquerade! \nAdult Centric / All Ages / 18+ Recommended\nDoors 7:30\nShow 8pm\n$20 General Admission \nCash or Venmo at the door only (no Credit Card) \nThis is a BYOB Event!
+URL:https://visityolo.com/event/that-halloween-costume-dance-party-feat-the-sugar-pushers-live-the-melon-ball/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Sugar_Web-2.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261024T080000
+DTEND;TZID=America/Los_Angeles:20261024T130000
+DTSTAMP:20260624T182825Z
+CREATED:20230426T230654Z
+LAST-MODIFIED:20260624T182825Z
+UID:10004194-1792828800-1792846800@visityolo.com
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visityolo.com/event/davis-farmers-market-2/2026-10-24/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Small_CapayCarrots-002.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261024T100000
+DTEND;TZID=America/Los_Angeles:20261024T140000
+DTSTAMP:20260730T224421Z
+CREATED:20260730T224421Z
+LAST-MODIFIED:20260730T224421Z
+UID:10014592-1792836000-1792850400@visityolo.com
+SUMMARY:Winters Harvest Fest
+DESCRIPTION:Join us in Downtown Winters to celebrate the Fall Harvest. Enjoy live music\, classic car show\, food & drink specials\, a local vendor fair\, our annual Spooktacular Fun Run\, and other fun activities for the whole family! \nFriday\, October 23rd\, 5:30-9:30PM: Downtown activities include live music\, food & drinks\, trick or treating\, pumpkin painting\, kids games and more. \nSaturday\, October 24th\, 10AM-2PM: Open air street market with local merchants\, live music and food. \nSunday\, October 25th\, 9AM-1PM: Farmers market\, live music and Spooktacular Fun Run \nFor more information click here.
+URL:https://visityolo.com/event/winters-harvest-fest/2026-10-24/
+LOCATION:Downtown Winters\, Main Street\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/IMG_8660-scaled.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261024T110000
+DTEND;TZID=America/Los_Angeles:20261024T140000
+DTSTAMP:20260921T183411Z
+CREATED:20260921T183411Z
+LAST-MODIFIED:20260921T183411Z
+UID:10014893-1792839600-1792850400@visityolo.com
+SUMMARY:Firewise: Fire Resilient Landscapes
+DESCRIPTION:Come out to the beautiful Capay Valley to learn about fire resilient landscapes and home hardening. California native plants will be available for purchase. The Yolo County Monarch Waystation project will also have plants available. \nLunch is available for purchase.
+URL:https://visityolo.com/event/firewise-fire-resilient-landscapes/
+LOCATION:Western Yolo Grange\, 16787 Forest Ave\, Guinda\, 95637\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Toyon-Capay-Valley-1.jpg
+ORGANIZER;CN="Kristen Webster":MAILTO:kmwspa@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261024T110000
+DTEND;TZID=America/Los_Angeles:20261024T150000
+DTSTAMP:20261008T220228Z
+CREATED:20261008T220228Z
+LAST-MODIFIED:20261008T220228Z
+UID:10015302-1792839600-1792854000@visityolo.com
+SUMMARY:Wine Blending at Country Roads Wine Cellars
+DESCRIPTION:Join Country Roads Wine Cellars for this 3-4 hour event where you create your own personal red wine blend. A winemaker will guide you through tasting and assessing the base wines\, setting up and assessing your own blending trials and bottling\, corking and labeling three 750ml bottles to take home. \n$95 per person non wine club members \n$65 per person for wine club members \nCountry Roads Wine Cellars is located within the Old Sugar Mill in Clarksburg\, CA.
+URL:https://visityolo.com/event/wine-blending-at-country-roads-wine-cellars/2026-10-24/
+LOCATION:old sugar mill\, 35265 Willow Ave\, Clarksburg\, 95612\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Wine-glasses_web.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261024T110000
+DTEND;TZID=America/Los_Angeles:20261024T180000
+DTSTAMP:20251117T171126Z
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013319-1792839600-1792864800@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-10-24/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261024T113000
+DTEND;TZID=America/Los_Angeles:20261024T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014925-1792841400-1792861200@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-10-24/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261024T140000
+DTEND;TZID=America/Los_Angeles:20261024T210000
+DTSTAMP:20261008T174025Z
+CREATED:20261008T173945Z
+LAST-MODIFIED:20261008T174025Z
+UID:10015295-1792850400-1792875600@visityolo.com
+SUMMARY:Davis Jazz Beat Festival
+DESCRIPTION:Davis Jazz Beat Festival October 23 & 24\, 2026 \nIn honor of the incredible legacy of Beat poets\, musicians\, and artists\, the John Natsoulas Gallery will host a two-day event dedicated to the arts that defined a generation in the Bay Area. Join us to experience live music\, poetry readings\, and performance painting! All events will take place at the John Natsoulas Gallery or across the street at the Davis Commons. \nAll ages are welcome and the admission is free!
+URL:https://visityolo.com/event/davis-jazz-beat-festival-2/2026-10-24/
+LOCATION:John Natsoulas Center for the Arts\, 521 First Street\, Davis\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/manuel-luikenga-yZMwJGn-iqQ-unsplash-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261024T173000
+DTEND;TZID=America/Los_Angeles:20261024T200000
+DTSTAMP:20260723T162307Z
+CREATED:20260723T162307Z
+LAST-MODIFIED:20260723T162307Z
+UID:10014573-1792863000-1792872000@visityolo.com
+SUMMARY:Yolo Wine & Food Affair
+DESCRIPTION:A unique opportunity to experience our Yolo County Wines wineries pouring their very best. Tickets are limited\, don’t miss out on this elevated evening. \nThe Yolo Wine & Food Affair is a celebration of the best of Yolo County’s food and wine. Join us on October 24th from 5:30-8 pm at Great Bear Vineyards in Davis. \nThe event will feature a dozen Yolo County wineries and their 90+ point wines\, Best of Class wines\, Double Gold wines\, and small-lot wines paired with small bites from local chefs. \nFor more info\, visit www.yolocountywines.com/winefoodaffair
+URL:https://visityolo.com/event/yolo-wine-food-affair-3/
+LOCATION:Great Bear Vineyards\, Great Bear Vineyards  24800 Co Rd 101A\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/VD-Great-Bear-Vineyards-270-1-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261025T090000
+DTEND;TZID=America/Los_Angeles:20261025T130000
+DTSTAMP:20260730T224421Z
+CREATED:20260730T224421Z
+LAST-MODIFIED:20260730T224421Z
+UID:10014593-1792918800-1792933200@visityolo.com
+SUMMARY:Winters Harvest Fest
+DESCRIPTION:Join us in Downtown Winters to celebrate the Fall Harvest. Enjoy live music\, classic car show\, food & drink specials\, a local vendor fair\, our annual Spooktacular Fun Run\, and other fun activities for the whole family! \nFriday\, October 23rd\, 5:30-9:30PM: Downtown activities include live music\, food & drinks\, trick or treating\, pumpkin painting\, kids games and more. \nSaturday\, October 24th\, 10AM-2PM: Open air street market with local merchants\, live music and food. \nSunday\, October 25th\, 9AM-1PM: Farmers market\, live music and Spooktacular Fun Run \nFor more information click here.
+URL:https://visityolo.com/event/winters-harvest-fest/2026-10-25/
+LOCATION:Downtown Winters\, Main Street\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/IMG_8660-scaled.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261025T100000
+DTEND;TZID=America/Los_Angeles:20261025T130000
+DTSTAMP:20260421T184432Z
+CREATED:20260417T163323Z
+LAST-MODIFIED:20260421T184432Z
+UID:10013735-1792922400-1792933200@visityolo.com
+SUMMARY:Winters Farmers Market
+DESCRIPTION:Join us Downtown Winters every Sunday for the Winters Farmers Market. \nLOCATION: Downtown Main Street between Railroad & 1st Street\nDATE & TIME: Every Sunday 9am-1pm (April 26th-October 25th) \nEnjoy local produce\, fresh flowers\, food vendors & more! \nInterested in being a vendor? \nEmail: Simba at simbasheirloomfarm@gmail.com \nwww.wintersfarmersmarket.com
+URL:https://visityolo.com/event/winters-farmers-market-3/2026-10-25/
+LOCATION:Downtown Winters\, Main Street\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Winters-Farmers-Market_01-scaled.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261025T110000
+DTEND;TZID=America/Los_Angeles:20261025T150000
+DTSTAMP:20261008T220228Z
+CREATED:20261008T220228Z
+LAST-MODIFIED:20261008T220228Z
+UID:10015303-1792926000-1792940400@visityolo.com
+SUMMARY:Wine Blending at Country Roads Wine Cellars
+DESCRIPTION:Join Country Roads Wine Cellars for this 3-4 hour event where you create your own personal red wine blend. A winemaker will guide you through tasting and assessing the base wines\, setting up and assessing your own blending trials and bottling\, corking and labeling three 750ml bottles to take home. \n$95 per person non wine club members \n$65 per person for wine club members \nCountry Roads Wine Cellars is located within the Old Sugar Mill in Clarksburg\, CA.
+URL:https://visityolo.com/event/wine-blending-at-country-roads-wine-cellars/2026-10-25/
+LOCATION:old sugar mill\, 35265 Willow Ave\, Clarksburg\, 95612\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Wine-glasses_web.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261025T110000
+DTEND;TZID=America/Los_Angeles:20261025T180000
+DTSTAMP:20251117T171126Z
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013320-1792926000-1792951200@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-10-25/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261025T113000
+DTEND;TZID=America/Los_Angeles:20261025T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014926-1792927800-1792947600@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-10-25/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261025T130000
+DTEND;TZID=America/Los_Angeles:20261025T150000
+DTSTAMP:20260915T224914Z
+CREATED:20260915T224914Z
+LAST-MODIFIED:20260915T224914Z
+UID:10014885-1792933200-1792940400@visityolo.com
+SUMMARY:Art in Action: Lovely Landscapes
+DESCRIPTION:Art in Action: Lovely Landscapes in Davis \nSunday\, October 25\, 1-3 PM \n$5 Members\, $10 Non-Members (per person\, all materials included) \nCreate the landscape of your dreams! Inspired by Danilo Campos’ exhibit\, draw and paint your very own landscape on canvas and craft a decorative frame for your painting with cardstock\, gold paint\, and ribbon. \n  \nHow it works: \nArt in Action engages kids in art projects that are fun\, creative\, and collaborative with their family members. This is a drop-in program for ages 5-12. No registration in advance is required\, but space and supplies are limited to the first 25 participants and are available on a first come\, first served basis. When you arrive\, pay with cash or card at the front desk. A parent or adult caregiver is required to stay\, but only has to pay for the project for themselves if they are also doing art. Stay as long or as short as you like over the two hour period.  \n  \nWe have a different Art in Action family workshop every month. Learn more at https://pencegallery.org/art-in-action/. \n  \nThis monthly program is generously sponsored by Mary Stephens DeWall & Les DeWall.
+URL:https://visityolo.com/event/art-in-action-lovely-landscapes/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Art-in-Action-logo-18.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261025T140000
+DTEND;TZID=America/Los_Angeles:20261025T160000
+DTSTAMP:20261008T183737Z
+CREATED:20261008T183737Z
+LAST-MODIFIED:20261008T183737Z
+UID:10015297-1792936800-1792944000@visityolo.com
+SUMMARY:Tom and the Broken Hearts
+DESCRIPTION:Sunday\, October 25 · 2:00 PM · Railroad Courtyard at Hotel Winters \nWe’re taking the music outdoors! Join us for our first concert at the Railroad Courtyard at Hotel Winters\, a new venue for Winters Live and a fresh way to enjoy the music you love. \nThis special Sunday afternoon show takes place in Hotel Winters’ outdoor courtyard\, offering a new setting to gather with friends and experience the unforgettable sound of Tom Petty\, brought to life by Tom and the Broken Hearts. \nTickets are $45\, to purchase click here.
+URL:https://visityolo.com/event/tom-and-the-broken-hearts/
+LOCATION:Hotel Winters\, 12 Abbey Street\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/jefferson-santos-fCEJGBzAkrU-unsplash-2-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261025T173000
+DTEND;TZID=America/Los_Angeles:20261025T203000
+DTSTAMP:20260813T194113Z
+CREATED:20260813T194113Z
+LAST-MODIFIED:20260813T194113Z
+UID:10014714-1792949400-1792960200@visityolo.com
+SUMMARY:Live Music at Carboni's Ristorante
+DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
+URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-10-25/
+LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
+ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261025T180000
+DTEND;TZID=America/Los_Angeles:20261025T200000
+DTSTAMP:20261014T210343Z
+CREATED:20261014T210212Z
+LAST-MODIFIED:20261014T210343Z
+UID:10015306-1792951200-1792958400@visityolo.com
+SUMMARY:Open Mic and Music Trivia Halloween Themed
+DESCRIPTION:This month’s theme for Open Mic & Music Trivia in Davis is Halloween.  Come in costume\, sing songs about Halloween or anything else ghoulish spooky\, or witchy.  Of course\, if you don’t want to play-a-long and just do your own thing\, you are still welcome! \nWhether you’re looking for a venue to share your own talents or just looking to enjoy hearing (and seeing) some local performers\, we invite you to this free monthly event. We provide the sound\, stage and lights – the rest is up to you. Play us your favorite song\, tell us some jokes\, act out a scene from your favorite play with friends. \nWe will continue to feature our Music Trivia contest throughout the evening in between acts. The winner will receive a $20 Watermelon Music gift card! \nWe ask that each performance be suitable for an all-ages venue\, and that you arrive on time and stay until the end to support your fellow performers. \nFREE!!!\nDoors open/sign-ups @ 5:30.\nFirst act @ 6:00. \nPlease help support the Watermelon Music with your purchase of a drink or a snack at Open Mic!  Non-alcoholic drinks and pre-packaged snacks are available for sale at The Melon Ball.  (Cash or Venmo only) \nWe hope to see you there!
+URL:https://visityolo.com/event/october-open-mic-and-music-trivia-halloween-themed/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/OctOpenMic.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261026T100000
+DTEND;TZID=America/Los_Angeles:20261026T114500
+DTSTAMP:20260909T160735Z
+CREATED:20260909T160735Z
+LAST-MODIFIED:20260909T160735Z
+UID:10014873-1793008800-1793015100@visityolo.com
+SUMMARY:Healing Arts One-Time Workshop
+DESCRIPTION:Healing Arts One-Time Workshop in Davis \nMonday\, October 26\, 10-11:45 AM \n$5 Members\, $10 Non-Members (all materials included) \n  \nPart of the Pence’s Healing Arts Program and run by facilitator Amy Vidra\, this one-time workshop focuses more broadly on themes related to depression\, anxiety\, or major life changes. Through the process of art making\, participants will have opportunities for discussion\, education\, and connecting with peers in a safe and supportive space. \n  \nRegistration is required in advance through our website\, and space is limited to the first 8 participants who register. Participants must be 18 or older\, and no art experience is necessary. This program is generously sponsored by Bob & Joanne Andresen. \n  \nRegister here (REQUIRED): https://pencegallery.org/education/programs/workshops-and-classes/ \n  \nIf you register for this session and are unable to attend\, please let us know in advance. \n  \nAny questions? Email pencegallery@gmail.com.
+URL:https://visityolo.com/event/healing-arts-one-time-workshop-7/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Healing_Arts-copy-22.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261026T190000
+DTEND;TZID=America/Los_Angeles:20261026T210000
+DTSTAMP:20260915T225304Z
+CREATED:20260915T225304Z
+LAST-MODIFIED:20260915T225304Z
+UID:10014881-1793041200-1793048400@visityolo.com
+SUMMARY:Renegade Orchestra at Davis Odd Fellows
+DESCRIPTION:Renegade Orchestra in Davis – The Beauty of a Symphony\, the Soul of a Rock Band \nThe Renegade Orchestra is the bay area’s most rock and roll symphony. Is it a rock band? Is it an orchestra? Who knows? But it’s definitely the best of both worlds. The pure unbridled fury of some of the bay area’s top orchestra players unleashed on classic rock songs backed up by a hard-hitting rhythm section. \nThe Renegade Orchestra will be performing at Davis Odd Fellows\, which is located right in downtown\, and is a comfortable and casual hall with great views of the stage. The Renegade Orchestra will rock out to classic songs from Hendrix to Metallica and from Bowie to Zeppelin. \nAt this show\, the Renegade Orchestra will present a comfortable\, but lively show featuring around top bay area string players combined with a driving rhythm section\, all committed to having a relaxed and rocking time. If there is something you hate about orchestra concerts\, this is the opposite. \n“Classical Rebels.” The Bohemian \n“The Renegade Orchestra would rather tackle Hendrix than Handel.” Mercury News \n  \nRenegade Orchestra at Davis Odd Fellows \n415 2nd Street \nDavis\, CA 95616 \nOct 16 at 7 pm \nTickets: $25 at RenegadeOrchestra.com
+URL:https://visityolo.com/event/renegade-orchestra-at-davis-odd-fellows/
+LOCATION:Davis Odd Fellows Hall\, 415 2nd Street\, Davis\, 95616\, United States
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261027T113000
+DTEND;TZID=America/Los_Angeles:20261027T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014927-1793100600-1793120400@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-10-27/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+END:VCALENDAR
