@@ -7,199 +7,6 @@ X-WR-CALNAME:Lancaster Community Calendar
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/316806054/"}
-X-SOURCE-ID:meetup_yolo_county_board_game_gathering
-X-SOURCE:Meetup Yolo County Board Game Gathering
-UID:event_316806054@meetup.com
-SEQUENCE:1
-DTSTAMP:20261022T020117Z
-DTSTART;TZID=America/Los_Angeles:20261021T170000
-DTEND;TZID=America/Los_Angeles:20261021T210000
-SUMMARY:Weekly Game Night at Blue Note
-DESCRIPTION:Yolo County Board Game Gathering\nUpdate 8/14/25:\n**We're sti
- ll active**\, but we primarily use Discord to chat and plan events. (See g
- roup description for invite link.)\n\nWe still meet every Wednesday for bo
- ard games at Blue Note Brewing Company. We'll have a handful of tables res
- erved near the back\; just look for the pile of board games.\n\nPeople usu
- ally start arriving around 5pm\, and games start whenever people are ready
- . Blue Note closes at 9pm\, and although we have a 5-10 minute grace perio
- d there\, you should be in the process of final scoring by 9\, or else pac
- k it up and play again another day.\n\nGame night is open to all ages! Blu
- e Note is a brewery\, not a bar\, so there's no restriction against minors
- . In addition to their crafted-in-house beer selection\, water and sodas a
- re available.\n\nYou're not required to buy anything in order to join us\,
-  but we do encourage you to support local businesses. Blue Note's chef tea
- m makes a mean pizza\, and there are other nearby downtown restaurants and
-  businesses.
-URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
- ts/316806054/
-STATUS:CONFIRMED
-CREATED:20261002T002932Z
-LAST-MODIFIED:20261002T002932Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-10-21/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261021T173000
-DTEND;TZID=America/Los_Angeles:20261021T203000
-DTSTAMP:20260813T194113Z
-CREATED:20260813T194113Z
-LAST-MODIFIED:20260813T194113Z
-UID:10014713-1792603800-1792614600@visityolo.com
-SUMMARY:Live Music at Carboni's Ristorante
-DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
-URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-10-21/
-LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
-ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/316806765/"}
-X-SOURCE-ID:meetup_mindful_embodied_spirituality
-X-SOURCE:Meetup Mindful Embodied Spirituality
-UID:event_316806765@meetup.com
-SEQUENCE:1
-DTSTAMP:20261022T020118Z
-DTSTART;TZID=America/Los_Angeles:20261021T180000
-DTEND;TZID=America/Los_Angeles:20261021T200000
-SUMMARY:Grounded Together: Building Resilience\, Connection\, and Communit
- y
-DESCRIPTION:Iama Embodied Community\n***P.S. this is part of a 5 week seri
- es\, though not required\, you are highly encouraged to attend all - No me
- eting on Oct 7***\n\nJoin **Rev. Rola Al-Ashkar** for a five-week journey 
- exploring how our life experiences shape the way we respond to stress\, co
- nflict\, belonging\, and relationships. Through storytelling\, guided refl
- ection\, and gentle body-centered (somatic) practices\, participants will 
- develop tools for greater self-awareness\, emotional resilience\, and comp
- assionate listening.\nWhether you're seeking personal growth\, healthier r
- elationships\, or a deeper sense of connection within our community\, this
-  series offers a welcoming and supportive space. No prior experience is ne
- cessary. Please register using the following link: [[LINK](https://docs.go
- ogle.com/forms/d/e/1FAIpQLSdxWVImvnFcRLw5on8gH2WFGQfoMnVmNowpxZd9FHajblr2I
- w/viewform?usp=send_form)].\n**Wednesdays:** Sept. 16\, 23\, 30\; Oct. 14 
- & 21 6:00 – 8:00 pm
-URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
- 316806765/
-STATUS:CONFIRMED
-CREATED:20261002T010955Z
-LAST-MODIFIED:20261002T010955Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-10-22/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261022T113000
-DTEND;TZID=America/Los_Angeles:20261022T170000
-DTSTAMP:20260928T180906Z
-CREATED:20260928T180906Z
-LAST-MODIFIED:20260928T180906Z
-UID:10014923-1792668600-1792688400@visityolo.com
-SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
-DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
-URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-10-22/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/316821950/"}
-X-SOURCE-ID:meetup_mindful_embodied_spirituality
-X-SOURCE:Meetup Mindful Embodied Spirituality
-UID:event_316821950@meetup.com
-SEQUENCE:1
-DTSTAMP:20261022T020118Z
-DTSTART;TZID=America/Los_Angeles:20261022T180000
-DTEND;TZID=America/Los_Angeles:20261022T190000
-SUMMARY:Free Yoga Practice
-DESCRIPTION:Iama Embodied Community\n🌀 **Move with intention. Connect w
- ith your body. Celebrate community.**\n\nJoin us every **Thursday at 6 PM*
- * for an embodied yoga practice designed to help you release tension\, gro
- und yourself\, and cultivate presence. This is a trauma-informed\, all-lev
- els class\, no prior yoga experience needed. Expect a Hatha-Vinyasa flow\,
-  breathwork\, and a space to listen to your body’s wisdom.\n\n🌿 **Eve
- ry last Thursday of the month\, stay after class for a community potluck d
- inner!**\n\n📍 **Location**: 727 T St. Sacramento CA 95811\n✨ **All ou
- r events are free. Donations are welcome.**\n📩 **Questions? Reach out a
- t** embody.iama@gmail.com\n🔗 **Follow us on Instagram:** [@embody.iama]
- (https://www.instagram.com/embody.iama)
-URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
- 316821950/
-STATUS:CONFIRMED
-CREATED:20261003T011646Z
-LAST-MODIFIED:20261003T011646Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-city-council-meetings/2026-10-22/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261022T183000
-DTEND;TZID=UTC:20261022T200000
-DTSTAMP:20260424T163204Z
-CREATED:20260424T163204Z
-LAST-MODIFIED:20260424T163204Z
-UID:10000369-1792693800-1792699200@hatefreetogether.org
-SUMMARY:Davis City Council Meetings
-DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
-URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-10-22/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/human-relations-commission-meetings/2026-10-22/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261022T183000
-DTEND;TZID=UTC:20261022T200000
-DTSTAMP:20260424T165540Z
-CREATED:20260424T165540Z
-LAST-MODIFIED:20260424T165540Z
-UID:10000492-1792693800-1792699200@hatefreetogether.org
-SUMMARY:Human Relations Commission Meetings
-DESCRIPTION:The Davis Human Relations Commission (HRC) meetings aim to promote mutual respect\, understanding\, justice\, and advancing the human rights of all people. The Human Relations Commission meets on the fourth Thursday of each month at 6:30 p.m. The Commission takes a recess in July (no meeting in July). \n  \nMeetings take place in the Community Chambers at City Hall\, 23 Russell Boulevard. For more information on meetings\, membership\, resolutions\, and more\, visit the Human Relations Commission site. \n  \nThe HRC makes recommendations around equity and discrimination in the City\, and supports the City in preventing and addressing discrimination while promoting diversity\, equality\, and justice relevant to the goals and policies of the City Council. \n  \nTo contact or send emails to the commission\, email: HRC@cityofdavis.org
-URL:https://hatefreetogether.org/event/human-relations-commission-meetings/2026-10-22/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/humanrelations_ci_SACHA_CHICKERING-scaled-e1777049624821.webp
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-jazz-beat-festival/", "Visit Davis": "https://visitdavis.org/event/davis-jazz-beat-festival-2/", "Visityolo Event": "https://visityolo.com/event/davis-jazz-beat-festival-2/2026-10-23/"}
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-jazz-beat-festival/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together, Visit Davis, Visityolo Event
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261025
-DTSTAMP:20261021T202629Z
-CREATED:20260901T214312Z
-LAST-MODIFIED:20261021T202629Z
-UID:10000720-1792713600-1792886399@hatefreetogether.org
-SUMMARY:Davis Jazz Beat Festival
-DESCRIPTION:In honor of the incredible legacy of Beat poets\, musicians\, and artists\, the John Natsoulas Gallery will host a two-day event dedicated to the arts that defined a generation in the Bay Area. Join us to experience live music\, poetry readings\, and performance painting! All events will take place at the John Natsoulas Gallery or across the street at the Davis Commons. \nAll ages are welcome and the admission is free!
-URL:https://hatefreetogether.org/event/davis-jazz-beat-festival/
-LOCATION:CA
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Davis-Jazz-Beat-Festival.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/imagining-america-national-gathering/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20260901T214214Z
-CREATED:20260901T214214Z
-LAST-MODIFIED:20260901T214214Z
-UID:10000719-1792713600-1792972799@hatefreetogether.org
-SUMMARY:Imagining America National Gathering
-DESCRIPTION:Join over 500 participants from the IA network and the University of California\, Davis and Yolo Bioregion community (a geographic and cultural area that includes the cities of Davis\, Woodland\, Winters\, West Sacramento\, and surrounding areas) to engage in deep learning\, collaboration\, and transformative creativity on the theme of Tides of Transition: Restoring Collective Spirit in Troubled Times. We will activate spaces across the UC Davis campus\, in the City of Davis\, and at community-hosted site visits. \nTides of Transition: Restoring Collective Spirit in Troubled Times calls us to re-story and honor the places\, knowledges\, relationships\, and ecologies that have been made broken through centuries of violence and abandonment\, and the current intensifying fear and repression. We know that our communities are tired\, and we know that being together revives our collective spirit\, giving us the strength and inspiration we need in troubled times. In this moment of upheaval\, the 2026 IA National Gathering draws participants to Davis\, CA in the spirit of mending the roots of our connections\, and to “awaken\,” as Buddhist monk and activist Thích Nhất Hạnh teaches\, “from the illusion of our separateness.”
-URL:https://hatefreetogether.org/event/imagining-america-national-gathering/
-LOCATION:CA
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/IA-National-Gathering-226.jpg
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-10-23/"}
 X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
@@ -231,6 +38,23 @@ URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and
 LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
 ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-jazz-beat-festival-2/", "Visityolo Event": "https://visityolo.com/event/davis-jazz-beat-festival-2/2026-10-23/"}
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-jazz-beat-festival-2/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis, Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261023T173000
+DTEND;TZID=America/Los_Angeles:20261023T193000
+DTSTAMP:20261022T173105Z
+CREATED:20261009T160105Z
+LAST-MODIFIED:20261022T173105Z
+UID:10003092-1792776600-1792783800@visitdavis.org
+SUMMARY:Davis Jazz Beat Festival
+DESCRIPTION:Davis Jazz Beat Festival October 23 & 24\, 2026 \nIn honor of the incredible legacy of Beat poets\, musicians\, and artists\, the John Natsoulas Gallery will host a two-day event dedicated to the arts that defined a generation in the Bay Area. Join us to experience live music\, poetry readings\, and performance painting! All events will take place at the John Natsoulas Gallery or across the street at the Davis Commons. \nAll ages are welcome and the admission is free!
+URL:https://visitdavis.org/event/davis-jazz-beat-festival-2/
+LOCATION:John Natsoulas Center for the Arts\, 521 First Street\, Davis\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/manuel-luikenga-yZMwJGn-iqQ-unsplash-scaled-tAxi4o.jpg
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/4th-friday-kickback-classic-car-show/2026-10-23/"}
@@ -304,9 +128,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20261023T200000
 DTEND;TZID=America/Los_Angeles:20261023T220000
-DTSTAMP:20261021T173051Z
+DTSTAMP:20261022T173052Z
 CREATED:20261005T173051Z
-LAST-MODIFIED:20261021T173051Z
+LAST-MODIFIED:20261022T173052Z
 UID:10003081-1792785600-1792792800@visitdavis.org
 SUMMARY:That Halloween Costume Dance Party feat. The Sugar Pushers Live @ The Melon Ball
 DESCRIPTION:That Halloween Costume Dance Party feat. The Sugar Pushers Live @ The Melon Ball in Davis. \nThe Sugar Pushers will de-liver their playfully paranormal themed Rock & Roll and phantasmic antics at Watermelon Music\, Friday\, October 23rd!  Step through the creaking doors of The Melon Ball as it transforms into a Spooktacular Dance Haunt for JUST ONE NIGHT! Come dressed to kill for the Costume Contest\, judged by KDRT’s That California Sound! \nIt will be Ghastly! Ghoulish! and Gloriously over-the-top!  Don’t Ghost this Mischievously Macabre Monster Masquerade! \nAdult Centric / All Ages / 18+ Recommended\nDoors 7:30\nShow 8pm\n$20 General Admission or $15 with in-store or at door with student ID \nCash or Venmo at the door only (no Credit Card) \nThis is a BYOB Event!
@@ -337,7 +161,7 @@ X-SOURCE-ID:gcal_davisbikeclubwww
 X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261024T100000
 DTEND;TZID=America/Los_Angeles:20261024T123000
-DTSTAMP:20261022T020123Z
+DTSTAMP:20261023T020509Z
 UID:bvt9mhfc6aeiej4nm89f0c9glp@google.com
 RECURRENCE-ID;TZID=America/Los_Angeles:20261017T100000
 CREATED:20260325T034347Z
@@ -456,7 +280,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316845217@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020115Z
+DTSTAMP:20261023T020502Z
 DTSTART;TZID=America/Los_Angeles:20261024T150000
 DTEND;TZID=America/Los_Angeles:20261024T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -494,7 +318,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316845888@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020115Z
+DTSTAMP:20261023T020502Z
 DTSTART;TZID=America/Los_Angeles:20261024T160000
 DTEND;TZID=America/Los_Angeles:20261024T170000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -532,7 +356,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_316846741@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020116Z
+DTSTAMP:20261023T020502Z
 DTSTART;TZID=America/Los_Angeles:20261024T170000
 DTEND;TZID=America/Los_Angeles:20261024T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -571,7 +395,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316846740@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020115Z
+DTSTAMP:20261023T020502Z
 DTSTART;TZID=America/Los_Angeles:20261024T170000
 DTEND;TZID=America/Los_Angeles:20261024T180000
 SUMMARY:Mosaics Beginning Spanish in Person
@@ -610,9 +434,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20261024T173000
 DTEND;TZID=America/Los_Angeles:20261024T200000
-DTSTAMP:20261021T173029Z
+DTSTAMP:20261022T173031Z
 CREATED:20260726T183014Z
-LAST-MODIFIED:20261021T173029Z
+LAST-MODIFIED:20261022T173031Z
 UID:10003001-1792863000-1792872000@visitdavis.org
 SUMMARY:Yolo Wine & Food Affair
 DESCRIPTION:A unique opportunity to experience our Yolo County Wines wineries pouring their very best. Tickets are limited\, don’t miss out on this elevated evening. \nThe Yolo Wine & Food Affair is a celebration of the best of Yolo County’s food and wine. Join us on October 24th from 5:30-8 pm at Great Bear Vineyards in Davis. \nThe event will feature a dozen Yolo County wineries and their 90+ point wines\, Best of Class wines\, Double Gold wines\, and small-lot wines paired with small bites from local chefs. \nFor more info\, visit www.yolocountywines.com/winefoodaffair
@@ -627,7 +451,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_316847305@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020116Z
+DTSTAMP:20261023T020502Z
 DTSTART;TZID=America/Los_Angeles:20261024T180000
 DTEND;TZID=America/Los_Angeles:20261024T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -667,7 +491,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_316847902@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020116Z
+DTSTAMP:20261023T020502Z
 DTSTART;TZID=America/Los_Angeles:20261024T190000
 DTEND;TZID=America/Los_Angeles:20261024T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -788,9 +612,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20261025T130000
 DTEND;TZID=America/Los_Angeles:20261025T150000
-DTSTAMP:20261021T173022Z
+DTSTAMP:20261022T173025Z
 CREATED:20260916T183030Z
-LAST-MODIFIED:20261021T173022Z
+LAST-MODIFIED:20261022T173025Z
 UID:10003062-1792933200-1792940400@visitdavis.org
 SUMMARY:Art in Action: Lovely Landscapes
 DESCRIPTION:Art in Action: Lovely Landscapes in Davis \nSunday\, October 25\, 1-3 PM \n$5 Members\, $10 Non-Members (per person\, all materials included) \nCreate the landscape of your dreams! Inspired by Danilo Campos’ exhibit\, draw and paint your very own landscape on canvas and craft a decorative frame for your painting with cardstock\, gold paint\, and ribbon. \n  \nHow it works: \nArt in Action engages kids in art projects that are fun\, creative\, and collaborative with their family members. This is a drop-in program for ages 5-12. No registration in advance is required\, but space and supplies are limited to the first 25 participants and are available on a first come\, first served basis. When you arrive\, pay with cash or card at the front desk. A parent or adult caregiver is required to stay\, but only has to pay for the project for themselves if they are also doing art. Stay as long or as short as you like over the two hour period.  \n  \nWe have a different Art in Action family workshop every month. Learn more at https://pencegallery.org/art-in-action/. \n  \nThis monthly program is generously sponsored by Mary Stephens DeWall & Les DeWall.
@@ -857,9 +681,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20261026T100000
 DTEND;TZID=America/Los_Angeles:20261026T114500
-DTSTAMP:20261021T173023Z
+DTSTAMP:20261022T173025Z
 CREATED:20260909T180022Z
-LAST-MODIFIED:20261021T173023Z
+LAST-MODIFIED:20261022T173025Z
 UID:10003049-1793008800-1793015100@visitdavis.org
 SUMMARY:Healing Arts One-Time Workshop
 DESCRIPTION:Healing Arts One-Time Workshop in Davis \nMonday\, October 26\, 10-11:45 AM \n$5 Members\, $10 Non-Members (all materials included) \n  \nPart of the Pence’s Healing Arts Program and run by facilitator Amy Vidra\, this one-time workshop focuses more broadly on themes related to depression\, anxiety\, or major life changes. Through the process of art making\, participants will have opportunities for discussion\, education\, and connecting with peers in a safe and supportive space. \n  \nRegistration is required in advance through our website\, and space is limited to the first 8 participants who register. Participants must be 18 or older\, and no art experience is necessary. This program is generously sponsored by Bob & Joanne Andresen. \n  \nRegister here (REQUIRED): https://pencegallery.org/education/programs/workshops-and-classes/ \n  \nIf you register for this session and are unable to attend\, please let us know in advance. \n  \nAny questions? Email pencegallery@gmail.com.
@@ -874,7 +698,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316877051@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020118Z
+DTSTAMP:20261023T020504Z
 DTSTART;TZID=America/Los_Angeles:20261026T180000
 DTEND;TZID=America/Los_Angeles:20261026T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -907,9 +731,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20261026T190000
 DTEND;TZID=America/Los_Angeles:20261026T210000
-DTSTAMP:20261021T173111Z
+DTSTAMP:20261022T173106Z
 CREATED:20260916T183120Z
-LAST-MODIFIED:20261021T173111Z
+LAST-MODIFIED:20261022T173106Z
 UID:10003064-1793041200-1793048400@visitdavis.org
 SUMMARY:Renegade Orchestra at Davis Odd Fellows
 DESCRIPTION:Renegade Orchestra in Davis – The Beauty of a Symphony\, the Soul of a Rock Band \nThe Renegade Orchestra is the bay area’s most rock and roll symphony. Is it a rock band? Is it an orchestra? Who knows? But it’s definitely the best of both worlds. The pure unbridled fury of some of the bay area’s top orchestra players unleashed on classic rock songs backed up by a hard-hitting rhythm section. \nThe Renegade Orchestra will be performing at Davis Odd Fellows\, which is located right in downtown\, and is a comfortable and casual hall with great views of the stage. The Renegade Orchestra will rock out to classic songs from Hendrix to Metallica and from Bowie to Zeppelin. \nAt this show\, the Renegade Orchestra will present a comfortable\, but lively show featuring around top bay area string players combined with a driving rhythm section\, all committed to having a relaxed and rocking time. If there is something you hate about orchestra concerts\, this is the opposite. \n“Classical Rebels.” The Bohemian \n“The Renegade Orchestra would rather tackle Hendrix than Handel.” Mercury News \n  \nRenegade Orchestra at Davis Odd Fellows \n415 2nd Street \nDavis\, CA 95616 \nOct 16 at 7 pm \nTickets: $25 at RenegadeOrchestra.com
@@ -922,7 +746,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316884481@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020118Z
+DTSTAMP:20261023T020504Z
 DTSTART;TZID=America/Los_Angeles:20261027T094500
 DTEND;TZID=America/Los_Angeles:20261027T104500
 SUMMARY:Gentle yoga
@@ -959,21 +783,21 @@ ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-H
 ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/voting-from-different-perspectives-studying-elections-across-disciplines/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261027T150000
-DTEND;TZID=UTC:20261027T160000
-DTSTAMP:20260910T205942Z
-CREATED:20260910T205942Z
-LAST-MODIFIED:20260910T205942Z
-UID:10000727-1793113200-1793116800@hatefreetogether.org
-SUMMARY:Voting from Different Perspectives: Studying Elections across Disciplines
-DESCRIPTION:Presented by Inclusive Excellence (Campus Community Book Project) \nThis panel brings together faculty from across UC Davis and UC Davis Health discuss their research on voting and elections within and between different disciplines as well as national and international contexts. The panel aims to share research\, advance research literacy\, and explore scholarly boundaries of expertise as well as areas for cross-pollination. \nPanelists will include: \n\nVikram D. Amar\, Daniel J. Dykstra Distinguished Professor of Law\nRuth Shim\, Director of Cultural Psychiatry and Luke & Grace Kim Professor in Cultural Psychiatry\, Psychiatry and Behavioral Sciences\nLauren Young\, Associate Professor and Director of Graduate Studies\, Political Science\nMegan Macklin (moderator)\, Director of Campus Climate and Inclusion Initiatives\, Office of Campus and Community Relations/Inclusive Excellence\n\nYou must register in advance for this event.
-URL:https://hatefreetogether.org/event/voting-from-different-perspectives-studying-elections-across-disciplines/
-LOCATION:Virtual
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Books.jpg
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-10-28/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261028T113000
+DTEND;TZID=America/Los_Angeles:20261028T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014928-1793187000-1793206800@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-10-28/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/316904500/"}
@@ -981,7 +805,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_316904500@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020117Z
+DTSTAMP:20261023T020503Z
 DTSTART;TZID=America/Los_Angeles:20261028T170000
 DTEND;TZID=America/Los_Angeles:20261028T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1008,14 +832,31 @@ LAST-MODIFIED:20261009T001804Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-10-28/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261028T173000
+DTEND;TZID=America/Los_Angeles:20261028T203000
+DTSTAMP:20260813T194113Z
+CREATED:20260813T194113Z
+LAST-MODIFIED:20260813T194113Z
+UID:10014715-1793208600-1793219400@visityolo.com
+SUMMARY:Live Music at Carboni's Ristorante
+DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
+URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-10-28/
+LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
+ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/figure-drawing-group-2/"}
 X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20261028T183000
 DTEND;TZID=America/Los_Angeles:20261028T210000
-DTSTAMP:20261021T173033Z
+DTSTAMP:20261022T173035Z
 CREATED:20261009T160047Z
-LAST-MODIFIED:20261021T173033Z
+LAST-MODIFIED:20261022T173035Z
 UID:10003090-1793212200-1793221200@visitdavis.org
 SUMMARY:Figure Drawing Group
 DESCRIPTION:Figure Drawing Group in Davis \nWednesday\, October 28\, 6:30-9 PM \n$15 Members\, $22 Non-Members | Limited to 10 participants \nRegistration & payment is required in advance through the Pence’s website. \n  \nWe hold self-guided figure drawing sessions with a nude model every 2nd & 4th Wednesday of the month\, from 6:30–9 PM. This group is for both experienced artists and amateurs to have an opportunity to draw from the nude model. If you have never drawn from a live model before and would like to join us\, you are very welcome! People of all skill levels\, ages 18 and up\, are welcome and encouraged to join. \n  \nThis is not a class\, and no instruction is provided. The atmosphere is relaxed and non-competitive. Bring your own art materials\, and we’ll provide a comfortable place to sketch or paint live models in our upstairs classroom space. Participants will work independently through a warm up with shorter poses and longer\, twenty-minute poses. A staff member will be on-site to facilitate the group and to answer questions. \n  \nRegister here: https://pencegallery.org/education/programs/figure-drawing/ \n  \nQuestions? Email Yuuki at pencegalleryassociate@gmail.com. \n  \nImage: drawing by Deziree Seidner
@@ -1025,29 +866,12 @@ ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/IMG_2036-cop
 ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/dia-de-los-muertos/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261103
-DTSTAMP:20261021T202822Z
-CREATED:20260901T215508Z
-LAST-MODIFIED:20261021T202822Z
-UID:10000723-1793232000-1793663999@hatefreetogether.org
-SUMMARY:Dia de los Muertos
-DESCRIPTION:On an annual basis\, the Davis Cemetery District hosts a Dia de los Muertos (Day of the Dead) celebration on our grounds. This celebration is one of the last Mesoamerican indigenous influenced rituals\, honoring mother earth and all ancestors. This celebration is part of an effort to create a community\, a sense of belonging\, and global awareness of cultural richness in our multicultural society.
-URL:https://hatefreetogether.org/event/dia-de-los-muertos/
-LOCATION:Davis Cemetery\, 820 Pole Line Rd\, Davis\, CA\, 95618\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/dia-de-los-muertos.png
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/316919045/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316919045@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020118Z
+DTSTAMP:20261023T020504Z
 DTSTART;TZID=America/Los_Angeles:20261029T180000
 DTEND;TZID=America/Los_Angeles:20261029T190000
 SUMMARY:Free Yoga Practice
@@ -1075,9 +899,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20261029T193000
 DTEND;TZID=America/Los_Angeles:20261029T213000
-DTSTAMP:20261021T173030Z
+DTSTAMP:20261022T173032Z
 CREATED:20260808T173104Z
-LAST-MODIFIED:20261021T173030Z
+LAST-MODIFIED:20261022T173032Z
 UID:10003025-1793302200-1793309400@visitdavis.org
 SUMMARY:Tim McNary Live @ The Melon Ball
 DESCRIPTION:Tim McNary Live @ The Melon Ball in Davis \nTim McNary is a Cinematic Folk Artist from the Southern United States. He found his passion for songwriting while backpacking throughout South America after college. The Nashville based songwriter traverses emotional and geographical borders with multi-dimensional songwriting and evocative  vocals. Some of his musical influences include Ben Howard\, Foy Vance\, & Leif Vollebekk. He’s had dozens of  film & tv placements\, collaborated with a host of recognized songwriters\, and toured extensively around the United States & Canada. \nListen to Tim on Spotify or Soundcloud\nLive Performance Snippets (YouTube)\nBack to the Beginning (Live – YouTube) \nTim’s Website and Instagram \n$20 General Admission\n$15 Students (in-store or at the door only\, w/ID)\n$15 Kids under 12 (in-store or at the door only) \nDoors open at 7:00pm\nThis is a BYOB event!
@@ -1087,31 +911,14 @@ ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/TimMcNaryWeb
 ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/dia-de-muertos/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261030T170000
-DTEND;TZID=UTC:20261030T200000
-DTSTAMP:20260901T214725Z
-CREATED:20260901T214725Z
-LAST-MODIFIED:20260901T214725Z
-UID:10000721-1793379600-1793390400@hatefreetogether.org
-SUMMARY:Dia De Muertos
-DESCRIPTION:CommuniCare+OLE hosts an annual\, free community Dia de Muertos celebration in Woodland\, California\, aimed at honoring Mexican heritage and reducing mental health stigma. The family-friendly event features interactive altars\, live performances\, workshops\, and local health resources for hundreds of attendees.
-URL:https://hatefreetogether.org/event/dia-de-muertos/
-LOCATION:Hansen Family Health Center\, 215 W. Beamer Street\, Woodland\, CA\, 95695
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Dia-De-Muertos-2026.jpg
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/ssri-rb-jazz-quintet-live-the-melon-ball/"}
 X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20261030T193000
 DTEND;TZID=America/Los_Angeles:20261030T213000
-DTSTAMP:20261021T173051Z
+DTSTAMP:20261022T173052Z
 CREATED:20261005T173036Z
-LAST-MODIFIED:20261021T173051Z
+LAST-MODIFIED:20261022T173052Z
 UID:10003080-1793388600-1793395800@visitdavis.org
 SUMMARY:SSRI R&B Jazz Quintet Live @ The Melon Ball
 DESCRIPTION:Live Music @ The Melon Ball in Davis \nSSRI is a modern jazz collective that is deeply influenced by artists and groups such as: Robert Glasper\, Roy Hargrove\, and Lettuce. They perform a diverse repertoire of original contemporary jazz arrangements\, standards from The American Song Book\, and covers of beloved R&B songs from the 90s and mid 2000s. Each band member has a different musical background\, but we’ve drawn together due to our shared love of Jazz\, R&B\, Gospel and Pop music. Join us as we celebrate the music of Michael Jackson\, Luther Vandross\, Stevie Wonder\, and more! \n$20 General Admission\n$15 Seniors/Students\n$10 Kids under 12 \nDoors open at 7:00pm\nCash or Venmo at the door only (no Credit Card) \nThis is a BYOB event!
@@ -1142,9 +949,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20261031T110000
 DTEND;TZID=America/Los_Angeles:20261031T150000
-DTSTAMP:20261021T173027Z
+DTSTAMP:20261022T173029Z
 CREATED:20260904T173027Z
-LAST-MODIFIED:20261021T173027Z
+LAST-MODIFIED:20261022T173029Z
 UID:10003048-1793444400-1793458800@visitdavis.org
 SUMMARY:Zombie Bike Parade
 DESCRIPTION:A FREE\, family-friendly festival in Davis on Halloween Day\, 2026! Featuring 25+ entertainment stations\, a BMX stunt show\, thousands of costumed riders\, and zombies falling out of the sky. The bike ride itself is the main event of the day\, but it is entirely optional\, so come on wheels or on foot. Money raised goes to our beneficiary\, NorCal Trykers\, to build custom trikes for children with disabilities. For a listing of full events for the Halloween weekend visit the Zombie Bike Parade website.
@@ -1158,7 +965,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316940003@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020115Z
+DTSTAMP:20261023T020502Z
 DTSTART;TZID=America/Los_Angeles:20261031T150000
 DTEND;TZID=America/Los_Angeles:20261031T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -1196,7 +1003,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316940552@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020115Z
+DTSTAMP:20261023T020502Z
 DTSTART;TZID=America/Los_Angeles:20261031T160000
 DTEND;TZID=America/Los_Angeles:20261031T170000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -1234,7 +1041,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_316941287@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020116Z
+DTSTAMP:20261023T020502Z
 DTSTART;TZID=America/Los_Angeles:20261031T170000
 DTEND;TZID=America/Los_Angeles:20261031T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1273,7 +1080,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316941286@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020115Z
+DTSTAMP:20261023T020502Z
 DTSTART;TZID=America/Los_Angeles:20261031T170000
 DTEND;TZID=America/Los_Angeles:20261031T180000
 SUMMARY:Mosaics Beginning Spanish in Person
@@ -1312,7 +1119,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_316941732@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020116Z
+DTSTAMP:20261023T020502Z
 DTSTART;TZID=America/Los_Angeles:20261031T180000
 DTEND;TZID=America/Los_Angeles:20261031T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1352,7 +1159,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_316942237@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020116Z
+DTSTAMP:20261023T020502Z
 DTSTART;TZID=America/Los_Angeles:20261031T190000
 DTEND;TZID=America/Los_Angeles:20261031T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1391,9 +1198,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20261031T190000
 DTEND;TZID=America/Los_Angeles:20261031T220000
-DTSTAMP:20261021T173111Z
+DTSTAMP:20261022T173106Z
 CREATED:20261015T173035Z
-LAST-MODIFIED:20261021T173111Z
+LAST-MODIFIED:20261022T173106Z
 UID:10003095-1793473200-1793484000@visitdavis.org
 SUMMARY:Goth Gala – presented by UC Davis Aggie Bats & KDVS
 DESCRIPTION:A spooky Halloween event in Davis will feature live music performances and a special opening DJ set by Ghoulie Julie. Costumes or goth wear are highly encouraged but not required. \nLive music performances by:\n-Rose Lyon\n-In Retrograde\n-Killer Couture\n-Special opening DJ set by Ghoulie Julie \nCostumes or goth wear are highly encouraged but not required. \nAdmission is $10–15 sliding scale / NOTAFLOF (No One Turned Away For Lack Of Funds).
@@ -1402,45 +1209,12 @@ LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95
 ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/uc-davis-multicultural-calendar-november-2026/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261201
-DTSTAMP:20260910T214501Z
-CREATED:20260910T214501Z
-LAST-MODIFIED:20260910T214501Z
-UID:10000732-1793491200-1796083199@hatefreetogether.org
-SUMMARY:UC Davis Multicultural Calendar - November 2026
-DESCRIPTION:The Multicultural Calendar is a valuable tool for enhancing understanding\, and respect for religious and cultural observances.  It serves as a resource for students\, staff\, and faculty to plan events\, activities\, meetings\, retreats\, and courses throughout the year. Developed by the Office of Campus and Community Relations through research and community input\, we welcome contributions from community members to ensure its accuracy and comprehensiveness.  \nFor the list\, visit: https://excellence.ucdavis.edu/events/multicultural-calendar-november-2026.
-URL:https://hatefreetogether.org/event/uc-davis-multicultural-calendar-november-2026/
-LOCATION:CA
-ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Candle.png
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/dia-de-muertos-celebration/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261101T160000
-DTEND;TZID=UTC:20261101T190000
-DTSTAMP:20261002T154733Z
-CREATED:20261002T154709Z
-LAST-MODIFIED:20261002T154733Z
-UID:10000739-1793548800-1793559600@hatefreetogether.org
-SUMMARY:Dia de Muertos Celebration
-DESCRIPTION:Davis Pride will present an altar dedicated to trans lives lost during 2026. If you are interested in honoring an ancestor or a group of people lost this year\, submit your interest here https://forms.gle/SwrSpa7koa2gK7g49. Hosted on November 1 from 4 – 7 p.m. at E Street Plaza in Davis. There will be dance performance\, face painting and more.
-URL:https://hatefreetogether.org/event/dia-de-muertos-celebration/
-LOCATION:CA
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Dia-de-Muertos-Nov-2026.jpg
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/316969803/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316969803@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020118Z
+DTSTAMP:20261023T020504Z
 DTSTART;TZID=America/Los_Angeles:20261102T180000
 DTEND;TZID=America/Los_Angeles:20261102T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1472,7 +1246,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316977817@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020118Z
+DTSTAMP:20261023T020504Z
 DTSTART;TZID=America/Los_Angeles:20261103T094500
 DTEND;TZID=America/Los_Angeles:20261103T104500
 SUMMARY:Gentle yoga
@@ -1497,7 +1271,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_317003777@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020117Z
+DTSTAMP:20261023T020503Z
 DTSTART;TZID=America/Los_Angeles:20261104T170000
 DTEND;TZID=America/Los_Angeles:20261104T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1523,7 +1297,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316999761@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020118Z
+DTSTAMP:20261023T020504Z
 DTSTART;TZID=America/Los_Angeles:20261105T180000
 DTEND;TZID=America/Los_Angeles:20261105T190000
 SUMMARY:Free Yoga Practice
@@ -1546,61 +1320,12 @@ LAST-MODIFIED:20261015T200845Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-city-council-meetings/2026-11-05/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261105T183000
-DTEND;TZID=UTC:20261105T200000
-DTSTAMP:20260424T163204Z
-CREATED:20260424T163204Z
-LAST-MODIFIED:20260424T163204Z
-UID:10000370-1793903400-1793908800@hatefreetogether.org
-SUMMARY:Davis City Council Meetings
-DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
-URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-11-05/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/djusd-board-meetings/2026-11-05/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261105T183000
-DTEND;TZID=UTC:20261105T200000
-DTSTAMP:20260424T172314Z
-CREATED:20260424T172126Z
-LAST-MODIFIED:20260424T172314Z
-UID:10000561-1793903400-1793908800@hatefreetogether.org
-SUMMARY:DJUSD Board Meetings
-DESCRIPTION:DJUSD Board meetings offer insight on how the school district remains responsive to the community’s values\, beliefs\, and priorities. The Board meetings occur on every first and third Thursday\, in the City of Davis Community Chambers. 23 Russell Boulevard. Public session starts at 6:30 PM.  Meetings are cablecast live on Channel 17 (Comcast) or streamed on the DJUSD-TV website. \n  \nThe Davis Joint Unified School District’s Board of Education is comprised of five community members\, responsible for setting district policy\, approving the budget\, and hiring the superintendent for schools in Davis\, California. The agendas for the meetings are posted at least 72 hours in advance. \n  \nFor more information on special meetings\, agendas\, public comment\, and more\, visit the DJUSD Board site.
-URL:https://hatefreetogether.org/event/djusd-board-meetings/2026-11-05/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/499036487_1275464707915844_5079899038399820181_n.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/international-festival-davis/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261107T140000
-DTEND;TZID=UTC:20261107T200000
-DTSTAMP:20260901T213550Z
-CREATED:20260901T213550Z
-LAST-MODIFIED:20260901T213550Z
-UID:10000717-1794060000-1794081600@hatefreetogether.org
-SUMMARY:International Festival Davis
-DESCRIPTION:Join us on November 7 at International House Davis for I-Fest 2026\, our International Festival Davis! \nFor one day\, we open our doors wide to celebrate and uplift the many cultures and people who make our region so vibrant. Explore cultural and artisan booths throughout I-House\, enjoy food trucks out front\, and experience a full lineup of performances on our backyard stage. It’s an open house in the truest sense: for the day\, this is your house too\, and every culture and community has a place here. \nI-Fest is a celebration\, but your participation also supports the work I-House does all year long: welcoming newcomers\, supporting English learners\, and helping people from around the world find connection and community in Davis. At a time when many of us are feeling anxious or disconnected\, creating spaces for joy\, belonging\, and connection feels more important than ever. Come celebrate cultures\, meet new people\, share in the joy\, and experience what makes our community so special. \nFor one day\, I-House is your house. Come be part of it.
-URL:https://hatefreetogether.org/event/international-festival-davis/
-LOCATION:International House Davis\, 10 College Park\, Davis\, 95616\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/International-Festival-2026.png
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/317041605/"}
 X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317041605@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020116Z
+DTSTAMP:20261023T020502Z
 DTSTART;TZID=America/Los_Angeles:20261107T170000
 DTEND;TZID=America/Los_Angeles:20261107T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1639,7 +1364,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317041955@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020116Z
+DTSTAMP:20261023T020502Z
 DTSTART;TZID=America/Los_Angeles:20261107T180000
 DTEND;TZID=America/Los_Angeles:20261107T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1678,7 +1403,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317042433@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020116Z
+DTSTAMP:20261023T020502Z
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1717,7 +1442,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317067670@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020118Z
+DTSTAMP:20261023T020504Z
 DTSTART;TZID=America/Los_Angeles:20261109T180000
 DTEND;TZID=America/Los_Angeles:20261109T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1744,29 +1469,12 @@ LAST-MODIFIED:20261021T012426Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/principles-of-community-celebration/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261110T160000
-DTEND;TZID=UTC:20261110T180000
-DTSTAMP:20260901T212654Z
-CREATED:20260901T212654Z
-LAST-MODIFIED:20260901T212654Z
-UID:10000715-1794326400-1794333600@hatefreetogether.org
-SUMMARY:Principles of Community Celebration
-DESCRIPTION:The 2026 Principles of Community Celebration recognizes the people and partnerships that bring our values to life across UC Davis. \nThe celebration will feature recognition of the Soaring to New Heights and ASUCD awards honorees\, stories from faculty\, staff and students\, showcases highlighting community-engaged research and partnerships\, and opportunities to connect with colleagues and community partners. \n  \nWe honor our collective decision to be part of this community\, and we celebrate the ongoing work of making UC Davis a place people want to be. \nFor more information\, visit: https://excellence.ucdavis.edu/events/principles-community-celebration.
-URL:https://hatefreetogether.org/event/principles-of-community-celebration/
-LOCATION:UC Davis ARC\, 760 Orchard Road\, Davis\, CA\, 95616
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Principles-of-Community-Celebration-2026.png
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/317054607/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317054607@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020118Z
+DTSTAMP:20261023T020504Z
 DTSTART;TZID=America/Los_Angeles:20261110T180000
 DTEND;TZID=America/Los_Angeles:20261110T200000
 SUMMARY:Let's talk about Female Sexuality & Fluidity
@@ -1812,12 +1520,12 @@ LAST-MODIFIED:20261019T232229Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/vwnqstyjcpbpb/"}
+X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/317098032/"}
 X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
-UID:event_vwnqstyjcpbpb@meetup.com
+UID:event_317098032@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020117Z
+DTSTAMP:20261023T020503Z
 DTSTART;TZID=America/Los_Angeles:20261111T170000
 DTEND;TZID=America/Los_Angeles:20261111T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1837,10 +1545,38 @@ DESCRIPTION:Yolo County Board Game Gathering\nUpdate 8/14/25:\n**We're sti
  m makes a mean pizza\, and there are other nearby downtown restaurants and
   businesses.
 URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
- ts/vwnqstyjcpbpb/
+ ts/317098032/
 STATUS:CONFIRMED
-CREATED:20250814T213602Z
-LAST-MODIFIED:20250814T213602Z
+CREATED:20261023T002510Z
+LAST-MODIFIED:20261023T002510Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/cbwkztyjcpbqb/"}
+X-SOURCE-ID:meetup_mindful_embodied_spirituality
+X-SOURCE:Meetup Mindful Embodied Spirituality
+UID:event_cbwkztyjcpbqb@meetup.com
+SEQUENCE:1
+DTSTAMP:20261023T020504Z
+DTSTART;TZID=America/Los_Angeles:20261112T180000
+DTEND;TZID=America/Los_Angeles:20261112T190000
+SUMMARY:Free Yoga Practice
+DESCRIPTION:Iama Embodied Community\n🌀 **Move with intention. Connect w
+ ith your body. Celebrate community.**\n\nJoin us every **Thursday at 6 PM*
+ * for an embodied yoga practice designed to help you release tension\, gro
+ und yourself\, and cultivate presence. This is a trauma-informed\, all-lev
+ els class\, no prior yoga experience needed. Expect a Hatha-Vinyasa flow\,
+  breathwork\, and a space to listen to your body’s wisdom.\n\n🌿 **Eve
+ ry last Thursday of the month\, stay after class for a community potluck d
+ inner!**\n\n📍 **Location**: 727 T St. Sacramento CA 95811\n✨ **All ou
+ r events are free. Donations are welcome.**\n📩 **Questions? Reach out a
+ t** embody.iama@gmail.com\n🔗 **Follow us on Instagram:** [@embody.iama]
+ (https://www.instagram.com/embody.iama)
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ cbwkztyjcpbqb/
+STATUS:CONFIRMED
+CREATED:20260720T204641Z
+LAST-MODIFIED:20260720T204641Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
@@ -1849,7 +1585,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_vkccbvyjcpbsb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020116Z
+DTSTAMP:20261023T020502Z
 DTSTART;TZID=America/Los_Angeles:20261114T170000
 DTEND;TZID=America/Los_Angeles:20261114T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1883,21 +1619,36 @@ LAST-MODIFIED:20260905T003347Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/teaching-about-disinformation/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261116T150000
-DTEND;TZID=UTC:20261116T160000
-DTSTAMP:20261019T224654Z
-CREATED:20261019T224654Z
-LAST-MODIFIED:20261019T224654Z
-UID:10000743-1794841200-1794844800@hatefreetogether.org
-SUMMARY:Teaching about Disinformation
-DESCRIPTION:This presentation brings together Catherine Hatzakos\, Continuing Lecturer in the Writing Center\, and Matthew Conner\, Arts\, Humanities\, and Social Sciences Librarian\, to discuss tools\, pedagogies\, and learning outcomes for teaching about disinformation. Register here \n2026-2027 marks the UC Davis Campus Community Book Project’s 25th anniversary\, and our theme—civil liberties—leans into the Book Project’s legacy of promoting dialogue and engaging diverse perspectives and audiences. Our selection\, On Tyranny: Twenty Lessons from the Twentieth Century by Timothy Snyder is a call to arms and a guide to resistance\, with invaluable ideas for how we can preserve our freedoms in the uncertain years to come. The Founding Fathers tried to protect us from the threat they knew\, the tyranny that overcame ancient democracy. Today\, our political order faces new threats\, not unlike the totalitarianism of the twentieth century. We are no wiser than the Europeans who saw democracy yield to fascism\, Nazism\, or communism. Our one advantage is that we might learn from their experience. Author Timothy Snyder holds the inaugural Temerty Chair in Modern European History at the Munk School of Global Affairs and Public Policy at the University of Toronto. He is also a permanent fellow at the Institute for Human Sciences in Vienna and the head of the academic advisory council of Ukrainian History Global Initiative. You can read more about the selection here.
-URL:https://hatefreetogether.org/event/teaching-about-disinformation/
-LOCATION:Zoom
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Books.jpg
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/bgfpxtyjcpbvb/"}
+X-SOURCE-ID:meetup_mindful_embodied_spirituality
+X-SOURCE:Meetup Mindful Embodied Spirituality
+UID:event_bgfpxtyjcpbvb@meetup.com
+SEQUENCE:1
+DTSTAMP:20261023T020504Z
+DTSTART;TZID=America/Los_Angeles:20261116T180000
+DTEND;TZID=America/Los_Angeles:20261116T200000
+SUMMARY:Conscious Conversations & Somatic Practices  
+DESCRIPTION:Iama Embodied Community\nThis is a spiritual community that ho
+ nors the body’s wisdom and lived experience. Whether you’re healing fr
+ om religious trauma\, deconstructing beliefs\, exploring spirituality\, or
+  just want to be with other conscious persons\, this space is for you.\n\n
+ Expect conscious conversations\, meditation\, breathwork\, sound healing\,
+  and other somatic practices to help reconnect with ourselves and each oth
+ er.\n\nwe share a potluck dinner every last Monday of the month.\n\n📅 *
+ *Date & Time**: Mondays 6-8 PM\n📍 **Location**: 727 T St. Sacramento\, 
+ Ca\, 95811\n💜 **All our events are free\, donations supported.**\n✨ *
+ *No prior experience or spiritual beliefs necessary.**\n📩 **RSVP/ Quest
+ ions? Reach out at** embody.iama@gmail.com\n🔗 **Follow us on Instagram:
+ ** [@embody.iama](https://www.instagram.com/embody.iama)\n\nPS: we meet in
+  the social hall of Parkview Presbyterian Church. Please find us through t
+ he back entrance\, the brown gate on Solons alley. You may park in the bac
+ k\, move the orange post to park and please return it when you leave.
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ bgfpxtyjcpbvb/
+STATUS:CONFIRMED
+CREATED:20260521T032327Z
+LAST-MODIFIED:20260521T032327Z
+CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/kwnqstyjcpbxb/"}
@@ -1905,7 +1656,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjcpbxb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020117Z
+DTSTAMP:20261023T020503Z
 DTSTART;TZID=America/Los_Angeles:20261118T170000
 DTEND;TZID=America/Los_Angeles:20261118T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1932,28 +1683,12 @@ LAST-MODIFIED:20250814T213413Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-city-council-meetings/2026-11-19/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261119T183000
-DTEND;TZID=UTC:20261119T200000
-DTSTAMP:20260424T163204Z
-CREATED:20260424T163204Z
-LAST-MODIFIED:20260424T163204Z
-UID:10000371-1795113000-1795118400@hatefreetogether.org
-SUMMARY:Davis City Council Meetings
-DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
-URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-11-19/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-ID:gcal_davisbikeclubwww
 X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261121T090000
 DTEND;TZID=America/Los_Angeles:20261121T140000
 RRULE:FREQ=MONTHLY;BYDAY=3SA
-DTSTAMP:20261022T020123Z
+DTSTAMP:20261023T020509Z
 UID:50q7jpr6vmca2rgsqa3ltejtoe_R20261121T170000@google.com
 CREATED:20241017T171351Z
 DESCRIPTION:<a href="https://davisbikeclub.org/3rd-saturday-road-ride/" tar
@@ -1971,7 +1706,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcpbhc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020117Z
+DTSTAMP:20261023T020503Z
 DTSTART;TZID=America/Los_Angeles:20261125T170000
 DTEND;TZID=America/Los_Angeles:20261125T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1998,28 +1733,12 @@ LAST-MODIFIED:20250814T213526Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/human-relations-commission-meetings/2026-11-26/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261126T183000
-DTEND;TZID=UTC:20261126T200000
-DTSTAMP:20260424T165540Z
-CREATED:20260424T165540Z
-LAST-MODIFIED:20260424T165540Z
-UID:10000493-1795717800-1795723200@hatefreetogether.org
-SUMMARY:Human Relations Commission Meetings
-DESCRIPTION:The Davis Human Relations Commission (HRC) meetings aim to promote mutual respect\, understanding\, justice\, and advancing the human rights of all people. The Human Relations Commission meets on the fourth Thursday of each month at 6:30 p.m. The Commission takes a recess in July (no meeting in July). \n  \nMeetings take place in the Community Chambers at City Hall\, 23 Russell Boulevard. For more information on meetings\, membership\, resolutions\, and more\, visit the Human Relations Commission site. \n  \nThe HRC makes recommendations around equity and discrimination in the City\, and supports the City in preventing and addressing discrimination while promoting diversity\, equality\, and justice relevant to the goals and policies of the City Council. \n  \nTo contact or send emails to the commission\, email: HRC@cityofdavis.org
-URL:https://hatefreetogether.org/event/human-relations-commission-meetings/2026-11-26/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/humanrelations_ci_SACHA_CHICKERING-scaled-e1777049624821.webp
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/mxnqstyjcqbdb/"}
 X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcqbdb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020117Z
+DTSTAMP:20261023T020503Z
 DTSTART;TZID=America/Los_Angeles:20261202T170000
 DTEND;TZID=America/Los_Angeles:20261202T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -2040,44 +1759,12 @@ LAST-MODIFIED:20250814T213807Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-03/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261203T183000
-DTEND;TZID=UTC:20261203T200000
-DTSTAMP:20260424T163204Z
-CREATED:20260424T163204Z
-LAST-MODIFIED:20260424T163204Z
-UID:10000372-1796322600-1796328000@hatefreetogether.org
-SUMMARY:Davis City Council Meetings
-DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
-URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-03/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/djusd-board-meetings/2026-12-03/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261203T183000
-DTEND;TZID=UTC:20261203T200000
-DTSTAMP:20260424T172314Z
-CREATED:20260424T172126Z
-LAST-MODIFIED:20260424T172314Z
-UID:10000563-1796322600-1796328000@hatefreetogether.org
-SUMMARY:DJUSD Board Meetings
-DESCRIPTION:DJUSD Board meetings offer insight on how the school district remains responsive to the community’s values\, beliefs\, and priorities. The Board meetings occur on every first and third Thursday\, in the City of Davis Community Chambers. 23 Russell Boulevard. Public session starts at 6:30 PM.  Meetings are cablecast live on Channel 17 (Comcast) or streamed on the DJUSD-TV website. \n  \nThe Davis Joint Unified School District’s Board of Education is comprised of five community members\, responsible for setting district policy\, approving the budget\, and hiring the superintendent for schools in Davis\, California. The agendas for the meetings are posted at least 72 hours in advance. \n  \nFor more information on special meetings\, agendas\, public comment\, and more\, visit the DJUSD Board site.
-URL:https://hatefreetogether.org/event/djusd-board-meetings/2026-12-03/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/499036487_1275464707915844_5079899038399820181_n.jpg
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/vwnqstyjcqbmb/"}
 X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstyjcqbmb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020117Z
+DTSTAMP:20261023T020503Z
 DTSTART;TZID=America/Los_Angeles:20261209T170000
 DTEND;TZID=America/Los_Angeles:20261209T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2109,7 +1796,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjcqbvb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020117Z
+DTSTAMP:20261023T020503Z
 DTSTART;TZID=America/Los_Angeles:20261216T170000
 DTEND;TZID=America/Los_Angeles:20261216T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2136,44 +1823,12 @@ LAST-MODIFIED:20250814T213413Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-17/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261217T183000
-DTEND;TZID=UTC:20261217T200000
-DTSTAMP:20260424T163204Z
-CREATED:20260424T163204Z
-LAST-MODIFIED:20260424T163204Z
-UID:10000373-1797532200-1797537600@hatefreetogether.org
-SUMMARY:Davis City Council Meetings
-DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
-URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-17/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/human-relations-commission-meetings/2026-12-24/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261224T183000
-DTEND;TZID=UTC:20261224T200000
-DTSTAMP:20260424T165540Z
-CREATED:20260424T165540Z
-LAST-MODIFIED:20260424T165540Z
-UID:10000494-1798137000-1798142400@hatefreetogether.org
-SUMMARY:Human Relations Commission Meetings
-DESCRIPTION:The Davis Human Relations Commission (HRC) meetings aim to promote mutual respect\, understanding\, justice\, and advancing the human rights of all people. The Human Relations Commission meets on the fourth Thursday of each month at 6:30 p.m. The Commission takes a recess in July (no meeting in July). \n  \nMeetings take place in the Community Chambers at City Hall\, 23 Russell Boulevard. For more information on meetings\, membership\, resolutions\, and more\, visit the Human Relations Commission site. \n  \nThe HRC makes recommendations around equity and discrimination in the City\, and supports the City in preventing and addressing discrimination while promoting diversity\, equality\, and justice relevant to the goals and policies of the City Council. \n  \nTo contact or send emails to the commission\, email: HRC@cityofdavis.org
-URL:https://hatefreetogether.org/event/human-relations-commission-meetings/2026-12-24/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/humanrelations_ci_SACHA_CHICKERING-scaled-e1777049624821.webp
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/rwnqstyjcqbnc/"}
 X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcqbnc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261022T020117Z
+DTSTAMP:20261023T020503Z
 DTSTART;TZID=America/Los_Angeles:20261230T170000
 DTEND;TZID=America/Los_Angeles:20261230T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2200,99 +1855,29 @@ LAST-MODIFIED:20250814T213526Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-31/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261231T183000
-DTEND;TZID=UTC:20261231T200000
-DTSTAMP:20260424T163204Z
-CREATED:20260424T163204Z
-LAST-MODIFIED:20260424T163204Z
-UID:10000374-1798741800-1798747200@hatefreetogether.org
-SUMMARY:Davis City Council Meetings
-DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
-URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-31/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/djusd-board-meetings/2027-01-07/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20270107T183000
-DTEND;TZID=UTC:20270107T200000
-DTSTAMP:20260424T172314Z
-CREATED:20260424T172126Z
-LAST-MODIFIED:20260424T172314Z
-UID:10000681-1799346600-1799352000@hatefreetogether.org
-SUMMARY:DJUSD Board Meetings
-DESCRIPTION:DJUSD Board meetings offer insight on how the school district remains responsive to the community’s values\, beliefs\, and priorities. The Board meetings occur on every first and third Thursday\, in the City of Davis Community Chambers. 23 Russell Boulevard. Public session starts at 6:30 PM.  Meetings are cablecast live on Channel 17 (Comcast) or streamed on the DJUSD-TV website. \n  \nThe Davis Joint Unified School District’s Board of Education is comprised of five community members\, responsible for setting district policy\, approving the budget\, and hiring the superintendent for schools in Davis\, California. The agendas for the meetings are posted at least 72 hours in advance. \n  \nFor more information on special meetings\, agendas\, public comment\, and more\, visit the DJUSD Board site.
-URL:https://hatefreetogether.org/event/djusd-board-meetings/2027-01-07/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/499036487_1275464707915844_5079899038399820181_n.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-city-council-meetings/2027-01-14/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20270114T183000
-DTEND;TZID=UTC:20270114T200000
-DTSTAMP:20260424T163204Z
-CREATED:20260424T163204Z
-LAST-MODIFIED:20260424T163204Z
-UID:10000375-1799951400-1799956800@hatefreetogether.org
-SUMMARY:Davis City Council Meetings
-DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
-URL:https://hatefreetogether.org/event/davis-city-council-meetings/2027-01-14/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-city-council-meetings/2027-01-28/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20270128T183000
-DTEND;TZID=UTC:20270128T200000
-DTSTAMP:20260424T163204Z
-CREATED:20260424T163204Z
-LAST-MODIFIED:20260424T163204Z
-UID:10000376-1801161000-1801166400@hatefreetogether.org
-SUMMARY:Davis City Council Meetings
-DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
-URL:https://hatefreetogether.org/event/davis-city-council-meetings/2027-01-28/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/human-relations-commission-meetings/2027-01-28/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20270128T183000
-DTEND;TZID=UTC:20270128T200000
-DTSTAMP:20260424T165540Z
-CREATED:20260424T165540Z
-LAST-MODIFIED:20260424T165540Z
-UID:10000495-1801161000-1801166400@hatefreetogether.org
-SUMMARY:Human Relations Commission Meetings
-DESCRIPTION:The Davis Human Relations Commission (HRC) meetings aim to promote mutual respect\, understanding\, justice\, and advancing the human rights of all people. The Human Relations Commission meets on the fourth Thursday of each month at 6:30 p.m. The Commission takes a recess in July (no meeting in July). \n  \nMeetings take place in the Community Chambers at City Hall\, 23 Russell Boulevard. For more information on meetings\, membership\, resolutions\, and more\, visit the Human Relations Commission site. \n  \nThe HRC makes recommendations around equity and discrimination in the City\, and supports the City in preventing and addressing discrimination while promoting diversity\, equality\, and justice relevant to the goals and policies of the City Council. \n  \nTo contact or send emails to the commission\, email: HRC@cityofdavis.org
-URL:https://hatefreetogether.org/event/human-relations-commission-meetings/2027-01-28/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/humanrelations_ci_SACHA_CHICKERING-scaled-e1777049624821.webp
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/djusd-board-meetings/2027-02-04/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20270204T183000
-DTEND;TZID=UTC:20270204T200000
-DTSTAMP:20260424T172314Z
-CREATED:20260424T172126Z
-LAST-MODIFIED:20260424T172314Z
-UID:10000682-1801765800-1801771200@hatefreetogether.org
-SUMMARY:DJUSD Board Meetings
-DESCRIPTION:DJUSD Board meetings offer insight on how the school district remains responsive to the community’s values\, beliefs\, and priorities. The Board meetings occur on every first and third Thursday\, in the City of Davis Community Chambers. 23 Russell Boulevard. Public session starts at 6:30 PM.  Meetings are cablecast live on Channel 17 (Comcast) or streamed on the DJUSD-TV website. \n  \nThe Davis Joint Unified School District’s Board of Education is comprised of five community members\, responsible for setting district policy\, approving the budget\, and hiring the superintendent for schools in Davis\, California. The agendas for the meetings are posted at least 72 hours in advance. \n  \nFor more information on special meetings\, agendas\, public comment\, and more\, visit the DJUSD Board site.
-URL:https://hatefreetogether.org/event/djusd-board-meetings/2027-02-04/
-LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/499036487_1275464707915844_5079899038399820181_n.jpg
+X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/mxnqstykccbjb/"}
+X-SOURCE-ID:meetup_yolo_county_board_game_gathering
+X-SOURCE:Meetup Yolo County Board Game Gathering
+UID:event_mxnqstykccbjb@meetup.com
+SEQUENCE:1
+DTSTAMP:20261023T020503Z
+DTSTART;TZID=America/Los_Angeles:20270106T170000
+DTEND;TZID=America/Los_Angeles:20270106T210000
+SUMMARY:Blood on the Clocktower at Blue Note
+DESCRIPTION:Yolo County Board Game Gathering\nThe first Wednesday of every
+  month\, we play _Blood on the Clocktower_\, a social deduction game in th
+ e vein of Werewolf/Mafia/The Resistance\, with a few twists!\n\nWe'll have
+  a circle of chairs reserved inside Blue Note\, near the back\, with a Yol
+ o County Board Game Gathering sign on the table. Just say hello\, and we'l
+ l show you some games\, pull some players together\, and get to having fun
+ !\n\nWe also usually have a few tables of players playing other board game
+ s\, if social deduction isn't your bag!\n\nGet a feel for Blood on the Clo
+ cktower here: https://youtu.be/4sfa8_kNxsQ
+URL;VALUE=URI:https://www.meetup.com/yolo-county-board-game-gathering/even
+ ts/mxnqstykccbjb/
+STATUS:CONFIRMED
+CREATED:20250814T213807Z
+LAST-MODIFIED:20250814T213807Z
+CLASS:PUBLIC
 END:VEVENT
 END:VCALENDAR
