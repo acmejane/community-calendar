@@ -25,79 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_316847304@meetup.com
-SEQUENCE:1
-DTSTAMP:20261025T015113Z
-DTSTART;TZID=America/Los_Angeles:20261024T180000
-DTEND;TZID=America/Los_Angeles:20261024T190000
-SUMMARY:Mosaics Intercultural Dinner Fellowship
-DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics Hub 
- – Summer 2026!**\nJoin us for a vibrant and uplifting season of virtual 
- learning and community from **June 20 to August 29\, 2026**—all from the
-  comfort of your home on Zoom!\n**Zoom Link:** [https://zoom.us/j/58967646
- 3](https://zoom.us/j/589676463)\n**Bi-Weekly Friday Zoom Sessions** *(Ever
- y 2nd and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\n
- • **5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6:
- 00 PM** – Bible Study & Meditation Group with Stephen\n• **7:00 PM** 
- – Beginning Chinese with Jane\n**Weekly Saturday Zoom Sessions** (total 
- of 10 sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n• *
- *5:00 PM** – Beginning to Intermediate Korean with Stephen\n• **6:00 P
- M** – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** –
-  English Learners Group with Linda & Chad\n___\n**Important Notes:**\n1. *
- *No Zoom sessions** on **July 3–4\, 2026** (Independence Day) and **Sept
- ember 4–5\, 2026** (Labor Day).\n2. All classes will be conducted **excl
- usively via Zoom** during the summer session.\n3. **Return to In-Person Me
- etings:**\nWe will resume our **regular in-person gatherings on September 
- 12\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Community Chu
- rch**.\nFor more information about Intercultural Mosaics classes and activ
- ities\, visit [www.nextg.org](http://www.nextg.org/) or contact Dr. Stephe
- n Moon at 916-217-5470\nor email to: [catalyst@nextg.org](mailto:catalyst@
- nextg.org). Thank you!
-URL;VALUE=URI:https://www.meetup.com/mosaics/events/316847304/
-STATUS:CONFIRMED
-CREATED:20261005T012723Z
-LAST-MODIFIED:20261005T012723Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-UID:event_316847901@meetup.com
-SEQUENCE:1
-DTSTAMP:20261025T015113Z
-DTSTART;TZID=America/Los_Angeles:20261024T190000
-DTEND;TZID=America/Los_Angeles:20261024T200000
-SUMMARY:Mosaics Water & Acrylic Painting 
-DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics Hub 
- – Summer 2026!**\nJoin us for a vibrant and uplifting season of virtual 
- learning and community from **June 20 to August 29\, 2026**—all from the
-  comfort of your home on Zoom!\n**Zoom Link:** [https://zoom.us/j/58967646
- 3](https://zoom.us/j/589676463)\n**Bi-Weekly Friday Zoom Sessions** *(Ever
- y 2nd and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\n
- • **5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6:
- 00 PM** – Bible Study & Meditation Group with Stephen\n• **7:00 PM** 
- – Beginning Chinese with Jane\n**Weekly Saturday Zoom Sessions** (total 
- of 10 sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n• *
- *5:00 PM** – Beginning to Intermediate Korean with Stephen\n• **6:00 P
- M** – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** –
-  English Learners Group with Linda & Chad\n___\n**Important Notes:**\n1. *
- *No Zoom sessions** on **July 3–4\, 2026** (Independence Day) and **Sept
- ember 4–5\, 2026** (Labor Day).\n2. All classes will be conducted **excl
- usively via Zoom** during the summer session.\n3. **Return to In-Person Me
- etings:**\nWe will resume our **regular in-person gatherings on September 
- 12\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Community Chu
- rch**.\nFor more information about Intercultural Mosaics classes and activ
- ities\, visit [www.nextg.org](http://www.nextg.org/) or contact Dr. Stephe
- n Moon at 916-217-5470\nor email to: [catalyst@nextg.org](mailto:catalyst@
- nextg.org). Thank you!
-URL;VALUE=URI:https://www.meetup.com/mosaics/events/316847901/
-STATUS:CONFIRMED
-CREATED:20261005T022615Z
-LAST-MODIFIED:20261005T022615Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:event_316940003@meetup.com
 SEQUENCE:1
-DTSTAMP:20261025T015113Z
+DTSTAMP:20261026T015303Z
 DTSTART;TZID=America/Los_Angeles:20261031T150000
 DTEND;TZID=America/Los_Angeles:20261031T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -130,24 +60,9 @@ LAST-MODIFIED:20261011T220953Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-UID:event_gptsbvyjcnbpc@meetup.com
-SEQUENCE:1
-DTSTAMP:20261025T015113Z
-DTSTART;TZID=America/Los_Angeles:20261031T160000
-DTEND;TZID=America/Los_Angeles:20261031T170000
-SUMMARY:Mosaics Beginning Japanese in Person
-DESCRIPTION:Intercultural Mosaics\nhttps://nextg.org/mosaics-spring-into-e
- arly-summer-classes/
-URL;VALUE=URI:https://www.meetup.com/mosaics/events/gptsbvyjcnbpc/
-STATUS:CONFIRMED
-CREATED:20261024T003928Z
-LAST-MODIFIED:20261024T003928Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:event_316940552@meetup.com
 SEQUENCE:1
-DTSTAMP:20261025T015113Z
+DTSTAMP:20261026T015303Z
 DTSTART;TZID=America/Los_Angeles:20261031T160000
 DTEND;TZID=America/Los_Angeles:20261031T170000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -180,9 +95,24 @@ LAST-MODIFIED:20261011T231120Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+UID:event_317138867@meetup.com
+SEQUENCE:1
+DTSTAMP:20261026T015303Z
+DTSTART;TZID=America/Los_Angeles:20261031T160000
+DTEND;TZID=America/Los_Angeles:20261031T170000
+SUMMARY:Mosaics Beginning Japanese in Person
+DESCRIPTION:Intercultural Mosaics\nhttps://nextg.org/mosaics-spring-into-e
+ arly-summer-classes/
+URL;VALUE=URI:https://www.meetup.com/mosaics/events/317138867/
+STATUS:CONFIRMED
+CREATED:20261026T000929Z
+LAST-MODIFIED:20261026T000929Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 UID:event_316941286@meetup.com
 SEQUENCE:1
-DTSTAMP:20261025T015113Z
+DTSTAMP:20261026T015303Z
 DTSTART;TZID=America/Los_Angeles:20261031T170000
 DTEND;TZID=America/Los_Angeles:20261031T180000
 SUMMARY:Mosaics Beginning Spanish in Person
@@ -217,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316941731@meetup.com
 SEQUENCE:1
-DTSTAMP:20261025T015113Z
+DTSTAMP:20261026T015303Z
 DTSTART;TZID=America/Los_Angeles:20261031T180000
 DTEND;TZID=America/Los_Angeles:20261031T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -252,7 +182,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316942236@meetup.com
 SEQUENCE:1
-DTSTAMP:20261025T015113Z
+DTSTAMP:20261026T015303Z
 DTSTART;TZID=America/Los_Angeles:20261031T190000
 DTEND;TZID=America/Los_Angeles:20261031T200000
 SUMMARY:Mosaics Water & Acrylic Painting 
@@ -287,7 +217,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_317040106@meetup.com
 SEQUENCE:1
-DTSTAMP:20261025T015113Z
+DTSTAMP:20261026T015303Z
 DTSTART;TZID=America/Los_Angeles:20261107T150000
 DTEND;TZID=America/Los_Angeles:20261107T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -322,7 +252,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_gptsbvyjcpbkb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261025T015113Z
+DTSTAMP:20261026T015303Z
 DTSTART;TZID=America/Los_Angeles:20261107T160000
 DTEND;TZID=America/Los_Angeles:20261107T170000
 SUMMARY:Mosaics Beginning Japanese in Person
@@ -332,6 +262,76 @@ URL;VALUE=URI:https://www.meetup.com/mosaics/events/gptsbvyjcpbkb/
 STATUS:CONFIRMED
 CREATED:20261024T003928Z
 LAST-MODIFIED:20261024T003928Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:event_317040594@meetup.com
+SEQUENCE:1
+DTSTAMP:20261026T015303Z
+DTSTART;TZID=America/Los_Angeles:20261107T160000
+DTEND;TZID=America/Los_Angeles:20261107T170000
+SUMMARY:Mosaics Beginning Mandarin Chinese in Person
+DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics Hub 
+ – Summer 2026!**\nJoin us for a vibrant and uplifting season of virtual 
+ learning and community from **June 20 to August 29\, 2026**—all from the
+  comfort of your home on Zoom!\n**Zoom Link:** [https://zoom.us/j/58967646
+ 3](https://zoom.us/j/589676463)\n**Bi-Weekly Friday Zoom Sessions** *(Ever
+ y 2nd and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\n
+ • **5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6:
+ 00 PM** – Bible Study & Meditation Group with Stephen\n• **7:00 PM** 
+ – Beginning Chinese with Jane\n**Weekly Saturday Zoom Sessions** (total 
+ of 10 sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n• *
+ *5:00 PM** – Beginning to Intermediate Korean with Stephen\n• **6:00 P
+ M** – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** –
+  English Learners Group with Linda & Chad\n___\n**Important Notes:**\n1. *
+ *No Zoom sessions** on **July 3–4\, 2026** (Independence Day) and **Sept
+ ember 4–5\, 2026** (Labor Day).\n2. All classes will be conducted **excl
+ usively via Zoom** during the summer session.\n3. **Return to In-Person Me
+ etings:**\nWe will resume our **regular in-person gatherings on September 
+ 12\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Community Chu
+ rch**.\nFor more information about Intercultural Mosaics classes and activ
+ ities\, visit [www.nextg.org](http://www.nextg.org/) or contact Dr. Stephe
+ n Moon at 916-217-5470\nor email to: [catalyst@nextg.org](mailto:catalyst@
+ nextg.org). Thank you!
+URL;VALUE=URI:https://www.meetup.com/mosaics/events/317040594/
+STATUS:CONFIRMED
+CREATED:20261018T231623Z
+LAST-MODIFIED:20261018T231623Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:event_317041604@meetup.com
+SEQUENCE:1
+DTSTAMP:20261026T015303Z
+DTSTART;TZID=America/Los_Angeles:20261107T170000
+DTEND;TZID=America/Los_Angeles:20261107T180000
+SUMMARY:Mosaics Beginning Spanish in Person
+DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics Hub 
+ – Summer 2026!**\nJoin us for a vibrant and uplifting season of virtual 
+ learning and community from **June 20 to August 29\, 2026**—all from the
+  comfort of your home on Zoom!\n**Zoom Link:** [https://zoom.us/j/58967646
+ 3](https://zoom.us/j/589676463)\n**Bi-Weekly Friday Zoom Sessions** *(Ever
+ y 2nd and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\n
+ • **5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6:
+ 00 PM** – Bible Study & Meditation Group with Stephen\n• **7:00 PM** 
+ – Beginning Chinese with Jane\n**Weekly Saturday Zoom Sessions** (total 
+ of 10 sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n• *
+ *5:00 PM** – Beginning to Intermediate Korean with Stephen\n• **6:00 P
+ M** – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** –
+  English Learners Group with Linda & Chad\n___\n**Important Notes:**\n1. *
+ *No Zoom sessions** on **July 3–4\, 2026** (Independence Day) and **Sept
+ ember 4–5\, 2026** (Labor Day).\n2. All classes will be conducted **excl
+ usively via Zoom** during the summer session.\n3. **Return to In-Person Me
+ etings:**\nWe will resume our **regular in-person gatherings on September 
+ 12\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Community Chu
+ rch**.\nFor more information about Intercultural Mosaics classes and activ
+ ities\, visit [www.nextg.org](http://www.nextg.org/) or contact Dr. Stephe
+ n Moon at 916-217-5470\nor email to: [catalyst@nextg.org](mailto:catalyst@
+ nextg.org). Thank you!
+URL;VALUE=URI:https://www.meetup.com/mosaics/events/317041604/
+STATUS:CONFIRMED
+CREATED:20261019T003318Z
+LAST-MODIFIED:20261019T003318Z
 CLASS:PUBLIC
 END:VEVENT
 X-ORIGINAL-URL:https://www.meetup.com/mosaics/events/ical/
