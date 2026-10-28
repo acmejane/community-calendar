@@ -63,32 +63,6 @@ ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Mercy-Hawkins
 ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20261026T190000
-DTEND;TZID=America/Los_Angeles:20261026T210000
-DTSTAMP:20260915T225304Z
-CREATED:20260915T225304Z
-LAST-MODIFIED:20260915T225304Z
-UID:10014881-1793041200-1793048400@visityolo.com
-SUMMARY:Renegade Orchestra at Davis Odd Fellows
-DESCRIPTION:Renegade Orchestra in Davis – The Beauty of a Symphony\, the Soul of a Rock Band \nThe Renegade Orchestra is the bay area’s most rock and roll symphony. Is it a rock band? Is it an orchestra? Who knows? But it’s definitely the best of both worlds. The pure unbridled fury of some of the bay area’s top orchestra players unleashed on classic rock songs backed up by a hard-hitting rhythm section. \nThe Renegade Orchestra will be performing at Davis Odd Fellows\, which is located right in downtown\, and is a comfortable and casual hall with great views of the stage. The Renegade Orchestra will rock out to classic songs from Hendrix to Metallica and from Bowie to Zeppelin. \nAt this show\, the Renegade Orchestra will present a comfortable\, but lively show featuring around top bay area string players combined with a driving rhythm section\, all committed to having a relaxed and rocking time. If there is something you hate about orchestra concerts\, this is the opposite. \n“Classical Rebels.” The Bohemian \n“The Renegade Orchestra would rather tackle Hendrix than Handel.” Mercury News \n  \nRenegade Orchestra at Davis Odd Fellows \n415 2nd Street \nDavis\, CA 95616 \nOct 16 at 7 pm \nTickets: $25 at RenegadeOrchestra.com
-URL:https://visityolo.com/event/renegade-orchestra-at-davis-odd-fellows/
-LOCATION:Davis Odd Fellows Hall\, 415 2nd Street\, Davis\, 95616\, United States
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20261027T113000
-DTEND;TZID=America/Los_Angeles:20261027T170000
-DTSTAMP:20260928T180906Z
-CREATED:20260928T180906Z
-LAST-MODIFIED:20260928T180906Z
-UID:10014927-1793100600-1793120400@visityolo.com
-SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
-DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
-URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-10-27/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20261028T113000
 DTEND;TZID=America/Los_Angeles:20261028T170000
 DTSTAMP:20260928T180906Z
@@ -450,5 +424,32 @@ URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-04/
 LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
 ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261105T113000
+DTEND;TZID=America/Los_Angeles:20261105T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014935-1793878200-1793898000@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-05/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261106T110000
+DTEND;TZID=America/Los_Angeles:20261106T180000
+DTSTAMP:20251117T171126Z
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013324-1793962800-1793988000@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-11-06/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
 END:VEVENT
 END:VCALENDAR
