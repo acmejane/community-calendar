@@ -63,33 +63,6 @@ ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Mercy-Hawkins
 ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20261028T113000
-DTEND;TZID=America/Los_Angeles:20261028T170000
-DTSTAMP:20260928T180906Z
-CREATED:20260928T180906Z
-LAST-MODIFIED:20260928T180906Z
-UID:10014928-1793187000-1793206800@visityolo.com
-SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
-DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
-URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-10-28/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20261028T150000
-DTEND;TZID=America/Los_Angeles:20261028T183000
-DTSTAMP:20261023T161842Z
-CREATED:20261023T161842Z
-LAST-MODIFIED:20261023T161842Z
-UID:10015324-1793199600-1793212200@visityolo.com
-SUMMARY:Bohème Bewitched
-DESCRIPTION:An enchanted interactive experience from Bohème in Davis\, the thrift boutique two blocks away. Quests through a glowing grove\, a blacklight zombie forest\, a frog bog\, a mermaid lagoon\, a witch’s cottage and a wood full of wisps. Spooky\, not scary. \nSix enchanted lands inside the old bank at 300 E Street\, downtown Davis: the old Union Bank building at the corner of 3rd and E\, next to Panera Bread\, one block from Central Park. \nHours: Wednesday to Friday 3:00 to 6:30pm. Saturday and Sunday 11:00am to 6:30pm. Closed Mondays and Tuesdays. Open 11am to 6:30pm on Saturday\, October 31. \n$4 at the door for the experience\, credited to any $8 purchase in the shop (same visit only). Open to all ages every day until 6:30pm. \nEnchanted Evenings: special evening events run 7 to 9:30pm on Oct 23\, 24 and 30. $13 online\, $15 at the door. \nEvery date\, hours and tickets: bohemebewitched.com
-URL:https://visityolo.com/event/boheme-bewitched/2026-10-28/
-LOCATION:Bohème Bewitched\, 300 E Street\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/bewitched-popup.jpg
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20261028T173000
 DTEND;TZID=America/Los_Angeles:20261028T203000
 DTSTAMP:20260813T194113Z
@@ -451,5 +424,33 @@ DESCRIPTION:Discover the charm of Yolo County’s wine country this season by vi
 URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-11-06/
 LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261106T113000
+DTEND;TZID=America/Los_Angeles:20261106T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014936-1793964600-1793984400@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-06/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261106T193000
+DTEND;TZID=America/Los_Angeles:20261106T213000
+DTSTAMP:20261014T204400Z
+CREATED:20261005T171809Z
+LAST-MODIFIED:20261014T204400Z
+UID:10015279-1793993400-1794000600@visityolo.com
+SUMMARY:Bloom Ritual\, Roni Jean\, and Valley Taylor Live @ The Melon Ball
+DESCRIPTION:Live Music @ The Melon Ball in Davis. \nA post-Halloween costume party featuring Bloom Ritual\, Roni Jean and Valley Taylor. Costume not required; but best costume wins a 3 band merch package! \nRoni Jean carves out a unique niche with a blend of Haunted Indie Rock\, Dreampop\, and Shoegaze in Sacramento\, CA. Their music weaves lush\, dynamic soundscapes with a melodic melancholy that always carries an undeniable edge. Drawing inspiration from artists like Sir Chloe\, Wisp\, and Radiohead\, Roni Jean moves seamlessly between moments of delicate vulnerability and explosive\, powerful expression. \nBloom Ritual; from my rat infested studio to your ears. From an alternative foundation\, Bloom Ritual bleeds into adjacent genres such as psychedelic\, shoegaze\, indie rock and post-hardcore. The latter sound is more easily recognizable in the upcoming EP release\, whereas the band’s previously released tracks\, such as “Heaven” and “Fish Bowl\,” are closely tethered to the ethereal shoegaze genre. It’s psychedelic rock that doesn’t try hard to be psychedelic; it just seems to end up there after all the genres blend together. \nValley Taylor; Valley Taylor makes songs\, drawings\, videos and other things in El Cerrito\, California. The music moves somewhere between Indie Rock\, lo-fi Folk and Ambient Music\, usually built from guitars\, old sounds\, field recordings and whatever else happens to make its way in. Sometimes it becomes a record. Sometimes it becomes a drawing or a little film. Sometimes it just lives on the internet somewhere. \n$15 General Admission\n$10 Students (in-store or at the door with Student ID only)\nDoors open @ 7:00pm\n \nCash or Venmo at the door only (no Credit Card) \nThis is a BYOB event!
+URL:https://visityolo.com/event/live-music-the-melon-ball/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Bloom_110726-1.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
 END:VEVENT
 END:VCALENDAR
