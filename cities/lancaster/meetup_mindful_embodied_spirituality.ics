@@ -25,34 +25,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:event_316919045@meetup.com
-SEQUENCE:1
-DTSTAMP:20261029T025903Z
-DTSTART;TZID=America/Los_Angeles:20261029T180000
-DTEND;TZID=America/Los_Angeles:20261029T190000
-SUMMARY:Free Yoga Practice
-DESCRIPTION:Iama Embodied Community\n🌀 **Move with intention. Connect w
- ith your body. Celebrate community.**\n\nJoin us every **Thursday at 6 PM*
- * for an embodied yoga practice designed to help you release tension\, gro
- und yourself\, and cultivate presence. This is a trauma-informed\, all-lev
- els class\, no prior yoga experience needed. Expect a Hatha-Vinyasa flow\,
-  breathwork\, and a space to listen to your body’s wisdom.\n\n🌿 **Eve
- ry last Thursday of the month\, stay after class for a community potluck d
- inner!**\n\n📍 **Location**: 727 T St. Sacramento CA 95811\n✨ **All ou
- r events are free. Donations are welcome.**\n📩 **Questions? Reach out a
- t** embody.iama@gmail.com\n🔗 **Follow us on Instagram:** [@embody.iama]
- (https://www.instagram.com/embody.iama)
-URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
- 316919045/
-STATUS:CONFIRMED
-CREATED:20261010T011849Z
-LAST-MODIFIED:20261010T011849Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 UID:event_316969803@meetup.com
 SEQUENCE:1
-DTSTAMP:20261029T025903Z
+DTSTAMP:20261030T030318Z
 DTSTART;TZID=America/Los_Angeles:20261102T180000
 DTEND;TZID=America/Los_Angeles:20261102T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -81,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316977817@meetup.com
 SEQUENCE:1
-DTSTAMP:20261029T025903Z
+DTSTAMP:20261030T030318Z
 DTSTART;TZID=America/Los_Angeles:20261103T094500
 DTEND;TZID=America/Los_Angeles:20261103T104500
 SUMMARY:Gentle yoga
@@ -103,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_316999761@meetup.com
 SEQUENCE:1
-DTSTAMP:20261029T025903Z
+DTSTAMP:20261030T030318Z
 DTSTART;TZID=America/Los_Angeles:20261105T180000
 DTEND;TZID=America/Los_Angeles:20261105T190000
 SUMMARY:Free Yoga Practice
@@ -128,7 +103,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_317067670@meetup.com
 SEQUENCE:1
-DTSTAMP:20261029T025903Z
+DTSTAMP:20261030T030318Z
 DTSTART;TZID=America/Los_Angeles:20261109T180000
 DTEND;TZID=America/Los_Angeles:20261109T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -157,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_317054607@meetup.com
 SEQUENCE:1
-DTSTAMP:20261029T025903Z
+DTSTAMP:20261030T030318Z
 DTSTART;TZID=America/Los_Angeles:20261110T180000
 DTEND;TZID=America/Los_Angeles:20261110T200000
 SUMMARY:Let's talk about Female Sexuality & Fluidity
@@ -205,7 +180,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_317115298@meetup.com
 SEQUENCE:1
-DTSTAMP:20261029T025903Z
+DTSTAMP:20261030T030318Z
 DTSTART;TZID=America/Los_Angeles:20261112T180000
 DTEND;TZID=America/Los_Angeles:20261112T190000
 SUMMARY:Free Yoga Practice
@@ -230,7 +205,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_317169908@meetup.com
 SEQUENCE:1
-DTSTAMP:20261029T025903Z
+DTSTAMP:20261030T030318Z
 DTSTART;TZID=America/Los_Angeles:20261116T180000
 DTEND;TZID=America/Los_Angeles:20261116T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -259,7 +234,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_cbwkztyjcpbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261029T025903Z
+DTSTAMP:20261030T030318Z
 DTSTART;TZID=America/Los_Angeles:20261119T180000
 DTEND;TZID=America/Los_Angeles:20261119T190000
 SUMMARY:Free Yoga Practice
@@ -284,7 +259,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:event_bgfpxtyjcpbfc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261029T025903Z
+DTSTAMP:20261030T030318Z
 DTSTART;TZID=America/Los_Angeles:20261123T180000
 DTEND;TZID=America/Los_Angeles:20261123T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -308,6 +283,31 @@ URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
 STATUS:CONFIRMED
 CREATED:20260521T032327Z
 LAST-MODIFIED:20260521T032327Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:event_cbwkztyjcpbjc@meetup.com
+SEQUENCE:1
+DTSTAMP:20261030T030318Z
+DTSTART;TZID=America/Los_Angeles:20261126T180000
+DTEND;TZID=America/Los_Angeles:20261126T190000
+SUMMARY:Free Yoga Practice
+DESCRIPTION:Iama Embodied Community\n🌀 **Move with intention. Connect w
+ ith your body. Celebrate community.**\n\nJoin us every **Thursday at 6 PM*
+ * for an embodied yoga practice designed to help you release tension\, gro
+ und yourself\, and cultivate presence. This is a trauma-informed\, all-lev
+ els class\, no prior yoga experience needed. Expect a Hatha-Vinyasa flow\,
+  breathwork\, and a space to listen to your body’s wisdom.\n\n🌿 **Eve
+ ry last Thursday of the month\, stay after class for a community potluck d
+ inner!**\n\n📍 **Location**: 727 T St. Sacramento CA 95811\n✨ **All ou
+ r events are free. Donations are welcome.**\n📩 **Questions? Reach out a
+ t** embody.iama@gmail.com\n🔗 **Follow us on Instagram:** [@embody.iama]
+ (https://www.instagram.com/embody.iama)
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ cbwkztyjcpbjc/
+STATUS:CONFIRMED
+CREATED:20260720T204641Z
+LAST-MODIFIED:20260720T204641Z
 CLASS:PUBLIC
 END:VEVENT
 X-ORIGINAL-URL:https://www.meetup.com/mindful-embodied-spirituality/events
