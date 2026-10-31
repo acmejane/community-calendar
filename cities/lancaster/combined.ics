@@ -7,205 +7,72 @@ X-WR-CALNAME:Lancaster Community Calendar
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/tim-mcnary-live-the-melon-ball/", "Visityolo Event": "https://visityolo.com/event/tim-mcnary-live-the-melon-ball/"}
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/tim-mcnary-live-the-melon-ball/"}
-X-SOURCE-ID:visitdavis
-X-SOURCE:Visit Davis, Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261029T193000
-DTEND;TZID=America/Los_Angeles:20261029T213000
-DTSTAMP:20261029T173029Z
-CREATED:20260808T173104Z
-LAST-MODIFIED:20261029T173029Z
-UID:10003025-1793302200-1793309400@visitdavis.org
-SUMMARY:Tim McNary Live @ The Melon Ball
-DESCRIPTION:Tim McNary Live @ The Melon Ball in Davis \nTim McNary is a Cinematic Folk Artist from the Southern United States. He found his passion for songwriting while backpacking throughout South America after college. The Nashville based songwriter traverses emotional and geographical borders with multi-dimensional songwriting and evocative  vocals. Some of his musical influences include Ben Howard\, Foy Vance\, & Leif Vollebekk. He’s had dozens of  film & tv placements\, collaborated with a host of recognized songwriters\, and toured extensively around the United States & Canada. \nListen to Tim on Spotify or Soundcloud\nLive Performance Snippets (YouTube)\nBack to the Beginning (Live – YouTube) \nTim’s Website and Instagram \n$20 General Admission\n$15 Students (in-store or at the door only\, w/ID)\n$15 Kids under 12 (in-store or at the door only) \nDoors open at 7:00pm\nThis is a BYOB event!
-URL:https://visitdavis.org/event/tim-mcnary-live-the-melon-ball/
-LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/TimMcNaryWeb-1myOTC.jpg
-ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-10-31/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261031T100000
+DTEND;TZID=UTC:20261031T170000
+DTSTAMP:20261028T183745Z
+CREATED:20261028T180021Z
+LAST-MODIFIED:20261028T183745Z
+UID:10000861-1793440800-1793466000@hatefreetogether.org
+SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
+DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
+URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-10-31/
+LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-10-30/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261030T110000
-DTEND;TZID=America/Los_Angeles:20261030T180000
-DTSTAMP:20251117T171126Z
-CREATED:20251117T171126Z
-LAST-MODIFIED:20251117T171126Z
-UID:10013321-1793358000-1793383200@visityolo.com
-SUMMARY:Sip Yolo with Yolo County Wines
-DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
-URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-10-30/
-LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/yolo-county-library-spooky-party/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261031T133000
+DTEND;TZID=UTC:20261031T153000
+DTSTAMP:20261022T220720Z
+CREATED:20261022T220720Z
+LAST-MODIFIED:20261022T220720Z
+UID:10000848-1793453400-1793460600@hatefreetogether.org
+SUMMARY:Yolo County Library: Spooky Party
+DESCRIPTION:Get ready for a magical Halloween celebration at the Knights Landing Library on Saturday 1:30p.m.! Costumes are encouraged. For all ages.
+URL:https://hatefreetogether.org/event/yolo-county-library-spooky-party/
+LOCATION:Knights Landing Branch Library\, 42351 3rd St\, Knights Landing\, CA\, 95645\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Halloween-in-Libraries.png
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-10-30/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261030T113000
-DTEND;TZID=America/Los_Angeles:20261030T170000
-DTSTAMP:20260928T180906Z
-CREATED:20260928T180906Z
-LAST-MODIFIED:20260928T180906Z
-UID:10014930-1793359800-1793379600@visityolo.com
-SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
-DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
-URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-10-30/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/yolo-county-library-night-of-the-living-dead-movie-costume-contest/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261031T140000
+DTEND;TZID=UTC:20261031T160000
+DTSTAMP:20261022T221413Z
+CREATED:20261022T221413Z
+LAST-MODIFIED:20261022T221413Z
+UID:10000849-1793455200-1793462400@hatefreetogether.org
+SUMMARY:Yolo County Library: Night of the Living Dead Movie & Costume Contest
+DESCRIPTION:Watch the 1968 classic film Night of the Living Dead and participate in a costume contest! Location is the Arthur F Turner Library on Saturday 2:00p.m.! For teens 13-17 and adults 18+.
+URL:https://hatefreetogether.org/event/yolo-county-library-night-of-the-living-dead-movie-costume-contest/
+LOCATION:Arthur F Turner Community Library\, 1212 Merkley Avenue\, West Sacramento\, CA\, 95691\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Night-of-the-Living-Dead-Movie-poster.jpg
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/boheme-bewitched/2026-10-30/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261030T150000
-DTEND;TZID=America/Los_Angeles:20261030T183000
-DTSTAMP:20261023T161842Z
-CREATED:20261023T161842Z
-LAST-MODIFIED:20261023T161842Z
-UID:10015326-1793372400-1793385000@visityolo.com
-SUMMARY:Bohème Bewitched
-DESCRIPTION:An enchanted interactive experience from Bohème in Davis\, the thrift boutique two blocks away. Quests through a glowing grove\, a blacklight zombie forest\, a frog bog\, a mermaid lagoon\, a witch’s cottage and a wood full of wisps. Spooky\, not scary. \nSix enchanted lands inside the old bank at 300 E Street\, downtown Davis: the old Union Bank building at the corner of 3rd and E\, next to Panera Bread\, one block from Central Park. \nHours: Wednesday to Friday 3:00 to 6:30pm. Saturday and Sunday 11:00am to 6:30pm. Closed Mondays and Tuesdays. Open 11am to 6:30pm on Saturday\, October 31. \n$4 at the door for the experience\, credited to any $8 purchase in the shop (same visit only). Open to all ages every day until 6:30pm. \nEnchanted Evenings: special evening events run 7 to 9:30pm on Oct 23\, 24 and 30. $13 online\, $15 at the door. \nEvery date\, hours and tickets: bohemebewitched.com
-URL:https://visityolo.com/event/boheme-bewitched/2026-10-30/
-LOCATION:Bohème Bewitched\, 300 E Street\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/bewitched-popup.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/mariachi-bonitas-is-live-at-the-hive/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261030T173000
-DTEND;TZID=America/Los_Angeles:20261030T203000
-DTSTAMP:20261029T154805Z
-CREATED:20261029T154805Z
-LAST-MODIFIED:20261029T154805Z
-UID:10015740-1793381400-1793392200@visityolo.com
-SUMMARY:Mariachi Bonitas is Live at The HIVE
-DESCRIPTION:Sacramento-based all-female mariachi\, Mariachi Bonitas\, takes the stage during The HIVE Tasting Room & Kitchen’s outdoor concert\, Live at The HIVE\, on Friday\, October 30\, from 5:30 to 8:30 p.m. Located at 1221 Harter Ave. in Woodland\, Calif.\, The HIVE is Northern California’s largest honey and mead tasting room. \nChanging the narrative of mariachi in Sacramento and beyond\, Mariachi Bonitas de Dinorah Klingler is redefining what it means to be mariachi. This all-female ensemble is challenging stereotypes in a genre long dominated by men. With a deep commitment to musical excellence and a passion for elevating the voices of women in mariachi music\, Mariachi Bonitas honors tradition while embracing innovation. \n  \n“Live at The HIVE started as a way to celebrate the positive power of bringing people together. It’s a chance for people of all ages and backgrounds to gather together and enjoy great music and food in our beautiful pollinator gardens\,” explains Shoshana Zeldner\, Director of Brand Strategy at Z Specialty Food. \n  \nIn addition to phenomenal music\, guests can explore The HIVE’s expansive pollinator gardens\, savor a seasonal farm-to-fork menu\, sip craft honey-brewed beverages and enjoy complimentary honey tastings. Family- and dog-friendly\, Live at The HIVE welcomes guests of all ages. A sliding-scale cover charge of $0-$20 per person helps keep the experience accessible and welcoming to everyone in the community. \nFounded in 2020 by the accomplished singer\, songwriter\, and musician Dinorah Klingler\, Mariachi Bonitas is built on more than twenty years of leading the way in all female mariachi.  Klinger started her musical journey with her guitar in Mexico City when she was nine years old. For fun\, Klinger and her sisters would go to subways and buses to put on performances. After taking professional music lessons\, she moved to Los Angeles as a 20 year old and joined an all-female mariachi called Mariachi Las Adelitas. Soon after\, Klinger formed her own all-female mariachi\, Mariachi Las Alondras who performed with stars such as Stevie Wonder\, Sheila E\, Patty LaBelle\, and Celia Cruz. Twenty years later\, Klinger moved to northern California and formed a new all-female mariachi\, Mariachi Bonitas de Dinorah Klingler in Sacramento\, California. \n  \nLive at The HIVE culminates during The HIVE’s 5th Anniversary Party featuring music by Wolf Jett on Saturday\, November 14. For more information visit thehivewoodland.com. \nThe HIVE Tasting Room & Kitchen is open Wednesday\, Thursday\, Sunday 11 a.m. – 3 p.m. and Friday – Saturday 11 a.m. – 7 p.m.. \nZ Specialty Food is home to Island of the Moon Honey and Moon Shine Trading Co.\, all based at The HIVE Tasting Room & Kitchen. Founded in 1979\, Z Specialty Food offers more than 30 varietal honeys from across the US and Mexico\, honey fruit spreads\, nut butters and beehive products. Through nearly 50 years of dedication to this mission\, educational partnerships\, and events\, Z Specialty Food has become a regional and national authority on honey education\, flavor and the precious pollinators and environment needed to create every delicious jar. Visit www.zspecialtyfood.com\, and The HIVE Tasting Room & Kitchen (1221 Harter Ave in Woodland\, CA) to experience all that Z Specialty Food has to offer.
-URL:https://visityolo.com/event/mariachi-bonitas-is-live-at-the-hive/
-LOCATION:The HIVE / Z Specialty Food\, The HIVE Tasting Room and Kitchen
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Homepage-Blurb-the-hive-1200.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/mariachi-bonitas-live-at-the-hive-2/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261030T173000
-DTEND;TZID=America/Los_Angeles:20261030T210000
-DTSTAMP:20260710T183630Z
-CREATED:20260710T183630Z
-LAST-MODIFIED:20260710T183630Z
-UID:10014527-1793381400-1793394000@visityolo.com
-SUMMARY:Mariachi Bonitas Live at The HIVE
-DESCRIPTION:Live at The HIVE presents Mariachi Bonitas during an outdoor concert. Doors at 5:30pm; Music at 6:30pm. \nChanging the narrative of mariachi in Sacramento and beyond\, Mariachi Bonitas de Dinorah Klingler is redefining what it means to be mariachi. \nEnjoy a seasonal menu\, craft beverages and complimentary honey tasting at northern California’s largest honey and mead tasting room. \nPay what you can cover charge: $0-$20/person. Family and dog friendly. All ages welcome. No outside food or drinks.
-URL:https://visityolo.com/event/mariachi-bonitas-live-at-the-hive-2/
-LOCATION:The HIVE / Z Specialty Food\, The HIVE Tasting Room and Kitchen
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Mariachi-Bonitas.jpeg
-ORGANIZER;CN="The HIVE / Z Specialty Food":MAILTO:events@zspecialtyfood.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/ssri-rb-jazz-quintet-live-the-melon-ball/", "Visityolo Event": "https://visityolo.com/event/ssri-rb-jazz-quintet-live-the-melon-ball/"}
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/ssri-rb-jazz-quintet-live-the-melon-ball/"}
-X-SOURCE-ID:visitdavis
-X-SOURCE:Visit Davis, Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261030T193000
-DTEND;TZID=America/Los_Angeles:20261030T213000
-DTSTAMP:20261029T173040Z
-CREATED:20261005T173036Z
-LAST-MODIFIED:20261029T173040Z
-UID:10003080-1793388600-1793395800@visitdavis.org
-SUMMARY:SSRI R&B Jazz Quintet Live @ The Melon Ball
-DESCRIPTION:Live Music @ The Melon Ball in Davis \nSSRI is a modern jazz collective that is deeply influenced by artists and groups such as: Robert Glasper\, Roy Hargrove\, and Lettuce. They perform a diverse repertoire of original contemporary jazz arrangements\, standards from The American Song Book\, and covers of beloved R&B songs from the 90s and mid 2000s. Each band member has a different musical background\, but we’ve drawn together due to our shared love of Jazz\, R&B\, Gospel and Pop music. Join us as we celebrate the music of Michael Jackson\, Luther Vandross\, Stevie Wonder\, and more! \n$20 General Admission\n$15 Seniors/Students\n$10 Kids under 12 \nDoors open at 7:00pm\nCash or Venmo at the door only (no Credit Card) \nThis is a BYOB event!
-URL:https://visitdavis.org/event/ssri-rb-jazz-quintet-live-the-melon-ball/
-LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/SSRI_Web_103026-1-pyNPDh.jpg
-ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-88/2026-10-31/", "Visityolo Event": "https://visityolo.com/event/davis-farmers-market-2/2026-10-31/"}
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-88/2026-10-31/"}
-X-SOURCE-ID:visitdavis
-X-SOURCE:Visit Davis, Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261031T080000
-DTEND;TZID=America/Los_Angeles:20261031T130000
-DTSTAMP:20260624T184342Z
-CREATED:20260103T234411Z
-LAST-MODIFIED:20260624T184342Z
-UID:10002935-1793433600-1793451600@visitdavis.org
-SUMMARY:Davis Farmers Market
-DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
-URL:https://visitdavis.org/event/davis-farmers-market-88/2026-10-31/
-LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/zombie-bike-parade/", "Visityolo Event": "https://visityolo.com/event/zombie-bike-parade/"}
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/zombie-bike-parade/"}
-X-SOURCE-ID:visitdavis
-X-SOURCE:Visit Davis, Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261031T110000
-DTEND;TZID=America/Los_Angeles:20261031T150000
-DTSTAMP:20261029T173027Z
-CREATED:20260904T173027Z
-LAST-MODIFIED:20261029T173027Z
-UID:10003048-1793444400-1793458800@visitdavis.org
-SUMMARY:Zombie Bike Parade
-DESCRIPTION:A FREE\, family-friendly festival in Davis on Halloween Day\, 2026! Featuring 25+ entertainment stations\, a BMX stunt show\, thousands of costumed riders\, and zombies falling out of the sky. The bike ride itself is the main event of the day\, but it is entirely optional\, so come on wheels or on foot. Money raised goes to our beneficiary\, NorCal Trykers\, to build custom trikes for children with disabilities. For a listing of full events for the Halloween weekend visit the Zombie Bike Parade website.
-URL:https://visitdavis.org/event/zombie-bike-parade/
-LOCATION:Community Park Davis\, 203 E. 14th st\, Davis\, CA\, 95616
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Zombie-Bike-Ride-002-e1695416579904-vZKNSv.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-10-31/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261031T110000
-DTEND;TZID=America/Los_Angeles:20261031T180000
-DTSTAMP:20251117T171126Z
-CREATED:20251117T171126Z
-LAST-MODIFIED:20251117T171126Z
-UID:10013322-1793444400-1793469600@visityolo.com
-SUMMARY:Sip Yolo with Yolo County Wines
-DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
-URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-10-31/
-LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/boheme-bewitched/2026-10-31/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261031T110000
-DTEND;TZID=America/Los_Angeles:20261031T183000
-DTSTAMP:20261023T161842Z
-CREATED:20261023T161842Z
-LAST-MODIFIED:20261023T161842Z
-UID:10015327-1793444400-1793471400@visityolo.com
-SUMMARY:Bohème Bewitched
-DESCRIPTION:An enchanted interactive experience from Bohème in Davis\, the thrift boutique two blocks away. Quests through a glowing grove\, a blacklight zombie forest\, a frog bog\, a mermaid lagoon\, a witch’s cottage and a wood full of wisps. Spooky\, not scary. \nSix enchanted lands inside the old bank at 300 E Street\, downtown Davis: the old Union Bank building at the corner of 3rd and E\, next to Panera Bread\, one block from Central Park. \nHours: Wednesday to Friday 3:00 to 6:30pm. Saturday and Sunday 11:00am to 6:30pm. Closed Mondays and Tuesdays. Open 11am to 6:30pm on Saturday\, October 31. \n$4 at the door for the experience\, credited to any $8 purchase in the shop (same visit only). Open to all ages every day until 6:30pm. \nEnchanted Evenings: special evening events run 7 to 9:30pm on Oct 23\, 24 and 30. $13 online\, $15 at the door. \nEvery date\, hours and tickets: bohemebewitched.com
-URL:https://visityolo.com/event/boheme-bewitched/2026-10-31/
-LOCATION:Bohème Bewitched\, 300 E Street\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/bewitched-popup.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-10-31/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261031T113000
-DTEND;TZID=America/Los_Angeles:20261031T170000
-DTSTAMP:20260928T180906Z
-CREATED:20260928T180906Z
-LAST-MODIFIED:20260928T180906Z
-UID:10014931-1793446200-1793466000@visityolo.com
-SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
-DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
-URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-10-31/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/voice-of-the-wood-halloween-show-davis/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261031T150000
+DTEND;TZID=UTC:20261031T160000
+DTSTAMP:20261022T224027Z
+CREATED:20261022T222554Z
+LAST-MODIFIED:20261022T224027Z
+UID:10000850-1793458800-1793462400@hatefreetogether.org
+SUMMARY:Yolo County Library: Voice of the Wood\, Halloween Show
+DESCRIPTION:Voice of the Wood is an educational performance group featuring artists Heidi Bekebrede and Dianna Craig who bring stories to life for children and families through sound effects\, dramatic narration\, and masked movement. Come experience their Halloween Show on Halloween! Location is the Mary L Stephens Davis Branch Library at 3:00 p.m. All ages are welcome.
+URL:https://hatefreetogether.org/event/voice-of-the-wood-halloween-show-davis/
+LOCATION:Mary L Stephens Davis Branch Library\, 315 E 14th Street\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Voice-of-the-Wood.jpg
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/316940003/"}
@@ -213,7 +80,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316940003@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030316Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261031T150000
 DTEND;TZID=America/Los_Angeles:20261031T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -251,7 +118,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316940552@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030316Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261031T160000
 DTEND;TZID=America/Los_Angeles:20261031T170000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -289,7 +156,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317138867@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030316Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261031T160000
 DTEND;TZID=America/Los_Angeles:20261031T170000
 SUMMARY:Mosaics Beginning Japanese in Person
@@ -302,12 +169,29 @@ LAST-MODIFIED:20261026T000929Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/together-church-fall-fest/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261031T170000
+DTEND;TZID=UTC:20261031T200000
+DTSTAMP:20261026T194945Z
+CREATED:20261026T194921Z
+LAST-MODIFIED:20261026T194945Z
+UID:10000857-1793466000-1793476800@hatefreetogether.org
+SUMMARY:Together Church: Fall Fest
+DESCRIPTION:Together Church invites families to their annual Fall Fest on October 31 from 5:00 p.m. to 8:00 p.m. at 1541 Merkley Avenue\, West Sacramento\, CA 95691. This free community event offers an evening of family-friendly fun\, including candy\, games\, activities\, and snacks. Admission is free\, and everyone is welcome to participate.
+URL:https://hatefreetogether.org/event/together-church-fall-fest/
+LOCATION:Together Church\, 1541 Merkley Avenue\, West Sacramento\, CA\, 95691\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Together-Church-Fall-Fest.jpg
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/316941287/"}
 X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_316941287@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030317Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261031T170000
 DTEND;TZID=America/Los_Angeles:20261031T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -346,7 +230,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_316941286@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030316Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261031T170000
 DTEND;TZID=America/Los_Angeles:20261031T180000
 SUMMARY:Mosaics Beginning Spanish in Person
@@ -385,7 +269,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_316941732@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030317Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261031T180000
 DTEND;TZID=America/Los_Angeles:20261031T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -425,7 +309,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_316942237@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030317Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261031T190000
 DTEND;TZID=America/Los_Angeles:20261031T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -459,117 +343,70 @@ LAST-MODIFIED:20261012T021658Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/goth-gala-presented-by-uc-davis-aggie-bats-kdvs/", "Visityolo Event": "https://visityolo.com/event/goth-gala-presented-by-uc-davis-aggie-bats-kdvs/"}
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/goth-gala-presented-by-uc-davis-aggie-bats-kdvs/"}
-X-SOURCE-ID:visitdavis
-X-SOURCE:Visit Davis, Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261031T190000
-DTEND;TZID=America/Los_Angeles:20261031T220000
-DTSTAMP:20261029T173042Z
-CREATED:20261015T173035Z
-LAST-MODIFIED:20261029T173042Z
-UID:10003095-1793473200-1793484000@visitdavis.org
-SUMMARY:Goth Gala – presented by UC Davis Aggie Bats & KDVS
-DESCRIPTION:A spooky Halloween event in Davis will feature live music performances and a special opening DJ set by Ghoulie Julie. Costumes or goth wear are highly encouraged but not required. \nLive music performances by:\n-Rose Lyon\n-In Retrograde\n-Killer Couture\n-Special opening DJ set by Ghoulie Julie \nCostumes or goth wear are highly encouraged but not required. \nAdmission is $10–15 sliding scale / NOTAFLOF (No One Turned Away For Lack Of Funds).
-URL:https://visitdavis.org/event/goth-gala-presented-by-uc-davis-aggie-bats-kdvs/
-LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
-ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/uc-davis-multicultural-calendar-november-2026/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20260910T214501Z
+CREATED:20260910T214501Z
+LAST-MODIFIED:20260910T214501Z
+UID:10000732-1793491200-1796083199@hatefreetogether.org
+SUMMARY:UC Davis Multicultural Calendar - November 2026
+DESCRIPTION:The Multicultural Calendar is a valuable tool for enhancing understanding\, and respect for religious and cultural observances.  It serves as a resource for students\, staff\, and faculty to plan events\, activities\, meetings\, retreats\, and courses throughout the year. Developed by the Office of Campus and Community Relations through research and community input\, we welcome contributions from community members to ensure its accuracy and comprehensiveness.  \nFor the list\, visit: https://excellence.ucdavis.edu/events/multicultural-calendar-november-2026.
+URL:https://hatefreetogether.org/event/uc-davis-multicultural-calendar-november-2026/
+LOCATION:CA
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Candle.png
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/city-of-davis-wetlands-tour/2026-11-01/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261101T090000
-DTEND;TZID=America/Los_Angeles:20261101T120000
-DTSTAMP:20260601T173457Z
-CREATED:20260601T173457Z
-LAST-MODIFIED:20260601T173457Z
-UID:10013867-1793523600-1793534400@visityolo.com
-SUMMARY:City of Davis Wetlands Tour
-DESCRIPTION:The Davis Wetlands is a managed\, native California wetland ecosystem that includes oak riparian woodlands and native grasslands. The group will caravan along the hard-packed gravel roads of the auto tour route. Several stops will be made along the way providing guests with a closer look at the many species of birds that utilize the more than 400 acres of reconstructed wetlands. \nMeet at the City of Davis Wastewater Treatment Plant. 45400 County Rd 28H\, Davis\, CA 95616. There is no access to restrooms in the City of Davis Wetlands; please arrange for this before arriving. Tours run rain or shine at 9:00 a.m. on the first Sunday of each month\, except in the instances of flooding. Registration required.
-URL:https://visityolo.com/event/city-of-davis-wetlands-tour/2026-11-01/
-LOCATION:45400 County Road 28H\, Davis\, CA\, 45400 County Road 28H\, Davis\, 95616\, United States
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/native-american-heritage-month/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20261028T183709Z
+CREATED:20261028T181142Z
+LAST-MODIFIED:20261028T183709Z
+UID:10000896-1793491200-1796083199@hatefreetogether.org
+SUMMARY:Native American Heritage Month
+DESCRIPTION:Native American Heritage Month recognizes the histories\, cultures\, contributions\, and continuing presence of Native American\, Alaska Native\, and Indigenous peoples. It is an opportunity to learn from Indigenous communities\, celebrate their diverse traditions\, and recognize their enduring connections to their lands and cultures. \nLearn more at the Smithsonian Institution.
+URL:https://hatefreetogether.org/event/native-american-heritage-month/
+LOCATION:CA
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Native-American-Heritage-Month.png
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/seka-hills-olive-crush-festival/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261101T110000
-DTEND;TZID=America/Los_Angeles:20261101T150000
-DTSTAMP:20260930T224107Z
-CREATED:20260930T224107Z
-LAST-MODIFIED:20260930T224107Z
-UID:10015273-1793530800-1793545200@visityolo.com
-SUMMARY:Seka Hills Olive Crush Festival
-DESCRIPTION:Join us for our annual Olive Crush Festival on Sunday\, November 1st as we celebrate the vibrant olive crush season full of flavor\, food\, & fun! The event is open to the public and free of charge. \n\n\nOlive Mill Tours (Free of charge\, no ticket needed) – 11:30a\, 12:30p\, 1:30p\, 2:30p \n\n\nOlive Oil Tastings – 11:00a to 3:00p \n\n\nArtisan Deli – 11:00a to 3:00p \n\n\nLocal Vendor Fair – 11:00a to 3:00p \n\n\nLive Music featuring The Sun Followers – 11:30a to 2:30p \n\n\nCooking Demo by Tribal Executive Chef Casey Willard – 12:00pm \n\n\nFood Trucks: Maiz Mexican & Compa’s Catering – 11:00a to 3:00p
-URL:https://visityolo.com/event/seka-hills-olive-crush-festival/
-LOCATION:Seka Hills\, 19326 Road 78\, Brooks\, 95606\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Seka-Hills-1-Seka-Hills.jpg
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/dia-de-muertos-celebration/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261101T160000
+DTEND;TZID=UTC:20261101T190000
+DTSTAMP:20261002T154733Z
+CREATED:20261002T154709Z
+LAST-MODIFIED:20261002T154733Z
+UID:10000739-1793548800-1793559600@hatefreetogether.org
+SUMMARY:Dia de Muertos Celebration
+DESCRIPTION:Davis Pride will present an altar dedicated to trans lives lost during 2026. If you are interested in honoring an ancestor or a group of people lost this year\, submit your interest here https://forms.gle/SwrSpa7koa2gK7g49. Hosted on November 1 from 4 – 7 p.m. at E Street Plaza in Davis. There will be dance performance\, face painting and more.
+URL:https://hatefreetogether.org/event/dia-de-muertos-celebration/
+LOCATION:CA
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Dia-de-Muertos-Nov-2026.jpg
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-11-01/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261101T110000
-DTEND;TZID=America/Los_Angeles:20261101T180000
-DTSTAMP:20251117T171126Z
-CREATED:20251117T171126Z
-LAST-MODIFIED:20251117T171126Z
-UID:10013323-1793530800-1793556000@visityolo.com
-SUMMARY:Sip Yolo with Yolo County Wines
-DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
-URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-11-01/
-LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-01/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261101T113000
-DTEND;TZID=America/Los_Angeles:20261101T170000
-DTSTAMP:20260928T180906Z
-CREATED:20260928T180906Z
-LAST-MODIFIED:20260928T180906Z
-UID:10014932-1793532600-1793552400@visityolo.com
-SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
-DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
-URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-01/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/davis-film-festival/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261101T140000
-DTEND;TZID=America/Los_Angeles:20261101T213000
-DTSTAMP:20260925T215918Z
-CREATED:20260925T215918Z
-LAST-MODIFIED:20260925T215918Z
-UID:10014910-1793541600-1793568600@visityolo.com
-SUMMARY:Davis Film Festival
-DESCRIPTION:The 2026 Davis Film Festival takes place SUNDAY NOVEMBER 1ST FROM 2:00 PM-9:30 PM at the Veteran’s Memorial Theater\, 203 E. 14th Street in Davis\, CA. (PLENTY OF FREE PARKING). Films from around the world and our own backyard. Narrative\, documentary\, animation\, experimental\, shorts and features. \nTickets are $15 for VIP pass\, $10 general admission\, or $8.50 students/seniors.
-URL:https://visityolo.com/event/davis-film-festival/
-LOCATION:Davis Veterans Memorial Theater\, 277 E. 14th Street\, Davis CA\, Davis\, 95616\, United States
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-01/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261101T173000
-DTEND;TZID=America/Los_Angeles:20261101T203000
-DTSTAMP:20260813T194113Z
-CREATED:20260813T194113Z
-LAST-MODIFIED:20260813T194113Z
-UID:10014716-1793554200-1793565000@visityolo.com
-SUMMARY:Live Music at Carboni's Ristorante
-DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
-URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-01/
-LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
-ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/mary-l-stephens-davis-library-english-conversation-group/2026-11-02/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261102T150000
+DTEND;TZID=UTC:20261102T160000
+DTSTAMP:20261022T223936Z
+CREATED:20261022T200822Z
+LAST-MODIFIED:20261022T223936Z
+UID:10000821-1793631600-1793635200@hatefreetogether.org
+SUMMARY:Yolo County Library: English Conversation Group
+DESCRIPTION:Join the Yolo County Davis Branch Library’s adult Conversation Group to practice your English in a fun and relaxed way with help from a group facilitator. Drop in visitors are welcome! For adults 18+. Location is the Mary L. Stephens Library’ Blanchard Room on Monday’s at 3:00 p.m. until the end of 2026.
+URL:https://hatefreetogether.org/event/mary-l-stephens-davis-library-english-conversation-group/2026-11-02/
+LOCATION:Mary L Stephens Davis Branch Library\, 315 E 14th Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Mary-L.-Stephens-Davis-Library-scaled.jpg
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/316969803/"}
@@ -577,7 +414,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316969803@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030318Z
+DTSTAMP:20261031T025036Z
 DTSTART;TZID=America/Los_Angeles:20261102T180000
 DTEND;TZID=America/Los_Angeles:20261102T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -609,7 +446,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261103T090000
 DTEND;TZID=America/Los_Angeles:20261103T120000
 RRULE:FREQ=WEEKLY;BYDAY=TU
-DTSTAMP:20261030T030323Z
+DTSTAMP:20261031T025039Z
 UID:5getqsjecs90d9ampqs7jmgepl_R20261103T170000@google.com
 CREATED:20240829T225511Z
 DESCRIPTION:This is the fastest paced (non-race team) club ride on the cale
@@ -631,7 +468,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316977817@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030318Z
+DTSTAMP:20261031T025036Z
 DTSTART;TZID=America/Los_Angeles:20261103T094500
 DTEND;TZID=America/Los_Angeles:20261103T104500
 SUMMARY:Gentle yoga
@@ -651,38 +488,70 @@ LAST-MODIFIED:20261014T171934Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-03/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261103T113000
-DTEND;TZID=America/Los_Angeles:20261103T170000
-DTSTAMP:20260928T180906Z
-CREATED:20260928T180906Z
-LAST-MODIFIED:20260928T180906Z
-UID:10014933-1793705400-1793725200@visityolo.com
-SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
-DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
-URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-03/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-community-church-gentle-yoga/2026-11-03/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261103T101500
+DTEND;TZID=UTC:20261103T111500
+DTSTAMP:20261029T202625Z
+CREATED:20261029T201635Z
+LAST-MODIFIED:20261029T202625Z
+UID:10000911-1793700900-1793704500@hatefreetogether.org
+SUMMARY:Davis Community Church: Gentle Yoga
+DESCRIPTION:Davis Community Church invites participants to Gentle Yoga\, a slower-paced\, grounding practice led by Jennifer Hogan and Diane Parro. Sessions offer an opportunity to stretch\, strengthen\, breathe\, and reconnect with body and spirit in a welcoming environment.Classes take place Tuesdays from 10:15 to 11:15 a.m. in the Fireside Room. The final sessions are October 27\, November 3\, and November 10. The cost is $20 per session\, with a sliding scale available. Click here for the registration form.
+URL:https://hatefreetogether.org/event/davis-community-church-gentle-yoga/2026-11-03/
+LOCATION:Davis Community Church\, 412 C Street\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Davis-Community-Church.jpg
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-04/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261104T113000
-DTEND;TZID=America/Los_Angeles:20261104T170000
-DTSTAMP:20260928T180906Z
-CREATED:20260928T180906Z
-LAST-MODIFIED:20260928T180906Z
-UID:10014934-1793791800-1793811600@visityolo.com
-SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
-DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
-URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-04/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-04/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261104T100000
+DTEND;TZID=UTC:20261104T170000
+DTSTAMP:20261028T183745Z
+CREATED:20261028T180021Z
+LAST-MODIFIED:20261028T183745Z
+UID:10000862-1793786400-1793811600@hatefreetogether.org
+SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
+DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
+URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-04/
+LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/yolo-county-library-english-conversation-group/2026-11-04/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261104T143000
+DTEND;TZID=UTC:20261104T153000
+DTSTAMP:20261022T195936Z
+CREATED:20261021T200923Z
+LAST-MODIFIED:20261022T195936Z
+UID:10000819-1793802600-1793806200@hatefreetogether.org
+SUMMARY:Yolo County Library: English Conversation Group
+DESCRIPTION:Practice speaking English with other learners in a relaxed and comfortable environment\, led by a native speaker. No registration is required\, and drop-in participants are always welcome. Location is the Arthur F. Turner Community Library in West Sacramento on Wednesday’s at 2:30 pm. For adults that are 18+ years old.
+URL:https://hatefreetogether.org/event/yolo-county-library-english-conversation-group/2026-11-04/
+LOCATION:Arthur F Turner Community Library\, 1212 Merkley Avenue\, West Sacramento\, CA\, 95691\, United States
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Arthur-F-Turner-Library.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/yolo-county-library-craft-wednesdays/2026-11-04/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261104T160000
+DTEND;TZID=UTC:20261104T170000
+DTSTAMP:20261022T211320Z
+CREATED:20261022T211320Z
+LAST-MODIFIED:20261022T211320Z
+UID:10000833-1793808000-1793811600@hatefreetogether.org
+SUMMARY:Yolo County Library: Craft Wednesdays
+DESCRIPTION:Join the Knights Landing Branch Library for different crafts every Wednesday at 4:00p.m.! All supplies will be provided.
+URL:https://hatefreetogether.org/event/yolo-county-library-craft-wednesdays/2026-11-04/
+LOCATION:Knights Landing Branch Library\, 42351 3rd St\, Knights Landing\, CA\, 95645\, United States
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Knights-Landing-Branch-Library-scaled.jpg
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/317003777/"}
@@ -690,7 +559,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_317003777@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030317Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261104T170000
 DTEND;TZID=America/Los_Angeles:20261104T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -711,38 +580,21 @@ LAST-MODIFIED:20261016T003209Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-04/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261104T173000
-DTEND;TZID=America/Los_Angeles:20261104T203000
-DTSTAMP:20260813T194113Z
-CREATED:20260813T194113Z
-LAST-MODIFIED:20260813T194113Z
-UID:10014717-1793813400-1793824200@visityolo.com
-SUMMARY:Live Music at Carboni's Ristorante
-DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
-URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-04/
-LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
-ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-05/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261105T113000
-DTEND;TZID=America/Los_Angeles:20261105T170000
-DTSTAMP:20260928T180906Z
-CREATED:20260928T180906Z
-LAST-MODIFIED:20260928T180906Z
-UID:10014935-1793878200-1793898000@visityolo.com
-SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
-DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
-URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-05/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-05/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261105T100000
+DTEND;TZID=UTC:20261105T170000
+DTSTAMP:20261028T183745Z
+CREATED:20261028T180021Z
+LAST-MODIFIED:20261028T183745Z
+UID:10000863-1793872800-1793898000@hatefreetogether.org
+SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
+DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
+URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-05/
+LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/316999761/"}
@@ -750,7 +602,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316999761@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030318Z
+DTSTAMP:20261031T025036Z
 DTSTART;TZID=America/Los_Angeles:20261105T180000
 DTEND;TZID=America/Los_Angeles:20261105T190000
 SUMMARY:Free Yoga Practice
@@ -773,104 +625,103 @@ LAST-MODIFIED:20261015T200845Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-11-06/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261106T110000
-DTEND;TZID=America/Los_Angeles:20261106T180000
-DTSTAMP:20251117T171126Z
-CREATED:20251117T171126Z
-LAST-MODIFIED:20251117T171126Z
-UID:10013324-1793962800-1793988000@visityolo.com
-SUMMARY:Sip Yolo with Yolo County Wines
-DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
-URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-11-06/
-LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-city-council-meetings/2026-11-05/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261105T183000
+DTEND;TZID=UTC:20261105T200000
+DTSTAMP:20260424T163204Z
+CREATED:20260424T163204Z
+LAST-MODIFIED:20260424T163204Z
+UID:10000370-1793903400-1793908800@hatefreetogether.org
+SUMMARY:Davis City Council Meetings
+DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
+URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-11-05/
+LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-06/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261106T113000
-DTEND;TZID=America/Los_Angeles:20261106T170000
-DTSTAMP:20260928T180906Z
-CREATED:20260928T180906Z
-LAST-MODIFIED:20260928T180906Z
-UID:10014936-1793964600-1793984400@visityolo.com
-SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
-DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
-URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-06/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/djusd-board-meetings/2026-11-05/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261105T183000
+DTEND;TZID=UTC:20261105T200000
+DTSTAMP:20260424T172314Z
+CREATED:20260424T172126Z
+LAST-MODIFIED:20260424T172314Z
+UID:10000561-1793903400-1793908800@hatefreetogether.org
+SUMMARY:DJUSD Board Meetings
+DESCRIPTION:DJUSD Board meetings offer insight on how the school district remains responsive to the community’s values\, beliefs\, and priorities. The Board meetings occur on every first and third Thursday\, in the City of Davis Community Chambers. 23 Russell Boulevard. Public session starts at 6:30 PM.  Meetings are cablecast live on Channel 17 (Comcast) or streamed on the DJUSD-TV website. \n  \nThe Davis Joint Unified School District’s Board of Education is comprised of five community members\, responsible for setting district policy\, approving the budget\, and hiring the superintendent for schools in Davis\, California. The agendas for the meetings are posted at least 72 hours in advance. \n  \nFor more information on special meetings\, agendas\, public comment\, and more\, visit the DJUSD Board site.
+URL:https://hatefreetogether.org/event/djusd-board-meetings/2026-11-05/
+LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/499036487_1275464707915844_5079899038399820181_n.jpg
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/winters-open-mic/2026-11-06/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261106T180000
-DTEND;TZID=America/Los_Angeles:20261106T220000
-DTSTAMP:20261029T154535Z
-CREATED:20261029T154535Z
-LAST-MODIFIED:20261029T154535Z
-UID:10015734-1793988000-1794002400@visityolo.com
-SUMMARY:Winters Open Mic
-DESCRIPTION:Live musicians and poets ranging from new to well-seasoned performers. Come eat\, drink\, and enjoy local artists. Sign up to be on stage\, and become one of our supportive\, collaborative community members. \n\nFree entry\, donations encouraged\nAll ages welcome\nAll genres and instruments welcome\nSign-ups start at 5:30 PM\nEvent starts at 6:00 PM\nEveryone who signs up\, plays\nEach time slot is 10 minutes\, or 2 pieces\, whichever is shorter\nWhen time allows\, artists can sign up for a second time slot (once announced by the event leader)\nVolunteers needed! Contact wintersopenmic@gmail.com if interested in learning how to contributed\n\nWinters Open Mic is a 501(c)3 Non-profit organization with the simple mission of encouraging and providing space for performers to perform. \nFor any questions\, contact wintersopenmic@gmail.com
-URL:https://visityolo.com/event/winters-open-mic/2026-11-06/
-LOCATION:Winters Opera House\, 13 Main Street\, Winters\, 95694\, United States
-ATTACH;FMTTYPE=image/png:https://visityolo.com/wp-content/uploads/fb.png
-ORGANIZER;CN="Winters Open Mic":MAILTO:wintersopenmic@gmail.com
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-06/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261106T100000
+DTEND;TZID=UTC:20261106T170000
+DTSTAMP:20261028T183745Z
+CREATED:20261028T180021Z
+LAST-MODIFIED:20261028T183745Z
+UID:10000864-1793959200-1793984400@hatefreetogether.org
+SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
+DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
+URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-06/
+LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/live-music-the-melon-ball/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261106T193000
-DTEND;TZID=America/Los_Angeles:20261106T213000
-DTSTAMP:20261014T204400Z
-CREATED:20261005T171809Z
-LAST-MODIFIED:20261014T204400Z
-UID:10015279-1793993400-1794000600@visityolo.com
-SUMMARY:Bloom Ritual\, Roni Jean\, and Valley Taylor Live @ The Melon Ball
-DESCRIPTION:Live Music @ The Melon Ball in Davis. \nA post-Halloween costume party featuring Bloom Ritual\, Roni Jean and Valley Taylor. Costume not required; but best costume wins a 3 band merch package! \nRoni Jean carves out a unique niche with a blend of Haunted Indie Rock\, Dreampop\, and Shoegaze in Sacramento\, CA. Their music weaves lush\, dynamic soundscapes with a melodic melancholy that always carries an undeniable edge. Drawing inspiration from artists like Sir Chloe\, Wisp\, and Radiohead\, Roni Jean moves seamlessly between moments of delicate vulnerability and explosive\, powerful expression. \nBloom Ritual; from my rat infested studio to your ears. From an alternative foundation\, Bloom Ritual bleeds into adjacent genres such as psychedelic\, shoegaze\, indie rock and post-hardcore. The latter sound is more easily recognizable in the upcoming EP release\, whereas the band’s previously released tracks\, such as “Heaven” and “Fish Bowl\,” are closely tethered to the ethereal shoegaze genre. It’s psychedelic rock that doesn’t try hard to be psychedelic; it just seems to end up there after all the genres blend together. \nValley Taylor; Valley Taylor makes songs\, drawings\, videos and other things in El Cerrito\, California. The music moves somewhere between Indie Rock\, lo-fi Folk and Ambient Music\, usually built from guitars\, old sounds\, field recordings and whatever else happens to make its way in. Sometimes it becomes a record. Sometimes it becomes a drawing or a little film. Sometimes it just lives on the internet somewhere. \n$15 General Admission\n$10 Students (in-store or at the door with Student ID only)\nDoors open @ 7:00pm\n \nCash or Venmo at the door only (no Credit Card) \nThis is a BYOB event!
-URL:https://visityolo.com/event/live-music-the-melon-ball/
-LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Bloom_110726-1.jpg
-ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/yolo-county-library-english-conversation-group-2/2026-11-06/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261106T133000
+DTEND;TZID=UTC:20261106T143000
+DTSTAMP:20261022T230935Z
+CREATED:20261022T195355Z
+LAST-MODIFIED:20261022T230935Z
+UID:10000749-1793971800-1793975400@hatefreetogether.org
+SUMMARY:Yolo County Library: English Conversation Group
+DESCRIPTION:Practice speaking English with other learners in a relaxed and comfortable environment\, led by a native speaker. No registration is required\, and drop-in participants are always welcome. Location is the Arthur F. Turner Community Library in West Sacramento on Friday’s at 1:30 pm. For adults that are 18+ years old.
+URL:https://hatefreetogether.org/event/yolo-county-library-english-conversation-group-2/2026-11-06/
+LOCATION:Arthur F Turner Community Library\, 1212 Merkley Avenue\, West Sacramento\, CA\, 95691\, United States
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Arthur-F-Turner-Library.jpg
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/davis-musical-theatre-presents-mean-girls/2026-11-06/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261106T193000
-DTEND;TZID=America/Los_Angeles:20261129T220000
-DTSTAMP:20260811T230832Z
-CREATED:20260810T225751Z
-LAST-MODIFIED:20260811T230832Z
-UID:10014640-1793993400-1795989600@visityolo.com
-SUMMARY:Davis Musical Theatre Presents Mean Girls
-DESCRIPTION:Davis Musical Theatre Presents Mean Girls \nCady Heron may have grown up on an African savanna\, but nothing prepared her for the wild and vicious ways of her strange new home: suburban Illinois. When Cady encounters The Plastics—a trio of powerful frenemies led by the charming but ruthless Regina George—she becomes caught in the school’s popularity hierarchy. Cady and her new friends devise a “Revenge Party” to end Regina’s reign\, but Cady soon learns that taking down a queen bee can come at a cost—and that losing yourself is far more dangerous than losing a popularity contest. \n*Mean Girls contains mature themes and language*
-URL:https://visityolo.com/event/davis-musical-theatre-presents-mean-girls/2026-11-06/
-LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/mean-girls.jpg
-ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-07/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261107T100000
+DTEND;TZID=UTC:20261107T170000
+DTSTAMP:20261028T183745Z
+CREATED:20261028T180021Z
+LAST-MODIFIED:20261028T183745Z
+UID:10000865-1794045600-1794070800@hatefreetogether.org
+SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
+DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
+URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-07/
+LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/davis-farmers-market-2/2026-11-07/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261107T080000
-DTEND;TZID=America/Los_Angeles:20261107T130000
-DTSTAMP:20260624T182825Z
-CREATED:20230426T230654Z
-LAST-MODIFIED:20260624T182825Z
-UID:10004196-1794038400-1794056400@visityolo.com
-SUMMARY:Davis Farmers Market
-DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
-URL:https://visityolo.com/event/davis-farmers-market-2/2026-11-07/
-LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Small_CapayCarrots-002.jpg
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/international-festival-davis/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261107T140000
+DTEND;TZID=UTC:20261107T200000
+DTSTAMP:20260901T213550Z
+CREATED:20260901T213550Z
+LAST-MODIFIED:20260901T213550Z
+UID:10000717-1794060000-1794081600@hatefreetogether.org
+SUMMARY:International Festival Davis
+DESCRIPTION:Join us on November 7 at International House Davis for I-Fest 2026\, our International Festival Davis! \nFor one day\, we open our doors wide to celebrate and uplift the many cultures and people who make our region so vibrant. Explore cultural and artisan booths throughout I-House\, enjoy food trucks out front\, and experience a full lineup of performances on our backyard stage. It’s an open house in the truest sense: for the day\, this is your house too\, and every culture and community has a place here. \nI-Fest is a celebration\, but your participation also supports the work I-House does all year long: welcoming newcomers\, supporting English learners\, and helping people from around the world find connection and community in Davis. At a time when many of us are feeling anxious or disconnected\, creating spaces for joy\, belonging\, and connection feels more important than ever. Come celebrate cultures\, meet new people\, share in the joy\, and experience what makes our community so special. \nFor one day\, I-House is your house. Come be part of it.
+URL:https://hatefreetogether.org/event/international-festival-davis/
+LOCATION:International House Davis\, 10 College Park\, Davis\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/International-Festival-2026.png
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/317040106/"}
@@ -878,7 +729,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317040106@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030316Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261107T150000
 DTEND;TZID=America/Los_Angeles:20261107T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -911,12 +762,29 @@ LAST-MODIFIED:20261018T221321Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-chinese-christian-church-childrens-ministry-fall-festival/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261107T160000
+DTEND;TZID=UTC:20261107T180000
+DTSTAMP:20261029T203102Z
+CREATED:20261029T203102Z
+LAST-MODIFIED:20261029T203102Z
+UID:10000916-1794067200-1794074400@hatefreetogether.org
+SUMMARY:Davis Chinese Christian Church: Children's Ministry Fall Festival
+DESCRIPTION:Davis Chinese Christian Church invites families in the church and wider community to a Children’s Ministry Fall Festival on Saturday\, November 7\, 2026\, from 4:00 to 6:00 p.m. at 536 Anderson Road\, Davis\, CA 95616. The event will feature activities for children\, followed by a potluck dinner in the church’s new fellowship hall. \nFamilies and community members are welcome to join in an afternoon of activities\, food\, and connection.
+URL:https://hatefreetogether.org/event/davis-chinese-christian-church-childrens-ministry-fall-festival/
+LOCATION:Davis Chinese Christian Church\, 536 Anderson Road\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/Davis-Chinese-Christian-Church.webp
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/gptsbvyjcpbkb/"}
 X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_gptsbvyjcpbkb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030316Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261107T160000
 DTEND;TZID=America/Los_Angeles:20261107T170000
 SUMMARY:Mosaics Beginning Japanese in Person
@@ -934,7 +802,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317040594@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030316Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261107T160000
 DTEND;TZID=America/Los_Angeles:20261107T170000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -972,7 +840,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317041605@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030317Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261107T170000
 DTEND;TZID=America/Los_Angeles:20261107T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1011,7 +879,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317041604@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030316Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261107T170000
 DTEND;TZID=America/Los_Angeles:20261107T180000
 SUMMARY:Mosaics Beginning Spanish in Person
@@ -1049,7 +917,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317041955@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030317Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261107T180000
 DTEND;TZID=America/Los_Angeles:20261107T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1088,7 +956,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317042433@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030317Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1122,12 +990,61 @@ LAST-MODIFIED:20261019T021234Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/diwali-festival-of-lights/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20261028T183655Z
+CREATED:20261028T181614Z
+LAST-MODIFIED:20261028T183655Z
+UID:10000897-1794096000-1794182399@hatefreetogether.org
+SUMMARY:Diwali\, Festival of Lights
+DESCRIPTION:Diwali is celebrated by many Hindus\, Jains\, Sikhs\, and some Buddhists\, with traditions that vary across communities. Often associated with light\, hope\, renewal\, and the triumph of good over evil\, the festival brings families and communities together. Learning about Diwali is one way to celebrate religious diversity and build understanding across cultures. \nLearn more here.
+URL:https://hatefreetogether.org/event/diwali-festival-of-lights/
+LOCATION:CA
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Diwali.png
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/the-yolo-center-for-language-and-literacy-navigating-changes-to-language-literacy-policy-in-ca-webinar/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261109T090000
+DTEND;TZID=UTC:20261109T110000
+DTSTAMP:20261022T230244Z
+CREATED:20261022T230244Z
+LAST-MODIFIED:20261022T230244Z
+UID:10000855-1794214800-1794222000@hatefreetogether.org
+SUMMARY:The Yolo Center for Language and Literacy: Navigating Changes to Language & Literacy Policy in CA Webinar
+DESCRIPTION:The Yolo Center for Language and Literacy invites educators to join a virtual learning session on recent legislative updates affecting language and literacy assessment\, instruction\, and funding. Register at tinyurl.com/myjhrndk. It is on November 9\, 9am-11am via Zoom. \nTopics include:\n▪️Assembly Bill 2555: English Learner Reclassification changes\n▪️TK-8 ELA/ELD Instructional Materials Follow-Up Adoption\n▪️Assembly Bill 121: Literacy Professional Development Programs\, funding allocations\, and reporting
+URL:https://hatefreetogether.org/event/the-yolo-center-for-language-and-literacy-navigating-changes-to-language-literacy-policy-in-ca-webinar/
+LOCATION:Zoom
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/California-Literacy-Policy-Webinar-Flyer.png
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/mary-l-stephens-davis-library-english-conversation-group/2026-11-09/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261109T150000
+DTEND;TZID=UTC:20261109T160000
+DTSTAMP:20261022T223936Z
+CREATED:20261022T200822Z
+LAST-MODIFIED:20261022T223936Z
+UID:10000822-1794236400-1794240000@hatefreetogether.org
+SUMMARY:Yolo County Library: English Conversation Group
+DESCRIPTION:Join the Yolo County Davis Branch Library’s adult Conversation Group to practice your English in a fun and relaxed way with help from a group facilitator. Drop in visitors are welcome! For adults 18+. Location is the Mary L. Stephens Library’ Blanchard Room on Monday’s at 3:00 p.m. until the end of 2026.
+URL:https://hatefreetogether.org/event/mary-l-stephens-davis-library-english-conversation-group/2026-11-09/
+LOCATION:Mary L Stephens Davis Branch Library\, 315 E 14th Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Mary-L.-Stephens-Davis-Library-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/317067670/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317067670@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030318Z
+DTSTAMP:20261031T025036Z
 DTSTART;TZID=America/Los_Angeles:20261109T180000
 DTEND;TZID=America/Los_Angeles:20261109T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1154,12 +1071,45 @@ LAST-MODIFIED:20261021T012426Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-community-church-gentle-yoga/2026-11-10/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261110T101500
+DTEND;TZID=UTC:20261110T111500
+DTSTAMP:20261029T202625Z
+CREATED:20261029T201635Z
+LAST-MODIFIED:20261029T202625Z
+UID:10000912-1794305700-1794309300@hatefreetogether.org
+SUMMARY:Davis Community Church: Gentle Yoga
+DESCRIPTION:Davis Community Church invites participants to Gentle Yoga\, a slower-paced\, grounding practice led by Jennifer Hogan and Diane Parro. Sessions offer an opportunity to stretch\, strengthen\, breathe\, and reconnect with body and spirit in a welcoming environment.Classes take place Tuesdays from 10:15 to 11:15 a.m. in the Fireside Room. The final sessions are October 27\, November 3\, and November 10. The cost is $20 per session\, with a sliding scale available. Click here for the registration form.
+URL:https://hatefreetogether.org/event/davis-community-church-gentle-yoga/2026-11-10/
+LOCATION:Davis Community Church\, 412 C Street\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Davis-Community-Church.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/yolo-county-board-of-education-meeting/2026-11-10/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261110T153000
+DTEND;TZID=UTC:20261110T193000
+DTSTAMP:20261022T225656Z
+CREATED:20261022T225656Z
+LAST-MODIFIED:20261022T225656Z
+UID:10000853-1794324600-1794339000@hatefreetogether.org
+SUMMARY:Yolo County Board of Education Meeting
+DESCRIPTION:The Yolo County Office of Education meetings offer insight into how the county’s educational priorities\, policies\, and programs serve local students and communities. Regular meetings are generally held on the second Tuesday of each month at 3:30 p.m. at the Yolo County Office of Education in Woodland. Meetings are open to the public\, with online viewing available via Zoom. \n  \nThe Yolo County Office of Education oversees county-level educational matters\, including policies and programs that support students\, schools\, and districts throughout Yolo County. Meeting agendas\, packets\, and minutes are available online. \n  \nFor more information about meeting dates\, agendas\, public comment\, and online access\, visit the Yolo County Office of Education Board Meetings website or contact the Superintendent’s Office at (530) 668-3702.
+URL:https://hatefreetogether.org/event/yolo-county-board-of-education-meeting/2026-11-10/
+LOCATION:Yolo County Office of Education\, 1280 Santa Anita Court\, Woodland\, CA\, 95776
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/yolo_county_office_of_education_cover-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/317054607/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317054607@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030318Z
+DTSTAMP:20261031T025036Z
 DTSTART;TZID=America/Los_Angeles:20261110T180000
 DTEND;TZID=America/Los_Angeles:20261110T200000
 SUMMARY:Let's talk about Female Sexuality & Fluidity
@@ -1210,7 +1160,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_317098032@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030317Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261111T170000
 DTEND;TZID=America/Los_Angeles:20261111T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1242,7 +1192,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317115298@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030318Z
+DTSTAMP:20261031T025036Z
 DTSTART;TZID=America/Los_Angeles:20261112T180000
 DTEND;TZID=America/Los_Angeles:20261112T190000
 SUMMARY:Free Yoga Practice
@@ -1270,7 +1220,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317138780@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030317Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261114T170000
 DTEND;TZID=America/Los_Angeles:20261114T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1309,7 +1259,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317139516@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030317Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261114T180000
 DTEND;TZID=America/Los_Angeles:20261114T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1348,7 +1298,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317140090@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030317Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1387,7 +1337,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317169908@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030318Z
+DTSTAMP:20261031T025036Z
 DTSTART;TZID=America/Los_Angeles:20261116T180000
 DTEND;TZID=America/Los_Angeles:20261116T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1419,7 +1369,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_317198984@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030317Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261118T170000
 DTEND;TZID=America/Los_Angeles:20261118T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1446,12 +1396,12 @@ LAST-MODIFIED:20261030T002335Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/cbwkztyjcpbzb/"}
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/317214535/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
-UID:event_cbwkztyjcpbzb@meetup.com
+UID:event_317214535@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030318Z
+DTSTAMP:20261031T025036Z
 DTSTART;TZID=America/Los_Angeles:20261119T180000
 DTEND;TZID=America/Los_Angeles:20261119T190000
 SUMMARY:Free Yoga Practice
@@ -1467,10 +1417,10 @@ DESCRIPTION:Iama Embodied Community\n🌀 **Move with intention. Connect w
  t** embody.iama@gmail.com\n🔗 **Follow us on Instagram:** [@embody.iama]
  (https://www.instagram.com/embody.iama)
 URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
- cbwkztyjcpbzb/
+ 317214535/
 STATUS:CONFIRMED
-CREATED:20260720T204641Z
-LAST-MODIFIED:20260720T204641Z
+CREATED:20261031T011725Z
+LAST-MODIFIED:20261031T011725Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
@@ -1479,7 +1429,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261121T090000
 DTEND;TZID=America/Los_Angeles:20261121T140000
 RRULE:FREQ=MONTHLY;BYDAY=3SA
-DTSTAMP:20261030T030323Z
+DTSTAMP:20261031T025039Z
 UID:50q7jpr6vmca2rgsqa3ltejtoe_R20261121T170000@google.com
 CREATED:20241017T171351Z
 DESCRIPTION:<a href="https://davisbikeclub.org/3rd-saturday-road-ride/" tar
@@ -1497,7 +1447,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_vkccbvyjcpbcc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030317Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261121T170000
 DTEND;TZID=America/Los_Angeles:20261121T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1536,7 +1486,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_bgfpxtyjcpbfc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030318Z
+DTSTAMP:20261031T025036Z
 DTSTART;TZID=America/Los_Angeles:20261123T180000
 DTEND;TZID=America/Los_Angeles:20261123T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1568,7 +1518,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcpbhc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030317Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261125T170000
 DTEND;TZID=America/Los_Angeles:20261125T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1600,7 +1550,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_cbwkztyjcpbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030318Z
+DTSTAMP:20261031T025036Z
 DTSTART;TZID=America/Los_Angeles:20261126T180000
 DTEND;TZID=America/Los_Angeles:20261126T190000
 SUMMARY:Free Yoga Practice
@@ -1628,7 +1578,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcqbdb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030317Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261202T170000
 DTEND;TZID=America/Los_Angeles:20261202T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1654,7 +1604,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstyjcqbmb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030317Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261209T170000
 DTEND;TZID=America/Los_Angeles:20261209T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1686,7 +1636,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjcqbvb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030317Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261216T170000
 DTEND;TZID=America/Los_Angeles:20261216T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1718,7 +1668,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcqbnc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030317Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20261230T170000
 DTEND;TZID=America/Los_Angeles:20261230T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1750,7 +1700,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstykccbjb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030317Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20270106T170000
 DTEND;TZID=America/Los_Angeles:20270106T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1776,7 +1726,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstykccbrb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261030T030317Z
+DTSTAMP:20261031T025035Z
 DTSTART;TZID=America/Los_Angeles:20270113T170000
 DTEND;TZID=America/Los_Angeles:20270113T210000
 SUMMARY:Weekly Game Night at Blue Note
