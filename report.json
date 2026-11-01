@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-31T02:50:44.036971",
+  "generated": "2026-11-01T02:43:23.664856",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34871,6 +34871,10 @@
             {
               "date": "2026-10-31",
               "count": 2
+            },
+            {
+              "date": "2026-11-01",
+              "count": 2
             }
           ]
         },
@@ -35819,6 +35823,10 @@
             {
               "date": "2026-10-31",
               "count": 26
+            },
+            {
+              "date": "2026-11-01",
+              "count": 28
             }
           ]
         },
@@ -36766,6 +36774,10 @@
             },
             {
               "date": "2026-10-31",
+              "count": 0
+            },
+            {
+              "date": "2026-11-01",
               "count": 0
             }
           ]
@@ -37715,6 +37727,10 @@
             {
               "date": "2026-10-31",
               "count": 10
+            },
+            {
+              "date": "2026-11-01",
+              "count": 10
             }
           ]
         },
@@ -38662,6 +38678,10 @@
             },
             {
               "date": "2026-10-31",
+              "count": 10
+            },
+            {
+              "date": "2026-11-01",
               "count": 10
             }
           ]
@@ -39611,6 +39631,10 @@
             {
               "date": "2026-10-31",
               "count": 10
+            },
+            {
+              "date": "2026-11-01",
+              "count": 10
             }
           ]
         },
@@ -40558,6 +40582,10 @@
             },
             {
               "date": "2026-10-31",
+              "count": 0
+            },
+            {
+              "date": "2026-11-01",
               "count": 0
             }
           ]
@@ -41507,6 +41535,10 @@
             {
               "date": "2026-10-31",
               "count": 0
+            },
+            {
+              "date": "2026-11-01",
+              "count": 0
             }
           ]
         },
@@ -42454,6 +42486,10 @@
             },
             {
               "date": "2026-10-31",
+              "count": 10
+            },
+            {
+              "date": "2026-11-01",
               "count": 10
             }
           ]
@@ -43403,6 +43439,10 @@
             {
               "date": "2026-10-31",
               "count": 0
+            },
+            {
+              "date": "2026-11-01",
+              "count": 0
             }
           ]
         },
@@ -44350,6 +44390,10 @@
             },
             {
               "date": "2026-10-31",
+              "count": 0
+            },
+            {
+              "date": "2026-11-01",
               "count": 0
             }
           ]
@@ -45299,6 +45343,10 @@
             {
               "date": "2026-10-31",
               "count": 0
+            },
+            {
+              "date": "2026-11-01",
+              "count": 0
             }
           ]
         },
@@ -46247,6 +46295,10 @@
             {
               "date": "2026-10-31",
               "count": 0
+            },
+            {
+              "date": "2026-11-01",
+              "count": 0
             }
           ]
         }
@@ -46254,68 +46306,64 @@
       "categories": [
         {
           "category": "Community / Social",
-          "count": 14
+          "count": 16
         },
         {
           "category": "Education / Workshops",
-          "count": 12
+          "count": 13
+        },
+        {
+          "category": "Arts / Culture",
+          "count": 10
         },
         {
           "category": "Health / Wellness",
           "count": 9
         },
         {
-          "category": "Arts / Culture",
-          "count": 7
-        },
-        {
           "category": "Religion / Spirituality",
           "count": 6
         },
         {
-          "category": "Family / Kids",
-          "count": 5
-        },
-        {
-          "category": "Music / Concerts",
+          "category": "Government / Civic",
           "count": 4
         },
         {
-          "category": "Government / Civic",
+          "category": "Music / Concerts",
           "count": 3
-        },
-        {
-          "category": "Food / Drink",
-          "count": 2
         },
         {
           "category": "Sports / Fitness",
           "count": 2
         },
         {
-          "category": "Film / Cinema",
-          "count": 1
+          "category": "Family / Kids",
+          "count": 2
         },
         {
           "category": "History / Heritage",
           "count": 1
+        },
+        {
+          "category": "Food / Drink",
+          "count": 1
         }
       ],
       "images": {
-        "total": 66,
-        "with_image": 26,
+        "total": 67,
+        "with_image": 28,
         "by_source": [
           {
             "source": "Hate-Free Together",
-            "total": 26,
-            "with_image": 26
+            "total": 28,
+            "with_image": 28
           }
         ]
       },
       "url_quality": {
-        "total_with_url": 64,
-        "total_events": 66,
-        "unique_urls": 64,
+        "total_with_url": 65,
+        "total_events": 67,
+        "unique_urls": 65,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
@@ -46323,8 +46371,8 @@
         "source_specificity": [
           {
             "source": "Hate-Free Together",
-            "events": 26,
-            "unique_urls": 26,
+            "events": 28,
+            "unique_urls": 28,
             "specificity_pct": 100
           },
           {
@@ -46341,20 +46389,20 @@
           },
           {
             "source": "Meetup: Mosaics",
-            "events": 8,
-            "unique_urls": 8,
+            "events": 7,
+            "unique_urls": 7,
             "specificity_pct": 100
           },
           {
             "source": "Meetup Intercultural Mosaics",
-            "events": 8,
-            "unique_urls": 8,
+            "events": 7,
+            "unique_urls": 7,
             "specificity_pct": 100
           },
           {
             "source": "Meetup Intercultural Mosaics, Meetup: Mosaics",
-            "events": 2,
-            "unique_urls": 2,
+            "events": 3,
+            "unique_urls": 3,
             "specificity_pct": 100
           }
         ]

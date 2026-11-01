@@ -7,309 +7,13 @@ X-WR-CALNAME:Lancaster Community Calendar
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-10-31/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261031T100000
-DTEND;TZID=UTC:20261031T170000
-DTSTAMP:20261028T183745Z
-CREATED:20261028T180021Z
-LAST-MODIFIED:20261028T183745Z
-UID:10000861-1793440800-1793466000@hatefreetogether.org
-SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
-DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
-URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-10-31/
-LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/yolo-county-library-spooky-party/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261031T133000
-DTEND;TZID=UTC:20261031T153000
-DTSTAMP:20261022T220720Z
-CREATED:20261022T220720Z
-LAST-MODIFIED:20261022T220720Z
-UID:10000848-1793453400-1793460600@hatefreetogether.org
-SUMMARY:Yolo County Library: Spooky Party
-DESCRIPTION:Get ready for a magical Halloween celebration at the Knights Landing Library on Saturday 1:30p.m.! Costumes are encouraged. For all ages.
-URL:https://hatefreetogether.org/event/yolo-county-library-spooky-party/
-LOCATION:Knights Landing Branch Library\, 42351 3rd St\, Knights Landing\, CA\, 95645\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Halloween-in-Libraries.png
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/yolo-county-library-night-of-the-living-dead-movie-costume-contest/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261031T140000
-DTEND;TZID=UTC:20261031T160000
-DTSTAMP:20261022T221413Z
-CREATED:20261022T221413Z
-LAST-MODIFIED:20261022T221413Z
-UID:10000849-1793455200-1793462400@hatefreetogether.org
-SUMMARY:Yolo County Library: Night of the Living Dead Movie & Costume Contest
-DESCRIPTION:Watch the 1968 classic film Night of the Living Dead and participate in a costume contest! Location is the Arthur F Turner Library on Saturday 2:00p.m.! For teens 13-17 and adults 18+.
-URL:https://hatefreetogether.org/event/yolo-county-library-night-of-the-living-dead-movie-costume-contest/
-LOCATION:Arthur F Turner Community Library\, 1212 Merkley Avenue\, West Sacramento\, CA\, 95691\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Night-of-the-Living-Dead-Movie-poster.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/voice-of-the-wood-halloween-show-davis/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261031T150000
-DTEND;TZID=UTC:20261031T160000
-DTSTAMP:20261022T224027Z
-CREATED:20261022T222554Z
-LAST-MODIFIED:20261022T224027Z
-UID:10000850-1793458800-1793462400@hatefreetogether.org
-SUMMARY:Yolo County Library: Voice of the Wood\, Halloween Show
-DESCRIPTION:Voice of the Wood is an educational performance group featuring artists Heidi Bekebrede and Dianna Craig who bring stories to life for children and families through sound effects\, dramatic narration\, and masked movement. Come experience their Halloween Show on Halloween! Location is the Mary L Stephens Davis Branch Library at 3:00 p.m. All ages are welcome.
-URL:https://hatefreetogether.org/event/voice-of-the-wood-halloween-show-davis/
-LOCATION:Mary L Stephens Davis Branch Library\, 315 E 14th Street\, Davis\, CA\, 95616\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Voice-of-the-Wood.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/316940003/"}
-X-SOURCE-ID:meetup_mosaics
-X-SOURCE:Meetup: Mosaics
-UID:event_316940003@meetup.com
-SEQUENCE:1
-DTSTAMP:20261031T025035Z
-DTSTART;TZID=America/Los_Angeles:20261031T150000
-DTEND;TZID=America/Los_Angeles:20261031T160000
-SUMMARY:Mosaics Beginning Tai Chi
-DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics Hub 
- – Summer 2026!**\nJoin us for a vibrant and uplifting season of virtual 
- learning and community from **June 20 to August 29\, 2026**—all from the
-  comfort of your home on Zoom!\n**Zoom Link:** [https://zoom.us/j/58967646
- 3](https://zoom.us/j/589676463)\n**Bi-Weekly Friday Zoom Sessions** *(Ever
- y 2nd and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\n
- • **5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6:
- 00 PM** – Bible Study & Meditation Group with Stephen\n• **7:00 PM** 
- – Beginning Chinese with Jane\n**Weekly Saturday Zoom Sessions** (total 
- of 10 sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n• *
- *5:00 PM** – Beginning to Intermediate Korean with Stephen\n• **6:00 P
- M** – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** –
-  English Learners Group with Linda & Chad\n___\n**Important Notes:**\n1. *
- *No Zoom sessions** on **July 3–4\, 2026** (Independence Day) and **Sept
- ember 4–5\, 2026** (Labor Day).\n2. All classes will be conducted **excl
- usively via Zoom** during the summer session.\n3. **Return to In-Person Me
- etings:**\nWe will resume our **regular in-person gatherings on September 
- 12\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Community Chu
- rch**.\nFor more information about Intercultural Mosaics classes and activ
- ities\, visit [www.nextg.org](http://www.nextg.org/) or contact Dr. Stephe
- n Moon at 916-217-5470\nor email to: [catalyst@nextg.org](mailto:catalyst@
- nextg.org). Thank you!
-URL;VALUE=URI:https://www.meetup.com/mosaics/events/316940003/
-STATUS:CONFIRMED
-CREATED:20261011T220953Z
-LAST-MODIFIED:20261011T220953Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/316940552/"}
-X-SOURCE-ID:meetup_mosaics
-X-SOURCE:Meetup: Mosaics
-UID:event_316940552@meetup.com
-SEQUENCE:1
-DTSTAMP:20261031T025035Z
-DTSTART;TZID=America/Los_Angeles:20261031T160000
-DTEND;TZID=America/Los_Angeles:20261031T170000
-SUMMARY:Mosaics Beginning Mandarin Chinese in Person
-DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics Hub 
- – Summer 2026!**\nJoin us for a vibrant and uplifting season of virtual 
- learning and community from **June 20 to August 29\, 2026**—all from the
-  comfort of your home on Zoom!\n**Zoom Link:** [https://zoom.us/j/58967646
- 3](https://zoom.us/j/589676463)\n**Bi-Weekly Friday Zoom Sessions** *(Ever
- y 2nd and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\n
- • **5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6:
- 00 PM** – Bible Study & Meditation Group with Stephen\n• **7:00 PM** 
- – Beginning Chinese with Jane\n**Weekly Saturday Zoom Sessions** (total 
- of 10 sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n• *
- *5:00 PM** – Beginning to Intermediate Korean with Stephen\n• **6:00 P
- M** – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** –
-  English Learners Group with Linda & Chad\n___\n**Important Notes:**\n1. *
- *No Zoom sessions** on **July 3–4\, 2026** (Independence Day) and **Sept
- ember 4–5\, 2026** (Labor Day).\n2. All classes will be conducted **excl
- usively via Zoom** during the summer session.\n3. **Return to In-Person Me
- etings:**\nWe will resume our **regular in-person gatherings on September 
- 12\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Community Chu
- rch**.\nFor more information about Intercultural Mosaics classes and activ
- ities\, visit [www.nextg.org](http://www.nextg.org/) or contact Dr. Stephe
- n Moon at 916-217-5470\nor email to: [catalyst@nextg.org](mailto:catalyst@
- nextg.org). Thank you!
-URL;VALUE=URI:https://www.meetup.com/mosaics/events/316940552/
-STATUS:CONFIRMED
-CREATED:20261011T231120Z
-LAST-MODIFIED:20261011T231120Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/317138867/"}
-X-SOURCE-ID:meetup_mosaics
-X-SOURCE:Meetup: Mosaics
-UID:event_317138867@meetup.com
-SEQUENCE:1
-DTSTAMP:20261031T025035Z
-DTSTART;TZID=America/Los_Angeles:20261031T160000
-DTEND;TZID=America/Los_Angeles:20261031T170000
-SUMMARY:Mosaics Beginning Japanese in Person
-DESCRIPTION:Intercultural Mosaics\nhttps://nextg.org/mosaics-spring-into-e
- arly-summer-classes/
-URL;VALUE=URI:https://www.meetup.com/mosaics/events/317138867/
-STATUS:CONFIRMED
-CREATED:20261026T000929Z
-LAST-MODIFIED:20261026T000929Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/together-church-fall-fest/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261031T170000
-DTEND;TZID=UTC:20261031T200000
-DTSTAMP:20261026T194945Z
-CREATED:20261026T194921Z
-LAST-MODIFIED:20261026T194945Z
-UID:10000857-1793466000-1793476800@hatefreetogether.org
-SUMMARY:Together Church: Fall Fest
-DESCRIPTION:Together Church invites families to their annual Fall Fest on October 31 from 5:00 p.m. to 8:00 p.m. at 1541 Merkley Avenue\, West Sacramento\, CA 95691. This free community event offers an evening of family-friendly fun\, including candy\, games\, activities\, and snacks. Admission is free\, and everyone is welcome to participate.
-URL:https://hatefreetogether.org/event/together-church-fall-fest/
-LOCATION:Together Church\, 1541 Merkley Avenue\, West Sacramento\, CA\, 95691\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Together-Church-Fall-Fest.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/316941287/"}
-X-SOURCE-ID:meetup_intercultural_mosaics
-X-SOURCE:Meetup Intercultural Mosaics
-UID:event_316941287@meetup.com
-SEQUENCE:1
-DTSTAMP:20261031T025035Z
-DTSTART;TZID=America/Los_Angeles:20261031T170000
-DTEND;TZID=America/Los_Angeles:20261031T180000
-SUMMARY:Mosaics Acoustic Guitar & Singing Group
-DESCRIPTION:Davis Art\, Music & Outdoor Activities Meetup\n**Discover Inte
- rcultural Mosaics Hub – Summer 2026!**\nJoin us for a vibrant and uplift
- ing season of virtual learning and community from **June 20 to August 29\,
-  2026**—all from the comfort of your home on Zoom!\n**Zoom Link:** [http
- s://zoom.us/j/589676463](https://zoom.us/j/589676463)\n**Bi-Weekly Friday 
- Zoom Sessions** *(Every 2nd and 4th Friday)*\n• **4:00 PM** – Advanced
-  Korean with Stephen\n• **5:00 PM** – Intermediate Conversational Chin
- ese with Sam\n• **6:00 PM** – Bible Study & Meditation Group with Step
- hen\n• **7:00 PM** – Beginning Chinese with Jane\n**Weekly Saturday Zo
- om Sessions** (total of 10 sessions)\n• **4:00 PM** – Beginning Spanis
- h with Viviana\n• **5:00 PM** – Beginning to Intermediate Korean with 
- Stephen\n• **6:00 PM** – Beginning to Intermediate Japanese with Norio
- \n• **7:00 PM** – English Learners Group with Linda & Chad\n___\n**Imp
- ortant Notes:**\n1. **No Zoom sessions** on **July 3–4\, 2026** (Indepen
- dence Day) and **September 4–5\, 2026** (Labor Day).\n2. All classes wil
- l be conducted **exclusively via Zoom** during the summer session.\n3. **R
- eturn to In-Person Meetings:**\nWe will resume our **regular in-person gat
- herings on September 12\, 2026** at the **2nd floor rooms of Phoenix Hall\
- , Davis Community Church**.\nFor more information about Intercultural Mosa
- ics classes and activities\, visit [www.nextg.org](http://www.nextg.org/) 
- or contact Dr. Stephen Moon at 916-217-5470\nor email to: [catalyst@nextg.
- org](mailto:catalyst@nextg.org). Thank you!
-URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/31694128
- 7/
-STATUS:CONFIRMED
-CREATED:20261012T001852Z
-LAST-MODIFIED:20261012T001852Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/316941286/"}
-X-SOURCE-ID:meetup_mosaics
-X-SOURCE:Meetup: Mosaics
-UID:event_316941286@meetup.com
-SEQUENCE:1
-DTSTAMP:20261031T025035Z
-DTSTART;TZID=America/Los_Angeles:20261031T170000
-DTEND;TZID=America/Los_Angeles:20261031T180000
-SUMMARY:Mosaics Beginning Spanish in Person
-DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics Hub 
- – Summer 2026!**\nJoin us for a vibrant and uplifting season of virtual 
- learning and community from **June 20 to August 29\, 2026**—all from the
-  comfort of your home on Zoom!\n**Zoom Link:** [https://zoom.us/j/58967646
- 3](https://zoom.us/j/589676463)\n**Bi-Weekly Friday Zoom Sessions** *(Ever
- y 2nd and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\n
- • **5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6:
- 00 PM** – Bible Study & Meditation Group with Stephen\n• **7:00 PM** 
- – Beginning Chinese with Jane\n**Weekly Saturday Zoom Sessions** (total 
- of 10 sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n• *
- *5:00 PM** – Beginning to Intermediate Korean with Stephen\n• **6:00 P
- M** – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** –
-  English Learners Group with Linda & Chad\n___\n**Important Notes:**\n1. *
- *No Zoom sessions** on **July 3–4\, 2026** (Independence Day) and **Sept
- ember 4–5\, 2026** (Labor Day).\n2. All classes will be conducted **excl
- usively via Zoom** during the summer session.\n3. **Return to In-Person Me
- etings:**\nWe will resume our **regular in-person gatherings on September 
- 12\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Community Chu
- rch**.\nFor more information about Intercultural Mosaics classes and activ
- ities\, visit [www.nextg.org](http://www.nextg.org/) or contact Dr. Stephe
- n Moon at 916-217-5470\nor email to: [catalyst@nextg.org](mailto:catalyst@
- nextg.org). Thank you!
-URL;VALUE=URI:https://www.meetup.com/mosaics/events/316941286/
-STATUS:CONFIRMED
-CREATED:20261012T001851Z
-LAST-MODIFIED:20261012T001851Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/316941732/", "Meetup: Mosaics": "https://www.meetup.com/mosaics/events/316941731/"}
-X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/316941732/"}
-X-SOURCE-ID:meetup_intercultural_mosaics
-X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
-UID:event_316941732@meetup.com
-SEQUENCE:1
-DTSTAMP:20261031T025035Z
-DTSTART;TZID=America/Los_Angeles:20261031T180000
-DTEND;TZID=America/Los_Angeles:20261031T190000
-SUMMARY:Mosaics Intercultural Dinner Fellowship
-DESCRIPTION:Davis Art\, Music & Outdoor Activities Meetup\n**Discover Inte
- rcultural Mosaics Hub – Summer 2026!**\nJoin us for a vibrant and uplift
- ing season of virtual learning and community from **June 20 to August 29\,
-  2026**—all from the comfort of your home on Zoom!\n**Zoom Link:** [http
- s://zoom.us/j/589676463](https://zoom.us/j/589676463)\n**Bi-Weekly Friday 
- Zoom Sessions** *(Every 2nd and 4th Friday)*\n• **4:00 PM** – Advanced
-  Korean with Stephen\n• **5:00 PM** – Intermediate Conversational Chin
- ese with Sam\n• **6:00 PM** – Bible Study & Meditation Group with Step
- hen\n• **7:00 PM** – Beginning Chinese with Jane\n**Weekly Saturday Zo
- om Sessions** (total of 10 sessions)\n• **4:00 PM** – Beginning Spanis
- h with Viviana\n• **5:00 PM** – Beginning to Intermediate Korean with 
- Stephen\n• **6:00 PM** – Beginning to Intermediate Japanese with Norio
- \n• **7:00 PM** – English Learners Group with Linda & Chad\n___\n**Imp
- ortant Notes:**\n1. **No Zoom sessions** on **July 3–4\, 2026** (Indepen
- dence Day) and **September 4–5\, 2026** (Labor Day).\n2. All classes wil
- l be conducted **exclusively via Zoom** during the summer session.\n3. **R
- eturn to In-Person Meetings:**\nWe will resume our **regular in-person gat
- herings on September 12\, 2026** at the **2nd floor rooms of Phoenix Hall\
- , Davis Community Church**.\nFor more information about Intercultural Mosa
- ics classes and activities\, visit [www.nextg.org](http://www.nextg.org/) 
- or contact Dr. Stephen Moon at 916-217-5470\nor email to: [catalyst@nextg.
- org](mailto:catalyst@nextg.org). Thank you!
-URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/31694173
- 2/
-STATUS:CONFIRMED
-CREATED:20261012T011854Z
-LAST-MODIFIED:20261012T011854Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/316942237/", "Meetup: Mosaics": "https://www.meetup.com/mosaics/events/316942236/"}
 X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/316942237/"}
 X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_316942237@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024316Z
 DTSTART;TZID=America/Los_Angeles:20261031T190000
 DTEND;TZID=America/Los_Angeles:20261031T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -414,7 +118,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316969803@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025036Z
+DTSTAMP:20261101T024317Z
 DTSTART;TZID=America/Los_Angeles:20261102T180000
 DTEND;TZID=America/Los_Angeles:20261102T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -446,7 +150,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261103T090000
 DTEND;TZID=America/Los_Angeles:20261103T120000
 RRULE:FREQ=WEEKLY;BYDAY=TU
-DTSTAMP:20261031T025039Z
+DTSTAMP:20261101T024320Z
 UID:5getqsjecs90d9ampqs7jmgepl_R20261103T170000@google.com
 CREATED:20240829T225511Z
 DESCRIPTION:This is the fastest paced (non-race team) club ride on the cale
@@ -468,7 +172,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316977817@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025036Z
+DTSTAMP:20261101T024317Z
 DTSTART;TZID=America/Los_Angeles:20261103T094500
 DTEND;TZID=America/Los_Angeles:20261103T104500
 SUMMARY:Gentle yoga
@@ -559,7 +263,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_317003777@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024316Z
 DTSTART;TZID=America/Los_Angeles:20261104T170000
 DTEND;TZID=America/Los_Angeles:20261104T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -602,7 +306,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_316999761@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025036Z
+DTSTAMP:20261101T024317Z
 DTSTART;TZID=America/Los_Angeles:20261105T180000
 DTEND;TZID=America/Los_Angeles:20261105T190000
 SUMMARY:Free Yoga Practice
@@ -729,7 +433,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317040106@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024315Z
 DTSTART;TZID=America/Los_Angeles:20261107T150000
 DTEND;TZID=America/Los_Angeles:20261107T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -784,7 +488,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_gptsbvyjcpbkb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024315Z
 DTSTART;TZID=America/Los_Angeles:20261107T160000
 DTEND;TZID=America/Los_Angeles:20261107T170000
 SUMMARY:Mosaics Beginning Japanese in Person
@@ -802,7 +506,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317040594@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024315Z
 DTSTART;TZID=America/Los_Angeles:20261107T160000
 DTEND;TZID=America/Los_Angeles:20261107T170000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -840,7 +544,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317041605@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024316Z
 DTSTART;TZID=America/Los_Angeles:20261107T170000
 DTEND;TZID=America/Los_Angeles:20261107T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -879,7 +583,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317041604@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024315Z
 DTSTART;TZID=America/Los_Angeles:20261107T170000
 DTEND;TZID=America/Los_Angeles:20261107T180000
 SUMMARY:Mosaics Beginning Spanish in Person
@@ -912,12 +616,13 @@ LAST-MODIFIED:20261019T003318Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/317041955/", "Meetup: Mosaics": "https://www.meetup.com/mosaics/events/317041954/"}
 X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/317041955/"}
 X-SOURCE-ID:meetup_intercultural_mosaics
-X-SOURCE:Meetup Intercultural Mosaics
+X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_317041955@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024316Z
 DTSTART;TZID=America/Los_Angeles:20261107T180000
 DTEND;TZID=America/Los_Angeles:20261107T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -951,12 +656,13 @@ LAST-MODIFIED:20261019T010929Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/317042433/", "Meetup: Mosaics": "https://www.meetup.com/mosaics/events/317042432/"}
 X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/317042433/"}
 X-SOURCE-ID:meetup_intercultural_mosaics
-X-SOURCE:Meetup Intercultural Mosaics
+X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_317042433@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024316Z
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1044,7 +750,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317067670@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025036Z
+DTSTAMP:20261101T024317Z
 DTSTART;TZID=America/Los_Angeles:20261109T180000
 DTEND;TZID=America/Los_Angeles:20261109T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1104,12 +810,29 @@ LOCATION:Yolo County Office of Education\, 1280 Santa Anita Court\, Woodland\, C
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/yolo_county_office_of_education_cover-scaled.jpg
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/principles-of-community-celebration/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261110T160000
+DTEND;TZID=UTC:20261110T180000
+DTSTAMP:20260901T212654Z
+CREATED:20260901T212654Z
+LAST-MODIFIED:20260901T212654Z
+UID:10000715-1794326400-1794333600@hatefreetogether.org
+SUMMARY:Principles of Community Celebration
+DESCRIPTION:The 2026 Principles of Community Celebration recognizes the people and partnerships that bring our values to life across UC Davis. \nThe celebration will feature recognition of the Soaring to New Heights and ASUCD awards honorees\, stories from faculty\, staff and students\, showcases highlighting community-engaged research and partnerships\, and opportunities to connect with colleagues and community partners. \n  \nWe honor our collective decision to be part of this community\, and we celebrate the ongoing work of making UC Davis a place people want to be. \nFor more information\, visit: https://excellence.ucdavis.edu/events/principles-community-celebration.
+URL:https://hatefreetogether.org/event/principles-of-community-celebration/
+LOCATION:UC Davis ARC\, 760 Orchard Road\, Davis\, CA\, 95616
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Principles-of-Community-Celebration-2026.png
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/317054607/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317054607@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025036Z
+DTSTAMP:20261101T024317Z
 DTSTART;TZID=America/Los_Angeles:20261110T180000
 DTEND;TZID=America/Los_Angeles:20261110T200000
 SUMMARY:Let's talk about Female Sexuality & Fluidity
@@ -1155,12 +878,62 @@ LAST-MODIFIED:20261019T232229Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/veterans-day/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+DTSTAMP:20261028T183636Z
+CREATED:20261028T181908Z
+LAST-MODIFIED:20261028T183636Z
+UID:10000898-1794355200-1794441599@hatefreetogether.org
+SUMMARY:Veterans Day
+DESCRIPTION:Veterans Day honors those who have served in the United States Armed Forces. It is an opportunity to recognize veterans’ service and sacrifices\, listen to their experiences\, and support veterans and their families in our communities. \nLearn more at the U.S. Department of Veterans Affairs.
+URL:https://hatefreetogether.org/event/veterans-day/
+LOCATION:CA
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Veterans-Day.png
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-11/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261111T100000
+DTEND;TZID=UTC:20261111T170000
+DTSTAMP:20261028T183745Z
+CREATED:20261028T180021Z
+LAST-MODIFIED:20261028T183745Z
+UID:10000866-1794391200-1794416400@hatefreetogether.org
+SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
+DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
+URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-11/
+LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/yolo-county-library-craft-wednesdays/2026-11-11/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261111T160000
+DTEND;TZID=UTC:20261111T170000
+DTSTAMP:20261022T211320Z
+CREATED:20261022T211320Z
+LAST-MODIFIED:20261022T211320Z
+UID:10000834-1794412800-1794416400@hatefreetogether.org
+SUMMARY:Yolo County Library: Craft Wednesdays
+DESCRIPTION:Join the Knights Landing Branch Library for different crafts every Wednesday at 4:00p.m.! All supplies will be provided.
+URL:https://hatefreetogether.org/event/yolo-county-library-craft-wednesdays/2026-11-11/
+LOCATION:Knights Landing Branch Library\, 42351 3rd St\, Knights Landing\, CA\, 95645\, United States
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Knights-Landing-Branch-Library-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/317098032/"}
 X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_317098032@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024316Z
 DTSTART;TZID=America/Los_Angeles:20261111T170000
 DTEND;TZID=America/Los_Angeles:20261111T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1187,12 +960,29 @@ LAST-MODIFIED:20261023T002510Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-12/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261112T100000
+DTEND;TZID=UTC:20261112T170000
+DTSTAMP:20261028T183745Z
+CREATED:20261028T180021Z
+LAST-MODIFIED:20261028T183745Z
+UID:10000867-1794477600-1794502800@hatefreetogether.org
+SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
+DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
+URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-12/
+LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/317115298/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317115298@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025036Z
+DTSTAMP:20261101T024317Z
 DTSTART;TZID=America/Los_Angeles:20261112T180000
 DTEND;TZID=America/Los_Angeles:20261112T190000
 SUMMARY:Free Yoga Practice
@@ -1215,12 +1005,139 @@ LAST-MODIFIED:20261024T012222Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-13/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261113T100000
+DTEND;TZID=UTC:20261113T170000
+DTSTAMP:20261028T183745Z
+CREATED:20261028T180021Z
+LAST-MODIFIED:20261028T183745Z
+UID:10000868-1794564000-1794589200@hatefreetogether.org
+SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
+DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
+URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-13/
+LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/yolo-county-library-english-conversation-group-2/2026-11-13/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261113T133000
+DTEND;TZID=UTC:20261113T143000
+DTSTAMP:20261022T230935Z
+CREATED:20261022T195355Z
+LAST-MODIFIED:20261022T230935Z
+UID:10000750-1794576600-1794580200@hatefreetogether.org
+SUMMARY:Yolo County Library: English Conversation Group
+DESCRIPTION:Practice speaking English with other learners in a relaxed and comfortable environment\, led by a native speaker. No registration is required\, and drop-in participants are always welcome. Location is the Arthur F. Turner Community Library in West Sacramento on Friday’s at 1:30 pm. For adults that are 18+ years old.
+URL:https://hatefreetogether.org/event/yolo-county-library-english-conversation-group-2/2026-11-13/
+LOCATION:Arthur F Turner Community Library\, 1212 Merkley Avenue\, West Sacramento\, CA\, 95691\, United States
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Arthur-F-Turner-Library.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/317137567/"}
+X-SOURCE-ID:meetup_mosaics
+X-SOURCE:Meetup: Mosaics
+UID:event_317137567@meetup.com
+SEQUENCE:1
+DTSTAMP:20261101T024315Z
+DTSTART;TZID=America/Los_Angeles:20261114T150000
+DTEND;TZID=America/Los_Angeles:20261114T160000
+SUMMARY:Mosaics Beginning Tai Chi
+DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics Hub 
+ – Summer 2026!**\nJoin us for a vibrant and uplifting season of virtual 
+ learning and community from **June 20 to August 29\, 2026**—all from the
+  comfort of your home on Zoom!\n**Zoom Link:** [https://zoom.us/j/58967646
+ 3](https://zoom.us/j/589676463)\n**Bi-Weekly Friday Zoom Sessions** *(Ever
+ y 2nd and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\n
+ • **5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6:
+ 00 PM** – Bible Study & Meditation Group with Stephen\n• **7:00 PM** 
+ – Beginning Chinese with Jane\n**Weekly Saturday Zoom Sessions** (total 
+ of 10 sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n• *
+ *5:00 PM** – Beginning to Intermediate Korean with Stephen\n• **6:00 P
+ M** – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** –
+  English Learners Group with Linda & Chad\n___\n**Important Notes:**\n1. *
+ *No Zoom sessions** on **July 3–4\, 2026** (Independence Day) and **Sept
+ ember 4–5\, 2026** (Labor Day).\n2. All classes will be conducted **excl
+ usively via Zoom** during the summer session.\n3. **Return to In-Person Me
+ etings:**\nWe will resume our **regular in-person gatherings on September 
+ 12\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Community Chu
+ rch**.\nFor more information about Intercultural Mosaics classes and activ
+ ities\, visit [www.nextg.org](http://www.nextg.org/) or contact Dr. Stephe
+ n Moon at 916-217-5470\nor email to: [catalyst@nextg.org](mailto:catalyst@
+ nextg.org). Thank you!
+URL;VALUE=URI:https://www.meetup.com/mosaics/events/317137567/
+STATUS:CONFIRMED
+CREATED:20261025T221723Z
+LAST-MODIFIED:20261025T221723Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/317138247/"}
+X-SOURCE-ID:meetup_mosaics
+X-SOURCE:Meetup: Mosaics
+UID:event_317138247@meetup.com
+SEQUENCE:1
+DTSTAMP:20261101T024315Z
+DTSTART;TZID=America/Los_Angeles:20261114T160000
+DTEND;TZID=America/Los_Angeles:20261114T170000
+SUMMARY:Mosaics Beginning Mandarin Chinese in Person
+DESCRIPTION:Intercultural Mosaics\n**Discover Intercultural Mosaics Hub 
+ – Summer 2026!**\nJoin us for a vibrant and uplifting season of virtual 
+ learning and community from **June 20 to August 29\, 2026**—all from the
+  comfort of your home on Zoom!\n**Zoom Link:** [https://zoom.us/j/58967646
+ 3](https://zoom.us/j/589676463)\n**Bi-Weekly Friday Zoom Sessions** *(Ever
+ y 2nd and 4th Friday)*\n• **4:00 PM** – Advanced Korean with Stephen\n
+ • **5:00 PM** – Intermediate Conversational Chinese with Sam\n• **6:
+ 00 PM** – Bible Study & Meditation Group with Stephen\n• **7:00 PM** 
+ – Beginning Chinese with Jane\n**Weekly Saturday Zoom Sessions** (total 
+ of 10 sessions)\n• **4:00 PM** – Beginning Spanish with Viviana\n• *
+ *5:00 PM** – Beginning to Intermediate Korean with Stephen\n• **6:00 P
+ M** – Beginning to Intermediate Japanese with Norio\n• **7:00 PM** –
+  English Learners Group with Linda & Chad\n___\n**Important Notes:**\n1. *
+ *No Zoom sessions** on **July 3–4\, 2026** (Independence Day) and **Sept
+ ember 4–5\, 2026** (Labor Day).\n2. All classes will be conducted **excl
+ usively via Zoom** during the summer session.\n3. **Return to In-Person Me
+ etings:**\nWe will resume our **regular in-person gatherings on September 
+ 12\, 2026** at the **2nd floor rooms of Phoenix Hall\, Davis Community Chu
+ rch**.\nFor more information about Intercultural Mosaics classes and activ
+ ities\, visit [www.nextg.org](http://www.nextg.org/) or contact Dr. Stephe
+ n Moon at 916-217-5470\nor email to: [catalyst@nextg.org](mailto:catalyst@
+ nextg.org). Thank you!
+URL;VALUE=URI:https://www.meetup.com/mosaics/events/317138247/
+STATUS:CONFIRMED
+CREATED:20261025T232347Z
+LAST-MODIFIED:20261025T232347Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/317138371/"}
+X-SOURCE-ID:meetup_mosaics
+X-SOURCE:Meetup: Mosaics
+UID:event_317138371@meetup.com
+SEQUENCE:1
+DTSTAMP:20261101T024315Z
+DTSTART;TZID=America/Los_Angeles:20261114T160000
+DTEND;TZID=America/Los_Angeles:20261114T170000
+SUMMARY:Mosaics Beginning Japanese in Person
+DESCRIPTION:Intercultural Mosaics\nhttps://nextg.org/mosaics-spring-into-e
+ arly-summer-classes/
+URL;VALUE=URI:https://www.meetup.com/mosaics/events/317138371/
+STATUS:CONFIRMED
+CREATED:20261025T232546Z
+LAST-MODIFIED:20261025T232546Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/317138780/"}
 X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317138780@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024316Z
 DTSTART;TZID=America/Los_Angeles:20261114T170000
 DTEND;TZID=America/Los_Angeles:20261114T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1259,7 +1176,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317139516@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024316Z
 DTSTART;TZID=America/Los_Angeles:20261114T180000
 DTEND;TZID=America/Los_Angeles:20261114T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1298,7 +1215,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317140090@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024316Z
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1337,7 +1254,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317169908@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025036Z
+DTSTAMP:20261101T024317Z
 DTSTART;TZID=America/Los_Angeles:20261116T180000
 DTEND;TZID=America/Los_Angeles:20261116T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1369,7 +1286,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_317198984@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024316Z
 DTSTART;TZID=America/Los_Angeles:20261118T170000
 DTEND;TZID=America/Los_Angeles:20261118T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1401,7 +1318,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317214535@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025036Z
+DTSTAMP:20261101T024317Z
 DTSTART;TZID=America/Los_Angeles:20261119T180000
 DTEND;TZID=America/Los_Angeles:20261119T190000
 SUMMARY:Free Yoga Practice
@@ -1429,7 +1346,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261121T090000
 DTEND;TZID=America/Los_Angeles:20261121T140000
 RRULE:FREQ=MONTHLY;BYDAY=3SA
-DTSTAMP:20261031T025039Z
+DTSTAMP:20261101T024320Z
 UID:50q7jpr6vmca2rgsqa3ltejtoe_R20261121T170000@google.com
 CREATED:20241017T171351Z
 DESCRIPTION:<a href="https://davisbikeclub.org/3rd-saturday-road-ride/" tar
@@ -1447,7 +1364,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_vkccbvyjcpbcc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024316Z
 DTSTART;TZID=America/Los_Angeles:20261121T170000
 DTEND;TZID=America/Los_Angeles:20261121T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1481,12 +1398,90 @@ LAST-MODIFIED:20260905T003347Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/tjtwxtyjcpbcc/"}
+X-SOURCE-ID:meetup_intercultural_mosaics
+X-SOURCE:Meetup Intercultural Mosaics
+UID:event_tjtwxtyjcpbcc@meetup.com
+SEQUENCE:1
+DTSTAMP:20261101T024316Z
+DTSTART;TZID=America/Los_Angeles:20261121T180000
+DTEND;TZID=America/Los_Angeles:20261121T190000
+SUMMARY:Mosaics Intercultural Dinner Fellowship
+DESCRIPTION:Davis Art\, Music & Outdoor Activities Meetup\n**Discover Inte
+ rcultural Mosaics Hub – Summer 2026!**\nJoin us for a vibrant and uplift
+ ing season of virtual learning and community from **June 20 to August 29\,
+  2026**—all from the comfort of your home on Zoom!\n**Zoom Link:** [http
+ s://zoom.us/j/589676463](https://zoom.us/j/589676463)\n**Bi-Weekly Friday 
+ Zoom Sessions** *(Every 2nd and 4th Friday)*\n• **4:00 PM** – Advanced
+  Korean with Stephen\n• **5:00 PM** – Intermediate Conversational Chin
+ ese with Sam\n• **6:00 PM** – Bible Study & Meditation Group with Step
+ hen\n• **7:00 PM** – Beginning Chinese with Jane\n**Weekly Saturday Zo
+ om Sessions** (total of 10 sessions)\n• **4:00 PM** – Beginning Spanis
+ h with Viviana\n• **5:00 PM** – Beginning to Intermediate Korean with 
+ Stephen\n• **6:00 PM** – Beginning to Intermediate Japanese with Norio
+ \n• **7:00 PM** – English Learners Group with Linda & Chad\n___\n**Imp
+ ortant Notes:**\n1. **No Zoom sessions** on **July 3–4\, 2026** (Indepen
+ dence Day) and **September 4–5\, 2026** (Labor Day).\n2. All classes wil
+ l be conducted **exclusively via Zoom** during the summer session.\n3. **R
+ eturn to In-Person Meetings:**\nWe will resume our **regular in-person gat
+ herings on September 12\, 2026** at the **2nd floor rooms of Phoenix Hall\
+ , Davis Community Church**.\nFor more information about Intercultural Mosa
+ ics classes and activities\, visit [www.nextg.org](http://www.nextg.org/) 
+ or contact Dr. Stephen Moon at 916-217-5470\nor email to: [catalyst@nextg.
+ org](mailto:catalyst@nextg.org). Thank you!
+URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/tjtwxtyj
+ cpbcc/
+STATUS:CONFIRMED
+CREATED:20260614T083125Z
+LAST-MODIFIED:20260614T083125Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/vjtwxtyjcpbcc/"}
+X-SOURCE-ID:meetup_intercultural_mosaics
+X-SOURCE:Meetup Intercultural Mosaics
+UID:event_vjtwxtyjcpbcc@meetup.com
+SEQUENCE:1
+DTSTAMP:20261101T024316Z
+DTSTART;TZID=America/Los_Angeles:20261121T190000
+DTEND;TZID=America/Los_Angeles:20261121T200000
+SUMMARY:Mosaics Water & Acrylic Painting
+DESCRIPTION:Davis Art\, Music & Outdoor Activities Meetup\n**Discover Inte
+ rcultural Mosaics Hub – Summer 2026!**\nJoin us for a vibrant and uplift
+ ing season of virtual learning and community from **June 20 to August 29\,
+  2026**—all from the comfort of your home on Zoom!\n**Zoom Link:** [http
+ s://zoom.us/j/589676463](https://zoom.us/j/589676463)\n**Bi-Weekly Friday 
+ Zoom Sessions** *(Every 2nd and 4th Friday)*\n• **4:00 PM** – Advanced
+  Korean with Stephen\n• **5:00 PM** – Intermediate Conversational Chin
+ ese with Sam\n• **6:00 PM** – Bible Study & Meditation Group with Step
+ hen\n• **7:00 PM** – Beginning Chinese with Jane\n**Weekly Saturday Zo
+ om Sessions** (total of 10 sessions)\n• **4:00 PM** – Beginning Spanis
+ h with Viviana\n• **5:00 PM** – Beginning to Intermediate Korean with 
+ Stephen\n• **6:00 PM** – Beginning to Intermediate Japanese with Norio
+ \n• **7:00 PM** – English Learners Group with Linda & Chad\n___\n**Imp
+ ortant Notes:**\n1. **No Zoom sessions** on **July 3–4\, 2026** (Indepen
+ dence Day) and **September 4–5\, 2026** (Labor Day).\n2. All classes wil
+ l be conducted **exclusively via Zoom** during the summer session.\n3. **R
+ eturn to In-Person Meetings:**\nWe will resume our **regular in-person gat
+ herings on September 12\, 2026** at the **2nd floor rooms of Phoenix Hall\
+ , Davis Community Church**.\nFor more information about Intercultural Mosa
+ ics classes and activities\, visit [www.nextg.org](http://www.nextg.org/) 
+ or contact Dr. Stephen Moon at 916-217-5470\nor email to: [catalyst@nextg.
+ org](mailto:catalyst@nextg.org). Thank you!
+URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/vjtwxtyj
+ cpbcc/
+STATUS:CONFIRMED
+CREATED:20260614T083228Z
+LAST-MODIFIED:20260614T083228Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/bgfpxtyjcpbfc/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_bgfpxtyjcpbfc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025036Z
+DTSTAMP:20261101T024317Z
 DTSTART;TZID=America/Los_Angeles:20261123T180000
 DTEND;TZID=America/Los_Angeles:20261123T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1518,7 +1513,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcpbhc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024316Z
 DTSTART;TZID=America/Los_Angeles:20261125T170000
 DTEND;TZID=America/Los_Angeles:20261125T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1550,7 +1545,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_cbwkztyjcpbjc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025036Z
+DTSTAMP:20261101T024317Z
 DTSTART;TZID=America/Los_Angeles:20261126T180000
 DTEND;TZID=America/Los_Angeles:20261126T190000
 SUMMARY:Free Yoga Practice
@@ -1578,7 +1573,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcqbdb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024316Z
 DTSTART;TZID=America/Los_Angeles:20261202T170000
 DTEND;TZID=America/Los_Angeles:20261202T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1604,7 +1599,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstyjcqbmb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024316Z
 DTSTART;TZID=America/Los_Angeles:20261209T170000
 DTEND;TZID=America/Los_Angeles:20261209T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1636,7 +1631,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjcqbvb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024316Z
 DTSTART;TZID=America/Los_Angeles:20261216T170000
 DTEND;TZID=America/Los_Angeles:20261216T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1668,7 +1663,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcqbnc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024316Z
 DTSTART;TZID=America/Los_Angeles:20261230T170000
 DTEND;TZID=America/Los_Angeles:20261230T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1700,7 +1695,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstykccbjb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024316Z
 DTSTART;TZID=America/Los_Angeles:20270106T170000
 DTEND;TZID=America/Los_Angeles:20270106T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1726,7 +1721,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstykccbrb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261031T025035Z
+DTSTAMP:20261101T024316Z
 DTSTART;TZID=America/Los_Angeles:20270113T170000
 DTEND;TZID=America/Los_Angeles:20270113T210000
 SUMMARY:Weekly Game Night at Blue Note
