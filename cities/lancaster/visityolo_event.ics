@@ -1,1 +1,463 @@
-<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fevent%2F%3Fical%3D1&y=ipr:20.169.63.166:1793500998.624"></meta></head></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Visit Yolo County California, Davis, Winters, Clarksburg, Capay Valley, Woodland - ECPv6.18.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Visit Yolo County California, Davis, Winters, Clarksburg, Capay Valley, Woodland
+X-ORIGINAL-URL:https://visityolo.com
+X-WR-CALDESC:Events for Visit Yolo County California, Davis, Winters, Clarksburg, Capay Valley, Woodland
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20270314T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20271107T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261107
+DTSTAMP:20260903T155431Z
+CREATED:20260903T155431Z
+LAST-MODIFIED:20260903T155431Z
+UID:10014854-1790985600-1794009599@visityolo.com
+SUMMARY:Mercy Hawkins: Waltz of Life and Limb
+DESCRIPTION:Mercy Hawkins: Waltz of Life & Limb in Davis \nExhibit: October 3 – November 6\, 2026 \nReception: October 9\, 6-9 PM (Free) \n  \nWaltz of Life & Limb pairs recent sculptural paintings by artist Mercy Hawkins\, with her vibrant\, large-scale watercolors on paper. With this work\, Hawkins seeks to answer the internal call\, to encounter what the body already knows\, from our own inner rhythms\, heartbeat\, and breath\, to dancing with wild arms. Her biomorphic shapes\, formed of intersecting dots\, dashes\, and lines\, speak to a sensory play of color\, light\, and movement. Her imagery evokes seed pods\, flower buds\, or microscopic creatures\, immersing the viewer in an all-encompassing perception of nature.  \n  \nArtist Talk: Saturday\, October 17\, 2-3:30 PM (Free) \nMercy Hawkins will speak about the development and trajectory of several bodies of recent work\, including its connection to craft. She will also explore the intersection of painting and music.  \n  \nSponsored by HF Richardson \n  \nImage: Mercy Hawkins\, “Melting Ice”
+URL:https://visityolo.com/event/mercy-hawkins-waltz-of-life-and-limb/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Mercy-Hawkins-Melting-Ice-500kb.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261101T140000
+DTEND;TZID=America/Los_Angeles:20261101T213000
+DTSTAMP:20260925T215918Z
+CREATED:20260925T215918Z
+LAST-MODIFIED:20260925T215918Z
+UID:10014910-1793541600-1793568600@visityolo.com
+SUMMARY:Davis Film Festival
+DESCRIPTION:The 2026 Davis Film Festival takes place SUNDAY NOVEMBER 1ST FROM 2:00 PM-9:30 PM at the Veteran’s Memorial Theater\, 203 E. 14th Street in Davis\, CA. (PLENTY OF FREE PARKING). Films from around the world and our own backyard. Narrative\, documentary\, animation\, experimental\, shorts and features. \nTickets are $15 for VIP pass\, $10 general admission\, or $8.50 students/seniors.
+URL:https://visityolo.com/event/davis-film-festival/
+LOCATION:Davis Veterans Memorial Theater\, 277 E. 14th Street\, Davis CA\, Davis\, 95616\, United States
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261101T173000
+DTEND;TZID=America/Los_Angeles:20261101T203000
+DTSTAMP:20260813T194113Z
+CREATED:20260813T194113Z
+LAST-MODIFIED:20260813T194113Z
+UID:10014716-1793554200-1793565000@visityolo.com
+SUMMARY:Live Music at Carboni's Ristorante
+DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
+URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-01/
+LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
+ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261103T113000
+DTEND;TZID=America/Los_Angeles:20261103T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014933-1793705400-1793725200@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-03/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261104T113000
+DTEND;TZID=America/Los_Angeles:20261104T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014934-1793791800-1793811600@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-04/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261104T173000
+DTEND;TZID=America/Los_Angeles:20261104T203000
+DTSTAMP:20260813T194113Z
+CREATED:20260813T194113Z
+LAST-MODIFIED:20260813T194113Z
+UID:10014717-1793813400-1793824200@visityolo.com
+SUMMARY:Live Music at Carboni's Ristorante
+DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
+URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-04/
+LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
+ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261105T113000
+DTEND;TZID=America/Los_Angeles:20261105T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014935-1793878200-1793898000@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-05/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261106T110000
+DTEND;TZID=America/Los_Angeles:20261106T180000
+DTSTAMP:20251117T171126Z
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013324-1793962800-1793988000@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-11-06/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261106T113000
+DTEND;TZID=America/Los_Angeles:20261106T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014936-1793964600-1793984400@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-06/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261106T180000
+DTEND;TZID=America/Los_Angeles:20261106T220000
+DTSTAMP:20261029T154535Z
+CREATED:20261029T154535Z
+LAST-MODIFIED:20261029T154535Z
+UID:10015734-1793988000-1794002400@visityolo.com
+SUMMARY:Winters Open Mic
+DESCRIPTION:Live musicians and poets ranging from new to well-seasoned performers. Come eat\, drink\, and enjoy local artists. Sign up to be on stage\, and become one of our supportive\, collaborative community members. \n\nFree entry\, donations encouraged\nAll ages welcome\nAll genres and instruments welcome\nSign-ups start at 5:30 PM\nEvent starts at 6:00 PM\nEveryone who signs up\, plays\nEach time slot is 10 minutes\, or 2 pieces\, whichever is shorter\nWhen time allows\, artists can sign up for a second time slot (once announced by the event leader)\nVolunteers needed! Contact wintersopenmic@gmail.com if interested in learning how to contributed\n\nWinters Open Mic is a 501(c)3 Non-profit organization with the simple mission of encouraging and providing space for performers to perform. \nFor any questions\, contact wintersopenmic@gmail.com
+URL:https://visityolo.com/event/winters-open-mic/2026-11-06/
+LOCATION:Winters Opera House\, 13 Main Street\, Winters\, 95694\, United States
+ATTACH;FMTTYPE=image/png:https://visityolo.com/wp-content/uploads/fb.png
+ORGANIZER;CN="Winters Open Mic":MAILTO:wintersopenmic@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261106T193000
+DTEND;TZID=America/Los_Angeles:20261106T220000
+DTSTAMP:20261030T212647Z
+CREATED:20261030T212647Z
+LAST-MODIFIED:20261030T212647Z
+UID:10015741-1793993400-1794002400@visityolo.com
+SUMMARY:Inner Nature\, Roni Jean\, and Valley Taylor (Concert & Costume Party!)
+DESCRIPTION:A (post)Halloween costume party in Davis featuring Inner Nature\, Roni Jean and Valley Taylor. Costume not required; but best costume wins a 3 band merch package! \nInner Nature: Inner Nature is the work of Casey Groat from Sacramento\, CA. Having started out as just a kid with an interest in making noises with the computer\, the project has matured into themes such as love and loss\, as well as experimenting with sampling and songs with meaning and purpose. Artists such as Washed Out\, Toro Y Moi\, Small Black and Neon Indian are a big influence on the sound. \nRoni Jean carves out a unique niche with a blend of Haunted Indie Rock\, Dreampop\, and Shoegaze in Sacramento\, CA. Their music weaves lush\, dynamic soundscapes with a melodic melancholy that always carries an undeniable edge. Drawing inspiration from artists like Sir Chloe\, Wisp\, and Radiohead\, Roni Jean moves seamlessly between moments of delicate vulnerability and explosive\, powerful expression. \nValley Taylor; Valley Taylor makes songs\, drawings\, videos and other things in El Cerrito\, California. The music moves somewhere between Indie Rock\, lo-fi Folk and Ambient Music\, usually built from guitars\, old sounds\, field recordings and whatever else happens to make its way in. Sometimes it becomes a record. Sometimes it becomes a drawing or a little film. Sometimes it just lives on the internet somewhere. \n$15 General Admission\n$10 Students (in-store or at the door with Student ID only)\nDoors open @ 7:00pm\nCash or Venmo at the door only (no Credit Card) \nThis is a BYOB event!
+URL:https://visityolo.com/event/inner-nature-roni-jean-and-valley-taylor-concert-costume-party/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/InnerNature.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261106T193000
+DTEND;TZID=America/Los_Angeles:20261129T220000
+DTSTAMP:20260811T230832Z
+CREATED:20260810T225751Z
+LAST-MODIFIED:20260811T230832Z
+UID:10014640-1793993400-1795989600@visityolo.com
+SUMMARY:Davis Musical Theatre Presents Mean Girls
+DESCRIPTION:Davis Musical Theatre Presents Mean Girls \nCady Heron may have grown up on an African savanna\, but nothing prepared her for the wild and vicious ways of her strange new home: suburban Illinois. When Cady encounters The Plastics—a trio of powerful frenemies led by the charming but ruthless Regina George—she becomes caught in the school’s popularity hierarchy. Cady and her new friends devise a “Revenge Party” to end Regina’s reign\, but Cady soon learns that taking down a queen bee can come at a cost—and that losing yourself is far more dangerous than losing a popularity contest. \n*Mean Girls contains mature themes and language*
+URL:https://visityolo.com/event/davis-musical-theatre-presents-mean-girls/2026-11-06/
+LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/mean-girls.jpg
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261107T080000
+DTEND;TZID=America/Los_Angeles:20261107T130000
+DTSTAMP:20260624T182825Z
+CREATED:20230426T230654Z
+LAST-MODIFIED:20260624T182825Z
+UID:10004196-1794038400-1794056400@visityolo.com
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visityolo.com/event/davis-farmers-market-2/2026-11-07/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Small_CapayCarrots-002.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261107T090000
+DTEND;TZID=America/Los_Angeles:20261107T150000
+DTSTAMP:20261001T203055Z
+CREATED:20261001T203055Z
+LAST-MODIFIED:20261001T203055Z
+UID:10015274-1794042000-1794063600@visityolo.com
+SUMMARY:3rd Annual Christmas Bazaar
+DESCRIPTION:Saint Anthony’s Parish Hall will host the 3rd Annual Christmas Bazaar Saturday\, November 7th\, 9AM-3PM. This indoor event will feature many talented local crafters. Start your holiday shopping early! Door prizes to be raffled off.
+URL:https://visityolo.com/event/3rd-annual-christmas-bazaar/
+LOCATION:Saint Anthony’s Parish Hall\, 511 Main Street\, Winters\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/canstockphoto7457789-2.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261107T110000
+DTEND;TZID=America/Los_Angeles:20261107T160000
+DTSTAMP:20260810T220408Z
+CREATED:20260810T220355Z
+LAST-MODIFIED:20260810T220408Z
+UID:10014680-1794049200-1794067200@visityolo.com
+SUMMARY:9th Annual Winters Salmon Festival
+DESCRIPTION:The Winters Salmon Festival is held every year to honor the return of Chinook salmon (also known as King Salmon) to Lower Putah Creek. Salmon return to Putah Creek around October every year in order to spawn. This migration has grown and in recent years we have welcomed over 2\,000 salmon! \nThis festival celebrates the collaborative effort to restore portions of Putah Creek\, which resulted in the arrival of a salmon run. The return of salmon shows the resilience of nature to bounce back when the community comes together to help.  \nJoin us in welcoming salmon back to Putah Creek with live music\, children’s activities\, food trucks\, and more!
+URL:https://visityolo.com/event/9th-annual-winters-salmon-festival/
+LOCATION:Rotary Park – Winters\, 201 Railroad Ave\, Winters\, CA\, 95694
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/salmonfestlisting.jpg
+ORGANIZER;CN="Putah Creek Council":MAILTO:peyton@putahcreekcouncil.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261107T110000
+DTEND;TZID=America/Los_Angeles:20261107T180000
+DTSTAMP:20251117T171126Z
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013325-1794049200-1794074400@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-11-07/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261107T113000
+DTEND;TZID=America/Los_Angeles:20261107T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014937-1794051000-1794070800@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-07/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261107T140000
+DTEND;TZID=America/Los_Angeles:20261107T210000
+DTSTAMP:20261008T173033Z
+CREATED:20261008T173033Z
+LAST-MODIFIED:20261008T173033Z
+UID:10015291-1794060000-1794085200@visityolo.com
+SUMMARY:I-Fest 2026
+DESCRIPTION:Join us on November 7 at International House Davis for I-Fest 2026\, our International Festival Davis! \nFor one day\, we open our doors wide to celebrate and uplift the many cultures and people who make our region so vibrant. Explore cultural and artisan booths throughout I-House\, enjoy food trucks out front\, and experience a full lineup of performances on our backyard stage. It’s an open house in the truest sense: for the day\, this is your house too\, and every culture and community has a place here. \nI-Fest is a celebration\, but your participation also supports the work I-House does all year long: welcoming newcomers\, supporting English learners\, and helping people from around the world find connection and community in Davis. At a time when many of us are feeling anxious or disconnected\, creating spaces for joy\, belonging\, and connection feels more important than ever. Come celebrate cultures\, meet new people\, share in the joy\, and experience what makes our community so special. \nFor one day\, I-House is your house. Come be part of it.
+URL:https://visityolo.com/event/i-fest-2026/
+LOCATION:International House Davis\, 10 College Park\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/png:https://visityolo.com/wp-content/uploads/Copy-of-I-Fest-2026-Social-Media-Save-the-Date-Social-Media.png
+ORGANIZER;CN="International House Davis":MAILTO:shahzana@ihousedavis.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261107T170000
+DTEND;TZID=America/Los_Angeles:20261107T210000
+DTSTAMP:20260918T165549Z
+CREATED:20260918T165549Z
+LAST-MODIFIED:20260918T165549Z
+UID:10014889-1794070800-1794085200@visityolo.com
+SUMMARY:Berryessa Gap Vineyards 19th Annual Paella Cook-Off
+DESCRIPTION:The 19th Annual Paella Cookoff is happening November 7th! Join us for one of Berryessa Gap’s most beloved traditions as talented chefs fire up their pans and compete for the title of Best Paella of 2026! \nCome hungry and enjoy delicious paella\, Berryessa Gap wines\, and an unforgettable evening of food\, wine\, and friendly competition.
+URL:https://visityolo.com/event/berryessa-gap-vineyards-19th-annual-paella-cook-off/
+LOCATION:Berryessa Gap Vineyards\, Berryessa Gap Vineyards Winery and Tasting Room\, 27260 Highway 128 Winters CA 95694
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Paella-cookoff.jpg
+ORGANIZER;CN="Berryessa Gap Vineyards":MAILTO:events@berryessagap.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261107T193000
+DTEND;TZID=America/Los_Angeles:20261107T213000
+DTSTAMP:20261005T171251Z
+CREATED:20261005T171251Z
+LAST-MODIFIED:20261005T171251Z
+UID:10015280-1794079800-1794087000@visityolo.com
+SUMMARY:The Spokes Live @ The Melon Ball
+DESCRIPTION:The Spokes Live @ The Melon Ball in Davis \nReturning for its second year\, come join The Spokes for an exciting evening of cabaret-style performances! Full of fun arrangements and new members\, but with the same beautiful sound! The Spokes have been the premier all high voice a cappella group at UC Davis since 2004! \nTheir fiery\, fabulous\, and feminine style brings joy to audiences all over the West Coast\, most notably in their annual spring a cappella showcase\, HellaCappella. Not only exciting crowds with their captivating energy\, The Spokes have excelled in their craft\, placing second at ICCA Quarterfinals in 2024 and taking home Best Soloist in 2021. \nThe Spokes take pride in cultivating an uplifting bond of high voice singers and are dedicated to empowering their community. Just as a bicycle wheel relies on the support of all its spokes\, all the Spokes depend on one another to be the fabulous group they are! \nFind ways to engage with The Spokes HERE! \nGeneral Admission $20\nStudent Tickets $15 (in-store or at the door only\, with student ID)\nDoors open at 7:00pm \nCash or Venmo at the door only (no Credit Card) \nThis is a BYOB event!
+URL:https://visityolo.com/event/the-spokes-live-the-melon-ball/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/SpokesNEWNEW-1.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261107T193000
+DTEND;TZID=America/Los_Angeles:20261107T213000
+DTSTAMP:20261008T184303Z
+CREATED:20261008T184303Z
+LAST-MODIFIED:20261008T184303Z
+UID:10015298-1794079800-1794087000@visityolo.com
+SUMMARY:Journey Revisited - Classic Journey Sound
+DESCRIPTION:Preserve Presents: Winters Live Music Series at Winters Opera House \nJoin us for an unforgettable evening with the Winters Live music series\, a collaboration between Preserve and Winters Live\, hosted at the stunning Winters Opera House. \nGet ready to experience the ultimate tribute to one of rock’s greatest bands! Journey Revisited brings the legendary sound of Journey’s Steve Perry era to life—faithfully recreating the soaring vocals\, signature harmonies\, and powerful guitar riffs that defined a generation. With a setlist packed with timeless hits like Don’t Stop Believin’\, Faithfully\, Lights\, and Separate Ways\, this high-energy performance will have you singing along from start to finish. \nShow starts at 7:30PM\, enjoy happy house at Preserve 6:30PM-7:30PM \nTickets are $35 -$45\, to purchase click here.
+URL:https://visityolo.com/event/journey-revisited-classic-journey-sound/
+LOCATION:Winters Opera House\, 13 Main Street\, Winters\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/jefferson-santos-fCEJGBzAkrU-unsplash-2-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261107T193000
+DTEND;TZID=America/Los_Angeles:20261107T220000
+DTSTAMP:20260811T230832Z
+CREATED:20260810T225751Z
+LAST-MODIFIED:20260811T230832Z
+UID:10014641-1794079800-1794088800@visityolo.com
+SUMMARY:Davis Musical Theatre Presents Mean Girls
+DESCRIPTION:Davis Musical Theatre Presents Mean Girls \nCady Heron may have grown up on an African savanna\, but nothing prepared her for the wild and vicious ways of her strange new home: suburban Illinois. When Cady encounters The Plastics—a trio of powerful frenemies led by the charming but ruthless Regina George—she becomes caught in the school’s popularity hierarchy. Cady and her new friends devise a “Revenge Party” to end Regina’s reign\, but Cady soon learns that taking down a queen bee can come at a cost—and that losing yourself is far more dangerous than losing a popularity contest. \n*Mean Girls contains mature themes and language*
+URL:https://visityolo.com/event/davis-musical-theatre-presents-mean-girls/2026-11-07/
+LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/mean-girls.jpg
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261108T110000
+DTEND;TZID=America/Los_Angeles:20261108T180000
+DTSTAMP:20251117T171126Z
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013326-1794135600-1794160800@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-11-08/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261108T113000
+DTEND;TZID=America/Los_Angeles:20261108T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014938-1794137400-1794157200@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-08/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261108T140000
+DTEND;TZID=America/Los_Angeles:20261108T153000
+DTSTAMP:20260923T162757Z
+CREATED:20260923T162733Z
+LAST-MODIFIED:20260923T162757Z
+UID:10014895-1794146400-1794151800@visityolo.com
+SUMMARY:Artist Talk with Gioia Fonda
+DESCRIPTION:Artist Talk with Gioia Fonda in Davis \nSunday\, November 8\, 2-3:30 PM (Free) \n  \nGioia Fonda is a multi-media artist and educator whose new series harkens back to her still-life work from almost 30 years ago. Enjoy a lively talk with Fonda that sets the stage for exploration into her interest in the relationships between objects\, the influence of mentors such as Charlie Gill\, and more.  \n  \nVisitors can view portraits of things: Paintings by Gioia Fonda and Charlie Gill is on display at the Pence Gallery from October 9 – November 29\, 2026.
+URL:https://visityolo.com/event/artist-talk-with-gioia-fonda/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261108T140000
+DTEND;TZID=America/Los_Angeles:20261108T163000
+DTSTAMP:20260811T230832Z
+CREATED:20260810T225751Z
+LAST-MODIFIED:20260811T230832Z
+UID:10014642-1794146400-1794155400@visityolo.com
+SUMMARY:Davis Musical Theatre Presents Mean Girls
+DESCRIPTION:Davis Musical Theatre Presents Mean Girls \nCady Heron may have grown up on an African savanna\, but nothing prepared her for the wild and vicious ways of her strange new home: suburban Illinois. When Cady encounters The Plastics—a trio of powerful frenemies led by the charming but ruthless Regina George—she becomes caught in the school’s popularity hierarchy. Cady and her new friends devise a “Revenge Party” to end Regina’s reign\, but Cady soon learns that taking down a queen bee can come at a cost—and that losing yourself is far more dangerous than losing a popularity contest. \n*Mean Girls contains mature themes and language*
+URL:https://visityolo.com/event/davis-musical-theatre-presents-mean-girls/2026-11-08/
+LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/mean-girls.jpg
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261108T173000
+DTEND;TZID=America/Los_Angeles:20261108T203000
+DTSTAMP:20260813T194113Z
+CREATED:20260813T194113Z
+LAST-MODIFIED:20260813T194113Z
+UID:10014718-1794159000-1794169800@visityolo.com
+SUMMARY:Live Music at Carboni's Ristorante
+DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
+URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-08/
+LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
+ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261110T113000
+DTEND;TZID=America/Los_Angeles:20261110T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014939-1794310200-1794330000@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-10/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261111T113000
+DTEND;TZID=America/Los_Angeles:20261111T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014940-1794396600-1794416400@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-11/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261111T173000
+DTEND;TZID=America/Los_Angeles:20261111T203000
+DTSTAMP:20260813T194113Z
+CREATED:20260813T194113Z
+LAST-MODIFIED:20260813T194113Z
+UID:10014719-1794418200-1794429000@visityolo.com
+SUMMARY:Live Music at Carboni's Ristorante
+DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
+URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-11/
+LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
+ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
+END:VEVENT
+END:VCALENDAR

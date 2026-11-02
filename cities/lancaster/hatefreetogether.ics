@@ -74,20 +74,6 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Native-American-Heritage-Month.png
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC:20261101T160000
-DTEND;TZID=UTC:20261101T190000
-DTSTAMP:20261002T154733Z
-CREATED:20261002T154709Z
-LAST-MODIFIED:20261002T154733Z
-UID:10000739-1793548800-1793559600@hatefreetogether.org
-SUMMARY:Dia de Muertos Celebration
-DESCRIPTION:Davis Pride will present an altar dedicated to trans lives lost during 2026. If you are interested in honoring an ancestor or a group of people lost this year\, submit your interest here https://forms.gle/SwrSpa7koa2gK7g49. Hosted on November 1 from 4 – 7 p.m. at E Street Plaza in Davis. There will be dance performance\, face painting and more.
-URL:https://hatefreetogether.org/event/dia-de-muertos-celebration/
-LOCATION:CA
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Dia-de-Muertos-Nov-2026.jpg
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=UTC:20261102T150000
 DTEND;TZID=UTC:20261102T160000
 DTSTAMP:20261022T223936Z
@@ -425,5 +411,19 @@ DESCRIPTION:Practice speaking English with other learners in a relaxed and comfo
 URL:https://hatefreetogether.org/event/yolo-county-library-english-conversation-group-2/2026-11-13/
 LOCATION:Arthur F Turner Community Library\, 1212 Merkley Avenue\, West Sacramento\, CA\, 95691\, United States
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Arthur-F-Turner-Library.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261114T100000
+DTEND;TZID=UTC:20261114T140000
+DTSTAMP:20261026T195039Z
+CREATED:20261026T192236Z
+LAST-MODIFIED:20261026T195039Z
+UID:10000856-1794650400-1794664800@hatefreetogether.org
+SUMMARY:Davis Phoenix Coalition: Upstander Carnival
+DESCRIPTION:The Davis Phoenix Coalition will host an Upstander Carnival for elementary-aged children from 10:00 a.m. to 2:00 p.m. at Marguerite Montgomery Elementary in Davis\, California. The carnival will feature familiar carnival games\, snacks\, and resources\, with opportunities for participants to learn about being an upstander and how to respond to bullying. The goal is to equip children with practical tools and resources to help them navigate these common and impactful situations and encourage them to stand up for others.
+URL:https://hatefreetogether.org/event/davis-phoenix-coalition-upstander-carnival/
+LOCATION:Marguerite Montgomery Elementary\, 1441 Danbury Avenue\, Davis\, CA\, 95618\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Davis-Phoenix-Coalition-Upstander-Carnival.jpg
 END:VEVENT
 END:VCALENDAR
