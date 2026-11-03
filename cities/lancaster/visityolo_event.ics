@@ -63,32 +63,6 @@ ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Mercy-Hawkins
 ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20261101T140000
-DTEND;TZID=America/Los_Angeles:20261101T213000
-DTSTAMP:20260925T215918Z
-CREATED:20260925T215918Z
-LAST-MODIFIED:20260925T215918Z
-UID:10014910-1793541600-1793568600@visityolo.com
-SUMMARY:Davis Film Festival
-DESCRIPTION:The 2026 Davis Film Festival takes place SUNDAY NOVEMBER 1ST FROM 2:00 PM-9:30 PM at the Veteran’s Memorial Theater\, 203 E. 14th Street in Davis\, CA. (PLENTY OF FREE PARKING). Films from around the world and our own backyard. Narrative\, documentary\, animation\, experimental\, shorts and features. \nTickets are $15 for VIP pass\, $10 general admission\, or $8.50 students/seniors.
-URL:https://visityolo.com/event/davis-film-festival/
-LOCATION:Davis Veterans Memorial Theater\, 277 E. 14th Street\, Davis CA\, Davis\, 95616\, United States
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20261101T173000
-DTEND;TZID=America/Los_Angeles:20261101T203000
-DTSTAMP:20260813T194113Z
-CREATED:20260813T194113Z
-LAST-MODIFIED:20260813T194113Z
-UID:10014716-1793554200-1793565000@visityolo.com
-SUMMARY:Live Music at Carboni's Ristorante
-DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
-URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-01/
-LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
-ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20261103T113000
 DTEND;TZID=America/Los_Angeles:20261103T170000
 DTSTAMP:20260928T180906Z
@@ -459,5 +433,33 @@ URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-11/
 LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
 ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261112T100000
+DTEND;TZID=America/Los_Angeles:20261112T114500
+DTSTAMP:20260928T181036Z
+CREATED:20260928T181036Z
+LAST-MODIFIED:20260928T181036Z
+UID:10014879-1794477600-1794483900@visityolo.com
+SUMMARY:Healing Arts One-Time Workshop
+DESCRIPTION:Healing Arts One-Time Workshop in Davis \nThursday\, November 12\, 10-11:45 AM \n$5 Members\, $10 Non-Members (all materials included) \n  \nPart of the Pence’s Healing Arts Program and run by facilitator Amy Vidra\, this one-time workshop focuses more broadly on themes related to depression\, anxiety\, or major life changes. Through the process of art making\, participants will have opportunities for discussion\, education\, and connecting with peers in a safe and supportive space. \n  \nRegistration is required in advance through our website\, and space is limited to the first 8 participants who register. Participants must be 18 or older\, and no art experience is necessary. This program is generously sponsored by Bob & Joanne Andresen. \n  \nRegister here (REQUIRED): https://pencegallery.org/education/programs/workshops-and-classes/ \n  \nIf you register for this session and are unable to attend\, please let us know in advance. \n  \nAny questions? Email pencegallery@gmail.com.
+URL:https://visityolo.com/event/healing-arts-one-time-workshop-8/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Healing_Arts-copy-23.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261112T113000
+DTEND;TZID=America/Los_Angeles:20261112T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014941-1794483000-1794502800@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-12/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
 END:VEVENT
 END:VCALENDAR

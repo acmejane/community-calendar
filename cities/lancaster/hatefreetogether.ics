@@ -33,20 +33,6 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/WetlandsExhibitFlyerFullPage-1187x1536-1.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261103
-DTSTAMP:20261022T223216Z
-CREATED:20260901T215508Z
-LAST-MODIFIED:20261022T223216Z
-UID:10000723-1793232000-1793663999@hatefreetogether.org
-SUMMARY:Dia de los Muertos
-DESCRIPTION:On an annual basis\, the Davis Cemetery District hosts a Dia de los Muertos (Day of the Dead) celebration on our grounds. This celebration is one of the last Mesoamerican indigenous influenced rituals\, honoring mother earth and all ancestors. This celebration is part of an effort to create a community\, a sense of belonging\, and global awareness of cultural richness in our multicultural society.
-URL:https://hatefreetogether.org/event/dia-de-los-muertos/
-LOCATION:Davis Cemetery\, 820 Pole Line Rd\, Davis\, CA\, 95618\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Dia-de-los-muertos-1.png
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261201
 DTSTAMP:20260910T214501Z
@@ -72,19 +58,6 @@ URL:https://hatefreetogether.org/event/native-american-heritage-month/
 LOCATION:CA
 CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Native-American-Heritage-Month.png
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261102T150000
-DTEND;TZID=UTC:20261102T160000
-DTSTAMP:20261022T223936Z
-CREATED:20261022T200822Z
-LAST-MODIFIED:20261022T223936Z
-UID:10000821-1793631600-1793635200@hatefreetogether.org
-SUMMARY:Yolo County Library: English Conversation Group
-DESCRIPTION:Join the Yolo County Davis Branch Library’s adult Conversation Group to practice your English in a fun and relaxed way with help from a group facilitator. Drop in visitors are welcome! For adults 18+. Location is the Mary L. Stephens Library’ Blanchard Room on Monday’s at 3:00 p.m. until the end of 2026.
-URL:https://hatefreetogether.org/event/mary-l-stephens-davis-library-english-conversation-group/2026-11-02/
-LOCATION:Mary L Stephens Davis Branch Library\, 315 E 14th Street\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Mary-L.-Stephens-Davis-Library-scaled.jpg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20261103T101500
@@ -425,5 +398,32 @@ URL:https://hatefreetogether.org/event/davis-phoenix-coalition-upstander-carniva
 LOCATION:Marguerite Montgomery Elementary\, 1441 Danbury Avenue\, Davis\, CA\, 95618\, United States
 CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Davis-Phoenix-Coalition-Upstander-Carnival.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261114T100000
+DTEND;TZID=UTC:20261114T170000
+DTSTAMP:20261028T183745Z
+CREATED:20261028T180021Z
+LAST-MODIFIED:20261028T183745Z
+UID:10000869-1794650400-1794675600@hatefreetogether.org
+SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
+DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
+URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-14/
+LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261114T140000
+DTEND;TZID=UTC:20261114T150000
+DTSTAMP:20261022T223820Z
+CREATED:20261022T223432Z
+LAST-MODIFIED:20261022T223820Z
+UID:10000851-1794664800-1794668400@hatefreetogether.org
+SUMMARY:Yolo County Library: Chinese Culture Club
+DESCRIPTION:Explore the art and culture of China. New topic every month. For ages 6-12. Location is the Mary L Stephens Davis Branch Library in the Children’s Activity Room on Saturday 2:00 p.m.
+URL:https://hatefreetogether.org/event/davis-branch-library-chinese-culture-club/
+LOCATION:Mary L Stephens Davis Branch Library\, 315 E 14th Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Mary-L.-Stephens-Davis-Library-scaled.jpg
 END:VEVENT
 END:VCALENDAR
