@@ -60,20 +60,6 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Native-American-Heritage-Month.png
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC:20261103T101500
-DTEND;TZID=UTC:20261103T111500
-DTSTAMP:20261029T202625Z
-CREATED:20261029T201635Z
-LAST-MODIFIED:20261029T202625Z
-UID:10000911-1793700900-1793704500@hatefreetogether.org
-SUMMARY:Davis Community Church: Gentle Yoga
-DESCRIPTION:Davis Community Church invites participants to Gentle Yoga\, a slower-paced\, grounding practice led by Jennifer Hogan and Diane Parro. Sessions offer an opportunity to stretch\, strengthen\, breathe\, and reconnect with body and spirit in a welcoming environment.Classes take place Tuesdays from 10:15 to 11:15 a.m. in the Fireside Room. The final sessions are October 27\, November 3\, and November 10. The cost is $20 per session\, with a sliding scale available. Click here for the registration form.
-URL:https://hatefreetogether.org/event/davis-community-church-gentle-yoga/2026-11-03/
-LOCATION:Davis Community Church\, 412 C Street\, Davis\, CA\, 95616\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Davis-Community-Church.jpg
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=UTC:20261104T100000
 DTEND;TZID=UTC:20261104T170000
 DTSTAMP:20261028T183745Z
@@ -425,5 +411,19 @@ DESCRIPTION:Explore the art and culture of China. New topic every month. For age
 URL:https://hatefreetogether.org/event/davis-branch-library-chinese-culture-club/
 LOCATION:Mary L Stephens Davis Branch Library\, 315 E 14th Street\, Davis\, CA\, 95616\, United States
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Mary-L.-Stephens-Davis-Library-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20261028T183617Z
+CREATED:20261028T182406Z
+LAST-MODIFIED:20261028T183617Z
+UID:10000899-1794787200-1794873599@hatefreetogether.org
+SUMMARY:International Day for Tolerance
+DESCRIPTION:The International Day for Tolerance encourages respect\, understanding\, and appreciation for people whose beliefs\, cultures\, and experiences differ from our own. It reminds us that building inclusive communities begins with listening\, challenging prejudice\, and treating every person with dignity. \nLearn more at the United Nations (UNESCO) Website.
+URL:https://hatefreetogether.org/event/2172/
+LOCATION:CA
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/toleranceday-fullarticle.jpg
 END:VEVENT
 END:VCALENDAR
