@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T03:26:35.999623",
+  "generated": "2026-11-05T03:49:32.902747",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34887,6 +34887,10 @@
             {
               "date": "2026-11-04",
               "count": 2
+            },
+            {
+              "date": "2026-11-05",
+              "count": 2
             }
           ]
         },
@@ -35850,6 +35854,10 @@
             },
             {
               "date": "2026-11-04",
+              "count": 27
+            },
+            {
+              "date": "2026-11-05",
               "count": 27
             }
           ]
@@ -36815,6 +36823,10 @@
             {
               "date": "2026-11-04",
               "count": 0
+            },
+            {
+              "date": "2026-11-05",
+              "count": 0
             }
           ]
         },
@@ -37778,6 +37790,10 @@
             },
             {
               "date": "2026-11-04",
+              "count": 10
+            },
+            {
+              "date": "2026-11-05",
               "count": 10
             }
           ]
@@ -38743,6 +38759,10 @@
             {
               "date": "2026-11-04",
               "count": 10
+            },
+            {
+              "date": "2026-11-05",
+              "count": 10
             }
           ]
         },
@@ -39706,6 +39726,10 @@
             },
             {
               "date": "2026-11-04",
+              "count": 10
+            },
+            {
+              "date": "2026-11-05",
               "count": 10
             }
           ]
@@ -40671,6 +40695,10 @@
             {
               "date": "2026-11-04",
               "count": 0
+            },
+            {
+              "date": "2026-11-05",
+              "count": 0
             }
           ]
         },
@@ -41634,6 +41662,10 @@
             },
             {
               "date": "2026-11-04",
+              "count": 0
+            },
+            {
+              "date": "2026-11-05",
               "count": 0
             }
           ]
@@ -42599,6 +42631,10 @@
             {
               "date": "2026-11-04",
               "count": 10
+            },
+            {
+              "date": "2026-11-05",
+              "count": 10
             }
           ]
         },
@@ -43562,6 +43598,10 @@
             },
             {
               "date": "2026-11-04",
+              "count": 0
+            },
+            {
+              "date": "2026-11-05",
               "count": 0
             }
           ]
@@ -44527,6 +44567,10 @@
             {
               "date": "2026-11-04",
               "count": 0
+            },
+            {
+              "date": "2026-11-05",
+              "count": 0
             }
           ]
         },
@@ -45490,6 +45534,10 @@
             },
             {
               "date": "2026-11-04",
+              "count": 19
+            },
+            {
+              "date": "2026-11-05",
               "count": 19
             }
           ]
@@ -46455,6 +46503,10 @@
             {
               "date": "2026-11-04",
               "count": 29
+            },
+            {
+              "date": "2026-11-05",
+              "count": 29
             }
           ]
         }
@@ -46462,11 +46514,11 @@
       "categories": [
         {
           "category": "Community / Social",
-          "count": 24
+          "count": 25
         },
         {
           "category": "Arts / Culture",
-          "count": 21
+          "count": 20
         },
         {
           "category": "Music / Concerts",
@@ -46498,7 +46550,7 @@
         },
         {
           "category": "Family / Kids",
-          "count": 3
+          "count": 2
         },
         {
           "category": "Sports / Fitness",
@@ -46510,8 +46562,8 @@
         }
       ],
       "images": {
-        "total": 108,
-        "with_image": 68,
+        "total": 107,
+        "with_image": 67,
         "by_source": [
           {
             "source": "Hate-Free Together",
@@ -46520,25 +46572,25 @@
           },
           {
             "source": "Visityolo Event",
-            "total": 22,
-            "with_image": 22
+            "total": 21,
+            "with_image": 21
           },
           {
             "source": "Visit Davis",
-            "total": 12,
-            "with_image": 12
+            "total": 11,
+            "with_image": 11
           },
           {
             "source": "Visit Davis, Visityolo Event",
-            "total": 7,
-            "with_image": 7
+            "total": 8,
+            "with_image": 8
           }
         ]
       },
       "url_quality": {
-        "total_with_url": 106,
-        "total_events": 108,
-        "unique_urls": 106,
+        "total_with_url": 105,
+        "total_events": 107,
+        "unique_urls": 105,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
@@ -46552,14 +46604,14 @@
           },
           {
             "source": "Visityolo Event",
-            "events": 22,
-            "unique_urls": 22,
+            "events": 21,
+            "unique_urls": 21,
             "specificity_pct": 100
           },
           {
             "source": "Visit Davis",
-            "events": 12,
-            "unique_urls": 12,
+            "events": 11,
+            "unique_urls": 11,
             "specificity_pct": 100
           },
           {
@@ -46575,6 +46627,12 @@
             "specificity_pct": 100
           },
           {
+            "source": "Visit Davis, Visityolo Event",
+            "events": 8,
+            "unique_urls": 8,
+            "specificity_pct": 100
+          },
+          {
             "source": "Meetup: Mosaics",
             "events": 8,
             "unique_urls": 8,
@@ -46584,12 +46642,6 @@
             "source": "Meetup Intercultural Mosaics",
             "events": 8,
             "unique_urls": 8,
-            "specificity_pct": 100
-          },
-          {
-            "source": "Visit Davis, Visityolo Event",
-            "events": 7,
-            "unique_urls": 7,
             "specificity_pct": 100
           },
           {

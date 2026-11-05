@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Visit Yolo County California, Davis, Winters, Clarksburg, Capay Valley, Woodland - ECPv6.18.2//NONSGML v1.0//EN
+PRODID:-//Visit Yolo County California, Davis, Winters, Clarksburg, Capay Valley, Woodland - ECPv6.18.3//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Visit Yolo County California, Davis, Winters, Clarksburg, Capay Valley, Woodland
@@ -60,20 +60,6 @@ DESCRIPTION:Mercy Hawkins: Waltz of Life & Limb in Davis \nExhibit: October 3 �
 URL:https://visityolo.com/event/mercy-hawkins-waltz-of-life-and-limb/
 LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Mercy-Hawkins-Melting-Ice-500kb.jpg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20261104T113000
-DTEND;TZID=America/Los_Angeles:20261104T170000
-DTSTAMP:20260928T180906Z
-CREATED:20260928T180906Z
-LAST-MODIFIED:20260928T180906Z
-UID:10014934-1793791800-1793811600@visityolo.com
-SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
-DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
-URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-04/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
 ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
 END:VEVENT
 BEGIN:VEVENT
@@ -460,5 +446,19 @@ DESCRIPTION:ZG Smith pairs poignant\, ethereal songwriting with a rich Americana
 URL:https://visityolo.com/event/park-winters-holiday-farm-dinner-concert/
 LOCATION:Park Winters\, Park Winters\, 27850 County Road 26 Winters\, CA 95694
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/DJI_0496-11.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261112T193000
+DTEND;TZID=America/Los_Angeles:20261112T213000
+DTSTAMP:20261005T171044Z
+CREATED:20261005T171044Z
+LAST-MODIFIED:20261005T171044Z
+UID:10015281-1794511800-1794519000@visityolo.com
+SUMMARY:Big Joe Kennedy Live @ The Melon Ball
+DESCRIPTION:Live music in Davis! \nBig Joe Kennedy is a New Orleans pianist\, bandleader\, and performer known for concert experiences that are as musically rich as they are audience-engaging. \nRooted in the blues and jazz scenes of Milwaukee and Chicago\, Kennedy earned a graduate degree in performance in Las Vegas before relocating to New Orleans in 2009. He served as pianist with the Dukes of Dixieland from 2013 to 2022\, performing for audiences across the country\, and remains a fixture at premier New Orleans venues including Mahogany Jazz Hall\, The New Orleans Jazz National Historical Park\, and The Carousel Lounge. \nHis concert program\, A Taste of New Orleans\, guides audiences through the traditions that shaped American music\, from Traditional Jazz to New Orleans R&B\, with the authority and warmth of an artist who has spent decades inside this music.\n“BJK is one of NOLA’s better-kept secrets. He’s got a strong pianistic touch\, immersed in the NOLA tradition of Dr. John and James Booker. In addition he’s a booming\, bluesy singer who can turn sly quickly.” – Tom McDermott\, OffBeat \n“Kennedy sings with smoothness and plays with great feeling.” – Steve Jones\, Blues Blast Magazine \nHouse of the Rising Sun (Video)\nTaste of New Orleans (Promo Video) \nBig Joe Kennedy’s Website \n$20 General Admission\n$15 Seniors (in-store or at the door only)\n$15 Students (in-store or at the door only\, w/ID)\nKids under 12 are free. \nDoors open at 7:00pm \nCash or Venmo at the door only (no Credit Card) \nThis is a BYOB event!
+URL:https://visityolo.com/event/big-joe-kennedy-live-the-melon-ball/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/BJK_Web-2.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
 END:VEVENT
 END:VCALENDAR
