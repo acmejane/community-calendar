@@ -60,48 +60,6 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Native-American-Heritage-Month.png
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC:20261107T100000
-DTEND;TZID=UTC:20261107T170000
-DTSTAMP:20261028T183745Z
-CREATED:20261028T180021Z
-LAST-MODIFIED:20261028T183745Z
-UID:10000865-1794045600-1794070800@hatefreetogether.org
-SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
-DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
-URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-07/
-LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261107T140000
-DTEND;TZID=UTC:20261107T200000
-DTSTAMP:20260901T213550Z
-CREATED:20260901T213550Z
-LAST-MODIFIED:20260901T213550Z
-UID:10000717-1794060000-1794081600@hatefreetogether.org
-SUMMARY:International Festival Davis
-DESCRIPTION:Join us on November 7 at International House Davis for I-Fest 2026\, our International Festival Davis! \nFor one day\, we open our doors wide to celebrate and uplift the many cultures and people who make our region so vibrant. Explore cultural and artisan booths throughout I-House\, enjoy food trucks out front\, and experience a full lineup of performances on our backyard stage. It’s an open house in the truest sense: for the day\, this is your house too\, and every culture and community has a place here. \nI-Fest is a celebration\, but your participation also supports the work I-House does all year long: welcoming newcomers\, supporting English learners\, and helping people from around the world find connection and community in Davis. At a time when many of us are feeling anxious or disconnected\, creating spaces for joy\, belonging\, and connection feels more important than ever. Come celebrate cultures\, meet new people\, share in the joy\, and experience what makes our community so special. \nFor one day\, I-House is your house. Come be part of it.
-URL:https://hatefreetogether.org/event/international-festival-davis/
-LOCATION:International House Davis\, 10 College Park\, Davis\, 95616\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/International-Festival-2026.png
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261107T160000
-DTEND;TZID=UTC:20261107T180000
-DTSTAMP:20261029T203102Z
-CREATED:20261029T203102Z
-LAST-MODIFIED:20261029T203102Z
-UID:10000916-1794067200-1794074400@hatefreetogether.org
-SUMMARY:Davis Chinese Christian Church: Children's Ministry Fall Festival
-DESCRIPTION:Davis Chinese Christian Church invites families in the church and wider community to a Children’s Ministry Fall Festival on Saturday\, November 7\, 2026\, from 4:00 to 6:00 p.m. at 536 Anderson Road\, Davis\, CA 95616. The event will feature activities for children\, followed by a potluck dinner in the church’s new fellowship hall. \nFamilies and community members are welcome to join in an afternoon of activities\, food\, and connection.
-URL:https://hatefreetogether.org/event/davis-chinese-christian-church-childrens-ministry-fall-festival/
-LOCATION:Davis Chinese Christian Church\, 536 Anderson Road\, Davis\, CA\, 95616\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/Davis-Chinese-Christian-Church.webp
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 DTSTAMP:20261028T183655Z
@@ -427,5 +385,46 @@ URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-fro
 LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
 CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261120T133000
+DTEND;TZID=UTC:20261120T143000
+DTSTAMP:20261022T230935Z
+CREATED:20261022T195355Z
+LAST-MODIFIED:20261022T230935Z
+UID:10000751-1795181400-1795185000@hatefreetogether.org
+SUMMARY:Yolo County Library: English Conversation Group
+DESCRIPTION:Practice speaking English with other learners in a relaxed and comfortable environment\, led by a native speaker. No registration is required\, and drop-in participants are always welcome. Location is the Arthur F. Turner Community Library in West Sacramento on Friday’s at 1:30 pm. For adults that are 18+ years old.
+URL:https://hatefreetogether.org/event/yolo-county-library-english-conversation-group-2/2026-11-20/
+LOCATION:Arthur F Turner Community Library\, 1212 Merkley Avenue\, West Sacramento\, CA\, 95691\, United States
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Arthur-F-Turner-Library.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261121T100000
+DTEND;TZID=UTC:20261121T170000
+DTSTAMP:20261028T183745Z
+CREATED:20261028T180021Z
+LAST-MODIFIED:20261028T183745Z
+UID:10000873-1795255200-1795280400@hatefreetogether.org
+SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
+DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
+URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-21/
+LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261121T180000
+DTEND;TZID=UTC:20261121T203000
+DTSTAMP:20261029T203720Z
+CREATED:20261029T203642Z
+LAST-MODIFIED:20261029T203720Z
+UID:10000918-1795284000-1795293000@hatefreetogether.org
+SUMMARY:Discovery Christian Church: Friendsgiving
+DESCRIPTION:Discovery Christian Church invites community members to a Friendsgiving dinner on Saturday\, November 21\, from 6:00 to 8:30 p.m. at Discovery Hub\, 604 3rd Street\, Suite 100\, Davis\, CA 95616. The gathering welcomes unhoused neighbors to share a meal and celebrate the holiday season together. \nParticipants are encouraged to bring a favorite dish to share and invite friends to join in an evening of food\, connection\, and community. Register for the event through this link.
+URL:https://hatefreetogether.org/event/discovery-christian-church-friendsgiving/
+LOCATION:Discovery Hub\, 604 3rd St\, Suite 100\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Discovery-Hub-Discovery-Christian-Church.jpg
 END:VEVENT
 END:VCALENDAR
