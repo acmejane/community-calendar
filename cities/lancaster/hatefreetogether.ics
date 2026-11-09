@@ -60,20 +60,6 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Native-American-Heritage-Month.png
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-DTSTAMP:20261028T183655Z
-CREATED:20261028T181614Z
-LAST-MODIFIED:20261028T183655Z
-UID:10000897-1794096000-1794182399@hatefreetogether.org
-SUMMARY:Diwali\, Festival of Lights
-DESCRIPTION:Diwali is celebrated by many Hindus\, Jains\, Sikhs\, and some Buddhists\, with traditions that vary across communities. Often associated with light\, hope\, renewal\, and the triumph of good over evil\, the festival brings families and communities together. Learning about Diwali is one way to celebrate religious diversity and build understanding across cultures. \nLearn more here.
-URL:https://hatefreetogether.org/event/diwali-festival-of-lights/
-LOCATION:CA
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Diwali.png
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=UTC:20261109T090000
 DTEND;TZID=UTC:20261109T110000
 DTSTAMP:20261022T230244Z
@@ -426,5 +412,18 @@ URL:https://hatefreetogether.org/event/discovery-christian-church-friendsgiving/
 LOCATION:Discovery Hub\, 604 3rd St\, Suite 100\, Davis\, CA\, 95616\, United States
 CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Discovery-Hub-Discovery-Christian-Church.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261123T150000
+DTEND;TZID=UTC:20261123T160000
+DTSTAMP:20261022T223936Z
+CREATED:20261022T200822Z
+LAST-MODIFIED:20261022T223936Z
+UID:10000824-1795446000-1795449600@hatefreetogether.org
+SUMMARY:Yolo County Library: English Conversation Group
+DESCRIPTION:Join the Yolo County Davis Branch Library’s adult Conversation Group to practice your English in a fun and relaxed way with help from a group facilitator. Drop in visitors are welcome! For adults 18+. Location is the Mary L. Stephens Library’ Blanchard Room on Monday’s at 3:00 p.m. until the end of 2026.
+URL:https://hatefreetogether.org/event/mary-l-stephens-davis-library-english-conversation-group/2026-11-23/
+LOCATION:Mary L Stephens Davis Branch Library\, 315 E 14th Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Mary-L.-Stephens-Davis-Library-scaled.jpg
 END:VEVENT
 END:VCALENDAR
