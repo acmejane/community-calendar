@@ -7,109 +7,11 @@ X-WR-CALNAME:Lancaster Community Calendar
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/artist-talk-with-gioia-fonda/"}
-X-SOURCE-ID:visitdavis
-X-SOURCE:Visit Davis
-DTSTART;TZID=America/Los_Angeles:20261108T140000
-DTEND;TZID=America/Los_Angeles:20261108T153000
-DTSTAMP:20261108T180022Z
-CREATED:20260924T160025Z
-LAST-MODIFIED:20261108T180022Z
-UID:10003066-1794146400-1794151800@visitdavis.org
-SUMMARY:Artist Talk with Gioia Fonda
-DESCRIPTION:Artist Talk with Gioia Fonda in Davis \nSunday\, November 8\, 2-3:30 PM (Free) \n  \nGioia Fonda is a multi-media artist and educator whose new series harkens back to her still-life work from almost 30 years ago. Enjoy a lively talk with Fonda that sets the stage for exploration into her interest in the relationships between objects\, the influence of mentors such as Charlie Gill\, and more.  \n  \nVisitors can view portraits of things: Paintings by Gioia Fonda and Charlie Gill is on display at the Pence Gallery from October 9 – November 29\, 2026.
-URL:https://visitdavis.org/event/artist-talk-with-gioia-fonda/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Gioia-Fonda-copy-YcoSSt.jpg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-08/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261108T173000
-DTEND;TZID=America/Los_Angeles:20261108T203000
-DTSTAMP:20260813T194113Z
-CREATED:20260813T194113Z
-LAST-MODIFIED:20260813T194113Z
-UID:10014718-1794159000-1794169800@visityolo.com
-SUMMARY:Live Music at Carboni's Ristorante
-DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
-URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-08/
-LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
-ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/the-yolo-center-for-language-and-literacy-navigating-changes-to-language-literacy-policy-in-ca-webinar/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261109T090000
-DTEND;TZID=UTC:20261109T110000
-DTSTAMP:20261022T230244Z
-CREATED:20261022T230244Z
-LAST-MODIFIED:20261022T230244Z
-UID:10000855-1794214800-1794222000@hatefreetogether.org
-SUMMARY:The Yolo Center for Language and Literacy: Navigating Changes to Language & Literacy Policy in CA Webinar
-DESCRIPTION:The Yolo Center for Language and Literacy invites educators to join a virtual learning session on recent legislative updates affecting language and literacy assessment\, instruction\, and funding. Register at tinyurl.com/myjhrndk. It is on November 9\, 9am-11am via Zoom. \nTopics include:\n▪️Assembly Bill 2555: English Learner Reclassification changes\n▪️TK-8 ELA/ELD Instructional Materials Follow-Up Adoption\n▪️Assembly Bill 121: Literacy Professional Development Programs\, funding allocations\, and reporting
-URL:https://hatefreetogether.org/event/the-yolo-center-for-language-and-literacy-navigating-changes-to-language-literacy-policy-in-ca-webinar/
-LOCATION:Zoom
-ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/California-Literacy-Policy-Webinar-Flyer.png
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/mary-l-stephens-davis-library-english-conversation-group/2026-11-09/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261109T150000
-DTEND;TZID=UTC:20261109T160000
-DTSTAMP:20261022T223936Z
-CREATED:20261022T200822Z
-LAST-MODIFIED:20261022T223936Z
-UID:10000822-1794236400-1794240000@hatefreetogether.org
-SUMMARY:Yolo County Library: English Conversation Group
-DESCRIPTION:Join the Yolo County Davis Branch Library’s adult Conversation Group to practice your English in a fun and relaxed way with help from a group facilitator. Drop in visitors are welcome! For adults 18+. Location is the Mary L. Stephens Library’ Blanchard Room on Monday’s at 3:00 p.m. until the end of 2026.
-URL:https://hatefreetogether.org/event/mary-l-stephens-davis-library-english-conversation-group/2026-11-09/
-LOCATION:Mary L Stephens Davis Branch Library\, 315 E 14th Street\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Mary-L.-Stephens-Davis-Library-scaled.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/317067670/"}
-X-SOURCE-ID:meetup_mindful_embodied_spirituality
-X-SOURCE:Meetup Mindful Embodied Spirituality
-UID:event_317067670@meetup.com
-SEQUENCE:1
-DTSTAMP:20261109T030732Z
-DTSTART;TZID=America/Los_Angeles:20261109T180000
-DTEND;TZID=America/Los_Angeles:20261109T200000
-SUMMARY:Conscious Conversations & Somatic Practices  
-DESCRIPTION:Iama Embodied Community\nThis is a spiritual community that ho
- nors the body’s wisdom and lived experience. Whether you’re healing fr
- om religious trauma\, deconstructing beliefs\, exploring spirituality\, or
-  just want to be with other conscious persons\, this space is for you.\n\n
- Expect conscious conversations\, meditation\, breathwork\, sound healing\,
-  and other somatic practices to help reconnect with ourselves and each oth
- er.\n\nwe share a potluck dinner every last Monday of the month.\n\n📅 *
- *Date & Time**: Mondays 6-8 PM\n📍 **Location**: 727 T St. Sacramento\, 
- Ca\, 95811\n💜 **All our events are free\, donations supported.**\n✨ *
- *No prior experience or spiritual beliefs necessary.**\n📩 **RSVP/ Quest
- ions? Reach out at** embody.iama@gmail.com\n🔗 **Follow us on Instagram:
- ** [@embody.iama](https://www.instagram.com/embody.iama)\n\nPS: we meet in
-  the social hall of Parkview Presbyterian Church. Please find us through t
- he back entrance\, the brown gate on Solons alley. You may park in the bac
- k\, move the orange post to park and please return it when you leave.
-URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
- 317067670/
-STATUS:CONFIRMED
-CREATED:20261021T012426Z
-LAST-MODIFIED:20261021T012426Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-ID:gcal_davisbikeclubwww
 X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261109T190000
 DTEND;TZID=America/Los_Angeles:20261109T200000
-DTSTAMP:20261109T030737Z
+DTSTAMP:20261110T045216Z
 UID:61h62c9p68qj0bb3c4qjcb9kc9gmabb2cgrj6b9pcosjgchg71i68pb474@google.com
 RECURRENCE-ID;TZID=America/Los_Angeles:20261109T190000
 CREATED:20260913T010347Z
@@ -203,7 +105,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317054607@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030732Z
+DTSTAMP:20261110T045211Z
 DTSTART;TZID=America/Los_Angeles:20261110T180000
 DTEND;TZID=America/Los_Angeles:20261110T200000
 SUMMARY:Let's talk about Female Sexuality & Fluidity
@@ -321,7 +223,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_317098032@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045210Z
 DTSTART;TZID=America/Los_Angeles:20261111T170000
 DTEND;TZID=America/Los_Angeles:20261111T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -388,9 +290,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20261112T100000
 DTEND;TZID=America/Los_Angeles:20261112T114500
-DTSTAMP:20261108T180022Z
+DTSTAMP:20261109T180021Z
 CREATED:20260929T180054Z
-LAST-MODIFIED:20261108T180022Z
+LAST-MODIFIED:20261109T180021Z
 UID:10003075-1794477600-1794483900@visitdavis.org
 SUMMARY:Healing Arts One-Time Workshop
 DESCRIPTION:Healing Arts One-Time Workshop in Davis \nThursday\, November 12\, 10-11:45 AM \n$5 Members\, $10 Non-Members (all materials included) \n  \nPart of the Pence’s Healing Arts Program and run by facilitator Amy Vidra\, this one-time workshop focuses more broadly on themes related to depression\, anxiety\, or major life changes. Through the process of art making\, participants will have opportunities for discussion\, education\, and connecting with peers in a safe and supportive space. \n  \nRegistration is required in advance through our website\, and space is limited to the first 8 participants who register. Participants must be 18 or older\, and no art experience is necessary. This program is generously sponsored by Bob & Joanne Andresen. \n  \nRegister here (REQUIRED): https://pencegallery.org/education/programs/workshops-and-classes/ \n  \nIf you register for this session and are unable to attend\, please let us know in advance. \n  \nAny questions? Email pencegallery@gmail.com.
@@ -438,7 +340,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317115298@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030732Z
+DTSTAMP:20261110T045211Z
 DTSTART;TZID=America/Los_Angeles:20261112T180000
 DTEND;TZID=America/Los_Angeles:20261112T190000
 SUMMARY:Free Yoga Practice
@@ -482,9 +384,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20261112T193000
 DTEND;TZID=America/Los_Angeles:20261112T213000
-DTSTAMP:20261108T180025Z
+DTSTAMP:20261109T180022Z
 CREATED:20261005T173054Z
-LAST-MODIFIED:20261108T180025Z
+LAST-MODIFIED:20261109T180022Z
 UID:10003083-1794511800-1794519000@visitdavis.org
 SUMMARY:Big Joe Kennedy Live @ The Melon Ball
 DESCRIPTION:Live music in Davis! \nBig Joe Kennedy is a New Orleans pianist\, bandleader\, and performer known for concert experiences that are as musically rich as they are audience-engaging. \nRooted in the blues and jazz scenes of Milwaukee and Chicago\, Kennedy earned a graduate degree in performance in Las Vegas before relocating to New Orleans in 2009. He served as pianist with the Dukes of Dixieland from 2013 to 2022\, performing for audiences across the country\, and remains a fixture at premier New Orleans venues including Mahogany Jazz Hall\, The New Orleans Jazz National Historical Park\, and The Carousel Lounge. \nHis concert program\, A Taste of New Orleans\, guides audiences through the traditions that shaped American music\, from Traditional Jazz to New Orleans R&B\, with the authority and warmth of an artist who has spent decades inside this music.\n“BJK is one of NOLA’s better-kept secrets. He’s got a strong pianistic touch\, immersed in the NOLA tradition of Dr. John and James Booker. In addition he’s a booming\, bluesy singer who can turn sly quickly.” – Tom McDermott\, OffBeat \n“Kennedy sings with smoothness and plays with great feeling.” – Steve Jones\, Blues Blast Magazine \nHouse of the Rising Sun (Video)\nTaste of New Orleans (Promo Video) \nBig Joe Kennedy’s Website \n$20 General Admission\n$15 Seniors (in-store or at the door only)\n$15 Students (in-store or at the door only\, w/ID)\nKids under 12 are free. \nDoors open at 7:00pm \nCash or Venmo at the door only (no Credit Card) \nThis is a BYOB event!
@@ -533,9 +435,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20261113T113000
 DTEND;TZID=America/Los_Angeles:20261113T170000
-DTSTAMP:20261108T180036Z
+DTSTAMP:20261109T180033Z
 CREATED:20261023T173052Z
-LAST-MODIFIED:20261108T180036Z
+LAST-MODIFIED:20261109T180033Z
 UID:10003097-1794569400-1794589200@visitdavis.org
 SUMMARY:Pence Gallery Holiday Market
 DESCRIPTION:Pence Gallery Holiday Market in Davis \nNovember 13 – December 24\, 11:30 AM – 5 PM (Open daily*) \nReception: November 13\, 6-9 PM (Free) \nOur Holiday Market is a treasure trove of hand-crafted items created by regional artists and artisans\, perfect for holiday gift giving. Visitors can enjoy shopping for unique ceramics\, cozy knit scarves\, handmade jewelry\, amazing paintings\, and more! There are over 50 artists participating this year\, and our gallery will be overflowing with fun items that will make great gifts for loved ones. \n  \nHoliday Market Member Opening \nFriday\, November 13\, 10:30-11:30 AM (Free) \nPence Members are invited to enjoy a private opening of the Holiday Market from 10:30-11:30 AM. Enjoy delicious treats and coffee\, while getting first dibs on shopping for holiday treasures. Pence Members receive 10% off Holiday Market purchases. Not a Member? Sign up online at pencegallery.org or in person at the gallery. \n  \n*The Holiday Market is open daily from 11:30 AM – 5 PM (including Mondays)\, with the following exceptions: \nNov. 25: Closes at 3 PM \nNov. 26: Closed for Thanksgiving Day \nDec. 24: Closes at 3 PM (final day)
@@ -584,9 +486,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20261113T180000
 DTEND;TZID=America/Los_Angeles:20261113T210000
-DTSTAMP:20261108T180048Z
+DTSTAMP:20261109T180049Z
 CREATED:20261023T173109Z
-LAST-MODIFIED:20261108T180048Z
+LAST-MODIFIED:20261109T180049Z
 UID:10003098-1794592800-1794603600@visitdavis.org
 SUMMARY:2nd Friday ArtAbout at the Pence Gallery
 DESCRIPTION:Join us at the Pence Gallery in Davis for our 2nd Friday ArtAbout reception on November 13th\, 6-9 PM. Enjoy browsing multiple art exhibits\, complimentary wine\, and shopping in our Holiday Market. Free admission! \n  \nHoliday Market | Nov. 13 – Dec. 24\, 2026 \nShop from a treasure trove of handcrafted items created by 50+ regional artists and artisans\, perfect for holiday gift giving. Browse unique ceramics\, cozy knit scarves\, handmade jewelry\, amazing paintings\, and more! \n  \nportraits of things: Paintings by Gioia Fonda and Charlie Gill | Oct. 9 – Nov. 29\, 2026 \nThis series features Gioia Fonda’s new paintings of arrangements of toys and found objects\, alongside paintings by her advisor Charlie Gill based on her past still-life photographs. \n  \nDanilo Campos: Out and About | Oct. 9 – Nov. 29\, 2026 \nDanilo Campos’ paintings explore his love of new places and experiences\, reflecting his way of seeming to mindlessly go ‘out and about\,’ but coming back with gems of resources. \n  \nMisuk Goltz’s Class: Expressive Watercolor | Oct. 2 – Nov. 15\, 2026 \nThis stairway show illustrates what Misuk Goltz’s watercolor students have achieved during the course of her workshops and reflects the community of painting\, encouragement\, and friendship that she has fostered while teaching at the Pence since 2020.  \n  \n— \n  \nVisit the Pence and other venues in Downtown Davis for the 2nd Friday ArtAbout art walk. We will have printed ArtAbout guides available that week. Follow the ArtAbout’s Facebook page for more information: https://www.facebook.com/davisartabout. \n  \nImages: \nGioia Fonda\, “Chickenbear” \nDanilo Campos\, “Holoholo” \nMegan Lowry\, “Dog Park” \nHoliday Market 2025
@@ -619,9 +521,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20261113T200000
 DTEND;TZID=America/Los_Angeles:20261113T220000
-DTSTAMP:20261108T180028Z
+DTSTAMP:20261109T180025Z
 CREATED:20261005T173055Z
-LAST-MODIFIED:20261108T180028Z
+LAST-MODIFIED:20261109T180025Z
 UID:10003084-1794600000-1794607200@visitdavis.org
 SUMMARY:Star Vista\, 5th St Gallos\, and Dark Satellite Live @ The Melon Bal
 DESCRIPTION:Off color and off the rails. Star Vista\, 5th St Gallos and Dark Satellite are rockin’ melons on stage at the Melon Ball in Davis. Strap in for the ultimate thrill ride and get your melon rocked!! \nSTAR VISTA is ready to set the world ablaze with their electrifying brand of pop savvy\, fist pumping rock n roll. Breaking out onto Sacramento’s vibrant music scene\, STAR VISTA is on a mission to bring big\, fun and exciting rock music to the good people. \nTheir music is loaded with catchy hooks\, infectious guitar riffs\, smooth bass grooves\, stellar drums\, impassioned vocals\, and are sure to bring out the inner rocker in any music fan. \nStar Vista’s Links: \n\nInstagram\nFacebook\nSpotify\n\n5TH St Gallos – The music curated by the Gallos of the Fifth can be described as an amalgamated sound bringing folk punk vocals through prog heavy bass riffs\, riding out jazz metal groves on percussion. \nThey hail from the “Dirty 530” aka YOLO County or more reasonably known as Woodland. Through their love of music\, art\, literature and snuff films these three locals have combined forces to bring a raw\, guttural natural energy that leaves audiences in a state of motion. \nMexican culture is evident in their music as they sing in Spanish at times over punk heavy melodic riffs or dark themes of death and consumption in varied time signatures. \nFifth Street Gallos were born through ear splitting train whistles waking up members at their “Coop” the infamous band party house on 5th where Roosters\, hens and chicks openly roamed the street and sang through the day. \nThe Gallos intend to take audiences to the after party reality that is the birth of their sound – Like the birds chirping in the morning and the sun rising\, exposing all your flaws while cleansing you of previous woes. \n5th St Gallos’ Links: \n\nInstagram\nSpotify\n\nDARK SATELLITE – From multiple cities and influences of music\, comes a band that has quickly carved their own sonic path. Dark Satellite’s three members grew up playing different styles\, coming together to form a one of a kind band with a coalescence of riffs and song structures. Mixing various types of rock genres\, blues\, jazz and experimental indie progressions\, results in their own unique aesthetic and wall of sound. \nTheir current album “Splitting Image” was released in August of 2025. As well as written and recorded in about a year and a half in between Dark Satellite’s touring schedule. Every riff\, chord and melody that struck an emotional kick with all members was included in this album. “Splitting Image” came to life on its own. Through every set back and downfall they faced as a band they decided to keep pushing\, keep booking\, and to keep writing. This current album showcases what the band has been through\, and the overall direction they are going in\, style and attitude wise. \nAll members are constantly becoming inspired by one another and want nothing but to sound like themselves. Dark Satellite is Charlie Hanlon\, Trevor Gabriel and Travis Drumm. Currently gigging all over California. As well as touring to Portland\, Seattle and Wisconsin. \nDark Satellite’s Links: \n\nInstagram\nSpotify\nLinkTree\n\n$15 General Admission\nDoors open at 7:30pm \nCash or Venmo at the door only (no Credit Card) \nThis is a BYOB event!
@@ -653,7 +555,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261114T093000
 DTEND;TZID=America/Los_Angeles:20261114T120000
 RRULE:FREQ=MONTHLY;BYDAY=2SA
-DTSTAMP:20261109T030737Z
+DTSTAMP:20261110T045216Z
 UID:gincdr1u7tf5anhg3mmekvcks1@google.com
 CREATED:20260923T154127Z
 DESCRIPTION:Ride description: <a href="https://davisbikeclub.org/3-bumps-fr
@@ -805,9 +707,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20261114T140000
 DTEND;TZID=America/Los_Angeles:20261114T160000
-DTSTAMP:20261108T180048Z
+DTSTAMP:20261109T180049Z
 CREATED:20260816T180108Z
-LAST-MODIFIED:20261108T180048Z
+LAST-MODIFIED:20261109T180049Z
 UID:10003031-1794664800-1794672000@visitdavis.org
 SUMMARY:Davis Musical Theatre Presents The Lion King Jr
 DESCRIPTION:Davis Musical Theatre Company Presents: Disney’s The Lion King Jr. \nIn the Pride Lands of the African savanna\, an adventurous lion cub named Simba is destined to succeed his father\, Mufasa\, as king. When Simba’s jealous uncle Scar causes Mufasa’s death\, he manipulates Simba into believing he is responsible. Overcome with guilt\, Simba flees his home\, leaving Scar to seize control of the kingdom. \nYears later\, Simba must confront his past and decide whether he is ready to accept his identity\, return to the Pride Lands\, and fulfill his responsibilities. Featuring beloved songs including “Circle of Life\,” “I Just Can’t Wait to Be King\,” “Hakuna Matata\,” and “Can You Feel the Love Tonight\,” Disney’s The Lion King JR. is a vibrant story of family\, courage\, identity\, and discovering one’s place in the world. \nRecommended for audiences of all ages.
@@ -822,7 +724,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317137567@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045209Z
 DTSTART;TZID=America/Los_Angeles:20261114T150000
 DTEND;TZID=America/Los_Angeles:20261114T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -860,7 +762,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317138247@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045209Z
 DTSTART;TZID=America/Los_Angeles:20261114T160000
 DTEND;TZID=America/Los_Angeles:20261114T170000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -898,7 +800,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317138371@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045209Z
 DTSTART;TZID=America/Los_Angeles:20261114T160000
 DTEND;TZID=America/Los_Angeles:20261114T170000
 SUMMARY:Mosaics Beginning Japanese in Person
@@ -916,7 +818,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317138780@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045210Z
 DTSTART;TZID=America/Los_Angeles:20261114T170000
 DTEND;TZID=America/Los_Angeles:20261114T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -955,7 +857,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317138779@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045209Z
 DTSTART;TZID=America/Los_Angeles:20261114T170000
 DTEND;TZID=America/Los_Angeles:20261114T180000
 SUMMARY:Mosaics Beginning Spanish in Person
@@ -994,7 +896,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_317139516@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045210Z
 DTSTART;TZID=America/Los_Angeles:20261114T180000
 DTEND;TZID=America/Los_Angeles:20261114T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1034,7 +936,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_317140090@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045210Z
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1091,9 +993,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis, Visityolo Event
 DTSTART;TZID=America/Los_Angeles:20261114T200000
 DTEND;TZID=America/Los_Angeles:20261114T220000
-DTSTAMP:20261108T180019Z
+DTSTAMP:20261109T180019Z
 CREATED:20261015T173013Z
-LAST-MODIFIED:20261108T180019Z
+LAST-MODIFIED:20261109T180019Z
 UID:10003093-1794686400-1794693600@visitdavis.org
 SUMMARY:The Alex Makeev Trio Live @ The Melon Ball
 DESCRIPTION:The Alex Makeev Trio is a forward-thinking jazz trio performing dreamy originals\, unique arrangements of jazz standards\, and pop interpretations. Featuring Aidan Smith on drums and Arlo Jones on Bass. \nAlex Makeev Website \n$15 Gen Adm\n$10 Students\nUnder 12 FREE\nDoors open at 7:30pm \nCash or Venmo at the door only (no Credit Card) \nThis is a BYOB event
@@ -1169,6 +1071,21 @@ ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HM-2026-postc
 ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/vinyl-bazaar-at-blue-note-brewing/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261115T120000
+DTEND;TZID=America/Los_Angeles:20261115T170000
+DTSTAMP:20261109T175911Z
+CREATED:20261109T175911Z
+LAST-MODIFIED:20261109T175911Z
+UID:10016092-1794744000-1794762000@visityolo.com
+SUMMARY:Vinyl Bazaar at Blue Note Brewing
+DESCRIPTION:Left of the Dial LIVE! & That California Sound! Present: \nVinyl Bazaar at Blue Note Brewing\, Sunday 11/15  12-5pm \nDozens of Genres\, 1000’s of titles for sale from Album Revolution\, Second Time Around and MORE! \nFree to attend – All Ages
+URL:https://visityolo.com/event/vinyl-bazaar-at-blue-note-brewing/
+LOCATION:Blue Note Brewing\, 750 Dead Cat Alley\, Woodland\, CA\, 95695\, United States
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/davis-musical-theatre-presents-mean-girls/2026-11-15/"}
 X-SOURCE-ID:visityolo_event
 X-SOURCE:Visityolo Event
@@ -1241,7 +1158,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317169908@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030732Z
+DTSTAMP:20261110T045211Z
 DTSTART;TZID=America/Los_Angeles:20261116T180000
 DTEND;TZID=America/Los_Angeles:20261116T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1306,7 +1223,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_317198984@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045210Z
 DTSTART;TZID=America/Los_Angeles:20261118T170000
 DTEND;TZID=America/Los_Angeles:20261118T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1355,7 +1272,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317214535@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030732Z
+DTSTAMP:20261110T045211Z
 DTSTART;TZID=America/Los_Angeles:20261119T180000
 DTEND;TZID=America/Los_Angeles:20261119T190000
 SUMMARY:Free Yoga Practice
@@ -1449,9 +1366,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20261120T193000
 DTEND;TZID=America/Los_Angeles:20261120T213000
-DTSTAMP:20261108T180028Z
+DTSTAMP:20261109T180025Z
 CREATED:20261005T173056Z
-LAST-MODIFIED:20261108T180028Z
+LAST-MODIFIED:20261109T180025Z
 UID:10003085-1795203000-1795210200@visitdavis.org
 SUMMARY:Tom and The Broken Hearts Live @ The Melon Ball
 DESCRIPTION:Tom and The Broken Hearts return to The Melon Ball in Davis\, with another high-energy tribute to Tom Petty and The Heartbreakers. From Free Fallin’ and American Girl to Refugee and Learning to Fly\, the band delivers a powerful\, true-to-the-record journey through Petty’s iconic catalog. Fronted by Tom Moore on guitar\, harmonica\, and vocals\, Tom and The Broken Hearts recreate the magic of Tom Petty and the Heartbreakers with authentic instruments\, tight vocal harmonies\, and a dynamic stage presence that have earned them praise from fans\, venues\, promoters and city concert committees across Northern California. \nThis special show will be highlighted by appearances from Liliana and Chiara Moore. Liliana is the trumpet player of The Gold Souls band and Chiara just released her first EP of original songs titled “Trust Fall”\, available on Luma and Spotify. Liliana will be playing Trumpet and Chiara will be singing several songs that Stevie Nicks made famous with Tom Petty and The Heartbreakers. \n$20 General Admission\nDoors open at 7:00pm \nCash or Venmo at the door only (no Credit Card)\nThis is a BYOB event!
@@ -1482,7 +1399,7 @@ X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261121T090000
 DTEND;TZID=America/Los_Angeles:20261121T140000
 RRULE:FREQ=MONTHLY;BYDAY=3SA
-DTSTAMP:20261109T030737Z
+DTSTAMP:20261110T045216Z
 UID:50q7jpr6vmca2rgsqa3ltejtoe_R20261121T170000@google.com
 CREATED:20241017T171351Z
 DESCRIPTION:<a href="https://davisbikeclub.org/3rd-saturday-road-ride/" tar
@@ -1517,7 +1434,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317245774@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045209Z
 DTSTART;TZID=America/Los_Angeles:20261121T150000
 DTEND;TZID=America/Los_Angeles:20261121T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -1555,7 +1472,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317246341@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045209Z
 DTSTART;TZID=America/Los_Angeles:20261121T160000
 DTEND;TZID=America/Los_Angeles:20261121T170000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -1593,7 +1510,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317246476@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045209Z
 DTSTART;TZID=America/Los_Angeles:20261121T160000
 DTEND;TZID=America/Los_Angeles:20261121T170000
 SUMMARY:Mosaics Beginning Japanese in Person
@@ -1611,7 +1528,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317247012@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045210Z
 DTSTART;TZID=America/Los_Angeles:20261121T170000
 DTEND;TZID=America/Los_Angeles:20261121T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1650,7 +1567,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317247011@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045209Z
 DTSTART;TZID=America/Los_Angeles:20261121T170000
 DTEND;TZID=America/Los_Angeles:20261121T180000
 SUMMARY:Mosaics Beginning Spanish in Person
@@ -1705,7 +1622,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317247671@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045210Z
 DTSTART;TZID=America/Los_Angeles:20261121T180000
 DTEND;TZID=America/Los_Angeles:20261121T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1744,7 +1661,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317248059@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045210Z
 DTSTART;TZID=America/Los_Angeles:20261121T190000
 DTEND;TZID=America/Los_Angeles:20261121T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1783,9 +1700,9 @@ X-SOURCE-ID:visitdavis
 X-SOURCE:Visit Davis
 DTSTART;TZID=America/Los_Angeles:20261121T200000
 DTEND;TZID=America/Los_Angeles:20261121T220000
-DTSTAMP:20261108T180031Z
+DTSTAMP:20261109T180028Z
 CREATED:20261005T173057Z
-LAST-MODIFIED:20261108T180031Z
+LAST-MODIFIED:20261109T180028Z
 UID:10003086-1795291200-1795298400@visitdavis.org
 SUMMARY:Kevin Seconds Live @ The Melon Ball
 DESCRIPTION:Live music @ The Melon Ball in Davis. \nKevin Seconds is a Sacramento-born singer\, songwriter\, and guitarist best known as the frontman of the influential punk band 7 Seconds\, which he founded in 1979 with his brother Steve Youth. Alongside decades of touring and releasing records with the band\, Seconds has built a prolific solo career since the early 1990s\, performing across the U.S. and the U.K. and releasing multiple albums that explore folk\, indie\, and alternative acoustic styles. His solo work often features collaborations with his wife\, Allyson Seconds\, and showcases his sharp songwriting\, warm storytelling\, and a distinctly DIY spirit that has defined his entire musical life. \nKevin’s Website Here \n$20 General Admission\nDoors open at 7:30pm \nCash or Venmo at the door only (no Credit Card) \nThis is a BYOB event! \nPresented by Left of the Dial Promotions and KDRT 95.7 fm
@@ -1816,7 +1733,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317279665@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030732Z
+DTSTAMP:20261110T045211Z
 DTSTART;TZID=America/Los_Angeles:20261123T180000
 DTEND;TZID=America/Los_Angeles:20261123T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1843,12 +1760,46 @@ LAST-MODIFIED:20261104T020937Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/guru-nanak-gurpurab/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20261028T183558Z
+CREATED:20261028T183408Z
+LAST-MODIFIED:20261028T183558Z
+UID:10000901-1795478400-1795564799@hatefreetogether.org
+SUMMARY:Guru Nanak Gurpurab
+DESCRIPTION:Guru Nanak Gurpurab celebrates the birth of Guru Nanak\, the founder of Sikhism. His teachings emphasize equality\, compassion\, honest living\, and service to others. The celebration offers an opportunity to learn about Sikh traditions and the importance of caring for and respecting all members of our community. \nLearn more at the Sikh Coalition.
+URL:https://hatefreetogether.org/event/guru-nanak-gurpurab/
+LOCATION:CA
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Gurpurab.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/thanksgiving/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20261028T184255Z
+CREATED:20261028T184255Z
+LAST-MODIFIED:20261028T184255Z
+UID:10000902-1795478400-1795564799@hatefreetogether.org
+SUMMARY:Thanksgiving
+DESCRIPTION:Thanksgiving is a time when many people gather to share meals\, express gratitude\, and connect with loved ones. It is also an opportunity to practice generosity\, welcome neighbors who may be alone\, and acknowledge Indigenous perspectives and histories as part of a fuller understanding of this holiday. \nLearn more at History.com
+URL:https://hatefreetogether.org/event/thanksgiving/
+LOCATION:CA
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Thanskgiving.png
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/317307554/"}
 X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_317307554@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045210Z
 DTSTART;TZID=America/Los_Angeles:20261125T170000
 DTEND;TZID=America/Los_Angeles:20261125T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1880,7 +1831,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317281963@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030732Z
+DTSTAMP:20261110T045211Z
 DTSTART;TZID=America/Los_Angeles:20261126T180000
 DTEND;TZID=America/Los_Angeles:20261126T190000
 SUMMARY:Free Yoga Practice
@@ -1924,7 +1875,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317349100@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045210Z
 DTSTART;TZID=America/Los_Angeles:20261128T170000
 DTEND;TZID=America/Los_Angeles:20261128T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1963,7 +1914,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317350033@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045210Z
 DTSTART;TZID=America/Los_Angeles:20261128T180000
 DTEND;TZID=America/Los_Angeles:20261128T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1997,12 +1948,12 @@ LAST-MODIFIED:20261109T021304Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/vjtwxtyjcpblc/"}
+X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/317350535/"}
 X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
-UID:event_vjtwxtyjcpblc@meetup.com
+UID:event_317350535@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045210Z
 DTSTART;TZID=America/Los_Angeles:20261128T190000
 DTEND;TZID=America/Los_Angeles:20261128T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -2028,11 +1979,11 @@ DESCRIPTION:Davis Art\, Music & Outdoor Activities Meetup\n**Discover Inte
  ics classes and activities\, visit [www.nextg.org](http://www.nextg.org/) 
  or contact Dr. Stephen Moon at 916-217-5470\nor email to: [catalyst@nextg.
  org](mailto:catalyst@nextg.org). Thank you!
-URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/vjtwxtyj
- cpblc/
+URL;VALUE=URI:https://www.meetup.com/intercultural-mosaics/events/31735053
+ 5/
 STATUS:CONFIRMED
-CREATED:20260614T083228Z
-LAST-MODIFIED:20260614T083228Z
+CREATED:20261109T031311Z
+LAST-MODIFIED:20261109T031311Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
@@ -2041,7 +1992,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_bgfpxtyjcpbnc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030732Z
+DTSTAMP:20261110T045211Z
 DTSTART;TZID=America/Los_Angeles:20261130T180000
 DTEND;TZID=America/Los_Angeles:20261130T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -2073,7 +2024,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstyjcqbdb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045210Z
 DTSTART;TZID=America/Los_Angeles:20261202T170000
 DTEND;TZID=America/Los_Angeles:20261202T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -2099,7 +2050,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_cbwkztyjcqbfb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030732Z
+DTSTAMP:20261110T045211Z
 DTSTART;TZID=America/Los_Angeles:20261203T180000
 DTEND;TZID=America/Los_Angeles:20261203T190000
 SUMMARY:Free Yoga Practice
@@ -2127,7 +2078,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_vkccbvyjcqbhb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045210Z
 DTSTART;TZID=America/Los_Angeles:20261205T170000
 DTEND;TZID=America/Los_Angeles:20261205T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -2166,7 +2117,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_bgfpxtyjcqbkb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030732Z
+DTSTAMP:20261110T045211Z
 DTSTART;TZID=America/Los_Angeles:20261207T180000
 DTEND;TZID=America/Los_Angeles:20261207T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -2198,7 +2149,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstyjcqbmb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045210Z
 DTSTART;TZID=America/Los_Angeles:20261209T170000
 DTEND;TZID=America/Los_Angeles:20261209T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2225,12 +2176,40 @@ LAST-MODIFIED:20250814T213602Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/cbwkztyjcqbnb/"}
+X-SOURCE-ID:meetup_mindful_embodied_spirituality
+X-SOURCE:Meetup Mindful Embodied Spirituality
+UID:event_cbwkztyjcqbnb@meetup.com
+SEQUENCE:1
+DTSTAMP:20261110T045211Z
+DTSTART;TZID=America/Los_Angeles:20261210T180000
+DTEND;TZID=America/Los_Angeles:20261210T190000
+SUMMARY:Free Yoga Practice
+DESCRIPTION:Iama Embodied Community\n🌀 **Move with intention. Connect w
+ ith your body. Celebrate community.**\n\nJoin us every **Thursday at 6 PM*
+ * for an embodied yoga practice designed to help you release tension\, gro
+ und yourself\, and cultivate presence. This is a trauma-informed\, all-lev
+ els class\, no prior yoga experience needed. Expect a Hatha-Vinyasa flow\,
+  breathwork\, and a space to listen to your body’s wisdom.\n\n🌿 **Eve
+ ry last Thursday of the month\, stay after class for a community potluck d
+ inner!**\n\n📍 **Location**: 727 T St. Sacramento CA 95811\n✨ **All ou
+ r events are free. Donations are welcome.**\n📩 **Questions? Reach out a
+ t** embody.iama@gmail.com\n🔗 **Follow us on Instagram:** [@embody.iama]
+ (https://www.instagram.com/embody.iama)
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ cbwkztyjcqbnb/
+STATUS:CONFIRMED
+CREATED:20260720T204641Z
+LAST-MODIFIED:20260720T204641Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/kwnqstyjcqbvb/"}
 X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjcqbvb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045210Z
 DTSTART;TZID=America/Los_Angeles:20261216T170000
 DTEND;TZID=America/Los_Angeles:20261216T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2262,7 +2241,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcqbnc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045210Z
 DTSTART;TZID=America/Los_Angeles:20261230T170000
 DTEND;TZID=America/Los_Angeles:20261230T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2294,7 +2273,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstykccbjb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045210Z
 DTSTART;TZID=America/Los_Angeles:20270106T170000
 DTEND;TZID=America/Los_Angeles:20270106T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -2320,7 +2299,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstykccbrb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045210Z
 DTSTART;TZID=America/Los_Angeles:20270113T170000
 DTEND;TZID=America/Los_Angeles:20270113T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2352,7 +2331,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstykccbbc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261109T030731Z
+DTSTAMP:20261110T045210Z
 DTSTART;TZID=America/Los_Angeles:20270120T170000
 DTEND;TZID=America/Los_Angeles:20270120T210000
 SUMMARY:Weekly Game Night at Blue Note
