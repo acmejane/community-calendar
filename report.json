@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T04:52:18.441039",
+  "generated": "2026-11-11T03:15:49.764094",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34911,6 +34911,10 @@
             {
               "date": "2026-11-10",
               "count": 3
+            },
+            {
+              "date": "2026-11-11",
+              "count": 3
             }
           ]
         },
@@ -35898,6 +35902,10 @@
             },
             {
               "date": "2026-11-10",
+              "count": 27
+            },
+            {
+              "date": "2026-11-11",
               "count": 27
             }
           ]
@@ -36887,6 +36895,10 @@
             {
               "date": "2026-11-10",
               "count": 0
+            },
+            {
+              "date": "2026-11-11",
+              "count": 0
             }
           ]
         },
@@ -37874,6 +37886,10 @@
             },
             {
               "date": "2026-11-10",
+              "count": 10
+            },
+            {
+              "date": "2026-11-11",
               "count": 10
             }
           ]
@@ -38863,6 +38879,10 @@
             {
               "date": "2026-11-10",
               "count": 10
+            },
+            {
+              "date": "2026-11-11",
+              "count": 10
             }
           ]
         },
@@ -39850,6 +39870,10 @@
             },
             {
               "date": "2026-11-10",
+              "count": 10
+            },
+            {
+              "date": "2026-11-11",
               "count": 10
             }
           ]
@@ -40839,6 +40863,10 @@
             {
               "date": "2026-11-10",
               "count": 0
+            },
+            {
+              "date": "2026-11-11",
+              "count": 0
             }
           ]
         },
@@ -41826,6 +41854,10 @@
             },
             {
               "date": "2026-11-10",
+              "count": 0
+            },
+            {
+              "date": "2026-11-11",
               "count": 0
             }
           ]
@@ -42815,6 +42847,10 @@
             {
               "date": "2026-11-10",
               "count": 10
+            },
+            {
+              "date": "2026-11-11",
+              "count": 10
             }
           ]
         },
@@ -43802,6 +43838,10 @@
             },
             {
               "date": "2026-11-10",
+              "count": 0
+            },
+            {
+              "date": "2026-11-11",
               "count": 0
             }
           ]
@@ -44791,6 +44831,10 @@
             {
               "date": "2026-11-10",
               "count": 0
+            },
+            {
+              "date": "2026-11-11",
+              "count": 0
             }
           ]
         },
@@ -45778,6 +45822,10 @@
             },
             {
               "date": "2026-11-10",
+              "count": 12
+            },
+            {
+              "date": "2026-11-11",
               "count": 12
             }
           ]
@@ -46767,6 +46815,10 @@
             {
               "date": "2026-11-10",
               "count": 29
+            },
+            {
+              "date": "2026-11-11",
+              "count": 29
             }
           ]
         }
@@ -46774,7 +46826,7 @@
       "categories": [
         {
           "category": "Community / Social",
-          "count": 25
+          "count": 24
         },
         {
           "category": "Arts / Culture",
@@ -46782,15 +46834,15 @@
         },
         {
           "category": "Education / Workshops",
-          "count": 16
+          "count": 17
         },
         {
           "category": "Music / Concerts",
-          "count": 11
+          "count": 12
         },
         {
           "category": "Health / Wellness",
-          "count": 9
+          "count": 8
         },
         {
           "category": "Food / Drink",
@@ -46806,7 +46858,7 @@
         },
         {
           "category": "Government / Civic",
-          "count": 3
+          "count": 2
         },
         {
           "category": "Sports / Fitness",
@@ -46815,6 +46867,10 @@
         {
           "category": "Family / Kids",
           "count": 2
+        },
+        {
+          "category": "Nature / Outdoors / Recreation",
+          "count": 1
         }
       ],
       "images": {

@@ -60,47 +60,6 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Native-American-Heritage-Month.png
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC:20261110T101500
-DTEND;TZID=UTC:20261110T111500
-DTSTAMP:20261029T202625Z
-CREATED:20261029T201635Z
-LAST-MODIFIED:20261029T202625Z
-UID:10000912-1794305700-1794309300@hatefreetogether.org
-SUMMARY:Davis Community Church: Gentle Yoga
-DESCRIPTION:Davis Community Church invites participants to Gentle Yoga\, a slower-paced\, grounding practice led by Jennifer Hogan and Diane Parro. Sessions offer an opportunity to stretch\, strengthen\, breathe\, and reconnect with body and spirit in a welcoming environment.Classes take place Tuesdays from 10:15 to 11:15 a.m. in the Fireside Room. The final sessions are October 27\, November 3\, and November 10. The cost is $20 per session\, with a sliding scale available. Click here for the registration form.
-URL:https://hatefreetogether.org/event/davis-community-church-gentle-yoga/2026-11-10/
-LOCATION:Davis Community Church\, 412 C Street\, Davis\, CA\, 95616\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Davis-Community-Church.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261110T153000
-DTEND;TZID=UTC:20261110T193000
-DTSTAMP:20261022T225656Z
-CREATED:20261022T225656Z
-LAST-MODIFIED:20261022T225656Z
-UID:10000853-1794324600-1794339000@hatefreetogether.org
-SUMMARY:Yolo County Board of Education Meeting
-DESCRIPTION:The Yolo County Office of Education meetings offer insight into how the county’s educational priorities\, policies\, and programs serve local students and communities. Regular meetings are generally held on the second Tuesday of each month at 3:30 p.m. at the Yolo County Office of Education in Woodland. Meetings are open to the public\, with online viewing available via Zoom. \n  \nThe Yolo County Office of Education oversees county-level educational matters\, including policies and programs that support students\, schools\, and districts throughout Yolo County. Meeting agendas\, packets\, and minutes are available online. \n  \nFor more information about meeting dates\, agendas\, public comment\, and online access\, visit the Yolo County Office of Education Board Meetings website or contact the Superintendent’s Office at (530) 668-3702.
-URL:https://hatefreetogether.org/event/yolo-county-board-of-education-meeting/2026-11-10/
-LOCATION:Yolo County Office of Education\, 1280 Santa Anita Court\, Woodland\, CA\, 95776
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/yolo_county_office_of_education_cover-scaled.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261110T160000
-DTEND;TZID=UTC:20261110T180000
-DTSTAMP:20260901T212654Z
-CREATED:20260901T212654Z
-LAST-MODIFIED:20260901T212654Z
-UID:10000715-1794326400-1794333600@hatefreetogether.org
-SUMMARY:Principles of Community Celebration
-DESCRIPTION:The 2026 Principles of Community Celebration recognizes the people and partnerships that bring our values to life across UC Davis. \nThe celebration will feature recognition of the Soaring to New Heights and ASUCD awards honorees\, stories from faculty\, staff and students\, showcases highlighting community-engaged research and partnerships\, and opportunities to connect with colleagues and community partners. \n  \nWe honor our collective decision to be part of this community\, and we celebrate the ongoing work of making UC Davis a place people want to be. \nFor more information\, visit: https://excellence.ucdavis.edu/events/principles-community-celebration.
-URL:https://hatefreetogether.org/event/principles-of-community-celebration/
-LOCATION:UC Davis ARC\, 760 Orchard Road\, Davis\, CA\, 95616
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Principles-of-Community-Celebration-2026.png
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 DTSTAMP:20261028T183636Z
@@ -427,5 +386,45 @@ URL:https://hatefreetogether.org/event/thanksgiving/
 LOCATION:CA
 CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Thanskgiving.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261125T100000
+DTEND;TZID=UTC:20261125T170000
+DTSTAMP:20261028T183745Z
+CREATED:20261028T180021Z
+LAST-MODIFIED:20261028T183745Z
+UID:10000874-1795600800-1795626000@hatefreetogether.org
+SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
+DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
+URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-25/
+LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261125T160000
+DTEND;TZID=UTC:20261125T170000
+DTSTAMP:20261022T211320Z
+CREATED:20261022T211320Z
+LAST-MODIFIED:20261022T211320Z
+UID:10000836-1795622400-1795626000@hatefreetogether.org
+SUMMARY:Yolo County Library: Craft Wednesdays
+DESCRIPTION:Join the Knights Landing Branch Library for different crafts every Wednesday at 4:00p.m.! All supplies will be provided.
+URL:https://hatefreetogether.org/event/yolo-county-library-craft-wednesdays/2026-11-25/
+LOCATION:Knights Landing Branch Library\, 42351 3rd St\, Knights Landing\, CA\, 95645\, United States
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Knights-Landing-Branch-Library-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261125T170000
+DTEND;TZID=UTC:20261125T180000
+DTSTAMP:20261022T223809Z
+CREATED:20261022T211814Z
+LAST-MODIFIED:20261022T223809Z
+UID:10000843-1795626000-1795629600@hatefreetogether.org
+SUMMARY:Yolo County Library: Mandarin Conversation Group
+DESCRIPTION:Join the Yolo County Davis Branch Library’s adult Conversation Group to practice Mandarin Chinese in a fun and relaxed way with help from a group facilitator. Drop in visitors are welcome! For adults 18+. Location is the Mary L. Stephens Library’ Small Conference Room on Wednesday at 5:00 p.m.
+URL:https://hatefreetogether.org/event/davis-branch-library-mandarin-conversation-group-2/
+LOCATION:Mary L Stephens Davis Branch Library\, 315 E 14th Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Mary-L.-Stephens-Davis-Library-scaled.jpg
 END:VEVENT
 END:VCALENDAR
