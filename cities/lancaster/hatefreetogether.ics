@@ -60,47 +60,6 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Native-American-Heritage-Month.png
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-DTSTAMP:20261028T183636Z
-CREATED:20261028T181908Z
-LAST-MODIFIED:20261028T183636Z
-UID:10000898-1794355200-1794441599@hatefreetogether.org
-SUMMARY:Veterans Day
-DESCRIPTION:Veterans Day honors those who have served in the United States Armed Forces. It is an opportunity to recognize veterans’ service and sacrifices\, listen to their experiences\, and support veterans and their families in our communities. \nLearn more at the U.S. Department of Veterans Affairs.
-URL:https://hatefreetogether.org/event/veterans-day/
-LOCATION:CA
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Veterans-Day.png
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261111T100000
-DTEND;TZID=UTC:20261111T170000
-DTSTAMP:20261028T183745Z
-CREATED:20261028T180021Z
-LAST-MODIFIED:20261028T183745Z
-UID:10000866-1794391200-1794416400@hatefreetogether.org
-SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
-DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
-URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-11/
-LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261111T160000
-DTEND;TZID=UTC:20261111T170000
-DTSTAMP:20261022T211320Z
-CREATED:20261022T211320Z
-LAST-MODIFIED:20261022T211320Z
-UID:10000834-1794412800-1794416400@hatefreetogether.org
-SUMMARY:Yolo County Library: Craft Wednesdays
-DESCRIPTION:Join the Knights Landing Branch Library for different crafts every Wednesday at 4:00p.m.! All supplies will be provided.
-URL:https://hatefreetogether.org/event/yolo-county-library-craft-wednesdays/2026-11-11/
-LOCATION:Knights Landing Branch Library\, 42351 3rd St\, Knights Landing\, CA\, 95645\, United States
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Knights-Landing-Branch-Library-scaled.jpg
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=UTC:20261112T100000
 DTEND;TZID=UTC:20261112T170000
 DTSTAMP:20261028T183745Z
@@ -426,5 +385,46 @@ DESCRIPTION:Join the Yolo County Davis Branch Library’s adult Conversation Gro
 URL:https://hatefreetogether.org/event/davis-branch-library-mandarin-conversation-group-2/
 LOCATION:Mary L Stephens Davis Branch Library\, 315 E 14th Street\, Davis\, CA\, 95616\, United States
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Mary-L.-Stephens-Davis-Library-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261126T100000
+DTEND;TZID=UTC:20261126T170000
+DTSTAMP:20261028T183745Z
+CREATED:20261028T180021Z
+LAST-MODIFIED:20261028T183745Z
+UID:10000875-1795687200-1795712400@hatefreetogether.org
+SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
+DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
+URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-26/
+LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261126T160000
+DTEND;TZID=UTC:20261126T190000
+DTSTAMP:20261029T203947Z
+CREATED:20261029T202418Z
+LAST-MODIFIED:20261029T203947Z
+UID:10000915-1795708800-1795719600@hatefreetogether.org
+SUMMARY:Davis Community Church: Thanksgiving Dinner
+DESCRIPTION:Davis Community Church invites community members to a free Thanksgiving Dinner on Thursday\, November 26\, from 4:00 to 7:00 p.m. at the DCC Fellowship Hall\, 421 D Street. Participants are welcome to gather with friends and neighbors to share a meal and celebrate the holiday together. \nThe event is free\, and an RSVP is requested to help ensure there is enough food for everyone. To RSVP\, complete the online registration form.
+URL:https://hatefreetogether.org/event/davis-community-church-thanksgiving-dinner/
+LOCATION:Davis Community Church Fellowship Hall\, 421 D Street\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Davis-Community-Church.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261126T183000
+DTEND;TZID=UTC:20261126T200000
+DTSTAMP:20260424T165540Z
+CREATED:20260424T165540Z
+LAST-MODIFIED:20260424T165540Z
+UID:10000493-1795717800-1795723200@hatefreetogether.org
+SUMMARY:Human Relations Commission Meetings
+DESCRIPTION:The Davis Human Relations Commission (HRC) meetings aim to promote mutual respect\, understanding\, justice\, and advancing the human rights of all people. The Human Relations Commission meets on the fourth Thursday of each month at 6:30 p.m. The Commission takes a recess in July (no meeting in July). \n  \nMeetings take place in the Community Chambers at City Hall\, 23 Russell Boulevard. For more information on meetings\, membership\, resolutions\, and more\, visit the Human Relations Commission site. \n  \nThe HRC makes recommendations around equity and discrimination in the City\, and supports the City in preventing and addressing discrimination while promoting diversity\, equality\, and justice relevant to the goals and policies of the City Council. \n  \nTo contact or send emails to the commission\, email: HRC@cityofdavis.org
+URL:https://hatefreetogether.org/event/human-relations-commission-meetings/2026-11-26/
+LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/humanrelations_ci_SACHA_CHICKERING-scaled-e1777049624821.webp
 END:VEVENT
 END:VCALENDAR
