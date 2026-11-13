@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T04:27:02.649908",
+  "generated": "2026-11-13T03:42:18.049253",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34919,6 +34919,10 @@
             {
               "date": "2026-11-12",
               "count": 4
+            },
+            {
+              "date": "2026-11-13",
+              "count": 4
             }
           ]
         },
@@ -35914,6 +35918,10 @@
             },
             {
               "date": "2026-11-12",
+              "count": 27
+            },
+            {
+              "date": "2026-11-13",
               "count": 27
             }
           ]
@@ -36911,6 +36919,10 @@
             {
               "date": "2026-11-12",
               "count": 0
+            },
+            {
+              "date": "2026-11-13",
+              "count": 0
             }
           ]
         },
@@ -37906,6 +37918,10 @@
             },
             {
               "date": "2026-11-12",
+              "count": 10
+            },
+            {
+              "date": "2026-11-13",
               "count": 10
             }
           ]
@@ -38903,6 +38919,10 @@
             {
               "date": "2026-11-12",
               "count": 10
+            },
+            {
+              "date": "2026-11-13",
+              "count": 10
             }
           ]
         },
@@ -39898,6 +39918,10 @@
             },
             {
               "date": "2026-11-12",
+              "count": 10
+            },
+            {
+              "date": "2026-11-13",
               "count": 10
             }
           ]
@@ -40895,6 +40919,10 @@
             {
               "date": "2026-11-12",
               "count": 0
+            },
+            {
+              "date": "2026-11-13",
+              "count": 0
             }
           ]
         },
@@ -41890,6 +41918,10 @@
             },
             {
               "date": "2026-11-12",
+              "count": 0
+            },
+            {
+              "date": "2026-11-13",
               "count": 0
             }
           ]
@@ -42887,6 +42919,10 @@
             {
               "date": "2026-11-12",
               "count": 10
+            },
+            {
+              "date": "2026-11-13",
+              "count": 10
             }
           ]
         },
@@ -43882,6 +43918,10 @@
             },
             {
               "date": "2026-11-12",
+              "count": 0
+            },
+            {
+              "date": "2026-11-13",
               "count": 0
             }
           ]
@@ -44879,6 +44919,10 @@
             {
               "date": "2026-11-12",
               "count": 0
+            },
+            {
+              "date": "2026-11-13",
+              "count": 0
             }
           ]
         },
@@ -45874,6 +45918,10 @@
             },
             {
               "date": "2026-11-12",
+              "count": 12
+            },
+            {
+              "date": "2026-11-13",
               "count": 12
             }
           ]
@@ -46871,6 +46919,10 @@
             {
               "date": "2026-11-12",
               "count": 29
+            },
+            {
+              "date": "2026-11-13",
+              "count": 29
             }
           ]
         }
@@ -46882,7 +46934,7 @@
         },
         {
           "category": "Arts / Culture",
-          "count": 19
+          "count": 21
         },
         {
           "category": "Education / Workshops",
@@ -46890,7 +46942,7 @@
         },
         {
           "category": "Music / Concerts",
-          "count": 12
+          "count": 11
         },
         {
           "category": "Health / Wellness",
@@ -46926,8 +46978,8 @@
         }
       ],
       "images": {
-        "total": 102,
-        "with_image": 58,
+        "total": 103,
+        "with_image": 59,
         "by_source": [
           {
             "source": "Hate-Free Together",
@@ -46936,25 +46988,25 @@
           },
           {
             "source": "Visityolo Event",
-            "total": 21,
-            "with_image": 19
+            "total": 22,
+            "with_image": 20
           },
           {
             "source": "Visit Davis, Visityolo Event",
-            "total": 8,
-            "with_image": 8
+            "total": 7,
+            "with_image": 7
           },
           {
             "source": "Visit Davis",
-            "total": 4,
-            "with_image": 4
+            "total": 5,
+            "with_image": 5
           }
         ]
       },
       "url_quality": {
-        "total_with_url": 98,
-        "total_events": 102,
-        "unique_urls": 98,
+        "total_with_url": 99,
+        "total_events": 103,
+        "unique_urls": 99,
         "generic_count": 0,
         "generic_domains": [],
         "http_count": 0,
@@ -46968,14 +47020,8 @@
           },
           {
             "source": "Visityolo Event",
-            "events": 21,
-            "unique_urls": 21,
-            "specificity_pct": 100
-          },
-          {
-            "source": "Meetup Yolo County Board Game Gathering",
-            "events": 10,
-            "unique_urls": 10,
+            "events": 22,
+            "unique_urls": 22,
             "specificity_pct": 100
           },
           {
@@ -46985,9 +47031,9 @@
             "specificity_pct": 100
           },
           {
-            "source": "Visit Davis, Visityolo Event",
-            "events": 8,
-            "unique_urls": 8,
+            "source": "Meetup Yolo County Board Game Gathering",
+            "events": 10,
+            "unique_urls": 10,
             "specificity_pct": 100
           },
           {
@@ -47003,9 +47049,15 @@
             "specificity_pct": 100
           },
           {
+            "source": "Visit Davis, Visityolo Event",
+            "events": 7,
+            "unique_urls": 7,
+            "specificity_pct": 100
+          },
+          {
             "source": "Visit Davis",
-            "events": 4,
-            "unique_urls": 4,
+            "events": 5,
+            "unique_urls": 5,
             "specificity_pct": 100
           },
           {
