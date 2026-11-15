@@ -46,47 +46,6 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Native-American-Heritage-Month.png
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC:20261114T100000
-DTEND;TZID=UTC:20261114T140000
-DTSTAMP:20261026T195039Z
-CREATED:20261026T192236Z
-LAST-MODIFIED:20261026T195039Z
-UID:10000856-1794650400-1794664800@hatefreetogether.org
-SUMMARY:Davis Phoenix Coalition: Upstander Carnival
-DESCRIPTION:The Davis Phoenix Coalition will host an Upstander Carnival for elementary-aged children from 10:00 a.m. to 2:00 p.m. at Marguerite Montgomery Elementary in Davis\, California. The carnival will feature familiar carnival games\, snacks\, and resources\, with opportunities for participants to learn about being an upstander and how to respond to bullying. The goal is to equip children with practical tools and resources to help them navigate these common and impactful situations and encourage them to stand up for others.
-URL:https://hatefreetogether.org/event/davis-phoenix-coalition-upstander-carnival/
-LOCATION:Marguerite Montgomery Elementary\, 1441 Danbury Avenue\, Davis\, CA\, 95618\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Davis-Phoenix-Coalition-Upstander-Carnival.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261114T100000
-DTEND;TZID=UTC:20261114T170000
-DTSTAMP:20261028T183745Z
-CREATED:20261028T180021Z
-LAST-MODIFIED:20261028T183745Z
-UID:10000869-1794650400-1794675600@hatefreetogether.org
-SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
-DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
-URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-14/
-LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261114T140000
-DTEND;TZID=UTC:20261114T150000
-DTSTAMP:20261022T223820Z
-CREATED:20261022T223432Z
-LAST-MODIFIED:20261022T223820Z
-UID:10000851-1794664800-1794668400@hatefreetogether.org
-SUMMARY:Yolo County Library: Chinese Culture Club
-DESCRIPTION:Explore the art and culture of China. New topic every month. For ages 6-12. Location is the Mary L Stephens Davis Branch Library in the Children’s Activity Room on Saturday 2:00 p.m.
-URL:https://hatefreetogether.org/event/davis-branch-library-chinese-culture-club/
-LOCATION:Mary L Stephens Davis Branch Library\, 315 E 14th Street\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Mary-L.-Stephens-Davis-Library-scaled.jpg
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 DTSTAMP:20261028T183617Z
@@ -425,5 +384,46 @@ DESCRIPTION:Join the Yolo County Davis Branch Library’s adult Conversation Gro
 URL:https://hatefreetogether.org/event/mary-l-stephens-davis-library-english-conversation-group/2026-11-30/
 LOCATION:Mary L Stephens Davis Branch Library\, 315 E 14th Street\, Davis\, CA\, 95616\, United States
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Mary-L.-Stephens-Davis-Library-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+DTSTAMP:20261028T184808Z
+CREATED:20261028T184808Z
+LAST-MODIFIED:20261028T184808Z
+UID:10000903-1796083200-1796169599@hatefreetogether.org
+SUMMARY:World AIDS Day
+DESCRIPTION:World AIDS Day honors the lives lost to AIDS-related illnesses\, supports people living with HIV\, and raises awareness about prevention\, treatment\, and access to care. It is an opportunity to challenge stigma\, share accurate information\, and promote compassion and dignity for everyone affected by HIV. \nLearn more at the World Health Organization.
+URL:https://hatefreetogether.org/event/world-aids-day/
+LOCATION:CA
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/world-aids-day.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261202T100000
+DTEND;TZID=UTC:20261202T170000
+DTSTAMP:20261028T183745Z
+CREATED:20261028T180021Z
+LAST-MODIFIED:20261028T183745Z
+UID:10000878-1796205600-1796230800@hatefreetogether.org
+SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
+DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
+URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-12-02/
+LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261202T160000
+DTEND;TZID=UTC:20261202T170000
+DTSTAMP:20261022T211320Z
+CREATED:20261022T211320Z
+LAST-MODIFIED:20261022T211320Z
+UID:10000837-1796227200-1796230800@hatefreetogether.org
+SUMMARY:Yolo County Library: Craft Wednesdays
+DESCRIPTION:Join the Knights Landing Branch Library for different crafts every Wednesday at 4:00p.m.! All supplies will be provided.
+URL:https://hatefreetogether.org/event/yolo-county-library-craft-wednesdays/2026-12-02/
+LOCATION:Knights Landing Branch Library\, 42351 3rd St\, Knights Landing\, CA\, 95645\, United States
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Knights-Landing-Branch-Library-scaled.jpg
 END:VEVENT
 END:VCALENDAR
