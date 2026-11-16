@@ -1,1 +1,463 @@
-<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fevent%2F%3Fical%3D1&y=ipr:18.214.123.177:1794712630.473"></meta></head></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Visit Yolo County California, Davis, Winters, Clarksburg, Capay Valley, Woodland - ECPv6.18.3.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Visit Yolo County California, Davis, Winters, Clarksburg, Capay Valley, Woodland
+X-ORIGINAL-URL:https://visityolo.com
+X-WR-CALDESC:Events for Visit Yolo County California, Davis, Winters, Clarksburg, Capay Valley, Woodland
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20270314T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20271107T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261106T193000
+DTEND;TZID=America/Los_Angeles:20261129T220000
+DTSTAMP:20260811T230832Z
+CREATED:20260810T225751Z
+LAST-MODIFIED:20260811T230832Z
+UID:10014640-1793993400-1795989600@visityolo.com
+SUMMARY:Davis Musical Theatre Presents Mean Girls
+DESCRIPTION:Davis Musical Theatre Presents Mean Girls \nCady Heron may have grown up on an African savanna\, but nothing prepared her for the wild and vicious ways of her strange new home: suburban Illinois. When Cady encounters The Plastics—a trio of powerful frenemies led by the charming but ruthless Regina George—she becomes caught in the school’s popularity hierarchy. Cady and her new friends devise a “Revenge Party” to end Regina’s reign\, but Cady soon learns that taking down a queen bee can come at a cost—and that losing yourself is far more dangerous than losing a popularity contest. \n*Mean Girls contains mature themes and language*
+URL:https://visityolo.com/event/davis-musical-theatre-presents-mean-girls/2026-11-06/
+LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/mean-girls.jpg
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261115T173000
+DTEND;TZID=America/Los_Angeles:20261115T203000
+DTSTAMP:20260813T194113Z
+CREATED:20260813T194113Z
+LAST-MODIFIED:20260813T194113Z
+UID:10014720-1794763800-1794774600@visityolo.com
+SUMMARY:Live Music at Carboni's Ristorante
+DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
+URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-15/
+LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
+ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261116T113000
+DTEND;TZID=America/Los_Angeles:20261116T170000
+DTSTAMP:20261023T162643Z
+CREATED:20261023T162643Z
+LAST-MODIFIED:20261023T162643Z
+UID:10015330-1794828600-1794848400@visityolo.com
+SUMMARY:Pence Gallery Holiday Market
+DESCRIPTION:Pence Gallery Holiday Market in Davis \nNovember 13 – December 24\, 11:30 AM – 5 PM (Open daily*) \nReception: November 13\, 6-9 PM (Free) \nOur Holiday Market is a treasure trove of hand-crafted items created by regional artists and artisans\, perfect for holiday gift giving. Visitors can enjoy shopping for unique ceramics\, cozy knit scarves\, handmade jewelry\, amazing paintings\, and more! There are over 50 artists participating this year\, and our gallery will be overflowing with fun items that will make great gifts for loved ones. \n  \nHoliday Market Member Opening \nFriday\, November 13\, 10:30-11:30 AM (Free) \nPence Members are invited to enjoy a private opening of the Holiday Market from 10:30-11:30 AM. Enjoy delicious treats and coffee\, while getting first dibs on shopping for holiday treasures. Pence Members receive 10% off Holiday Market purchases. Not a Member? Sign up online at pencegallery.org or in person at the gallery. \n  \n*The Holiday Market is open daily from 11:30 AM – 5 PM (including Mondays)\, with the following exceptions: \nNov. 25: Closes at 3 PM \nNov. 26: Closed for Thanksgiving Day \nDec. 24: Closes at 3 PM (final day)
+URL:https://visityolo.com/event/pence-gallery-holiday-market-3/2026-11-16/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HM-2026-postcard-copy-scaled.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261117T113000
+DTEND;TZID=America/Los_Angeles:20261117T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014945-1794915000-1794934800@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-17/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261117T113000
+DTEND;TZID=America/Los_Angeles:20261117T170000
+DTSTAMP:20261023T162643Z
+CREATED:20261023T162643Z
+LAST-MODIFIED:20261023T162643Z
+UID:10015331-1794915000-1794934800@visityolo.com
+SUMMARY:Pence Gallery Holiday Market
+DESCRIPTION:Pence Gallery Holiday Market in Davis \nNovember 13 – December 24\, 11:30 AM – 5 PM (Open daily*) \nReception: November 13\, 6-9 PM (Free) \nOur Holiday Market is a treasure trove of hand-crafted items created by regional artists and artisans\, perfect for holiday gift giving. Visitors can enjoy shopping for unique ceramics\, cozy knit scarves\, handmade jewelry\, amazing paintings\, and more! There are over 50 artists participating this year\, and our gallery will be overflowing with fun items that will make great gifts for loved ones. \n  \nHoliday Market Member Opening \nFriday\, November 13\, 10:30-11:30 AM (Free) \nPence Members are invited to enjoy a private opening of the Holiday Market from 10:30-11:30 AM. Enjoy delicious treats and coffee\, while getting first dibs on shopping for holiday treasures. Pence Members receive 10% off Holiday Market purchases. Not a Member? Sign up online at pencegallery.org or in person at the gallery. \n  \n*The Holiday Market is open daily from 11:30 AM – 5 PM (including Mondays)\, with the following exceptions: \nNov. 25: Closes at 3 PM \nNov. 26: Closed for Thanksgiving Day \nDec. 24: Closes at 3 PM (final day)
+URL:https://visityolo.com/event/pence-gallery-holiday-market-3/2026-11-17/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HM-2026-postcard-copy-scaled.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261118T113000
+DTEND;TZID=America/Los_Angeles:20261118T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014946-1795001400-1795021200@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-18/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261118T113000
+DTEND;TZID=America/Los_Angeles:20261118T170000
+DTSTAMP:20261023T162643Z
+CREATED:20261023T162643Z
+LAST-MODIFIED:20261023T162643Z
+UID:10015332-1795001400-1795021200@visityolo.com
+SUMMARY:Pence Gallery Holiday Market
+DESCRIPTION:Pence Gallery Holiday Market in Davis \nNovember 13 – December 24\, 11:30 AM – 5 PM (Open daily*) \nReception: November 13\, 6-9 PM (Free) \nOur Holiday Market is a treasure trove of hand-crafted items created by regional artists and artisans\, perfect for holiday gift giving. Visitors can enjoy shopping for unique ceramics\, cozy knit scarves\, handmade jewelry\, amazing paintings\, and more! There are over 50 artists participating this year\, and our gallery will be overflowing with fun items that will make great gifts for loved ones. \n  \nHoliday Market Member Opening \nFriday\, November 13\, 10:30-11:30 AM (Free) \nPence Members are invited to enjoy a private opening of the Holiday Market from 10:30-11:30 AM. Enjoy delicious treats and coffee\, while getting first dibs on shopping for holiday treasures. Pence Members receive 10% off Holiday Market purchases. Not a Member? Sign up online at pencegallery.org or in person at the gallery. \n  \n*The Holiday Market is open daily from 11:30 AM – 5 PM (including Mondays)\, with the following exceptions: \nNov. 25: Closes at 3 PM \nNov. 26: Closed for Thanksgiving Day \nDec. 24: Closes at 3 PM (final day)
+URL:https://visityolo.com/event/pence-gallery-holiday-market-3/2026-11-18/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HM-2026-postcard-copy-scaled.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261118T173000
+DTEND;TZID=America/Los_Angeles:20261118T203000
+DTSTAMP:20260813T194113Z
+CREATED:20260813T194113Z
+LAST-MODIFIED:20260813T194113Z
+UID:10014721-1795023000-1795033800@visityolo.com
+SUMMARY:Live Music at Carboni's Ristorante
+DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
+URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-18/
+LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
+ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261119T113000
+DTEND;TZID=America/Los_Angeles:20261119T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014947-1795087800-1795107600@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-19/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261119T113000
+DTEND;TZID=America/Los_Angeles:20261119T170000
+DTSTAMP:20261023T162643Z
+CREATED:20261023T162643Z
+LAST-MODIFIED:20261023T162643Z
+UID:10015333-1795087800-1795107600@visityolo.com
+SUMMARY:Pence Gallery Holiday Market
+DESCRIPTION:Pence Gallery Holiday Market in Davis \nNovember 13 – December 24\, 11:30 AM – 5 PM (Open daily*) \nReception: November 13\, 6-9 PM (Free) \nOur Holiday Market is a treasure trove of hand-crafted items created by regional artists and artisans\, perfect for holiday gift giving. Visitors can enjoy shopping for unique ceramics\, cozy knit scarves\, handmade jewelry\, amazing paintings\, and more! There are over 50 artists participating this year\, and our gallery will be overflowing with fun items that will make great gifts for loved ones. \n  \nHoliday Market Member Opening \nFriday\, November 13\, 10:30-11:30 AM (Free) \nPence Members are invited to enjoy a private opening of the Holiday Market from 10:30-11:30 AM. Enjoy delicious treats and coffee\, while getting first dibs on shopping for holiday treasures. Pence Members receive 10% off Holiday Market purchases. Not a Member? Sign up online at pencegallery.org or in person at the gallery. \n  \n*The Holiday Market is open daily from 11:30 AM – 5 PM (including Mondays)\, with the following exceptions: \nNov. 25: Closes at 3 PM \nNov. 26: Closed for Thanksgiving Day \nDec. 24: Closes at 3 PM (final day)
+URL:https://visityolo.com/event/pence-gallery-holiday-market-3/2026-11-19/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HM-2026-postcard-copy-scaled.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261120T110000
+DTEND;TZID=America/Los_Angeles:20261120T180000
+DTSTAMP:20251117T171126Z
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013330-1795172400-1795197600@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-11-20/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261120T113000
+DTEND;TZID=America/Los_Angeles:20261120T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014948-1795174200-1795194000@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-20/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261120T113000
+DTEND;TZID=America/Los_Angeles:20261120T170000
+DTSTAMP:20261023T162643Z
+CREATED:20261023T162643Z
+LAST-MODIFIED:20261023T162643Z
+UID:10015334-1795174200-1795194000@visityolo.com
+SUMMARY:Pence Gallery Holiday Market
+DESCRIPTION:Pence Gallery Holiday Market in Davis \nNovember 13 – December 24\, 11:30 AM – 5 PM (Open daily*) \nReception: November 13\, 6-9 PM (Free) \nOur Holiday Market is a treasure trove of hand-crafted items created by regional artists and artisans\, perfect for holiday gift giving. Visitors can enjoy shopping for unique ceramics\, cozy knit scarves\, handmade jewelry\, amazing paintings\, and more! There are over 50 artists participating this year\, and our gallery will be overflowing with fun items that will make great gifts for loved ones. \n  \nHoliday Market Member Opening \nFriday\, November 13\, 10:30-11:30 AM (Free) \nPence Members are invited to enjoy a private opening of the Holiday Market from 10:30-11:30 AM. Enjoy delicious treats and coffee\, while getting first dibs on shopping for holiday treasures. Pence Members receive 10% off Holiday Market purchases. Not a Member? Sign up online at pencegallery.org or in person at the gallery. \n  \n*The Holiday Market is open daily from 11:30 AM – 5 PM (including Mondays)\, with the following exceptions: \nNov. 25: Closes at 3 PM \nNov. 26: Closed for Thanksgiving Day \nDec. 24: Closes at 3 PM (final day)
+URL:https://visityolo.com/event/pence-gallery-holiday-market-3/2026-11-20/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HM-2026-postcard-copy-scaled.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261120T160000
+DTEND;TZID=America/Los_Angeles:20261120T190000
+DTSTAMP:20261005T174220Z
+CREATED:20261005T174220Z
+LAST-MODIFIED:20261005T174220Z
+UID:10015287-1795190400-1795201200@visityolo.com
+SUMMARY:Winters Holiday Home Tour
+DESCRIPTION:Celebrate Christmas with a tour of beautifully decorated homes in Winters. Benefiting Yolo County seniors and children. \nFriday\, November 20th\, 4PM-7PM \nSaturday\, November 21st\, 10AM-2PM \nTickets are $40 each. Click here to purchase.
+URL:https://visityolo.com/event/winters-holiday-home-tour/2026-11-20/
+LOCATION:Winters Collective\, 41 Main Street\, Winters\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/original-08ECC970-11A3-422B-93C5-388342F41E35-002.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261120T193000
+DTEND;TZID=America/Los_Angeles:20261120T213000
+DTSTAMP:20261005T170013Z
+CREATED:20261005T170013Z
+LAST-MODIFIED:20261005T170013Z
+UID:10015283-1795203000-1795210200@visityolo.com
+SUMMARY:Tom and The Broken Hearts Live @ The Melon Ball
+DESCRIPTION:Tom and The Broken Hearts return to The Melon Ball in Davis\, with another high-energy tribute to Tom Petty and The Heartbreakers. From Free Fallin’ and American Girl to Refugee and Learning to Fly\, the band delivers a powerful\, true-to-the-record journey through Petty’s iconic catalog. Fronted by Tom Moore on guitar\, harmonica\, and vocals\, Tom and The Broken Hearts recreate the magic of Tom Petty and the Heartbreakers with authentic instruments\, tight vocal harmonies\, and a dynamic stage presence that have earned them praise from fans\, venues\, promoters and city concert committees across Northern California. \nThis special show will be highlighted by appearances from Liliana and Chiara Moore. Liliana is the trumpet player of The Gold Souls band and Chiara just released her first EP of original songs titled “Trust Fall”\, available on Luma and Spotify. Liliana will be playing Trumpet and Chiara will be singing several songs that Stevie Nicks made famous with Tom Petty and The Heartbreakers. \n$20 General Admission\nDoors open at 7:00pm \nCash or Venmo at the door only (no Credit Card)\nThis is a BYOB event!
+URL:https://visityolo.com/event/tom-and-the-broken-hearts-live-the-melon-ball/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/TomBrokenHearts-3.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261120T193000
+DTEND;TZID=America/Los_Angeles:20261120T220000
+DTSTAMP:20260811T230832Z
+CREATED:20260810T225751Z
+LAST-MODIFIED:20260811T230832Z
+UID:10014646-1795203000-1795212000@visityolo.com
+SUMMARY:Davis Musical Theatre Presents Mean Girls
+DESCRIPTION:Davis Musical Theatre Presents Mean Girls \nCady Heron may have grown up on an African savanna\, but nothing prepared her for the wild and vicious ways of her strange new home: suburban Illinois. When Cady encounters The Plastics—a trio of powerful frenemies led by the charming but ruthless Regina George—she becomes caught in the school’s popularity hierarchy. Cady and her new friends devise a “Revenge Party” to end Regina’s reign\, but Cady soon learns that taking down a queen bee can come at a cost—and that losing yourself is far more dangerous than losing a popularity contest. \n*Mean Girls contains mature themes and language*
+URL:https://visityolo.com/event/davis-musical-theatre-presents-mean-girls/2026-11-20/
+LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/mean-girls.jpg
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261121T080000
+DTEND;TZID=America/Los_Angeles:20261121T130000
+DTSTAMP:20260624T182825Z
+CREATED:20230426T230654Z
+LAST-MODIFIED:20260624T182825Z
+UID:10004198-1795248000-1795266000@visityolo.com
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visityolo.com/event/davis-farmers-market-2/2026-11-21/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Small_CapayCarrots-002.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261121T100000
+DTEND;TZID=America/Los_Angeles:20261121T140000
+DTSTAMP:20261005T174220Z
+CREATED:20261005T174220Z
+LAST-MODIFIED:20261005T174220Z
+UID:10015288-1795255200-1795269600@visityolo.com
+SUMMARY:Winters Holiday Home Tour
+DESCRIPTION:Celebrate Christmas with a tour of beautifully decorated homes in Winters. Benefiting Yolo County seniors and children. \nFriday\, November 20th\, 4PM-7PM \nSaturday\, November 21st\, 10AM-2PM \nTickets are $40 each. Click here to purchase.
+URL:https://visityolo.com/event/winters-holiday-home-tour/2026-11-21/
+LOCATION:Winters Collective\, 41 Main Street\, Winters\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/original-08ECC970-11A3-422B-93C5-388342F41E35-002.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261121T110000
+DTEND;TZID=America/Los_Angeles:20261121T180000
+DTSTAMP:20251117T171126Z
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013331-1795258800-1795284000@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-11-21/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261121T113000
+DTEND;TZID=America/Los_Angeles:20261121T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014949-1795260600-1795280400@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-21/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261121T113000
+DTEND;TZID=America/Los_Angeles:20261121T170000
+DTSTAMP:20261023T162643Z
+CREATED:20261023T162643Z
+LAST-MODIFIED:20261023T162643Z
+UID:10015335-1795260600-1795280400@visityolo.com
+SUMMARY:Pence Gallery Holiday Market
+DESCRIPTION:Pence Gallery Holiday Market in Davis \nNovember 13 – December 24\, 11:30 AM – 5 PM (Open daily*) \nReception: November 13\, 6-9 PM (Free) \nOur Holiday Market is a treasure trove of hand-crafted items created by regional artists and artisans\, perfect for holiday gift giving. Visitors can enjoy shopping for unique ceramics\, cozy knit scarves\, handmade jewelry\, amazing paintings\, and more! There are over 50 artists participating this year\, and our gallery will be overflowing with fun items that will make great gifts for loved ones. \n  \nHoliday Market Member Opening \nFriday\, November 13\, 10:30-11:30 AM (Free) \nPence Members are invited to enjoy a private opening of the Holiday Market from 10:30-11:30 AM. Enjoy delicious treats and coffee\, while getting first dibs on shopping for holiday treasures. Pence Members receive 10% off Holiday Market purchases. Not a Member? Sign up online at pencegallery.org or in person at the gallery. \n  \n*The Holiday Market is open daily from 11:30 AM – 5 PM (including Mondays)\, with the following exceptions: \nNov. 25: Closes at 3 PM \nNov. 26: Closed for Thanksgiving Day \nDec. 24: Closes at 3 PM (final day)
+URL:https://visityolo.com/event/pence-gallery-holiday-market-3/2026-11-21/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HM-2026-postcard-copy-scaled.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261121T140000
+DTEND;TZID=America/Los_Angeles:20261121T160000
+DTSTAMP:20260811T230720Z
+CREATED:20260810T224818Z
+LAST-MODIFIED:20260811T230720Z
+UID:10014654-1795269600-1795276800@visityolo.com
+SUMMARY:Davis Musical Theatre Presents The Lion King Jr
+DESCRIPTION:Davis Musical Theatre Company Presents: Disney’s The Lion King Jr. \nIn the Pride Lands of the African savanna\, an adventurous lion cub named Simba is destined to succeed his father\, Mufasa\, as king. When Simba’s jealous uncle Scar causes Mufasa’s death\, he manipulates Simba into believing he is responsible. Overcome with guilt\, Simba flees his home\, leaving Scar to seize control of the kingdom. \nYears later\, Simba must confront his past and decide whether he is ready to accept his identity\, return to the Pride Lands\, and fulfill his responsibilities. Featuring beloved songs including “Circle of Life\,” “I Just Can’t Wait to Be King\,” “Hakuna Matata\,” and “Can You Feel the Love Tonight\,” Disney’s The Lion King JR. is a vibrant story of family\, courage\, identity\, and discovering one’s place in the world. \nRecommended for audiences of all ages.
+URL:https://visityolo.com/event/disneys-the-lion-king-jr/2026-11-21/
+LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Lion-King.jpg
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261121T163000
+DTEND;TZID=America/Los_Angeles:20261121T210000
+DTSTAMP:20260923T224628Z
+CREATED:20260923T224628Z
+LAST-MODIFIED:20260923T224628Z
+UID:10014905-1795278600-1795294800@visityolo.com
+SUMMARY:Park Winters Presents: Holiday Farm Dinner Concert
+DESCRIPTION:Marty O’Reilly blends gritty Americana\, soulful blues and raw storytelling into music that feels both timeless and deeply personal. From soft and haunting to wild and electric\, his captivating performances explore love\, loss and connection\, leaving audiences feeling moved long after the final note. Your experience will include cocktail hour starting at 4:30\, followed by a multi-course Farm Dinner at 6 – Music starts at 7:30.\n*tickets are non-refundable
+URL:https://visityolo.com/event/park-winters-presents-holiday-farm-dinner-concert/2026-11-21/
+LOCATION:Park Winters\, Park Winters\, 27850 County Road 26 Winters\, CA 95694
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/DJI_0496-11.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261121T193000
+DTEND;TZID=America/Los_Angeles:20261121T220000
+DTSTAMP:20260811T230832Z
+CREATED:20260810T225751Z
+LAST-MODIFIED:20260811T230832Z
+UID:10014647-1795289400-1795298400@visityolo.com
+SUMMARY:Davis Musical Theatre Presents Mean Girls
+DESCRIPTION:Davis Musical Theatre Presents Mean Girls \nCady Heron may have grown up on an African savanna\, but nothing prepared her for the wild and vicious ways of her strange new home: suburban Illinois. When Cady encounters The Plastics—a trio of powerful frenemies led by the charming but ruthless Regina George—she becomes caught in the school’s popularity hierarchy. Cady and her new friends devise a “Revenge Party” to end Regina’s reign\, but Cady soon learns that taking down a queen bee can come at a cost—and that losing yourself is far more dangerous than losing a popularity contest. \n*Mean Girls contains mature themes and language*
+URL:https://visityolo.com/event/davis-musical-theatre-presents-mean-girls/2026-11-21/
+LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/mean-girls.jpg
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261121T200000
+DTEND;TZID=America/Los_Angeles:20261121T220000
+DTSTAMP:20261005T165906Z
+CREATED:20261005T165844Z
+LAST-MODIFIED:20261005T165906Z
+UID:10015284-1795291200-1795298400@visityolo.com
+SUMMARY:Kevin Seconds Live @ The Melon Ball
+DESCRIPTION:Live music @ The Melon Ball in Davis. \nKevin Seconds is a Sacramento-born singer\, songwriter\, and guitarist best known as the frontman of the influential punk band 7 Seconds\, which he founded in 1979 with his brother Steve Youth. Alongside decades of touring and releasing records with the band\, Seconds has built a prolific solo career since the early 1990s\, performing across the U.S. and the U.K. and releasing multiple albums that explore folk\, indie\, and alternative acoustic styles. His solo work often features collaborations with his wife\, Allyson Seconds\, and showcases his sharp songwriting\, warm storytelling\, and a distinctly DIY spirit that has defined his entire musical life. \nKevin’s Website Here \n$20 General Admission\nDoors open at 7:30pm \nCash or Venmo at the door only (no Credit Card) \nThis is a BYOB event! \nPresented by Left of the Dial Promotions and KDRT 95.7 fm
+URL:https://visityolo.com/event/kevin-seconds-live-the-melon-ball/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/112126_Web-1.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261122T110000
+DTEND;TZID=America/Los_Angeles:20261122T180000
+DTSTAMP:20251117T171126Z
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013332-1795345200-1795370400@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-11-22/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261122T113000
+DTEND;TZID=America/Los_Angeles:20261122T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014950-1795347000-1795366800@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-22/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261122T113000
+DTEND;TZID=America/Los_Angeles:20261122T170000
+DTSTAMP:20261023T162643Z
+CREATED:20261023T162643Z
+LAST-MODIFIED:20261023T162643Z
+UID:10015336-1795347000-1795366800@visityolo.com
+SUMMARY:Pence Gallery Holiday Market
+DESCRIPTION:Pence Gallery Holiday Market in Davis \nNovember 13 – December 24\, 11:30 AM – 5 PM (Open daily*) \nReception: November 13\, 6-9 PM (Free) \nOur Holiday Market is a treasure trove of hand-crafted items created by regional artists and artisans\, perfect for holiday gift giving. Visitors can enjoy shopping for unique ceramics\, cozy knit scarves\, handmade jewelry\, amazing paintings\, and more! There are over 50 artists participating this year\, and our gallery will be overflowing with fun items that will make great gifts for loved ones. \n  \nHoliday Market Member Opening \nFriday\, November 13\, 10:30-11:30 AM (Free) \nPence Members are invited to enjoy a private opening of the Holiday Market from 10:30-11:30 AM. Enjoy delicious treats and coffee\, while getting first dibs on shopping for holiday treasures. Pence Members receive 10% off Holiday Market purchases. Not a Member? Sign up online at pencegallery.org or in person at the gallery. \n  \n*The Holiday Market is open daily from 11:30 AM – 5 PM (including Mondays)\, with the following exceptions: \nNov. 25: Closes at 3 PM \nNov. 26: Closed for Thanksgiving Day \nDec. 24: Closes at 3 PM (final day)
+URL:https://visityolo.com/event/pence-gallery-holiday-market-3/2026-11-22/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HM-2026-postcard-copy-scaled.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261122T140000
+DTEND;TZID=America/Los_Angeles:20261122T163000
+DTSTAMP:20260811T230832Z
+CREATED:20260810T225751Z
+LAST-MODIFIED:20260811T230832Z
+UID:10014648-1795356000-1795365000@visityolo.com
+SUMMARY:Davis Musical Theatre Presents Mean Girls
+DESCRIPTION:Davis Musical Theatre Presents Mean Girls \nCady Heron may have grown up on an African savanna\, but nothing prepared her for the wild and vicious ways of her strange new home: suburban Illinois. When Cady encounters The Plastics—a trio of powerful frenemies led by the charming but ruthless Regina George—she becomes caught in the school’s popularity hierarchy. Cady and her new friends devise a “Revenge Party” to end Regina’s reign\, but Cady soon learns that taking down a queen bee can come at a cost—and that losing yourself is far more dangerous than losing a popularity contest. \n*Mean Girls contains mature themes and language*
+URL:https://visityolo.com/event/davis-musical-theatre-presents-mean-girls/2026-11-22/
+LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/mean-girls.jpg
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261122T163000
+DTEND;TZID=America/Los_Angeles:20261122T210000
+DTSTAMP:20260923T224628Z
+CREATED:20260923T224628Z
+LAST-MODIFIED:20260923T224628Z
+UID:10014906-1795365000-1795381200@visityolo.com
+SUMMARY:Park Winters Presents: Holiday Farm Dinner Concert
+DESCRIPTION:Marty O’Reilly blends gritty Americana\, soulful blues and raw storytelling into music that feels both timeless and deeply personal. From soft and haunting to wild and electric\, his captivating performances explore love\, loss and connection\, leaving audiences feeling moved long after the final note. Your experience will include cocktail hour starting at 4:30\, followed by a multi-course Farm Dinner at 6 – Music starts at 7:30.\n*tickets are non-refundable
+URL:https://visityolo.com/event/park-winters-presents-holiday-farm-dinner-concert/2026-11-22/
+LOCATION:Park Winters\, Park Winters\, 27850 County Road 26 Winters\, CA 95694
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/DJI_0496-11.jpg
+END:VEVENT
+END:VCALENDAR
