@@ -63,34 +63,6 @@ ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/mean-girls.jp
 ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20261115T173000
-DTEND;TZID=America/Los_Angeles:20261115T203000
-DTSTAMP:20260813T194113Z
-CREATED:20260813T194113Z
-LAST-MODIFIED:20260813T194113Z
-UID:10014720-1794763800-1794774600@visityolo.com
-SUMMARY:Live Music at Carboni's Ristorante
-DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
-URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-15/
-LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
-ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20261116T113000
-DTEND;TZID=America/Los_Angeles:20261116T170000
-DTSTAMP:20261023T162643Z
-CREATED:20261023T162643Z
-LAST-MODIFIED:20261023T162643Z
-UID:10015330-1794828600-1794848400@visityolo.com
-SUMMARY:Pence Gallery Holiday Market
-DESCRIPTION:Pence Gallery Holiday Market in Davis \nNovember 13 – December 24\, 11:30 AM – 5 PM (Open daily*) \nReception: November 13\, 6-9 PM (Free) \nOur Holiday Market is a treasure trove of hand-crafted items created by regional artists and artisans\, perfect for holiday gift giving. Visitors can enjoy shopping for unique ceramics\, cozy knit scarves\, handmade jewelry\, amazing paintings\, and more! There are over 50 artists participating this year\, and our gallery will be overflowing with fun items that will make great gifts for loved ones. \n  \nHoliday Market Member Opening \nFriday\, November 13\, 10:30-11:30 AM (Free) \nPence Members are invited to enjoy a private opening of the Holiday Market from 10:30-11:30 AM. Enjoy delicious treats and coffee\, while getting first dibs on shopping for holiday treasures. Pence Members receive 10% off Holiday Market purchases. Not a Member? Sign up online at pencegallery.org or in person at the gallery. \n  \n*The Holiday Market is open daily from 11:30 AM – 5 PM (including Mondays)\, with the following exceptions: \nNov. 25: Closes at 3 PM \nNov. 26: Closed for Thanksgiving Day \nDec. 24: Closes at 3 PM (final day)
-URL:https://visityolo.com/event/pence-gallery-holiday-market-3/2026-11-16/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HM-2026-postcard-copy-scaled.jpg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20261117T113000
 DTEND;TZID=America/Los_Angeles:20261117T170000
 DTSTAMP:20260928T180906Z
@@ -459,5 +431,33 @@ DESCRIPTION:Marty O’Reilly blends gritty Americana\, soulful blues and raw sto
 URL:https://visityolo.com/event/park-winters-presents-holiday-farm-dinner-concert/2026-11-22/
 LOCATION:Park Winters\, Park Winters\, 27850 County Road 26 Winters\, CA 95694
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/DJI_0496-11.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261122T173000
+DTEND;TZID=America/Los_Angeles:20261122T203000
+DTSTAMP:20260813T194113Z
+CREATED:20260813T194113Z
+LAST-MODIFIED:20260813T194113Z
+UID:10014722-1795368600-1795379400@visityolo.com
+SUMMARY:Live Music at Carboni's Ristorante
+DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
+URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-22/
+LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
+ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261123T113000
+DTEND;TZID=America/Los_Angeles:20261123T170000
+DTSTAMP:20261023T162643Z
+CREATED:20261023T162643Z
+LAST-MODIFIED:20261023T162643Z
+UID:10015337-1795433400-1795453200@visityolo.com
+SUMMARY:Pence Gallery Holiday Market
+DESCRIPTION:Pence Gallery Holiday Market in Davis \nNovember 13 – December 24\, 11:30 AM – 5 PM (Open daily*) \nReception: November 13\, 6-9 PM (Free) \nOur Holiday Market is a treasure trove of hand-crafted items created by regional artists and artisans\, perfect for holiday gift giving. Visitors can enjoy shopping for unique ceramics\, cozy knit scarves\, handmade jewelry\, amazing paintings\, and more! There are over 50 artists participating this year\, and our gallery will be overflowing with fun items that will make great gifts for loved ones. \n  \nHoliday Market Member Opening \nFriday\, November 13\, 10:30-11:30 AM (Free) \nPence Members are invited to enjoy a private opening of the Holiday Market from 10:30-11:30 AM. Enjoy delicious treats and coffee\, while getting first dibs on shopping for holiday treasures. Pence Members receive 10% off Holiday Market purchases. Not a Member? Sign up online at pencegallery.org or in person at the gallery. \n  \n*The Holiday Market is open daily from 11:30 AM – 5 PM (including Mondays)\, with the following exceptions: \nNov. 25: Closes at 3 PM \nNov. 26: Closed for Thanksgiving Day \nDec. 24: Closes at 3 PM (final day)
+URL:https://visityolo.com/event/pence-gallery-holiday-market-3/2026-11-23/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HM-2026-postcard-copy-scaled.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
 END:VEVENT
 END:VCALENDAR

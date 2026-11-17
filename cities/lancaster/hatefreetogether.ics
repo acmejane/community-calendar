@@ -46,47 +46,6 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Native-American-Heritage-Month.png
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-DTSTAMP:20261028T183617Z
-CREATED:20261028T182406Z
-LAST-MODIFIED:20261028T183617Z
-UID:10000899-1794787200-1794873599@hatefreetogether.org
-SUMMARY:International Day for Tolerance
-DESCRIPTION:The International Day for Tolerance encourages respect\, understanding\, and appreciation for people whose beliefs\, cultures\, and experiences differ from our own. It reminds us that building inclusive communities begins with listening\, challenging prejudice\, and treating every person with dignity. \nLearn more at the United Nations (UNESCO) Website.
-URL:https://hatefreetogether.org/event/2172/
-LOCATION:CA
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/toleranceday-fullarticle.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261116T150000
-DTEND;TZID=UTC:20261116T160000
-DTSTAMP:20261019T224654Z
-CREATED:20261019T224654Z
-LAST-MODIFIED:20261019T224654Z
-UID:10000743-1794841200-1794844800@hatefreetogether.org
-SUMMARY:Teaching about Disinformation
-DESCRIPTION:This presentation brings together Catherine Hatzakos\, Continuing Lecturer in the Writing Center\, and Matthew Conner\, Arts\, Humanities\, and Social Sciences Librarian\, to discuss tools\, pedagogies\, and learning outcomes for teaching about disinformation. Register here \n2026-2027 marks the UC Davis Campus Community Book Project’s 25th anniversary\, and our theme—civil liberties—leans into the Book Project’s legacy of promoting dialogue and engaging diverse perspectives and audiences. Our selection\, On Tyranny: Twenty Lessons from the Twentieth Century by Timothy Snyder is a call to arms and a guide to resistance\, with invaluable ideas for how we can preserve our freedoms in the uncertain years to come. The Founding Fathers tried to protect us from the threat they knew\, the tyranny that overcame ancient democracy. Today\, our political order faces new threats\, not unlike the totalitarianism of the twentieth century. We are no wiser than the Europeans who saw democracy yield to fascism\, Nazism\, or communism. Our one advantage is that we might learn from their experience. Author Timothy Snyder holds the inaugural Temerty Chair in Modern European History at the Munk School of Global Affairs and Public Policy at the University of Toronto. He is also a permanent fellow at the Institute for Human Sciences in Vienna and the head of the academic advisory council of Ukrainian History Global Initiative. You can read more about the selection here.
-URL:https://hatefreetogether.org/event/teaching-about-disinformation/
-LOCATION:Zoom
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Books.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261116T150000
-DTEND;TZID=UTC:20261116T160000
-DTSTAMP:20261022T223936Z
-CREATED:20261022T200822Z
-LAST-MODIFIED:20261022T223936Z
-UID:10000823-1794841200-1794844800@hatefreetogether.org
-SUMMARY:Yolo County Library: English Conversation Group
-DESCRIPTION:Join the Yolo County Davis Branch Library’s adult Conversation Group to practice your English in a fun and relaxed way with help from a group facilitator. Drop in visitors are welcome! For adults 18+. Location is the Mary L. Stephens Library’ Blanchard Room on Monday’s at 3:00 p.m. until the end of 2026.
-URL:https://hatefreetogether.org/event/mary-l-stephens-davis-library-english-conversation-group/2026-11-16/
-LOCATION:Mary L Stephens Davis Branch Library\, 315 E 14th Street\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Mary-L.-Stephens-Davis-Library-scaled.jpg
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=UTC:20261118T100000
 DTEND;TZID=UTC:20261118T170000
 DTSTAMP:20261028T183745Z
@@ -425,5 +384,46 @@ DESCRIPTION:Join the Knights Landing Branch Library for different crafts every W
 URL:https://hatefreetogether.org/event/yolo-county-library-craft-wednesdays/2026-12-02/
 LOCATION:Knights Landing Branch Library\, 42351 3rd St\, Knights Landing\, CA\, 95645\, United States
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Knights-Landing-Branch-Library-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+DTSTAMP:20261028T185012Z
+CREATED:20261028T185012Z
+LAST-MODIFIED:20261028T185012Z
+UID:10000904-1796256000-1796342399@hatefreetogether.org
+SUMMARY:International Day of Persons with Disabilities
+DESCRIPTION:This international observance promotes the rights\, inclusion\, and well-being of people with disabilities. It reminds us to identify and remove barriers\, improve accessibility\, and recognize the leadership\, experiences\, and contributions of disabled people in building more equitable communities. \nLearn more at the United Nations.
+URL:https://hatefreetogether.org/event/international-day-of-persons-with-disabilities/
+LOCATION:CA
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/en-logo2019-day-of-persons-with-disabilities.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261203T100000
+DTEND;TZID=UTC:20261203T170000
+DTSTAMP:20261028T183745Z
+CREATED:20261028T180021Z
+LAST-MODIFIED:20261028T183745Z
+UID:10000879-1796292000-1796317200@hatefreetogether.org
+SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
+DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
+URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-12-03/
+LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261203T183000
+DTEND;TZID=UTC:20261203T200000
+DTSTAMP:20260424T163204Z
+CREATED:20260424T163204Z
+LAST-MODIFIED:20260424T163204Z
+UID:10000372-1796322600-1796328000@hatefreetogether.org
+SUMMARY:Davis City Council Meetings
+DESCRIPTION:The Davis City Council provides policy direction\, establishes goals\, and sets priorities for City government. City Council holds regular meetings beginning at 6:30 p.m. on Tuesdays. Most commonly\, meetings are held on the first and third Tuesdays of the month\, with additional meetings scheduled as needed. The City Council meeting schedule is subject to change. \n  \nThe Davis City Council meets in the Community Chambers at City Hall\, 23 Russell Boulevard. All regular meeting materials are posted at least 72 hours in advance and special meeting materials at least 24 hours in advance. \n  \nVisit the City Council site for information on agenda\, special meetings\, and more.
+URL:https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-03/
+LOCATION:City Hall Community Chambers\, 23 Russell Blvd\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/newmayor_ci_EVERETT_SMITH-scaled-e1777048191300.webp
 END:VEVENT
 END:VCALENDAR
