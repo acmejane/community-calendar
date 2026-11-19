@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18T04:46:54.611421",
+  "generated": "2026-11-19T04:38:26.460758",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34943,6 +34943,10 @@
             {
               "date": "2026-11-18",
               "count": 2
+            },
+            {
+              "date": "2026-11-19",
+              "count": 1
             }
           ]
         },
@@ -35962,6 +35966,10 @@
             },
             {
               "date": "2026-11-18",
+              "count": 28
+            },
+            {
+              "date": "2026-11-19",
               "count": 28
             }
           ]
@@ -36983,6 +36991,10 @@
             {
               "date": "2026-11-18",
               "count": 0
+            },
+            {
+              "date": "2026-11-19",
+              "count": 0
             }
           ]
         },
@@ -38002,6 +38014,10 @@
             },
             {
               "date": "2026-11-18",
+              "count": 10
+            },
+            {
+              "date": "2026-11-19",
               "count": 10
             }
           ]
@@ -39023,6 +39039,10 @@
             {
               "date": "2026-11-18",
               "count": 10
+            },
+            {
+              "date": "2026-11-19",
+              "count": 10
             }
           ]
         },
@@ -40042,6 +40062,10 @@
             },
             {
               "date": "2026-11-18",
+              "count": 10
+            },
+            {
+              "date": "2026-11-19",
               "count": 10
             }
           ]
@@ -41063,6 +41087,10 @@
             {
               "date": "2026-11-18",
               "count": 0
+            },
+            {
+              "date": "2026-11-19",
+              "count": 0
             }
           ]
         },
@@ -42082,6 +42110,10 @@
             },
             {
               "date": "2026-11-18",
+              "count": 0
+            },
+            {
+              "date": "2026-11-19",
               "count": 0
             }
           ]
@@ -43103,6 +43135,10 @@
             {
               "date": "2026-11-18",
               "count": 10
+            },
+            {
+              "date": "2026-11-19",
+              "count": 10
             }
           ]
         },
@@ -44122,6 +44158,10 @@
             },
             {
               "date": "2026-11-18",
+              "count": 0
+            },
+            {
+              "date": "2026-11-19",
               "count": 0
             }
           ]
@@ -45143,6 +45183,10 @@
             {
               "date": "2026-11-18",
               "count": 0
+            },
+            {
+              "date": "2026-11-19",
+              "count": 0
             }
           ]
         },
@@ -46162,6 +46206,10 @@
             },
             {
               "date": "2026-11-18",
+              "count": 4
+            },
+            {
+              "date": "2026-11-19",
               "count": 4
             }
           ]
@@ -47183,6 +47231,10 @@
             {
               "date": "2026-11-18",
               "count": 29
+            },
+            {
+              "date": "2026-11-19",
+              "count": 29
             }
           ]
         }
@@ -47190,7 +47242,7 @@
       "categories": [
         {
           "category": "Arts / Culture",
-          "count": 25
+          "count": 24
         },
         {
           "category": "Community / Social",
@@ -47201,40 +47253,40 @@
           "count": 12
         },
         {
+          "category": "Health / Wellness",
+          "count": 10
+        },
+        {
           "category": "Music / Concerts",
           "count": 10
         },
         {
-          "category": "Health / Wellness",
-          "count": 10
+          "category": "Religion / Spirituality",
+          "count": 6
         },
         {
           "category": "Food / Drink",
           "count": 5
         },
         {
-          "category": "Religion / Spirituality",
-          "count": 5
+          "category": "Government / Civic",
+          "count": 4
         },
         {
           "category": "Dance / Performance",
           "count": 4
         },
         {
-          "category": "Government / Civic",
-          "count": 3
-        },
-        {
           "category": "Sports / Fitness",
-          "count": 2
+          "count": 1
         },
         {
           "category": "Family / Kids",
-          "count": 2
+          "count": 1
         }
       ],
       "images": {
-        "total": 98,
+        "total": 97,
         "with_image": 58,
         "by_source": [
           {
@@ -47261,7 +47313,7 @@
       },
       "url_quality": {
         "total_with_url": 96,
-        "total_events": 98,
+        "total_events": 97,
         "unique_urls": 96,
         "generic_count": 0,
         "generic_domains": [],
