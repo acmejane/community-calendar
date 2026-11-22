@@ -1,1 +1,105 @@
-<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fevents%2F%3Fical%3D1&y=ipr:172.174.223.100:1795234925.959"></meta></head></html>
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Visit Davis - ECPv6.18.4.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Visit Davis
+X-ORIGINAL-URL:https://visitdavis.org
+X-WR-CALDESC:Events for Visit Davis
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20270314T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20271107T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261106T193000
+DTEND;TZID=America/Los_Angeles:20261129T220000
+DTSTAMP:20261106T173049Z
+CREATED:20260831T183058Z
+LAST-MODIFIED:20261106T173049Z
+UID:10003036-1793993400-1795989600@visitdavis.org
+SUMMARY:Davis Musical Theatre Presents Mean Girls
+DESCRIPTION:Davis Musical Theatre Presents Mean Girls \nCady Heron may have grown up on an African savanna\, but nothing prepared her for the wild and vicious ways of her strange new home: suburban Illinois. When Cady encounters The Plastics—a trio of powerful frenemies led by the charming but ruthless Regina George—she becomes caught in the school’s popularity hierarchy. Cady and her new friends devise a “Revenge Party” to end Regina’s reign\, but Cady soon learns that taking down a queen bee can come at a cost—and that losing yourself is far more dangerous than losing a popularity contest. \n*Mean Girls contains mature themes and language*
+URL:https://visitdavis.org/event/davis-musical-theatre-presents-mean-girls/
+LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/mean-girls-95fY5Z.jpg
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261121T080000
+DTEND;TZID=America/Los_Angeles:20261121T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002938-1795248000-1795266000@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-11-21/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261121T200000
+DTEND;TZID=America/Los_Angeles:20261121T220000
+DTSTAMP:20261121T173017Z
+CREATED:20261005T173057Z
+LAST-MODIFIED:20261121T173017Z
+UID:10003086-1795291200-1795298400@visitdavis.org
+SUMMARY:Kevin Seconds Live @ The Melon Ball
+DESCRIPTION:Live music @ The Melon Ball in Davis. \nKevin Seconds is a Sacramento-born singer\, songwriter\, and guitarist best known as the frontman of the influential punk band 7 Seconds\, which he founded in 1979 with his brother Steve Youth. Alongside decades of touring and releasing records with the band\, Seconds has built a prolific solo career since the early 1990s\, performing across the U.S. and the U.K. and releasing multiple albums that explore folk\, indie\, and alternative acoustic styles. His solo work often features collaborations with his wife\, Allyson Seconds\, and showcases his sharp songwriting\, warm storytelling\, and a distinctly DIY spirit that has defined his entire musical life. \nKevin’s Website Here \n$20 General Admission\nDoors open at 7:30pm \nCash or Venmo at the door only (no Credit Card) \nThis is a BYOB event! \nPresented by Left of the Dial Promotions and KDRT 95.7 fm
+URL:https://visitdavis.org/event/kevin-seconds-live-the-melon-ball/
+LOCATION:The Melon Ball – Watermelon Music\, 1970 Lake Blvd.\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/112126_Web-1-0MRjeq.jpg
+ORGANIZER;CN="Watermelon Music":MAILTO:info@watermelonmusic.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261128T080000
+DTEND;TZID=America/Los_Angeles:20261128T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002939-1795852800-1795870800@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-11-28/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
+END:VEVENT
+END:VCALENDAR

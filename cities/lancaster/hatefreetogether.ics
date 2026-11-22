@@ -46,34 +46,6 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Native-American-Heritage-Month.png
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC:20261121T100000
-DTEND;TZID=UTC:20261121T170000
-DTSTAMP:20261028T183745Z
-CREATED:20261028T180021Z
-LAST-MODIFIED:20261028T183745Z
-UID:10000873-1795255200-1795280400@hatefreetogether.org
-SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
-DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
-URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-21/
-LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20261121T180000
-DTEND;TZID=UTC:20261121T203000
-DTSTAMP:20261029T203720Z
-CREATED:20261029T203642Z
-LAST-MODIFIED:20261029T203720Z
-UID:10000918-1795284000-1795293000@hatefreetogether.org
-SUMMARY:Discovery Christian Church: Friendsgiving
-DESCRIPTION:Discovery Christian Church invites community members to a Friendsgiving dinner on Saturday\, November 21\, from 6:00 to 8:30 p.m. at Discovery Hub\, 604 3rd Street\, Suite 100\, Davis\, CA 95616. The gathering welcomes unhoused neighbors to share a meal and celebrate the holiday season together. \nParticipants are encouraged to bring a favorite dish to share and invite friends to join in an evening of food\, connection\, and community. Register for the event through this link.
-URL:https://hatefreetogether.org/event/discovery-christian-church-friendsgiving/
-LOCATION:Discovery Hub\, 604 3rd St\, Suite 100\, Davis\, CA\, 95616\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Discovery-Hub-Discovery-Christian-Church.jpg
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=UTC:20261123T150000
 DTEND;TZID=UTC:20261123T160000
 DTSTAMP:20261022T223936Z
@@ -425,5 +397,32 @@ DESCRIPTION:Join the Yolo County Davis Branch Library’s adult Conversation Gro
 URL:https://hatefreetogether.org/event/mary-l-stephens-davis-library-english-conversation-group/2026-12-07/
 LOCATION:Mary L Stephens Davis Branch Library\, 315 E 14th Street\, Davis\, CA\, 95616\, United States
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Mary-L.-Stephens-Davis-Library-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+DTSTAMP:20261028T191201Z
+CREATED:20261028T191201Z
+LAST-MODIFIED:20261028T191201Z
+UID:10000906-1796688000-1796774399@hatefreetogether.org
+SUMMARY:Bodhi Day
+DESCRIPTION:Bodhi Day is observed by many Buddhists in remembrance of Siddhartha Gautama’s enlightenment\, which\, according to Buddhist tradition\, he attained while meditating under the Bodhi tree. Through meditation\, reflection\, and acts of kindness\, practitioners honor the Buddhist path toward wisdom and compassion. This observance invites us to learn about Buddhist traditions and reflect on how mindfulness and compassion can strengthen our communities. \n  \nLearn more at Tricycle: The Buddhist Review.
+URL:https://hatefreetogether.org/event/bodhi-day/
+LOCATION:CA
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/png:https://hatefreetogether.org/wp-content/uploads/Buddha.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20261208T153000
+DTEND;TZID=UTC:20261208T193000
+DTSTAMP:20261022T225656Z
+CREATED:20261022T225656Z
+LAST-MODIFIED:20261022T225656Z
+UID:10000854-1796743800-1796758200@hatefreetogether.org
+SUMMARY:Yolo County Board of Education Meeting
+DESCRIPTION:The Yolo County Office of Education meetings offer insight into how the county’s educational priorities\, policies\, and programs serve local students and communities. Regular meetings are generally held on the second Tuesday of each month at 3:30 p.m. at the Yolo County Office of Education in Woodland. Meetings are open to the public\, with online viewing available via Zoom. \n  \nThe Yolo County Office of Education oversees county-level educational matters\, including policies and programs that support students\, schools\, and districts throughout Yolo County. Meeting agendas\, packets\, and minutes are available online. \n  \nFor more information about meeting dates\, agendas\, public comment\, and online access\, visit the Yolo County Office of Education Board Meetings website or contact the Superintendent’s Office at (530) 668-3702.
+URL:https://hatefreetogether.org/event/yolo-county-board-of-education-meeting/2026-12-08/
+LOCATION:Yolo County Office of Education\, 1280 Santa Anita Court\, Woodland\, CA\, 95776
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/yolo_county_office_of_education_cover-scaled.jpg
 END:VEVENT
 END:VCALENDAR
