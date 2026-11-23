@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T03:37:08.053643",
+  "generated": "2026-11-23T04:09:42.065905",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34959,6 +34959,10 @@
             {
               "date": "2026-11-22",
               "count": 2
+            },
+            {
+              "date": "2026-11-23",
+              "count": 1
             }
           ]
         },
@@ -35994,6 +35998,10 @@
             },
             {
               "date": "2026-11-22",
+              "count": 28
+            },
+            {
+              "date": "2026-11-23",
               "count": 28
             }
           ]
@@ -37031,6 +37039,10 @@
             {
               "date": "2026-11-22",
               "count": 0
+            },
+            {
+              "date": "2026-11-23",
+              "count": 0
             }
           ]
         },
@@ -38066,6 +38078,10 @@
             },
             {
               "date": "2026-11-22",
+              "count": 10
+            },
+            {
+              "date": "2026-11-23",
               "count": 10
             }
           ]
@@ -39103,6 +39119,10 @@
             {
               "date": "2026-11-22",
               "count": 10
+            },
+            {
+              "date": "2026-11-23",
+              "count": 10
             }
           ]
         },
@@ -40138,6 +40158,10 @@
             },
             {
               "date": "2026-11-22",
+              "count": 10
+            },
+            {
+              "date": "2026-11-23",
               "count": 10
             }
           ]
@@ -41175,6 +41199,10 @@
             {
               "date": "2026-11-22",
               "count": 0
+            },
+            {
+              "date": "2026-11-23",
+              "count": 0
             }
           ]
         },
@@ -42210,6 +42238,10 @@
             },
             {
               "date": "2026-11-22",
+              "count": 0
+            },
+            {
+              "date": "2026-11-23",
               "count": 0
             }
           ]
@@ -43247,6 +43279,10 @@
             {
               "date": "2026-11-22",
               "count": 10
+            },
+            {
+              "date": "2026-11-23",
+              "count": 10
             }
           ]
         },
@@ -44282,6 +44318,10 @@
             },
             {
               "date": "2026-11-22",
+              "count": 0
+            },
+            {
+              "date": "2026-11-23",
               "count": 0
             }
           ]
@@ -45319,6 +45359,10 @@
             {
               "date": "2026-11-22",
               "count": 0
+            },
+            {
+              "date": "2026-11-23",
+              "count": 0
             }
           ]
         },
@@ -46355,6 +46399,10 @@
             {
               "date": "2026-11-22",
               "count": 3
+            },
+            {
+              "date": "2026-11-23",
+              "count": 1
             }
           ]
         },
@@ -47391,6 +47439,10 @@
             {
               "date": "2026-11-22",
               "count": 29
+            },
+            {
+              "date": "2026-11-23",
+              "count": 29
             }
           ]
         }
@@ -47398,7 +47450,7 @@
       "categories": [
         {
           "category": "Arts / Culture",
-          "count": 24
+          "count": 26
         },
         {
           "category": "Community / Social",
@@ -47406,11 +47458,11 @@
         },
         {
           "category": "Education / Workshops",
-          "count": 12
+          "count": 14
         },
         {
           "category": "Health / Wellness",
-          "count": 10
+          "count": 9
         },
         {
           "category": "Music / Concerts",
@@ -47421,20 +47473,16 @@
           "count": 7
         },
         {
-          "category": "Food / Drink",
-          "count": 6
-        },
-        {
-          "category": "Dance / Performance",
-          "count": 5
-        },
-        {
           "category": "Government / Civic",
           "count": 5
         },
         {
-          "category": "Sports / Fitness",
-          "count": 1
+          "category": "Food / Drink",
+          "count": 4
+        },
+        {
+          "category": "Dance / Performance",
+          "count": 4
         },
         {
           "category": "Family / Kids",
@@ -47442,26 +47490,21 @@
         }
       ],
       "images": {
-        "total": 97,
-        "with_image": 58,
+        "total": 96,
+        "with_image": 57,
         "by_source": [
+          {
+            "source": "Visityolo Event",
+            "total": 28,
+            "with_image": 28
+          },
           {
             "source": "Hate-Free Together",
             "total": 28,
             "with_image": 28
           },
           {
-            "source": "Visityolo Event",
-            "total": 27,
-            "with_image": 27
-          },
-          {
             "source": "Visit Davis, Visityolo Event",
-            "total": 2,
-            "with_image": 2
-          },
-          {
-            "source": "Visit Davis",
             "total": 1,
             "with_image": 1
           }
@@ -47469,7 +47512,7 @@
       },
       "url_quality": {
         "total_with_url": 95,
-        "total_events": 97,
+        "total_events": 96,
         "unique_urls": 95,
         "generic_count": 0,
         "generic_domains": [],
@@ -47477,15 +47520,15 @@
         "http_domains": 0,
         "source_specificity": [
           {
-            "source": "Hate-Free Together",
+            "source": "Visityolo Event",
             "events": 28,
             "unique_urls": 28,
             "specificity_pct": 100
           },
           {
-            "source": "Visityolo Event",
-            "events": 27,
-            "unique_urls": 27,
+            "source": "Hate-Free Together",
+            "events": 28,
+            "unique_urls": 28,
             "specificity_pct": 100
           },
           {
@@ -47502,30 +47545,24 @@
           },
           {
             "source": "Meetup: Mosaics",
-            "events": 7,
-            "unique_urls": 7,
+            "events": 8,
+            "unique_urls": 8,
             "specificity_pct": 100
           },
           {
             "source": "Meetup Intercultural Mosaics",
-            "events": 7,
-            "unique_urls": 7,
+            "events": 8,
+            "unique_urls": 8,
             "specificity_pct": 100
           },
           {
             "source": "Meetup Intercultural Mosaics, Meetup: Mosaics",
-            "events": 3,
-            "unique_urls": 3,
-            "specificity_pct": 100
-          },
-          {
-            "source": "Visit Davis, Visityolo Event",
             "events": 2,
             "unique_urls": 2,
             "specificity_pct": 100
           },
           {
-            "source": "Visit Davis",
+            "source": "Visit Davis, Visityolo Event",
             "events": 1,
             "unique_urls": 1,
             "specificity_pct": 100
