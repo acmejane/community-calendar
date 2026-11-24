@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T04:09:42.065905",
+  "generated": "2026-11-24T07:10:18.718934",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34963,6 +34963,10 @@
             {
               "date": "2026-11-23",
               "count": 1
+            },
+            {
+              "date": "2026-11-24",
+              "count": 2
             }
           ]
         },
@@ -36002,6 +36006,10 @@
             },
             {
               "date": "2026-11-23",
+              "count": 28
+            },
+            {
+              "date": "2026-11-24",
               "count": 28
             }
           ]
@@ -37043,6 +37051,10 @@
             {
               "date": "2026-11-23",
               "count": 0
+            },
+            {
+              "date": "2026-11-24",
+              "count": 0
             }
           ]
         },
@@ -38082,6 +38094,10 @@
             },
             {
               "date": "2026-11-23",
+              "count": 10
+            },
+            {
+              "date": "2026-11-24",
               "count": 10
             }
           ]
@@ -39123,6 +39139,10 @@
             {
               "date": "2026-11-23",
               "count": 10
+            },
+            {
+              "date": "2026-11-24",
+              "count": 10
             }
           ]
         },
@@ -40162,6 +40182,10 @@
             },
             {
               "date": "2026-11-23",
+              "count": 10
+            },
+            {
+              "date": "2026-11-24",
               "count": 10
             }
           ]
@@ -41203,6 +41227,10 @@
             {
               "date": "2026-11-23",
               "count": 0
+            },
+            {
+              "date": "2026-11-24",
+              "count": 0
             }
           ]
         },
@@ -42242,6 +42270,10 @@
             },
             {
               "date": "2026-11-23",
+              "count": 0
+            },
+            {
+              "date": "2026-11-24",
               "count": 0
             }
           ]
@@ -43283,6 +43315,10 @@
             {
               "date": "2026-11-23",
               "count": 10
+            },
+            {
+              "date": "2026-11-24",
+              "count": 10
             }
           ]
         },
@@ -44322,6 +44358,10 @@
             },
             {
               "date": "2026-11-23",
+              "count": 0
+            },
+            {
+              "date": "2026-11-24",
               "count": 0
             }
           ]
@@ -45363,6 +45403,10 @@
             {
               "date": "2026-11-23",
               "count": 0
+            },
+            {
+              "date": "2026-11-24",
+              "count": 0
             }
           ]
         },
@@ -46402,6 +46446,10 @@
             },
             {
               "date": "2026-11-23",
+              "count": 1
+            },
+            {
+              "date": "2026-11-24",
               "count": 1
             }
           ]
@@ -47443,6 +47491,10 @@
             {
               "date": "2026-11-23",
               "count": 29
+            },
+            {
+              "date": "2026-11-24",
+              "count": 29
             }
           ]
         }
@@ -47450,7 +47502,7 @@
       "categories": [
         {
           "category": "Arts / Culture",
-          "count": 26
+          "count": 28
         },
         {
           "category": "Community / Social",
@@ -47458,27 +47510,27 @@
         },
         {
           "category": "Education / Workshops",
-          "count": 14
+          "count": 13
         },
         {
           "category": "Health / Wellness",
-          "count": 9
+          "count": 10
         },
         {
           "category": "Music / Concerts",
-          "count": 8
+          "count": 7
         },
         {
           "category": "Religion / Spirituality",
-          "count": 7
+          "count": 6
+        },
+        {
+          "category": "Food / Drink",
+          "count": 5
         },
         {
           "category": "Government / Civic",
           "count": 5
-        },
-        {
-          "category": "Food / Drink",
-          "count": 4
         },
         {
           "category": "Dance / Performance",
@@ -47490,16 +47542,16 @@
         }
       ],
       "images": {
-        "total": 96,
+        "total": 97,
         "with_image": 57,
         "by_source": [
           {
-            "source": "Visityolo Event",
+            "source": "Hate-Free Together",
             "total": 28,
             "with_image": 28
           },
           {
-            "source": "Hate-Free Together",
+            "source": "Visityolo Event",
             "total": 28,
             "with_image": 28
           },
@@ -47512,7 +47564,7 @@
       },
       "url_quality": {
         "total_with_url": 95,
-        "total_events": 96,
+        "total_events": 97,
         "unique_urls": 95,
         "generic_count": 0,
         "generic_domains": [],
@@ -47520,25 +47572,25 @@
         "http_domains": 0,
         "source_specificity": [
           {
-            "source": "Visityolo Event",
-            "events": 28,
-            "unique_urls": 28,
-            "specificity_pct": 100
-          },
-          {
             "source": "Hate-Free Together",
             "events": 28,
             "unique_urls": 28,
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Mindful Embodied Spirituality",
+            "source": "Visityolo Event",
+            "events": 28,
+            "unique_urls": 28,
+            "specificity_pct": 100
+          },
+          {
+            "source": "Meetup Yolo County Board Game Gathering",
             "events": 10,
             "unique_urls": 10,
             "specificity_pct": 100
           },
           {
-            "source": "Meetup Yolo County Board Game Gathering",
+            "source": "Meetup Mindful Embodied Spirituality",
             "events": 10,
             "unique_urls": 10,
             "specificity_pct": 100

@@ -7,104 +7,6 @@ X-WR-CALNAME:Lancaster Community Calendar
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/park-winters-presents-holiday-farm-dinner-concert/2026-11-22/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261122T163000
-DTEND;TZID=America/Los_Angeles:20261122T210000
-DTSTAMP:20260923T224628Z
-CREATED:20260923T224628Z
-LAST-MODIFIED:20260923T224628Z
-UID:10014906-1795365000-1795381200@visityolo.com
-SUMMARY:Park Winters Presents: Holiday Farm Dinner Concert
-DESCRIPTION:Marty O’Reilly blends gritty Americana\, soulful blues and raw storytelling into music that feels both timeless and deeply personal. From soft and haunting to wild and electric\, his captivating performances explore love\, loss and connection\, leaving audiences feeling moved long after the final note. Your experience will include cocktail hour starting at 4:30\, followed by a multi-course Farm Dinner at 6 – Music starts at 7:30.\n*tickets are non-refundable
-URL:https://visityolo.com/event/park-winters-presents-holiday-farm-dinner-concert/2026-11-22/
-LOCATION:Park Winters\, Park Winters\, 27850 County Road 26 Winters\, CA 95694
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/DJI_0496-11.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-22/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261122T173000
-DTEND;TZID=America/Los_Angeles:20261122T203000
-DTSTAMP:20260813T194113Z
-CREATED:20260813T194113Z
-LAST-MODIFIED:20260813T194113Z
-UID:10014722-1795368600-1795379400@visityolo.com
-SUMMARY:Live Music at Carboni's Ristorante
-DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
-URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-22/
-LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
-ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/pence-gallery-holiday-market-3/2026-11-23/"}
-X-SOURCE-ID:visityolo_event
-X-SOURCE:Visityolo Event
-DTSTART;TZID=America/Los_Angeles:20261123T113000
-DTEND;TZID=America/Los_Angeles:20261123T170000
-DTSTAMP:20261023T162643Z
-CREATED:20261023T162643Z
-LAST-MODIFIED:20261023T162643Z
-UID:10015337-1795433400-1795453200@visityolo.com
-SUMMARY:Pence Gallery Holiday Market
-DESCRIPTION:Pence Gallery Holiday Market in Davis \nNovember 13 – December 24\, 11:30 AM – 5 PM (Open daily*) \nReception: November 13\, 6-9 PM (Free) \nOur Holiday Market is a treasure trove of hand-crafted items created by regional artists and artisans\, perfect for holiday gift giving. Visitors can enjoy shopping for unique ceramics\, cozy knit scarves\, handmade jewelry\, amazing paintings\, and more! There are over 50 artists participating this year\, and our gallery will be overflowing with fun items that will make great gifts for loved ones. \n  \nHoliday Market Member Opening \nFriday\, November 13\, 10:30-11:30 AM (Free) \nPence Members are invited to enjoy a private opening of the Holiday Market from 10:30-11:30 AM. Enjoy delicious treats and coffee\, while getting first dibs on shopping for holiday treasures. Pence Members receive 10% off Holiday Market purchases. Not a Member? Sign up online at pencegallery.org or in person at the gallery. \n  \n*The Holiday Market is open daily from 11:30 AM – 5 PM (including Mondays)\, with the following exceptions: \nNov. 25: Closes at 3 PM \nNov. 26: Closed for Thanksgiving Day \nDec. 24: Closes at 3 PM (final day)
-URL:https://visityolo.com/event/pence-gallery-holiday-market-3/2026-11-23/
-LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
-ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HM-2026-postcard-copy-scaled.jpg
-ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/mary-l-stephens-davis-library-english-conversation-group/2026-11-23/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261123T150000
-DTEND;TZID=UTC:20261123T160000
-DTSTAMP:20261022T223936Z
-CREATED:20261022T200822Z
-LAST-MODIFIED:20261022T223936Z
-UID:10000824-1795446000-1795449600@hatefreetogether.org
-SUMMARY:Yolo County Library: English Conversation Group
-DESCRIPTION:Join the Yolo County Davis Branch Library’s adult Conversation Group to practice your English in a fun and relaxed way with help from a group facilitator. Drop in visitors are welcome! For adults 18+. Location is the Mary L. Stephens Library’ Blanchard Room on Monday’s at 3:00 p.m. until the end of 2026.
-URL:https://hatefreetogether.org/event/mary-l-stephens-davis-library-english-conversation-group/2026-11-23/
-LOCATION:Mary L Stephens Davis Branch Library\, 315 E 14th Street\, Davis\, CA\, 95616\, United States
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Mary-L.-Stephens-Davis-Library-scaled.jpg
-END:VEVENT
-BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/317279665/"}
-X-SOURCE-ID:meetup_mindful_embodied_spirituality
-X-SOURCE:Meetup Mindful Embodied Spirituality
-UID:event_317279665@meetup.com
-SEQUENCE:1
-DTSTAMP:20261123T040932Z
-DTSTART;TZID=America/Los_Angeles:20261123T180000
-DTEND;TZID=America/Los_Angeles:20261123T200000
-SUMMARY:Conscious Conversations & Somatic Practices  
-DESCRIPTION:Iama Embodied Community\nThis is a spiritual community that ho
- nors the body’s wisdom and lived experience. Whether you’re healing fr
- om religious trauma\, deconstructing beliefs\, exploring spirituality\, or
-  just want to be with other conscious persons\, this space is for you.\n\n
- Expect conscious conversations\, meditation\, breathwork\, sound healing\,
-  and other somatic practices to help reconnect with ourselves and each oth
- er.\n\nwe share a potluck dinner every last Monday of the month.\n\n📅 *
- *Date & Time**: Mondays 6-8 PM\n📍 **Location**: 727 T St. Sacramento\, 
- Ca\, 95811\n💜 **All our events are free\, donations supported.**\n✨ *
- *No prior experience or spiritual beliefs necessary.**\n📩 **RSVP/ Quest
- ions? Reach out at** embody.iama@gmail.com\n🔗 **Follow us on Instagram:
- ** [@embody.iama](https://www.instagram.com/embody.iama)\n\nPS: we meet in
-  the social hall of Parkview Presbyterian Church. Please find us through t
- he back entrance\, the brown gate on Solons alley. You may park in the bac
- k\, move the orange post to park and please return it when you leave.
-URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
- 317279665/
-STATUS:CONFIRMED
-CREATED:20261104T020937Z
-LAST-MODIFIED:20261104T020937Z
-CLASS:PUBLIC
-END:VEVENT
-BEGIN:VEVENT
 X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/guru-nanak-gurpurab/"}
 X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
@@ -171,6 +73,21 @@ URL:https://visityolo.com/event/pence-gallery-holiday-market-3/2026-11-24/
 LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
 ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HM-2026-postcard-copy-scaled.jpg
 ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-ID:gcal_davisbikeclubwww
+X-SOURCE:Gcal Davisbikeclubwww
+DTSTART:20261124T190000Z
+DTEND:20261124T210000Z
+DTSTAMP:20261124T071015Z
+UID:cgpm8opnccpm2bb46ti68b9kccoj6bb2cpgmab9jc9j3adr268qj8db160@google.com
+CREATED:20261123T233437Z
+LAST-MODIFIED:20261123T233437Z
+LOCATION:Veterans Memorial Theatre\, 277 E 14th St\, Davis\, CA 95616\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Taco Ride
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-25/"}
@@ -261,7 +178,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_317307554@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040931Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261125T170000
 DTEND;TZID=America/Los_Angeles:20261125T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -378,7 +295,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317281963@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040932Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261126T180000
 DTEND;TZID=America/Los_Angeles:20261126T190000
 SUMMARY:Free Yoga Practice
@@ -623,7 +540,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317347892@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040930Z
+DTSTAMP:20261124T071000Z
 DTSTART;TZID=America/Los_Angeles:20261128T150000
 DTEND;TZID=America/Los_Angeles:20261128T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -677,7 +594,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317349100@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040931Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261128T170000
 DTEND;TZID=America/Los_Angeles:20261128T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -716,7 +633,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317350033@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040931Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261128T180000
 DTEND;TZID=America/Los_Angeles:20261128T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -755,7 +672,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317350535@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040931Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261128T190000
 DTEND;TZID=America/Los_Angeles:20261128T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -928,7 +845,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317376689@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040932Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261130T180000
 DTEND;TZID=America/Los_Angeles:20261130T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -977,7 +894,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317391599@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040932Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261201T094500
 DTEND;TZID=America/Los_Angeles:20261201T104500
 SUMMARY:Gentle yoga
@@ -1048,6 +965,40 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-12-02/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261202T113000
+DTEND;TZID=America/Los_Angeles:20261202T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014958-1796211000-1796230800@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-12-02/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/pence-gallery-holiday-market-3/2026-12-02/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261202T113000
+DTEND;TZID=America/Los_Angeles:20261202T170000
+DTSTAMP:20261023T162643Z
+CREATED:20261023T162643Z
+LAST-MODIFIED:20261023T162643Z
+UID:10015346-1796211000-1796230800@visityolo.com
+SUMMARY:Pence Gallery Holiday Market
+DESCRIPTION:Pence Gallery Holiday Market in Davis \nNovember 13 – December 24\, 11:30 AM – 5 PM (Open daily*) \nReception: November 13\, 6-9 PM (Free) \nOur Holiday Market is a treasure trove of hand-crafted items created by regional artists and artisans\, perfect for holiday gift giving. Visitors can enjoy shopping for unique ceramics\, cozy knit scarves\, handmade jewelry\, amazing paintings\, and more! There are over 50 artists participating this year\, and our gallery will be overflowing with fun items that will make great gifts for loved ones. \n  \nHoliday Market Member Opening \nFriday\, November 13\, 10:30-11:30 AM (Free) \nPence Members are invited to enjoy a private opening of the Holiday Market from 10:30-11:30 AM. Enjoy delicious treats and coffee\, while getting first dibs on shopping for holiday treasures. Pence Members receive 10% off Holiday Market purchases. Not a Member? Sign up online at pencegallery.org or in person at the gallery. \n  \n*The Holiday Market is open daily from 11:30 AM – 5 PM (including Mondays)\, with the following exceptions: \nNov. 25: Closes at 3 PM \nNov. 26: Closed for Thanksgiving Day \nDec. 24: Closes at 3 PM (final day)
+URL:https://visityolo.com/event/pence-gallery-holiday-market-3/2026-12-02/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HM-2026-postcard-copy-scaled.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/yolo-county-library-craft-wednesdays/2026-12-02/"}
 X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
@@ -1069,7 +1020,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_317405038@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040931Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261202T170000
 DTEND;TZID=America/Los_Angeles:20261202T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1088,6 +1039,23 @@ STATUS:CONFIRMED
 CREATED:20261113T012857Z
 LAST-MODIFIED:20261113T012857Z
 CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-12-02/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261202T173000
+DTEND;TZID=America/Los_Angeles:20261202T203000
+DTSTAMP:20260813T194113Z
+CREATED:20260813T194113Z
+LAST-MODIFIED:20260813T194113Z
+UID:10014725-1796232600-1796243400@visityolo.com
+SUMMARY:Live Music at Carboni's Ristorante
+DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
+URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-12-02/
+LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
+ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/international-day-of-persons-with-disabilities/"}
@@ -1129,7 +1097,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317424051@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040932Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261203T180000
 DTEND;TZID=America/Los_Angeles:20261203T190000
 SUMMARY:Free Yoga Practice
@@ -1256,7 +1224,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317445933@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040930Z
+DTSTAMP:20261124T071000Z
 DTSTART;TZID=America/Los_Angeles:20261205T150000
 DTEND;TZID=America/Los_Angeles:20261205T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -1294,7 +1262,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317446384@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040930Z
+DTSTAMP:20261124T071000Z
 DTSTART;TZID=America/Los_Angeles:20261205T160000
 DTEND;TZID=America/Los_Angeles:20261205T170000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -1332,7 +1300,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317446503@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040930Z
+DTSTAMP:20261124T071000Z
 DTSTART;TZID=America/Los_Angeles:20261205T160000
 DTEND;TZID=America/Los_Angeles:20261205T170000
 SUMMARY:Mosaics Beginning Japanese in Person
@@ -1350,7 +1318,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317446912@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040931Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261205T170000
 DTEND;TZID=America/Los_Angeles:20261205T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1389,7 +1357,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317446911@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040930Z
+DTSTAMP:20261124T071000Z
 DTSTART;TZID=America/Los_Angeles:20261205T170000
 DTEND;TZID=America/Los_Angeles:20261205T180000
 SUMMARY:Mosaics Beginning Spanish in Person
@@ -1428,7 +1396,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_317447608@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040931Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261205T180000
 DTEND;TZID=America/Los_Angeles:20261205T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1468,7 +1436,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_317448123@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040931Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1540,7 +1508,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317476724@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040932Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261207T180000
 DTEND;TZID=America/Los_Angeles:20261207T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1589,7 +1557,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317484892@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040932Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261208T094500
 DTEND;TZID=America/Los_Angeles:20261208T104500
 SUMMARY:Gentle yoga
@@ -1625,12 +1593,29 @@ LOCATION:Yolo County Office of Education\, 1280 Santa Anita Court\, Woodland\, C
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/yolo_county_office_of_education_cover-scaled.jpg
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-12-09/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261209T100000
+DTEND;TZID=UTC:20261209T170000
+DTSTAMP:20261028T183745Z
+CREATED:20261028T180021Z
+LAST-MODIFIED:20261028T183745Z
+UID:10000882-1796810400-1796835600@hatefreetogether.org
+SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
+DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
+URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-12-09/
+LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
+CATEGORIES:Season of Connection
+ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Yolo County Board Game Gathering": "https://www.meetup.com/yolo-county-board-game-gathering/events/317507748/"}
 X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_317507748@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040931Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261209T170000
 DTEND;TZID=America/Los_Angeles:20261209T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1662,7 +1647,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317522031@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040932Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261210T180000
 DTEND;TZID=America/Los_Angeles:20261210T190000
 SUMMARY:Free Yoga Practice
@@ -1690,7 +1675,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317544142@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040930Z
+DTSTAMP:20261124T071000Z
 DTSTART;TZID=America/Los_Angeles:20261212T150000
 DTEND;TZID=America/Los_Angeles:20261212T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -1728,7 +1713,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317544950@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040930Z
+DTSTAMP:20261124T071000Z
 DTSTART;TZID=America/Los_Angeles:20261212T160000
 DTEND;TZID=America/Los_Angeles:20261212T170000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -1766,7 +1751,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317545063@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040930Z
+DTSTAMP:20261124T071000Z
 DTSTART;TZID=America/Los_Angeles:20261212T160000
 DTEND;TZID=America/Los_Angeles:20261212T170000
 SUMMARY:Mosaics Beginning Japanese in Person
@@ -1784,7 +1769,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317545521@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040931Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261212T170000
 DTEND;TZID=America/Los_Angeles:20261212T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1823,7 +1808,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317546012@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040931Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261212T180000
 DTEND;TZID=America/Los_Angeles:20261212T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1862,7 +1847,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317546522@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040931Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261212T190000
 DTEND;TZID=America/Los_Angeles:20261212T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1901,7 +1886,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_bgfpxtyjcqbsb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040932Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261214T180000
 DTEND;TZID=America/Los_Angeles:20261214T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1932,7 +1917,7 @@ X-SOURCE-ID:gcal_davisbikeclubwww
 X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261214T190000
 DTEND;TZID=America/Los_Angeles:20261214T200000
-DTSTAMP:20261123T040938Z
+DTSTAMP:20261124T071015Z
 UID:61h62c9p68qj0bb3c4qjcb9kc9gmabb2cgrj6b9pcosjgchg71i68pb474@google.com
 RECURRENCE-ID;TZID=America/Los_Angeles:20261214T190000
 CREATED:20260913T010347Z
@@ -1954,7 +1939,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_vtszbvyjcqbtb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040932Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261215T094500
 DTEND;TZID=America/Los_Angeles:20261215T104500
 SUMMARY:Gentle yoga
@@ -1979,7 +1964,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstyjcqbvb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040931Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261216T170000
 DTEND;TZID=America/Los_Angeles:20261216T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2006,12 +1991,40 @@ LAST-MODIFIED:20250814T213413Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/cbwkztyjcqbwb/"}
+X-SOURCE-ID:meetup_mindful_embodied_spirituality
+X-SOURCE:Meetup Mindful Embodied Spirituality
+UID:event_cbwkztyjcqbwb@meetup.com
+SEQUENCE:1
+DTSTAMP:20261124T071001Z
+DTSTART;TZID=America/Los_Angeles:20261217T180000
+DTEND;TZID=America/Los_Angeles:20261217T190000
+SUMMARY:Free Yoga Practice
+DESCRIPTION:Iama Embodied Community\n🌀 **Move with intention. Connect w
+ ith your body. Celebrate community.**\n\nJoin us every **Thursday at 6 PM*
+ * for an embodied yoga practice designed to help you release tension\, gro
+ und yourself\, and cultivate presence. This is a trauma-informed\, all-lev
+ els class\, no prior yoga experience needed. Expect a Hatha-Vinyasa flow\,
+  breathwork\, and a space to listen to your body’s wisdom.\n\n🌿 **Eve
+ ry last Thursday of the month\, stay after class for a community potluck d
+ inner!**\n\n📍 **Location**: 727 T St. Sacramento CA 95811\n✨ **All ou
+ r events are free. Donations are welcome.**\n📩 **Questions? Reach out a
+ t** embody.iama@gmail.com\n🔗 **Follow us on Instagram:** [@embody.iama]
+ (https://www.instagram.com/embody.iama)
+URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
+ cbwkztyjcqbwb/
+STATUS:CONFIRMED
+CREATED:20260720T204641Z
+LAST-MODIFIED:20260720T204641Z
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/vkccbvyjcqbzb/"}
 X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_vkccbvyjcqbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040931Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261219T170000
 DTEND;TZID=America/Los_Angeles:20261219T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -2050,7 +2063,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcqbnc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040931Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20261230T170000
 DTEND;TZID=America/Los_Angeles:20261230T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2082,7 +2095,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstykccbjb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040931Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20270106T170000
 DTEND;TZID=America/Los_Angeles:20270106T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -2108,7 +2121,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstykccbrb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040931Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20270113T170000
 DTEND;TZID=America/Los_Angeles:20270113T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2140,7 +2153,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstykccbbc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040931Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20270120T170000
 DTEND;TZID=America/Los_Angeles:20270120T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2172,7 +2185,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstykccbkc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040931Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20270127T170000
 DTEND;TZID=America/Los_Angeles:20270127T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -2204,7 +2217,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstykcdbfb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261123T040931Z
+DTSTAMP:20261124T071001Z
 DTSTART;TZID=America/Los_Angeles:20270203T170000
 DTEND;TZID=America/Los_Angeles:20270203T210000
 SUMMARY:Blood on the Clocktower at Blue Note
