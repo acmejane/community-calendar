@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T07:10:18.718934",
+  "generated": "2026-11-25T05:45:01.411385",
   "cities": {
     "santarosa": {
       "feeds": {
@@ -34967,6 +34967,10 @@
             {
               "date": "2026-11-24",
               "count": 2
+            },
+            {
+              "date": "2026-11-25",
+              "count": 2
             }
           ]
         },
@@ -36010,6 +36014,10 @@
             },
             {
               "date": "2026-11-24",
+              "count": 28
+            },
+            {
+              "date": "2026-11-25",
               "count": 28
             }
           ]
@@ -37055,6 +37063,10 @@
             {
               "date": "2026-11-24",
               "count": 0
+            },
+            {
+              "date": "2026-11-25",
+              "count": 0
             }
           ]
         },
@@ -38098,6 +38110,10 @@
             },
             {
               "date": "2026-11-24",
+              "count": 10
+            },
+            {
+              "date": "2026-11-25",
               "count": 10
             }
           ]
@@ -39143,6 +39159,10 @@
             {
               "date": "2026-11-24",
               "count": 10
+            },
+            {
+              "date": "2026-11-25",
+              "count": 10
             }
           ]
         },
@@ -40186,6 +40206,10 @@
             },
             {
               "date": "2026-11-24",
+              "count": 10
+            },
+            {
+              "date": "2026-11-25",
               "count": 10
             }
           ]
@@ -41231,6 +41255,10 @@
             {
               "date": "2026-11-24",
               "count": 0
+            },
+            {
+              "date": "2026-11-25",
+              "count": 0
             }
           ]
         },
@@ -42274,6 +42302,10 @@
             },
             {
               "date": "2026-11-24",
+              "count": 0
+            },
+            {
+              "date": "2026-11-25",
               "count": 0
             }
           ]
@@ -43319,6 +43351,10 @@
             {
               "date": "2026-11-24",
               "count": 10
+            },
+            {
+              "date": "2026-11-25",
+              "count": 10
             }
           ]
         },
@@ -44362,6 +44398,10 @@
             },
             {
               "date": "2026-11-24",
+              "count": 0
+            },
+            {
+              "date": "2026-11-25",
               "count": 0
             }
           ]
@@ -45407,6 +45447,10 @@
             {
               "date": "2026-11-24",
               "count": 0
+            },
+            {
+              "date": "2026-11-25",
+              "count": 0
             }
           ]
         },
@@ -46450,6 +46494,10 @@
             },
             {
               "date": "2026-11-24",
+              "count": 1
+            },
+            {
+              "date": "2026-11-25",
               "count": 1
             }
           ]
@@ -47495,6 +47543,10 @@
             {
               "date": "2026-11-24",
               "count": 29
+            },
+            {
+              "date": "2026-11-25",
+              "count": 29
             }
           ]
         }
@@ -47502,15 +47554,15 @@
       "categories": [
         {
           "category": "Arts / Culture",
-          "count": 28
+          "count": 27
         },
         {
           "category": "Community / Social",
-          "count": 18
+          "count": 17
         },
         {
           "category": "Education / Workshops",
-          "count": 13
+          "count": 14
         },
         {
           "category": "Health / Wellness",
@@ -47521,15 +47573,15 @@
           "count": 7
         },
         {
-          "category": "Religion / Spirituality",
+          "category": "Food / Drink",
           "count": 6
         },
         {
-          "category": "Food / Drink",
+          "category": "Government / Civic",
           "count": 5
         },
         {
-          "category": "Government / Civic",
+          "category": "Religion / Spirituality",
           "count": 5
         },
         {
@@ -47538,7 +47590,7 @@
         },
         {
           "category": "Family / Kids",
-          "count": 1
+          "count": 2
         }
       ],
       "images": {
