@@ -7,37 +7,38 @@ X-WR-CALNAME:Lancaster Community Calendar
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-27/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261127T100000
-DTEND;TZID=UTC:20261127T170000
-DTSTAMP:20261028T183745Z
-CREATED:20261028T180021Z
-LAST-MODIFIED:20261028T183745Z
-UID:10000876-1795773600-1795798800@hatefreetogether.org
-SUMMARY:Manetti Shrem Museum: Together Again\, 1960–2026\, Perspectives from UC Davis’ Fine Arts Collection
-DESCRIPTION:Together Again inaugurates the Manetti Shrem Museum’s ongoing collection galleries. This exhibition highlighting the collection will be on long-term view\, accompanied by temporary exhibitions each fall and winter. \nThe ongoing collection galleries trace a history of art forged from UC Davis and throughout Northern California. By focusing on relationships of many kinds\, this presentation proposes that in order to understand an artwork in all its fullness\, chance encounters and long-standing friendships often matter as much as formal affiliations. UC Davis legends such as Wayne Thiebaud\, Deborah Butterfield and Bruce Nauman are exhibited alongside important regional voices that were once overlooked\, and the exhibition extends to the artists shaping Northern California today\, including Sadie Barnette\, Woody De Othello and Ruby Neri. Together Again builds bridges between who we were and who we are becoming at UC Davis\, and affirms the Manetti Shrem Museum as home to the complex story of Northern California art — rich in legacy and always in the process of becoming. \nThe collection will be open Wednesdays to Sundays\, 10 a.m. to 5 p.m. The location is the Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis. Admission is free.
-URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-27/
-LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
-CATEGORIES:Season of Connection
-ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/davis-musical-theatre-presents-mean-girls/2026-11-27/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261127T193000
+DTEND;TZID=America/Los_Angeles:20261127T220000
+DTSTAMP:20260811T230832Z
+CREATED:20260810T225751Z
+LAST-MODIFIED:20260811T230832Z
+UID:10014649-1795807800-1795816800@visityolo.com
+SUMMARY:Davis Musical Theatre Presents Mean Girls
+DESCRIPTION:Davis Musical Theatre Presents Mean Girls \nCady Heron may have grown up on an African savanna\, but nothing prepared her for the wild and vicious ways of her strange new home: suburban Illinois. When Cady encounters The Plastics—a trio of powerful frenemies led by the charming but ruthless Regina George—she becomes caught in the school’s popularity hierarchy. Cady and her new friends devise a “Revenge Party” to end Regina’s reign\, but Cady soon learns that taking down a queen bee can come at a cost—and that losing yourself is far more dangerous than losing a popularity contest. \n*Mean Girls contains mature themes and language*
+URL:https://visityolo.com/event/davis-musical-theatre-presents-mean-girls/2026-11-27/
+LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/mean-girls.jpg
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/yolo-county-library-english-conversation-group-2/2026-11-27/"}
-X-SOURCE-ID:hatefreetogether
-X-SOURCE:Hate-Free Together
-DTSTART;TZID=UTC:20261127T133000
-DTEND;TZID=UTC:20261127T143000
-DTSTAMP:20261022T230935Z
-CREATED:20261022T195355Z
-LAST-MODIFIED:20261022T230935Z
-UID:10000752-1795786200-1795789800@hatefreetogether.org
-SUMMARY:Yolo County Library: English Conversation Group
-DESCRIPTION:Practice speaking English with other learners in a relaxed and comfortable environment\, led by a native speaker. No registration is required\, and drop-in participants are always welcome. Location is the Arthur F. Turner Community Library in West Sacramento on Friday’s at 1:30 pm. For adults that are 18+ years old.
-URL:https://hatefreetogether.org/event/yolo-county-library-english-conversation-group-2/2026-11-27/
-LOCATION:Arthur F Turner Community Library\, 1212 Merkley Avenue\, West Sacramento\, CA\, 95691\, United States
-ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Arthur-F-Turner-Library.jpg
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-88/2026-11-28/", "Visityolo Event": "https://visityolo.com/event/davis-farmers-market-2/2026-11-28/"}
+X-SOURCE-URLS:{"Visit Davis": "https://visitdavis.org/event/davis-farmers-market-88/2026-11-28/"}
+X-SOURCE-ID:visitdavis
+X-SOURCE:Visit Davis, Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261128T080000
+DTEND;TZID=America/Los_Angeles:20261128T130000
+DTSTAMP:20260624T184342Z
+CREATED:20260103T234411Z
+LAST-MODIFIED:20260624T184342Z
+UID:10002939-1795852800-1795870800@visitdavis.org
+SUMMARY:Davis Farmers Market
+DESCRIPTION:Year-round at Central Park in downtown Davis\, thousands gather each week to shop for what is grown\, raised\, and made locally at our markets. We are dedicated to bringing farmers right to your table\, so we stay open rain or shine. \nWalk rows of stalls lined with an array of fruits and vegetables\, including certified organic produce\, choice meats\, chicken\, seafood\, wine\, local eggs and honey. Choose from a variety of fresh-baked goods\, plants\, flowers and gifts. Enjoy a picnic from one of our many food stands\, made from market ingredients.
+URL:https://visitdavis.org/event/davis-farmers-market-88/2026-11-28/
+LOCATION:Central Park\, 301 C Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visitdavis.org/wp-content/uploads/Small_CapayCarrots-002-GYF3qf.tmp_.jpg
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-11-28/"}
@@ -57,12 +58,79 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-11-28/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261128T110000
+DTEND;TZID=America/Los_Angeles:20261128T180000
+DTSTAMP:20251117T171126Z
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013334-1795863600-1795888800@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-11-28/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-28/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261128T113000
+DTEND;TZID=America/Los_Angeles:20261128T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014955-1795865400-1795885200@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-28/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/pence-gallery-holiday-market-3/2026-11-28/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261128T113000
+DTEND;TZID=America/Los_Angeles:20261128T170000
+DTSTAMP:20261023T162643Z
+CREATED:20261023T162643Z
+LAST-MODIFIED:20261023T162643Z
+UID:10015342-1795865400-1795885200@visityolo.com
+SUMMARY:Pence Gallery Holiday Market
+DESCRIPTION:Pence Gallery Holiday Market in Davis \nNovember 13 – December 24\, 11:30 AM – 5 PM (Open daily*) \nReception: November 13\, 6-9 PM (Free) \nOur Holiday Market is a treasure trove of hand-crafted items created by regional artists and artisans\, perfect for holiday gift giving. Visitors can enjoy shopping for unique ceramics\, cozy knit scarves\, handmade jewelry\, amazing paintings\, and more! There are over 50 artists participating this year\, and our gallery will be overflowing with fun items that will make great gifts for loved ones. \n  \nHoliday Market Member Opening \nFriday\, November 13\, 10:30-11:30 AM (Free) \nPence Members are invited to enjoy a private opening of the Holiday Market from 10:30-11:30 AM. Enjoy delicious treats and coffee\, while getting first dibs on shopping for holiday treasures. Pence Members receive 10% off Holiday Market purchases. Not a Member? Sign up online at pencegallery.org or in person at the gallery. \n  \n*The Holiday Market is open daily from 11:30 AM – 5 PM (including Mondays)\, with the following exceptions: \nNov. 25: Closes at 3 PM \nNov. 26: Closed for Thanksgiving Day \nDec. 24: Closes at 3 PM (final day)
+URL:https://visityolo.com/event/pence-gallery-holiday-market-3/2026-11-28/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HM-2026-postcard-copy-scaled.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/disneys-the-lion-king-jr/2026-11-28/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261128T140000
+DTEND;TZID=America/Los_Angeles:20261128T160000
+DTSTAMP:20260811T230720Z
+CREATED:20260810T224818Z
+LAST-MODIFIED:20260811T230720Z
+UID:10014655-1795874400-1795881600@visityolo.com
+SUMMARY:Davis Musical Theatre Presents The Lion King Jr
+DESCRIPTION:Davis Musical Theatre Company Presents: Disney’s The Lion King Jr. \nIn the Pride Lands of the African savanna\, an adventurous lion cub named Simba is destined to succeed his father\, Mufasa\, as king. When Simba’s jealous uncle Scar causes Mufasa’s death\, he manipulates Simba into believing he is responsible. Overcome with guilt\, Simba flees his home\, leaving Scar to seize control of the kingdom. \nYears later\, Simba must confront his past and decide whether he is ready to accept his identity\, return to the Pride Lands\, and fulfill his responsibilities. Featuring beloved songs including “Circle of Life\,” “I Just Can’t Wait to Be King\,” “Hakuna Matata\,” and “Can You Feel the Love Tonight\,” Disney’s The Lion King JR. is a vibrant story of family\, courage\, identity\, and discovering one’s place in the world. \nRecommended for audiences of all ages.
+URL:https://visityolo.com/event/disneys-the-lion-king-jr/2026-11-28/
+LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Lion-King.jpg
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/317347892/"}
 X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317347892@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052914Z
+DTSTAMP:20261128T050431Z
 DTSTART;TZID=America/Los_Angeles:20261128T150000
 DTEND;TZID=America/Los_Angeles:20261128T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -95,12 +163,28 @@ LAST-MODIFIED:20261108T230601Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/ugly-sweater-mingle-jingle/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261128T160000
+DTEND;TZID=America/Los_Angeles:20261128T220000
+DTSTAMP:20261105T225156Z
+CREATED:20261105T214648Z
+LAST-MODIFIED:20261105T225156Z
+UID:10016090-1795881600-1795903200@visityolo.com
+SUMMARY:Ugly Sweater Mingle & Jingle
+DESCRIPTION:Get ready to mingle\, jingle\, and stroll through Downtown Winters. Throw on your ugliest holiday sweater\, gather your friends\, and enjoy a festive evening filled with holiday cheer\, seasonal sips\, and plenty of fun! Make your way through downtown and stop by our participating locations for a holiday libation. The uglier the sweater\, the merrier the night! \nParticipating locations: The Back Alley at Preserve\, Berryessa Gap Vineyards\, DeVilbiss Room\, Putah Creek Cafe\, Buckhorn Steakhouse\, Hooby’s Brewing\, Patio 29\, Carboni’s Ristorante\, and Turkovich Family Wines.
+URL:https://visityolo.com/event/ugly-sweater-mingle-jingle/
+LOCATION:Downtown Winters\, Main Street\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Ugly-Sweater-Mingle-Jingle.jpg
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Intercultural Mosaics": "https://www.meetup.com/intercultural-mosaics/events/317349100/"}
 X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317349100@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052915Z
+DTSTAMP:20261128T050431Z
 DTSTART;TZID=America/Los_Angeles:20261128T170000
 DTEND;TZID=America/Los_Angeles:20261128T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -139,7 +223,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317350033@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052915Z
+DTSTAMP:20261128T050431Z
 DTSTART;TZID=America/Los_Angeles:20261128T180000
 DTEND;TZID=America/Los_Angeles:20261128T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -178,7 +262,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317350535@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052915Z
+DTSTAMP:20261128T050431Z
 DTSTART;TZID=America/Los_Angeles:20261128T190000
 DTEND;TZID=America/Los_Angeles:20261128T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -212,6 +296,124 @@ LAST-MODIFIED:20261109T031311Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/davis-musical-theatre-presents-mean-girls/2026-11-28/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261128T193000
+DTEND;TZID=America/Los_Angeles:20261128T220000
+DTSTAMP:20260811T230832Z
+CREATED:20260810T225751Z
+LAST-MODIFIED:20260811T230832Z
+UID:10014650-1795894200-1795903200@visityolo.com
+SUMMARY:Davis Musical Theatre Presents Mean Girls
+DESCRIPTION:Davis Musical Theatre Presents Mean Girls \nCady Heron may have grown up on an African savanna\, but nothing prepared her for the wild and vicious ways of her strange new home: suburban Illinois. When Cady encounters The Plastics—a trio of powerful frenemies led by the charming but ruthless Regina George—she becomes caught in the school’s popularity hierarchy. Cady and her new friends devise a “Revenge Party” to end Regina’s reign\, but Cady soon learns that taking down a queen bee can come at a cost—and that losing yourself is far more dangerous than losing a popularity contest. \n*Mean Girls contains mature themes and language*
+URL:https://visityolo.com/event/davis-musical-theatre-presents-mean-girls/2026-11-28/
+LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/mean-girls.jpg
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-11-29/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261129T110000
+DTEND;TZID=America/Los_Angeles:20261129T180000
+DTSTAMP:20251117T171126Z
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013335-1795950000-1795975200@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-11-29/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-29/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261129T113000
+DTEND;TZID=America/Los_Angeles:20261129T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014956-1795951800-1795971600@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-11-29/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/pence-gallery-holiday-market-3/2026-11-29/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261129T113000
+DTEND;TZID=America/Los_Angeles:20261129T170000
+DTSTAMP:20261023T162643Z
+CREATED:20261023T162643Z
+LAST-MODIFIED:20261023T162643Z
+UID:10015343-1795951800-1795971600@visityolo.com
+SUMMARY:Pence Gallery Holiday Market
+DESCRIPTION:Pence Gallery Holiday Market in Davis \nNovember 13 – December 24\, 11:30 AM – 5 PM (Open daily*) \nReception: November 13\, 6-9 PM (Free) \nOur Holiday Market is a treasure trove of hand-crafted items created by regional artists and artisans\, perfect for holiday gift giving. Visitors can enjoy shopping for unique ceramics\, cozy knit scarves\, handmade jewelry\, amazing paintings\, and more! There are over 50 artists participating this year\, and our gallery will be overflowing with fun items that will make great gifts for loved ones. \n  \nHoliday Market Member Opening \nFriday\, November 13\, 10:30-11:30 AM (Free) \nPence Members are invited to enjoy a private opening of the Holiday Market from 10:30-11:30 AM. Enjoy delicious treats and coffee\, while getting first dibs on shopping for holiday treasures. Pence Members receive 10% off Holiday Market purchases. Not a Member? Sign up online at pencegallery.org or in person at the gallery. \n  \n*The Holiday Market is open daily from 11:30 AM – 5 PM (including Mondays)\, with the following exceptions: \nNov. 25: Closes at 3 PM \nNov. 26: Closed for Thanksgiving Day \nDec. 24: Closes at 3 PM (final day)
+URL:https://visityolo.com/event/pence-gallery-holiday-market-3/2026-11-29/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HM-2026-postcard-copy-scaled.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/davis-musical-theatre-presents-mean-girls/2026-11-29/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261129T140000
+DTEND;TZID=America/Los_Angeles:20261129T163000
+DTSTAMP:20260811T230832Z
+CREATED:20260810T225751Z
+LAST-MODIFIED:20260811T230832Z
+UID:10014651-1795960800-1795969800@visityolo.com
+SUMMARY:Davis Musical Theatre Presents Mean Girls
+DESCRIPTION:Davis Musical Theatre Presents Mean Girls \nCady Heron may have grown up on an African savanna\, but nothing prepared her for the wild and vicious ways of her strange new home: suburban Illinois. When Cady encounters The Plastics—a trio of powerful frenemies led by the charming but ruthless Regina George—she becomes caught in the school’s popularity hierarchy. Cady and her new friends devise a “Revenge Party” to end Regina’s reign\, but Cady soon learns that taking down a queen bee can come at a cost—and that losing yourself is far more dangerous than losing a popularity contest. \n*Mean Girls contains mature themes and language*
+URL:https://visityolo.com/event/davis-musical-theatre-presents-mean-girls/2026-11-29/
+LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/mean-girls.jpg
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-29/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261129T173000
+DTEND;TZID=America/Los_Angeles:20261129T203000
+DTSTAMP:20260813T194113Z
+CREATED:20260813T194113Z
+LAST-MODIFIED:20260813T194113Z
+UID:10014724-1795973400-1795984200@visityolo.com
+SUMMARY:Live Music at Carboni's Ristorante
+DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
+URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-11-29/
+LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
+ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/pence-gallery-holiday-market-3/2026-11-30/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261130T113000
+DTEND;TZID=America/Los_Angeles:20261130T170000
+DTSTAMP:20261023T162643Z
+CREATED:20261023T162643Z
+LAST-MODIFIED:20261023T162643Z
+UID:10015344-1796038200-1796058000@visityolo.com
+SUMMARY:Pence Gallery Holiday Market
+DESCRIPTION:Pence Gallery Holiday Market in Davis \nNovember 13 – December 24\, 11:30 AM – 5 PM (Open daily*) \nReception: November 13\, 6-9 PM (Free) \nOur Holiday Market is a treasure trove of hand-crafted items created by regional artists and artisans\, perfect for holiday gift giving. Visitors can enjoy shopping for unique ceramics\, cozy knit scarves\, handmade jewelry\, amazing paintings\, and more! There are over 50 artists participating this year\, and our gallery will be overflowing with fun items that will make great gifts for loved ones. \n  \nHoliday Market Member Opening \nFriday\, November 13\, 10:30-11:30 AM (Free) \nPence Members are invited to enjoy a private opening of the Holiday Market from 10:30-11:30 AM. Enjoy delicious treats and coffee\, while getting first dibs on shopping for holiday treasures. Pence Members receive 10% off Holiday Market purchases. Not a Member? Sign up online at pencegallery.org or in person at the gallery. \n  \n*The Holiday Market is open daily from 11:30 AM – 5 PM (including Mondays)\, with the following exceptions: \nNov. 25: Closes at 3 PM \nNov. 26: Closed for Thanksgiving Day \nDec. 24: Closes at 3 PM (final day)
+URL:https://visityolo.com/event/pence-gallery-holiday-market-3/2026-11-30/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HM-2026-postcard-copy-scaled.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/mary-l-stephens-davis-library-english-conversation-group/2026-11-30/"}
 X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
@@ -233,7 +435,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317376689@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052916Z
+DTSTAMP:20261128T050432Z
 DTSTART;TZID=America/Los_Angeles:20261130T180000
 DTEND;TZID=America/Los_Angeles:20261130T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -282,7 +484,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317391599@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052916Z
+DTSTAMP:20261128T050432Z
 DTSTART;TZID=America/Los_Angeles:20261201T094500
 DTEND;TZID=America/Los_Angeles:20261201T104500
 SUMMARY:Gentle yoga
@@ -302,6 +504,40 @@ LAST-MODIFIED:20261112T025231Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-12-01/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261201T113000
+DTEND;TZID=America/Los_Angeles:20261201T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014957-1796124600-1796144400@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-12-01/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/pence-gallery-holiday-market-3/2026-12-01/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261201T113000
+DTEND;TZID=America/Los_Angeles:20261201T170000
+DTSTAMP:20261023T162643Z
+CREATED:20261023T162643Z
+LAST-MODIFIED:20261023T162643Z
+UID:10015345-1796124600-1796144400@visityolo.com
+SUMMARY:Pence Gallery Holiday Market
+DESCRIPTION:Pence Gallery Holiday Market in Davis \nNovember 13 – December 24\, 11:30 AM – 5 PM (Open daily*) \nReception: November 13\, 6-9 PM (Free) \nOur Holiday Market is a treasure trove of hand-crafted items created by regional artists and artisans\, perfect for holiday gift giving. Visitors can enjoy shopping for unique ceramics\, cozy knit scarves\, handmade jewelry\, amazing paintings\, and more! There are over 50 artists participating this year\, and our gallery will be overflowing with fun items that will make great gifts for loved ones. \n  \nHoliday Market Member Opening \nFriday\, November 13\, 10:30-11:30 AM (Free) \nPence Members are invited to enjoy a private opening of the Holiday Market from 10:30-11:30 AM. Enjoy delicious treats and coffee\, while getting first dibs on shopping for holiday treasures. Pence Members receive 10% off Holiday Market purchases. Not a Member? Sign up online at pencegallery.org or in person at the gallery. \n  \n*The Holiday Market is open daily from 11:30 AM – 5 PM (including Mondays)\, with the following exceptions: \nNov. 25: Closes at 3 PM \nNov. 26: Closed for Thanksgiving Day \nDec. 24: Closes at 3 PM (final day)
+URL:https://visityolo.com/event/pence-gallery-holiday-market-3/2026-12-01/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HM-2026-postcard-copy-scaled.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-12-02/"}
 X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
@@ -317,6 +553,40 @@ URL:https://hatefreetogether.org/event/together-again-1960-2026-perspectives-fro
 LOCATION:Jan Shrem and Maria Manetti Shrem Museum of Art at UC Davis\, 254 Old Davis Road\, Davis\, CA\, 95616\, United States
 CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-12-02/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261202T113000
+DTEND;TZID=America/Los_Angeles:20261202T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014958-1796211000-1796230800@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-12-02/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/pence-gallery-holiday-market-3/2026-12-02/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261202T113000
+DTEND;TZID=America/Los_Angeles:20261202T170000
+DTSTAMP:20261023T162643Z
+CREATED:20261023T162643Z
+LAST-MODIFIED:20261023T162643Z
+UID:10015346-1796211000-1796230800@visityolo.com
+SUMMARY:Pence Gallery Holiday Market
+DESCRIPTION:Pence Gallery Holiday Market in Davis \nNovember 13 – December 24\, 11:30 AM – 5 PM (Open daily*) \nReception: November 13\, 6-9 PM (Free) \nOur Holiday Market is a treasure trove of hand-crafted items created by regional artists and artisans\, perfect for holiday gift giving. Visitors can enjoy shopping for unique ceramics\, cozy knit scarves\, handmade jewelry\, amazing paintings\, and more! There are over 50 artists participating this year\, and our gallery will be overflowing with fun items that will make great gifts for loved ones. \n  \nHoliday Market Member Opening \nFriday\, November 13\, 10:30-11:30 AM (Free) \nPence Members are invited to enjoy a private opening of the Holiday Market from 10:30-11:30 AM. Enjoy delicious treats and coffee\, while getting first dibs on shopping for holiday treasures. Pence Members receive 10% off Holiday Market purchases. Not a Member? Sign up online at pencegallery.org or in person at the gallery. \n  \n*The Holiday Market is open daily from 11:30 AM – 5 PM (including Mondays)\, with the following exceptions: \nNov. 25: Closes at 3 PM \nNov. 26: Closed for Thanksgiving Day \nDec. 24: Closes at 3 PM (final day)
+URL:https://visityolo.com/event/pence-gallery-holiday-market-3/2026-12-02/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HM-2026-postcard-copy-scaled.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/yolo-county-library-craft-wednesdays/2026-12-02/"}
@@ -340,7 +610,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_317405038@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052915Z
+DTSTAMP:20261128T050432Z
 DTSTART;TZID=America/Los_Angeles:20261202T170000
 DTEND;TZID=America/Los_Angeles:20261202T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -359,6 +629,39 @@ STATUS:CONFIRMED
 CREATED:20261113T012857Z
 LAST-MODIFIED:20261113T012857Z
 CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-12-02/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261202T173000
+DTEND;TZID=America/Los_Angeles:20261202T203000
+DTSTAMP:20260813T194113Z
+CREATED:20260813T194113Z
+LAST-MODIFIED:20260813T194113Z
+UID:10014725-1796232600-1796243400@visityolo.com
+SUMMARY:Live Music at Carboni's Ristorante
+DESCRIPTION:Enjoy live music at Carboni’s Ristorante in Historic Downtown Winters. \nFor more information: https://www.hotelwinters.com/calendar/
+URL:https://visityolo.com/event/live-music-at-carbonis-ristorante-2/2026-12-02/
+LOCATION:Carboni’s Ristorante\, 316 Railroad Ave\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HWICarbonis-32-scaled.jpg
+ORGANIZER;CN="Hotel Winters":MAILTO:info@visityolo.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/plant-bingo-at-green-river-brewing-taproom/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261202T180000
+DTEND;TZID=America/Los_Angeles:20261202T200000
+DTSTAMP:20261113T180738Z
+CREATED:20261113T180738Z
+LAST-MODIFIED:20261113T180738Z
+UID:10016096-1796234400-1796241600@visityolo.com
+SUMMARY:Plant Bingo at Green River Brewing & Taproom
+DESCRIPTION:🌿 A lot of bingo. A lot of plants. Fun for the whole family. \nJoin us at Green River Brewing & Taproom in Winters for two hours of Plant Bingo! Bring your friends\, bring the kids\, and bring your dog—this is a family-friendly\, dog-friendly night out. \nGrab something delicious\, settle in\, and get ready for round after round of bingo with beautiful houseplants up for grabs. No bingo experience or green thumb required—we’ll explain each game as we go! \n🎟️ Your admission includes: \n\n8 rounds of bingo play\nChances to win beautiful plants throughout the evening\nFun plant facts and simple care tips to help your greenery thrive\nA guaranteed small plant to take home—even if you never shout “Bingo!”\n\nWant more chances to win? Extra bingo cards are available as optional add-ons. Each player needs an admission ticket; extra cards alone do not include admission. \n📅 Wednesday\, December 2\, 2026\n🕕 Plant Bingo: 6–8 PM\n📍 Green River Brewing & Taproom\n4513 Putah Creek Road\, Winters\, CA \nCome early to get settled and order before the first round. Food and beverages are available for separate purchase from the venue. \nMake a night of it with your favorite people—and leave with a little more greenery. 🌱
+URL:https://visityolo.com/event/plant-bingo-at-green-river-brewing-taproom/
+LOCATION:Green River Brewery\, 513 Putah Creek Rd\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Green_River_Plant_Bingo_Under_512KB.jpg
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/international-day-of-persons-with-disabilities/"}
@@ -395,12 +698,46 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-12-03/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261203T113000
+DTEND;TZID=America/Los_Angeles:20261203T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014959-1796297400-1796317200@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-12-03/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/pence-gallery-holiday-market-3/2026-12-03/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261203T113000
+DTEND;TZID=America/Los_Angeles:20261203T170000
+DTSTAMP:20261023T162643Z
+CREATED:20261023T162643Z
+LAST-MODIFIED:20261023T162643Z
+UID:10015347-1796297400-1796317200@visityolo.com
+SUMMARY:Pence Gallery Holiday Market
+DESCRIPTION:Pence Gallery Holiday Market in Davis \nNovember 13 – December 24\, 11:30 AM – 5 PM (Open daily*) \nReception: November 13\, 6-9 PM (Free) \nOur Holiday Market is a treasure trove of hand-crafted items created by regional artists and artisans\, perfect for holiday gift giving. Visitors can enjoy shopping for unique ceramics\, cozy knit scarves\, handmade jewelry\, amazing paintings\, and more! There are over 50 artists participating this year\, and our gallery will be overflowing with fun items that will make great gifts for loved ones. \n  \nHoliday Market Member Opening \nFriday\, November 13\, 10:30-11:30 AM (Free) \nPence Members are invited to enjoy a private opening of the Holiday Market from 10:30-11:30 AM. Enjoy delicious treats and coffee\, while getting first dibs on shopping for holiday treasures. Pence Members receive 10% off Holiday Market purchases. Not a Member? Sign up online at pencegallery.org or in person at the gallery. \n  \n*The Holiday Market is open daily from 11:30 AM – 5 PM (including Mondays)\, with the following exceptions: \nNov. 25: Closes at 3 PM \nNov. 26: Closed for Thanksgiving Day \nDec. 24: Closes at 3 PM (final day)
+URL:https://visityolo.com/event/pence-gallery-holiday-market-3/2026-12-03/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HM-2026-postcard-copy-scaled.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/317424051/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317424051@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052916Z
+DTSTAMP:20261128T050432Z
 DTSTART;TZID=America/Los_Angeles:20261203T180000
 DTEND;TZID=America/Los_Angeles:20261203T190000
 SUMMARY:Free Yoga Practice
@@ -421,6 +758,22 @@ STATUS:CONFIRMED
 CREATED:20261114T022107Z
 LAST-MODIFIED:20261114T022107Z
 CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/davis-candlelight-parade-tree-lighting-and-winter-wonderland/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261203T180000
+DTEND;TZID=America/Los_Angeles:20261203T200000
+DTSTAMP:20261113T203856Z
+CREATED:20261113T181406Z
+LAST-MODIFIED:20261113T203856Z
+UID:10016100-1796320800-1796328000@visityolo.com
+SUMMARY:Davis Candlelight Parade\, Tree Lighting and Winter Wonderland
+DESCRIPTION:The City of Davis invites the community to attend the 45th annual Candlelight Parade\, Community Tree Lighting and Winter Wonderland celebration on Thursday\, Dec. 3\, from 6-8 p.m. \nSanta and Mrs. Claus are returning this year to lead the Candlelight Parade\, which will start promptly at 6 p.m.\, from the Davis Food Co-op parking lot (620 G Street) and conclude at the E Street Plaza. Families and residents of all ages interested in participating in the Parade should arrive before 5:45 p.m. in the Co-op parking lot. Parade parking will not be available in the Food Co-op parking lot. Rolling street closures will be occurring for the parade through downtown Davis\, including at Fifth Street. As a result\, drivers in this area should expect delays up to 20 minutes from 6-6:30 p.m. \nOnce the parade arrives at the E Street Plaza\, there will be a countdown for the lighting of the community tree led by the Davis City Council at 6:30 p.m. After the tree lighting\, everyone is encouraged to head over to G Street\, between Second and Third Streets\, for musical performances\, snow fall\, activities showcasing the diversity of the season led by a local nonprofit\, photos with Santa on the antique fire engine and more. \nAdditional activities include: \n\nFree horse and carriage rides at G Street\, sponsored by City of Davis employee groups\, PASEA\, DPOA\, Local 3494 and DCEA\nRoaming mascot characters\nFree showings of the short film “Olaf’s Frozen Adventure” at 6 p.m.\, 6:40 p.m. and 7:20 p.m. at the Varsity Theatre\, sponsored by Valley Clean Energy and the Varsity Theatre\nSinging by the “Grace Valley Carolers” in front of the Varsity Theatre\nMusic by the quartet “All About Trombones” on the patio of the Hunt Boyer Mansion\n\n 
+URL:https://visityolo.com/event/davis-candlelight-parade-tree-lighting-and-winter-wonderland/
+LOCATION:Davis Food Co-op\, 620 G Street\, Davis\, 95616\, United States
+ATTACH;FMTTYPE=image/png:https://visityolo.com/wp-content/uploads/639294048196400000.png
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-city-council-meetings/2026-12-03/"}
@@ -489,6 +842,56 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-12-04/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261204T110000
+DTEND;TZID=America/Los_Angeles:20261204T180000
+DTSTAMP:20251117T171126Z
+CREATED:20251117T171126Z
+LAST-MODIFIED:20251117T171126Z
+UID:10013336-1796382000-1796407200@visityolo.com
+SUMMARY:Sip Yolo with Yolo County Wines
+DESCRIPTION:Discover the charm of Yolo County’s wine country this season by visiting our Yolo Wines wineries. From cozy tasting rooms to stunning vineyard views\, each tasting room offers award-winning wines\, hometown hospitality\, and wines perfect for gifting.  Gather your friends\, sip something new\, and make this season a little more delicious. \nVisit https://www.yolocountywines.com/events to see holiday winery events and to plan your wine trail! \n@berryessagapvineyards @collinadebella @elevationten @fjordoakwinery @greatbearvineyards @grindstonewines @heringerestates @juliettawinery @matchbookwines @sekahills @siltwineco @taberranch @turkovichwines  \n 
+URL:https://visityolo.com/event/sip-yolo-with-yolo-county-wines/2026-12-04/
+LOCATION:Yolo County Vineyard and Winery Association\, 13 winery locations!
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/yolo-county-wines.jpeg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-12-04/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261204T113000
+DTEND;TZID=America/Los_Angeles:20261204T170000
+DTSTAMP:20260928T180906Z
+CREATED:20260928T180906Z
+LAST-MODIFIED:20260928T180906Z
+UID:10014960-1796383800-1796403600@visityolo.com
+SUMMARY:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill
+DESCRIPTION:Portraits of Things: Paintings by Gioia Fonda and Charlie Gill at Pence Gallery in Davis \nExhibit: October 9 – November 29\, 2026 \nReception: Friday\, October 9\, 6-9 PM (Free) \nArtist Talk: Sunday\, November 8\, 2-3:30 PM (Free) \n  \nInterdisciplinary artist Gioia Fonda has long collected colorful toys\, both for their intrinsic charm and as creative inspiration. As a student at California College of the Arts\, she arranged small collectibles into still-life compositions\, captured them on film\, and processed the photos at a local drugstore. Captivated by these arrangements\, her advisor\, Charlie Gill\, painted spare compositions based on her photographs—works that now hang alongside hers. For this exhibition\, Fonda has created a series of new paintings featuring similar arrangements of toys and found objects. She is also offering an opportunity for members of the public to exhibit their own small works on paper\, riffing on some of her recent photos. Artists may add to this display throughout the duration of the show.  \n  \nSponsored by the Pence Community Curatorial Fund. \n  \nImage: Gioia Fonda\, “Holding It Together”
+URL:https://visityolo.com/event/portraits-of-things-paintings-by-gioia-fonda-and-charlie-gill/2026-12-04/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Gioia-Fonda-Holding-It-Together-copy.jpeg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/pence-gallery-holiday-market-3/2026-12-04/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261204T113000
+DTEND;TZID=America/Los_Angeles:20261204T170000
+DTSTAMP:20261023T162643Z
+CREATED:20261023T162643Z
+LAST-MODIFIED:20261023T162643Z
+UID:10015348-1796383800-1796403600@visityolo.com
+SUMMARY:Pence Gallery Holiday Market
+DESCRIPTION:Pence Gallery Holiday Market in Davis \nNovember 13 – December 24\, 11:30 AM – 5 PM (Open daily*) \nReception: November 13\, 6-9 PM (Free) \nOur Holiday Market is a treasure trove of hand-crafted items created by regional artists and artisans\, perfect for holiday gift giving. Visitors can enjoy shopping for unique ceramics\, cozy knit scarves\, handmade jewelry\, amazing paintings\, and more! There are over 50 artists participating this year\, and our gallery will be overflowing with fun items that will make great gifts for loved ones. \n  \nHoliday Market Member Opening \nFriday\, November 13\, 10:30-11:30 AM (Free) \nPence Members are invited to enjoy a private opening of the Holiday Market from 10:30-11:30 AM. Enjoy delicious treats and coffee\, while getting first dibs on shopping for holiday treasures. Pence Members receive 10% off Holiday Market purchases. Not a Member? Sign up online at pencegallery.org or in person at the gallery. \n  \n*The Holiday Market is open daily from 11:30 AM – 5 PM (including Mondays)\, with the following exceptions: \nNov. 25: Closes at 3 PM \nNov. 26: Closed for Thanksgiving Day \nDec. 24: Closes at 3 PM (final day)
+URL:https://visityolo.com/event/pence-gallery-holiday-market-3/2026-12-04/
+LOCATION:Pence Gallery\, 212 D Street\, Davis\, CA 95616
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/HM-2026-postcard-copy-scaled.jpg
+ORGANIZER;CN="Pence Gallery":MAILTO:pencesocialmedia@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/yolo-county-library-english-conversation-group-2/2026-12-04/"}
 X-SOURCE-ID:hatefreetogether
 X-SOURCE:Hate-Free Together
@@ -503,6 +906,55 @@ DESCRIPTION:Practice speaking English with other learners in a relaxed and comfo
 URL:https://hatefreetogether.org/event/yolo-county-library-english-conversation-group-2/2026-12-04/
 LOCATION:Arthur F Turner Community Library\, 1212 Merkley Avenue\, West Sacramento\, CA\, 95691\, United States
 ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Arthur-F-Turner-Library.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/winters-holiday-tree-lighting-and-holiday-market/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261204T160000
+DTEND;TZID=America/Los_Angeles:20261204T210000
+DTSTAMP:20261105T214454Z
+CREATED:20261105T213737Z
+LAST-MODIFIED:20261105T214454Z
+UID:10016089-1796400000-1796418000@visityolo.com
+SUMMARY:Winters Holiday Tree Lighting and Holiday Market
+DESCRIPTION:Winters lights up with the town’s annual Downtown Tree Lighting Ceremony at 6 p.m. Enjoy the Holiday Vendor Market from 4-9 p.m.\, hot cocoa crawl from 4:30 – 7 p.m. and photo opportunities with Mr. & Mrs. Santa Claus at the Rotary Park Gazebo. \nFor more information\, click here.
+URL:https://visityolo.com/event/winters-holiday-tree-lighting-and-holiday-market/
+LOCATION:Downtown Winters\, Main Street\, Winters\, CA\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/DSC01044-1.jpg
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/disneys-the-lion-king-jr/2026-12-04/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261204T190000
+DTEND;TZID=America/Los_Angeles:20261204T210000
+DTSTAMP:20260811T230720Z
+CREATED:20260810T224818Z
+LAST-MODIFIED:20260811T230720Z
+UID:10014656-1796410800-1796418000@visityolo.com
+SUMMARY:Davis Musical Theatre Presents The Lion King Jr
+DESCRIPTION:Davis Musical Theatre Company Presents: Disney’s The Lion King Jr. \nIn the Pride Lands of the African savanna\, an adventurous lion cub named Simba is destined to succeed his father\, Mufasa\, as king. When Simba’s jealous uncle Scar causes Mufasa’s death\, he manipulates Simba into believing he is responsible. Overcome with guilt\, Simba flees his home\, leaving Scar to seize control of the kingdom. \nYears later\, Simba must confront his past and decide whether he is ready to accept his identity\, return to the Pride Lands\, and fulfill his responsibilities. Featuring beloved songs including “Circle of Life\,” “I Just Can’t Wait to Be King\,” “Hakuna Matata\,” and “Can You Feel the Love Tonight\,” Disney’s The Lion King JR. is a vibrant story of family\, courage\, identity\, and discovering one’s place in the world. \nRecommended for audiences of all ages.
+URL:https://visityolo.com/event/disneys-the-lion-king-jr/2026-12-04/
+LOCATION:Davis Musical Theatre Company (DMTC)\, The Jean Henderson Performing Arts Center\, 607 Pena Drive\, Davis
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/Lion-King.jpg
+ORGANIZER;CN="Davis Musical Theatre Company (DMTC)":MAILTO:info@dmtc.org
+END:VEVENT
+BEGIN:VEVENT
+X-SOURCE-URLS:{"Visityolo Event": "https://visityolo.com/event/james-garners-tribute-to-johnny-cash/"}
+X-SOURCE-ID:visityolo_event
+X-SOURCE:Visityolo Event
+DTSTART;TZID=America/Los_Angeles:20261204T193000
+DTEND;TZID=America/Los_Angeles:20261204T213000
+DTSTAMP:20261008T184809Z
+CREATED:20261008T184809Z
+LAST-MODIFIED:20261008T184809Z
+UID:10015299-1796412600-1796419800@visityolo.com
+SUMMARY:James Garner's Tribute to Johnny Cash
+DESCRIPTION:Preserve Presents: Winters Live Music Series at Winters Opera House \nJoin us for an unforgettable evening with the Winters Live music series\, a collaboration between Preserve and Winters Live\, hosted at the stunning Winters Opera House. \nGarner and his band have performed more than 500 professional shows\, including a special concert at Folsom State Prison in 2008 to commemorate the 40th anniversary of Cash’s infamous live album recorded behind prison walls. On the 50th anniversary of Cash’s historic performance\, Garner’s show – with special guest Tara Cash (Johnny Cash’s youngest daughter) – returned to the city of Folsom for two sold out concert events at the Harris Center for the Arts. The shows included songs from the Johnny Cash At Folsom Prison album and stories by Tara Cash about her legendary father. \nShow starts at 7:30PM\, enjoy happy house at Preserve 6:30PM-7:30PM \nTickets are $45\, to purchase click here.
+URL:https://visityolo.com/event/james-garners-tribute-to-johnny-cash/
+LOCATION:Winters Opera House\, 13 Main Street\, Winters\, 95694\, United States
+ATTACH;FMTTYPE=image/jpeg:https://visityolo.com/wp-content/uploads/jefferson-santos-fCEJGBzAkrU-unsplash-2-scaled.jpg
 END:VEVENT
 BEGIN:VEVENT
 X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/together-again-1960-2026-perspectives-from-uc-davis-fine-arts-collection/2026-12-05/"}
@@ -527,7 +979,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317445933@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052914Z
+DTSTAMP:20261128T050431Z
 DTSTART;TZID=America/Los_Angeles:20261205T150000
 DTEND;TZID=America/Los_Angeles:20261205T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -565,7 +1017,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317446384@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052914Z
+DTSTAMP:20261128T050431Z
 DTSTART;TZID=America/Los_Angeles:20261205T160000
 DTEND;TZID=America/Los_Angeles:20261205T170000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -603,7 +1055,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317446503@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052914Z
+DTSTAMP:20261128T050431Z
 DTSTART;TZID=America/Los_Angeles:20261205T160000
 DTEND;TZID=America/Los_Angeles:20261205T170000
 SUMMARY:Mosaics Beginning Japanese in Person
@@ -621,7 +1073,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317446912@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052915Z
+DTSTAMP:20261128T050431Z
 DTSTART;TZID=America/Los_Angeles:20261205T170000
 DTEND;TZID=America/Los_Angeles:20261205T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -660,7 +1112,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317446911@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052914Z
+DTSTAMP:20261128T050431Z
 DTSTART;TZID=America/Los_Angeles:20261205T170000
 DTEND;TZID=America/Los_Angeles:20261205T180000
 SUMMARY:Mosaics Beginning Spanish in Person
@@ -699,7 +1151,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_317447608@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052915Z
+DTSTAMP:20261128T050431Z
 DTSTART;TZID=America/Los_Angeles:20261205T180000
 DTEND;TZID=America/Los_Angeles:20261205T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -739,7 +1191,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics, Meetup: Mosaics
 UID:event_317448123@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052915Z
+DTSTAMP:20261128T050431Z
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -811,7 +1263,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317476724@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052916Z
+DTSTAMP:20261128T050432Z
 DTSTART;TZID=America/Los_Angeles:20261207T180000
 DTEND;TZID=America/Los_Angeles:20261207T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -860,7 +1312,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317484892@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052916Z
+DTSTAMP:20261128T050432Z
 DTSTART;TZID=America/Los_Angeles:20261208T094500
 DTEND;TZID=America/Los_Angeles:20261208T104500
 SUMMARY:Gentle yoga
@@ -950,7 +1402,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_317507748@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052915Z
+DTSTAMP:20261128T050432Z
 DTSTART;TZID=America/Los_Angeles:20261209T170000
 DTEND;TZID=America/Los_Angeles:20261209T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1016,7 +1468,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317522031@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052916Z
+DTSTAMP:20261128T050432Z
 DTSTART;TZID=America/Los_Angeles:20261210T180000
 DTEND;TZID=America/Los_Angeles:20261210T190000
 SUMMARY:Free Yoga Practice
@@ -1106,12 +1558,28 @@ CATEGORIES:Season of Connection
 ATTACH;FMTTYPE=image/webp:https://hatefreetogether.org/wp-content/uploads/ta-title-social.webp
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/davis-branch-library-chinese-culture-club-2/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261212T140000
+DTEND;TZID=UTC:20261212T150000
+DTSTAMP:20261022T223743Z
+CREATED:20261022T223639Z
+LAST-MODIFIED:20261022T223743Z
+UID:10000852-1797084000-1797087600@hatefreetogether.org
+SUMMARY:Yolo County Library: Chinese Culture Club
+DESCRIPTION:Explore the art and culture of China. New topic every month. For ages 6-12. Location is the Mary L Stephens Davis Branch Library in the Children’s Activity Room on Saturday 2:00 p.m.
+URL:https://hatefreetogether.org/event/davis-branch-library-chinese-culture-club-2/
+LOCATION:Mary L Stephens Davis Branch Library\, 315 E 14th Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Mary-L.-Stephens-Davis-Library-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup: Mosaics": "https://www.meetup.com/mosaics/events/317544142/"}
 X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317544142@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052914Z
+DTSTAMP:20261128T050431Z
 DTSTART;TZID=America/Los_Angeles:20261212T150000
 DTEND;TZID=America/Los_Angeles:20261212T160000
 SUMMARY:Mosaics Beginning Tai Chi
@@ -1149,7 +1617,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317544950@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052914Z
+DTSTAMP:20261128T050431Z
 DTSTART;TZID=America/Los_Angeles:20261212T160000
 DTEND;TZID=America/Los_Angeles:20261212T170000
 SUMMARY:Mosaics Beginning Mandarin Chinese in Person
@@ -1187,7 +1655,7 @@ X-SOURCE-ID:meetup_mosaics
 X-SOURCE:Meetup: Mosaics
 UID:event_317545063@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052914Z
+DTSTAMP:20261128T050431Z
 DTSTART;TZID=America/Los_Angeles:20261212T160000
 DTEND;TZID=America/Los_Angeles:20261212T170000
 SUMMARY:Mosaics Beginning Japanese in Person
@@ -1205,7 +1673,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317545521@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052915Z
+DTSTAMP:20261128T050431Z
 DTSTART;TZID=America/Los_Angeles:20261212T170000
 DTEND;TZID=America/Los_Angeles:20261212T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1244,7 +1712,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317546012@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052915Z
+DTSTAMP:20261128T050431Z
 DTSTART;TZID=America/Los_Angeles:20261212T180000
 DTEND;TZID=America/Los_Angeles:20261212T190000
 SUMMARY:Mosaics Intercultural Dinner Fellowship
@@ -1283,7 +1751,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_317546522@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052915Z
+DTSTAMP:20261128T050431Z
 DTSTART;TZID=America/Los_Angeles:20261212T190000
 DTEND;TZID=America/Los_Angeles:20261212T200000
 SUMMARY:Mosaics Water & Acrylic Painting
@@ -1317,12 +1785,28 @@ LAST-MODIFIED:20261123T032804Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
+X-SOURCE-URLS:{"Hate-Free Together": "https://hatefreetogether.org/event/mary-l-stephens-davis-library-english-conversation-group/2026-12-14/"}
+X-SOURCE-ID:hatefreetogether
+X-SOURCE:Hate-Free Together
+DTSTART;TZID=UTC:20261214T150000
+DTEND;TZID=UTC:20261214T160000
+DTSTAMP:20261022T223936Z
+CREATED:20261022T200822Z
+LAST-MODIFIED:20261022T223936Z
+UID:10000827-1797260400-1797264000@hatefreetogether.org
+SUMMARY:Yolo County Library: English Conversation Group
+DESCRIPTION:Join the Yolo County Davis Branch Library’s adult Conversation Group to practice your English in a fun and relaxed way with help from a group facilitator. Drop in visitors are welcome! For adults 18+. Location is the Mary L. Stephens Library’ Blanchard Room on Monday’s at 3:00 p.m. until the end of 2026.
+URL:https://hatefreetogether.org/event/mary-l-stephens-davis-library-english-conversation-group/2026-12-14/
+LOCATION:Mary L Stephens Davis Branch Library\, 315 E 14th Street\, Davis\, CA\, 95616\, United States
+ATTACH;FMTTYPE=image/jpeg:https://hatefreetogether.org/wp-content/uploads/Mary-L.-Stephens-Davis-Library-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
 X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/317574876/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317574876@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052916Z
+DTSTAMP:20261128T050432Z
 DTSTART;TZID=America/Los_Angeles:20261214T180000
 DTEND;TZID=America/Los_Angeles:20261214T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1353,7 +1837,7 @@ X-SOURCE-ID:gcal_davisbikeclubwww
 X-SOURCE:Gcal Davisbikeclubwww
 DTSTART;TZID=America/Los_Angeles:20261214T190000
 DTEND;TZID=America/Los_Angeles:20261214T200000
-DTSTAMP:20261127T052919Z
+DTSTAMP:20261128T050437Z
 UID:61h62c9p68qj0bb3c4qjcb9kc9gmabb2cgrj6b9pcosjgchg71i68pb474@google.com
 RECURRENCE-ID;TZID=America/Los_Angeles:20261214T190000
 CREATED:20260913T010347Z
@@ -1375,7 +1859,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_317582575@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052916Z
+DTSTAMP:20261128T050432Z
 DTSTART;TZID=America/Los_Angeles:20261215T094500
 DTEND;TZID=America/Los_Angeles:20261215T104500
 SUMMARY:Gentle yoga
@@ -1400,7 +1884,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_317600948@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052915Z
+DTSTAMP:20261128T050432Z
 DTSTART;TZID=America/Los_Angeles:20261216T170000
 DTEND;TZID=America/Los_Angeles:20261216T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1427,12 +1911,12 @@ LAST-MODIFIED:20261127T011257Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
-X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/cbwkztyjcqbwb/"}
+X-SOURCE-URLS:{"Meetup Mindful Embodied Spirituality": "https://www.meetup.com/mindful-embodied-spirituality/events/317613694/"}
 X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
-UID:event_cbwkztyjcqbwb@meetup.com
+UID:event_317613694@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052916Z
+DTSTAMP:20261128T050432Z
 DTSTART;TZID=America/Los_Angeles:20261217T180000
 DTEND;TZID=America/Los_Angeles:20261217T190000
 SUMMARY:Free Yoga Practice
@@ -1448,10 +1932,10 @@ DESCRIPTION:Iama Embodied Community\n🌀 **Move with intention. Connect w
  t** embody.iama@gmail.com\n🔗 **Follow us on Instagram:** [@embody.iama]
  (https://www.instagram.com/embody.iama)
 URL;VALUE=URI:https://www.meetup.com/mindful-embodied-spirituality/events/
- cbwkztyjcqbwb/
+ 317613694/
 STATUS:CONFIRMED
-CREATED:20260720T204641Z
-LAST-MODIFIED:20260720T204641Z
+CREATED:20261128T021007Z
+LAST-MODIFIED:20261128T021007Z
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
@@ -1460,7 +1944,7 @@ X-SOURCE-ID:meetup_intercultural_mosaics
 X-SOURCE:Meetup Intercultural Mosaics
 UID:event_vkccbvyjcqbzb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052915Z
+DTSTAMP:20261128T050431Z
 DTSTART;TZID=America/Los_Angeles:20261219T170000
 DTEND;TZID=America/Los_Angeles:20261219T180000
 SUMMARY:Mosaics Acoustic Guitar & Singing Group
@@ -1499,7 +1983,7 @@ X-SOURCE-ID:meetup_mindful_embodied_spirituality
 X-SOURCE:Meetup Mindful Embodied Spirituality
 UID:event_bgfpxtyjcqbcc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052916Z
+DTSTAMP:20261128T050432Z
 DTSTART;TZID=America/Los_Angeles:20261221T180000
 DTEND;TZID=America/Los_Angeles:20261221T200000
 SUMMARY:Conscious Conversations & Somatic Practices  
@@ -1531,7 +2015,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstyjcqbnc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052915Z
+DTSTAMP:20261128T050432Z
 DTSTART;TZID=America/Los_Angeles:20261230T170000
 DTEND;TZID=America/Los_Angeles:20261230T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1563,7 +2047,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstykccbjb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052915Z
+DTSTAMP:20261128T050432Z
 DTSTART;TZID=America/Los_Angeles:20270106T170000
 DTEND;TZID=America/Los_Angeles:20270106T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1589,7 +2073,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstykccbrb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052915Z
+DTSTAMP:20261128T050432Z
 DTSTART;TZID=America/Los_Angeles:20270113T170000
 DTEND;TZID=America/Los_Angeles:20270113T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1621,7 +2105,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_kwnqstykccbbc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052915Z
+DTSTAMP:20261128T050432Z
 DTSTART;TZID=America/Los_Angeles:20270120T170000
 DTEND;TZID=America/Los_Angeles:20270120T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1653,7 +2137,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_rwnqstykccbkc@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052915Z
+DTSTAMP:20261128T050432Z
 DTSTART;TZID=America/Los_Angeles:20270127T170000
 DTEND;TZID=America/Los_Angeles:20270127T210000
 SUMMARY:Weekly Game Night at Blue Note
@@ -1685,7 +2169,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_mxnqstykcdbfb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052915Z
+DTSTAMP:20261128T050432Z
 DTSTART;TZID=America/Los_Angeles:20270203T170000
 DTEND;TZID=America/Los_Angeles:20270203T210000
 SUMMARY:Blood on the Clocktower at Blue Note
@@ -1711,7 +2195,7 @@ X-SOURCE-ID:meetup_yolo_county_board_game_gathering
 X-SOURCE:Meetup Yolo County Board Game Gathering
 UID:event_vwnqstykcdbnb@meetup.com
 SEQUENCE:1
-DTSTAMP:20261127T052915Z
+DTSTAMP:20261128T050432Z
 DTSTART;TZID=America/Los_Angeles:20270210T170000
 DTEND;TZID=America/Los_Angeles:20270210T210000
 SUMMARY:Weekly Game Night at Blue Note
